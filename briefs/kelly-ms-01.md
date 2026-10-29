@@ -2,7 +2,7 @@
 
 Representative for MS-01 · 11.4 years in the House
 
-**Priority tier C** · leverage score 36 (rank 430 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 36 (rank 431 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Armed Services; Intelligence
 
@@ -41,7 +41,5 @@ Representative for MS-01 · 11.4 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

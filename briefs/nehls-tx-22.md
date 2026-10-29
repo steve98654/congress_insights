@@ -2,7 +2,7 @@
 
 Representative for TX-22 · 5.8 years in the House
 
-**Priority tier B** · leverage score 68 (rank 83 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 68 (rank 84 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 **Committees:** Transportation and Infrastructure; Judiciary; House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021
 
@@ -17,13 +17,13 @@ Representative for TX-22 · 5.8 years in the House
 4. **Cosponsor H.R. 10379 (MAPS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 5. **Cosponsor H.R. 10380 (Independent Commissions Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   10 colleagues from your state already cosponsor: Rep. Nathaniel Moran (R-TX-01), Rep. Dan Crenshaw (R-TX-02), Rep. Beth Van Duyne (R-TX-24), 7 more.
+   10 colleagues from your state already cosponsor: Rep. Dan Crenshaw (R-TX-02), Rep. Brian Babin (R-TX-36), Rep. Beth Van Duyne (R-TX-24), 7 more.
 8. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   11 colleagues from your state already cosponsor: Rep. Joaquin Castro (D-TX-20), Rep. Pete Sessions (R-TX-17), Rep. Lloyd Doggett (D-TX-37), 8 more.
+   15 colleagues from your state already cosponsor: Rep. Christian D. Menefee (D-TX-18), Rep. Sylvia R. Garcia (D-TX-29), Rep. Monica De La Cruz (R-TX-15), 12 more.
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for TX-22 · 5.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -11,7 +11,7 @@ Senator for DE · 1.8 years in the Senate
 1. **Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 80_  
    You voted no on cloture. It passed the House 417-3 and needs 3 more votes in the Senate.
 2. **Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 60_  
-   It has 8 sponsors and cosponsors (3 R, 5 D, 0 PSC).
+   It has 9 sponsors and cosponsors (4 R, 5 D, 0 PSC).
 3. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Cynthia M. Lummis (R-WY).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    There is no Senate version yet, and you sit on Banking, Housing, and Urban Affairs (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 4. **Introduce a Senate companion to H.R. 3876 (LIHEAP Staffing Support Act) with Sen. Jim Banks (R-IN).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 40_  
@@ -45,7 +45,5 @@ Senator for DE · 1.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

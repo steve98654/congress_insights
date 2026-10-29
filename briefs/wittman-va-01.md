@@ -2,7 +2,7 @@
 
 Representative for VA-01 · 18.9 years in the House
 
-**Priority tier C** · leverage score 44 (rank 418 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 44 (rank 419 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Natural Resources (Vice Chair); Strategic Competition Between the United States and the Chinese Communist Party
 
@@ -13,7 +13,7 @@ Representative for VA-01 · 18.9 years in the House
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Jennifer A. Kiggans (R-VA-02), Rep. Eugene Simon Vindman (D-VA-07).
+   2 colleagues from your state already cosponsor: Rep. Eugene Simon Vindman (D-VA-07), Rep. Jennifer A. Kiggans (R-VA-02).
 4. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
    It cleared committee (committee vote 62-2).
 
@@ -43,7 +43,5 @@ Representative for VA-01 · 18.9 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

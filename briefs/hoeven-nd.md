@@ -13,7 +13,7 @@ Senator for ND · 15.8 years in the Senate
 2. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 65_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 3. **Introduce a Senate companion to H.R. 1464 (MODERN WIC Act) with Sen. Richard J. Durbin (D-IL).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 40_  
-   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 78 sponsors and cosponsors (10 R, 68 D, 16 PSC).
+   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 
 ## Position on each goal
 
@@ -41,7 +41,5 @@ Senator for ND · 15.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

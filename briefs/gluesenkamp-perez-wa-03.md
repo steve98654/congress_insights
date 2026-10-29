@@ -2,28 +2,28 @@
 
 Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 63 (rank 189 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 63 (rank 188 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations
 
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Rick Larsen (D-WA-02), Rep. Kim Schrier (D-WA-08), Rep. Dan Newhouse (R-WA-04), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Kim Schrier (D-WA-08), Rep. Dan Newhouse (R-WA-04), Rep. Adam Smith (D-WA-09), 3 more.
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Michael Baumgartner (R-WA-05), Rep. Dan Newhouse (R-WA-04), Rep. Suzan K. DelBene (D-WA-01).
+   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Dan Newhouse (R-WA-04), Rep. Suzan K. DelBene (D-WA-01), Rep. Michael Baumgartner (R-WA-05).
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Marilyn Strickland (D-WA-10), Rep. Pramila Jayapal (D-WA-07), Rep. Suzan K. DelBene (D-WA-01).
-4. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 colleagues from your state already cosponsor: Rep. Rick Larsen (D-WA-02), Rep. Kim Schrier (D-WA-08), Rep. Suzan K. DelBene (D-WA-01), 1 more.
-5. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
+   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Pramila Jayapal (D-WA-07), Rep. Suzan K. DelBene (D-WA-01), Rep. Marilyn Strickland (D-WA-10).
+4. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
-6. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
+5. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
-7. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
+6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
-8. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Suzan K. DelBene (D-WA-01), Rep. Adam Smith (D-WA-09).
+7. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 57_  
+   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Adam Smith (D-WA-09), Rep. Suzan K. DelBene (D-WA-01).
+8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 55_  
+   It cleared committee (committee vote 62-2). 1 of your state colleagues are on it: Rep. Rick Larsen (D-WA-02).
 
 ## Position on each goal
 
@@ -43,15 +43,13 @@ Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus mem
 ## Cross-party partners
 
 - [Rep. Nick LaLota (R-NY-01)](lalota-ny-01.md): shared committees: Appropriations; PSC member
+- [Rep. David G. Valadao (R-CA-22)](valadao-ca-22.md): shared committees: Appropriations; PSC member
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
-- [Rep. Dan Newhouse (R-WA-04)](newhouse-wa-04.md): same state; shared committees: Appropriations
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,14 +2,14 @@
 
 Representative for NY-03 · 9.8 years in the House · Problem Solvers Caucus Co-Chair
 
-**Priority tier A** · leverage score 62 (rank 194 of 439 in the House) · supports 12 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 62 (rank 195 of 439 in the House) · supports 12 of 20 caucus bills in their chamber
 
 **Committees:** Ways and Means; Strategic Competition Between the United States and the Chinese Communist Party
 
 ## Top actions
 
 1. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 7 colleagues from your state already cosponsor: Rep. Paul Tonko (D-NY-20), Rep. Joseph D. Morelle (D-NY-25), Rep. Ritchie Torres (D-NY-15), 4 more.
+   It is PSC-endorsed and you are a caucus member. 8 colleagues from your state already cosponsor: Rep. Andrew R. Garbarino (R-NY-02), Rep. Ritchie Torres (D-NY-15), Rep. Grace Meng (D-NY-06), 5 more.
 2. **Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 60_  
    You already cosponsor it, and your committee is where it is stuck.
 3. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
@@ -51,7 +51,5 @@ Representative for NY-03 · 9.8 years in the House · Problem Solvers Caucus Co-
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

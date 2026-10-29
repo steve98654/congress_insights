@@ -3,7 +3,7 @@
  "title": "Sustainable Budget Act of 2025",
  "sponsor": {
   "bioguide": "C001055",
-  "name": "Case, Ed",
+  "name": "Rep. Case, Ed [D-HI-1]",
   "party": "D",
   "state": "HI"
  },
@@ -14,10 +14,27 @@
  ],
  "latest": {
   "date": "2025-01-07",
-  "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules"
+  "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
  },
  "votes": [],
- "actions": [],
+ "actions": [
+  {
+   "date": "2025-01-07",
+   "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+  },
+  {
+   "date": "2025-01-07",
+   "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+  },
+  {
+   "date": "2025-01-07",
+   "text": "Introduced in House"
+  },
+  {
+   "date": "2025-01-07",
+   "text": "Introduced in House"
+  }
+ ],
  "cosponsors": [
   {
    "bioguide": "W000809",
@@ -66,5 +83,5 @@
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr222.xml",
  "fetched": "2026-10-29",
- "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+ "fetched_via": "govinfo BILLSTATUS XML"
 }

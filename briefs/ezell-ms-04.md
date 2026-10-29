@@ -2,7 +2,7 @@
 
 Representative for MS-04 · 3.8 years in the House
 
-**Priority tier B** · leverage score 54 (rank 306 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 54 (rank 311 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Natural Resources; Transportation and Infrastructure
 
@@ -43,7 +43,5 @@ Representative for MS-04 · 3.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

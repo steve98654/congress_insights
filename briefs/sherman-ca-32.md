@@ -2,7 +2,7 @@
 
 Representative for CA-32 · 29.8 years in the House
 
-**Priority tier B** · leverage score 58 (rank 226 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 229 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; Foreign Affairs
 
@@ -11,17 +11,17 @@ Representative for CA-32 · 29.8 years in the House
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Raul Ruiz (D-CA-25), Rep. Jim Costa (D-CA-21), Rep. Ted Lieu (D-CA-36), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Jim Costa (D-CA-21), Rep. Adam Gray (D-CA-13), Rep. Ted Lieu (D-CA-36), 2 more.
 3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   7 colleagues from your state already cosponsor: Rep. Norma J. Torres (D-CA-35), Rep. Salud O. Carbajal (D-CA-24), Rep. Josh Harder (D-CA-09), 4 more.
+   8 colleagues from your state already cosponsor: Rep. J. Luis Correa (D-CA-46), Rep. Josh Harder (D-CA-09), Rep. Kevin Mullin (D-CA-15), 5 more.
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   24 colleagues from your state already cosponsor: Rep. Mike Thompson (D-CA-04), Rep. Nanette Diaz Barragán (D-CA-44), Rep. Robert Garcia (D-CA-42), 21 more.
+   24 colleagues from your state already cosponsor: Rep. Robert Garcia (D-CA-42), Rep. Ted Lieu (D-CA-36), Rep. Zoe Lofgren (D-CA-18), 21 more.
 5. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Mike Thompson (D-CA-04), Rep. Scott H. Peters (D-CA-50), Rep. Jay Obernolte (R-CA-23), 3 more.
+   6 colleagues from your state already cosponsor: Rep. David G. Valadao (R-CA-22), Rep. Adam Gray (D-CA-13), Rep. Jay Obernolte (R-CA-23), 3 more.
 6. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   14 colleagues from your state already cosponsor: Rep. Mike Thompson (D-CA-04), Rep. Kevin Mullin (D-CA-15), Rep. Nanette Diaz Barragán (D-CA-44), 11 more.
+   14 colleagues from your state already cosponsor: Rep. Zoe Lofgren (D-CA-18), Rep. Kevin Mullin (D-CA-15), Rep. Jimmy Panetta (D-CA-19), 11 more.
 7. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Josh Harder (D-CA-09), Rep. Jimmy Panetta (D-CA-19), Rep. Jim Costa (D-CA-21), 3 more.
+   6 colleagues from your state already cosponsor: Rep. J. Luis Correa (D-CA-46), Rep. Ted Lieu (D-CA-36), Rep. Josh Harder (D-CA-09), 3 more.
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 
@@ -51,7 +51,5 @@ Representative for CA-32 · 29.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

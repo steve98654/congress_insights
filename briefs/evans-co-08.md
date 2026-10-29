@@ -2,7 +2,7 @@
 
 Representative for CO-08 · 1.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 72 (rank 31 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 72 (rank 30 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Energy and Commerce; Homeland Security
 
@@ -15,13 +15,13 @@ Representative for CO-08 · 1.8 years in the House · Problem Solvers Caucus mem
 3. **Work the Senate on H.R. 9340: Sen. Michael F. Bennet (D-CO), Sen. John W. Hickenlooper (D-CO) voted no on cloture.** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 70_  
    It passed the House (417-3), but Cloture on the Motion to Proceed Rejected 57-43 (3/5 required) (Cloture on the motion to proceed to H.R. 9340, 2026-09-30)..
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Jason Crow (D-CO-06), Rep. Brittany Pettersen (D-CO-07), Rep. Joe Neguse (D-CO-02).
+   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Jason Crow (D-CO-06), Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07).
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Brittany Pettersen (D-CO-07), Rep. Jason Crow (D-CO-06), Rep. Joe Neguse (D-CO-02).
-6. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 60_  
+   It is PSC-endorsed and you are a caucus member. 4 colleagues from your state already cosponsor: Rep. Diana DeGette (D-CO-01), Rep. Jason Crow (D-CO-06), Rep. Joe Neguse (D-CO-02), 1 more.
+6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
+   You cosponsor it and it has cleared committee (committee vote 42-0).
+7. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 60_  
    You already cosponsor it, and your committee is where it is stuck.
-7. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 55_  
-   It cleared committee (committee vote 42-0). 1 of your state colleagues are on it: Rep. Jason Crow (D-CO-06).
 8. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 51_  
    It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Brittany Pettersen (D-CO-07).
 
@@ -51,7 +51,5 @@ Representative for CO-08 · 1.8 years in the House · Problem Solvers Caucus mem
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

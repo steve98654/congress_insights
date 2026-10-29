@@ -2,7 +2,7 @@
 
 Representative for TN-09 · 19.8 years in the House
 
-**Priority tier B** · leverage score 68 (rank 80 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 68 (rank 81 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
 
 **Committees:** Judiciary; Intelligence
 
@@ -17,7 +17,7 @@ Representative for TN-09 · 19.8 years in the House
 4. **Cosponsor H.R. 10379 (MAPS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 5. **Cosponsor H.R. 10380 (Independent Commissions Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -44,14 +44,12 @@ Representative for TN-09 · 19.8 years in the House
 
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): shared committees: Intelligence; PSC member
 - [Rep. Michael Lawler (R-NY-17)](lawler-ny-17.md): PSC member
-- [Rep. Maria Elvira Salazar (R-FL-27)](salazar-fl-27.md): PSC member
+- [Rep. Ben Cline (R-VA-06)](cline-va-06.md): shared committees: Intelligence, Judiciary
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

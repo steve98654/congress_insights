@@ -15,7 +15,7 @@ Senator for AK · 11.8 years in the Senate
 3. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Tammy Duckworth (D-IL).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 40_  
    There is no Senate version yet, and you sit on Veterans' Affairs (likely committee of jurisdiction). The House bill is in committee with 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 4. **Cosponsor S. 1929 (SEPSIS Act); your home-state colleague Sen. Lisa Murkowski (R-AK) already has.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 35_  
-   It has 8 sponsors and cosponsors (3 R, 5 D, 0 PSC).
+   It has 9 sponsors and cosponsors (4 R, 5 D, 0 PSC).
 5. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act); your home-state colleague Sen. Lisa Murkowski (R-AK) already has.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 35_  
    It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
 
@@ -45,7 +45,5 @@ Senator for AK · 11.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

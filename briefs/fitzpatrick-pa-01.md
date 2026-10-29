@@ -9,11 +9,11 @@ Representative for PA-01 · 9.8 years in the House · Problem Solvers Caucus Co-
 ## Top actions
 
 1. **Ask Rep. Tim Walberg, chair of Education and Workforce, to mark up H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 90_  
-   You lead the bill. It has 78 sponsors and cosponsors (10 R, 68 D, 16 PSC) and has not had a committee vote.
+   You lead the bill. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC) and has not had a committee vote.
 2. **Ask Rep. Jim Jordan, chair of Judiciary, to mark up H.J.Res. 4 (Filibuster amendment).** _Protect the Senate filibuster · [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) · priority 90_  
    You lead the bill. It has 5 sponsors and cosponsors (2 R, 3 D, 4 PSC) and has not had a committee vote.
 3. **Ask Rep. Jim Jordan, chair of Judiciary, to mark up H.R. 10380 (Independent Commissions Act).** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 90_  
-   You lead the bill. It has 7 sponsors and cosponsors (3 R, 4 D, 7 PSC) and has not had a committee vote.
+   You lead the bill. It has 8 sponsors and cosponsors (4 R, 4 D, 8 PSC) and has not had a committee vote.
 4. **Recruit cosponsors on the committee of jurisdiction for H.R. 1464: Rep. Donald Norcross (D-NJ-01), Rep. Haley M. Stevens (D-MI-11), Rep. Robert C. "Bobby" Scott (D-VA-03).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 80_  
    Committee members who cosponsor make a markup easier to get. These are the highest-ranked committee members not yet on the bill, other party and PSC first.
 5. **Recruit cosponsors on the committee of jurisdiction for H.J.Res. 4: Rep. Jamie Raskin (D-MD-08), Rep. Jerrold Nadler (D-NY-12), Rep. Zoe Lofgren (D-CA-18).** _Protect the Senate filibuster · [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) · priority 80_  
@@ -51,7 +51,5 @@ Representative for PA-01 · 9.8 years in the House · Problem Solvers Caucus Co-
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

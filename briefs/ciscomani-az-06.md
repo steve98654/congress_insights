@@ -2,7 +2,7 @@
 
 Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 62 (rank 190 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 62 (rank 190 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations; Veterans' Affairs
 
@@ -32,7 +32,7 @@ Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus mem
 | Fund the government on time | committee work | - | 65 |
 | Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 57 |
-| Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 57 |
+| Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | cosponsor | 57 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 51 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 50 |
@@ -42,16 +42,14 @@ Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus mem
 
 ## Cross-party partners
 
+- [Rep. Josh Harder (D-CA-09)](harder-ca-09.md): shared committees: Appropriations; PSC member
 - [Rep. Ed Case (D-HI-01)](case-hi-01.md): shared committees: Appropriations; PSC member
 - [Rep. Chris Pappas (D-NH-01)](pappas-nh-01.md): shared committees: Veterans' Affairs; PSC member
-- [Rep. Josh Harder (D-CA-09)](harder-ca-09.md): shared committees: Appropriations; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,7 +2,7 @@
 
 Representative for CA-19 · 9.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 68 (rank 43 of 439 in the House) · supports 8 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 68 (rank 44 of 439 in the House) · supports 8 of 20 caucus bills in their chamber
 
 **Committees:** Ways and Means; Budget
 
@@ -11,9 +11,9 @@ Representative for CA-19 · 9.8 years in the House · Problem Solvers Caucus mem
 1. **Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Budget, where you sit.** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Raul Ruiz (D-CA-25), Rep. Jim Costa (D-CA-21), Rep. Ted Lieu (D-CA-36), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Jim Costa (D-CA-21), Rep. Adam Gray (D-CA-13), Rep. Ted Lieu (D-CA-36), 2 more.
 3. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 24 colleagues from your state already cosponsor: Rep. Mike Thompson (D-CA-04), Rep. Nanette Diaz Barragán (D-CA-44), Rep. Robert Garcia (D-CA-42), 21 more.
+   It is PSC-endorsed and you are a caucus member. 24 colleagues from your state already cosponsor: Rep. Robert Garcia (D-CA-42), Rep. Ted Lieu (D-CA-36), Rep. Zoe Lofgren (D-CA-18), 21 more.
 4. **Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 60_  
    You already cosponsor it, and your committee is where it is stuck.
 5. **Press for a markup of H.R. 3289 (Fiscal Commission Act) in Budget, where you sit.** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 60_  
@@ -51,7 +51,5 @@ Representative for CA-19 · 9.8 years in the House · Problem Solvers Caucus mem
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

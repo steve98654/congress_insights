@@ -3,7 +3,7 @@
  "title": "Fiscal Contingency Preparedness Act",
  "sponsor": {
   "bioguide": "C001118",
-  "name": "Cline, Ben",
+  "name": "Rep. Cline, Ben [R-VA-6]",
   "party": "R",
   "state": "VA"
  },
@@ -15,12 +15,29 @@
   "date": "2026-03-18",
   "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 39 - 1."
  },
- "votes": [
+ "votes": [],
+ "actions": [
   {
-   "text": "House Oversight committee 2026-03-18 Ordered to be Reported (Amended) 39-1"
+   "date": "2026-03-18",
+   "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 39 - 1."
+  },
+  {
+   "date": "2026-03-18",
+   "text": "Committee Consideration and Mark-up Session Held"
+  },
+  {
+   "date": "2025-07-23",
+   "text": "Referred to the House Committee on Oversight and Government Reform."
+  },
+  {
+   "date": "2025-07-23",
+   "text": "Introduced in House"
+  },
+  {
+   "date": "2025-07-23",
+   "text": "Introduced in House"
   }
  ],
- "actions": [],
  "cosponsors": [
   {
    "bioguide": "G000592",
@@ -159,5 +176,5 @@
  "status": "reported",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4642.xml",
  "fetched": "2026-10-29",
- "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+ "fetched_via": "govinfo BILLSTATUS XML"
 }

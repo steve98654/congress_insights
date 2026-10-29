@@ -2,7 +2,7 @@
 
 Representative for MA-03 · 7.8 years in the House
 
-**Priority tier B** · leverage score 61 (rank 200 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 61 (rank 205 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Energy and Commerce
 
@@ -15,11 +15,11 @@ Representative for MA-03 · 7.8 years in the House
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Seth Moulton (D-MA-06), Rep. Stephen F. Lynch (D-MA-08), Rep. Jake Auchincloss (D-MA-04).
+   3 colleagues from your state already cosponsor: Rep. Stephen F. Lynch (D-MA-08), Rep. Jake Auchincloss (D-MA-04), Rep. Seth Moulton (D-MA-06).
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. William R. Keating (D-MA-09), Rep. James P. McGovern (D-MA-02).
+   2 colleagues from your state already cosponsor: Rep. James P. McGovern (D-MA-02), Rep. William R. Keating (D-MA-09).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -42,16 +42,14 @@ Representative for MA-03 · 7.8 years in the House
 
 ## Cross-party partners
 
+- [Rep. Thomas H. Kean, Jr. (R-NJ-07)](kean-nj-07.md): shared committees: Energy and Commerce; PSC member
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
 - [Rep. Michael Lawler (R-NY-17)](lawler-ny-17.md): PSC member
-- [Rep. Thomas H. Kean, Jr. (R-NJ-07)](kean-nj-07.md): shared committees: Energy and Commerce; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

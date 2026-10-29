@@ -2,7 +2,7 @@
 
 Representative for GA-12 · 11.8 years in the House
 
-**Priority tier B** · leverage score 67 (rank 98 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 67 (rank 99 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Education and Workforce; Energy and Commerce
 
@@ -11,13 +11,13 @@ Representative for GA-12 · 11.8 years in the House
 1. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 49 sponsors and cosponsors (2 R, 47 D, 9 PSC).
 2. **Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 78 sponsors and cosponsors (10 R, 68 D, 16 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 3. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 4. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), Rep. Richard McCormick (R-GA-07), Rep. Lucy McBath (D-GA-06).
+   6 colleagues from your state already cosponsor: Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), 3 more.
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
@@ -44,14 +44,12 @@ Representative for GA-12 · 11.8 years in the House
 
 - [Rep. Debbie Dingell (D-MI-06)](dingell-mi-06.md): shared committees: Energy and Commerce; PSC member
 - [Rep. Greg Landsman (D-OH-01)](landsman-oh-01.md): shared committees: Energy and Commerce; PSC member
-- [Rep. Donald Norcross (D-NJ-01)](norcross-nj-01.md): shared committees: Education and Workforce; PSC member
+- [Rep. Lucy McBath (D-GA-06)](mcbath-ga-06.md): same state; shared committees: Education and Workforce
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

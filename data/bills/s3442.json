@@ -1,9 +1,9 @@
 {
  "id": "s3442",
- "title": "Metastatic Breast Cancer Access to Care Act (Senate)",
+ "title": "Metastatic Breast Cancer Access to Care Act",
  "sponsor": {
   "bioguide": "M001169",
-  "name": "Murphy, Christopher",
+  "name": "Sen. Murphy, Christopher [D-CT]",
   "party": "D",
   "state": "CT"
  },
@@ -16,54 +16,63 @@
   "text": "Read twice and referred to the Committee on Finance."
  },
  "votes": [],
- "actions": [],
+ "actions": [
+  {
+   "date": "2025-12-11",
+   "text": "Read twice and referred to the Committee on Finance."
+  },
+  {
+   "date": "2025-12-11",
+   "text": "Introduced in Senate"
+  }
+ ],
  "cosponsors": [
   {
    "bioguide": "M001153",
    "party": "R",
    "state": "AK",
-   "date": ""
+   "date": "2025-12-11"
   },
   {
    "bioguide": "R000605",
    "party": "R",
    "state": "SD",
-   "date": ""
+   "date": "2026-01-28"
   },
   {
    "bioguide": "G000555",
    "party": "D",
    "state": "NY",
-   "date": ""
+   "date": "2026-01-28"
   },
   {
    "bioguide": "M001176",
    "party": "D",
    "state": "OR",
-   "date": ""
+   "date": "2026-02-04"
   },
   {
    "bioguide": "C001047",
    "party": "R",
    "state": "WV",
-   "date": ""
+   "date": "2026-02-04"
   },
   {
    "bioguide": "A000382",
    "party": "D",
    "state": "MD",
-   "date": ""
+   "date": "2026-05-12"
   },
   {
    "bioguide": "C001035",
    "party": "R",
    "state": "ME",
-   "date": ""
+   "date": "2026-05-12"
   }
  ],
  "cosponsors_complete": true,
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3442.xml",
  "fetched": "2026-10-29",
- "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+ "fetched_via": "govinfo BILLSTATUS XML"
 }

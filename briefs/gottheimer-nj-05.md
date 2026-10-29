@@ -15,7 +15,7 @@ Representative for NJ-05 · 9.8 years in the House · Problem Solvers Caucus mem
 3. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 colleagues from your state already cosponsor: Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Jefferson Van Drew (R-NJ-02), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 colleagues from your state already cosponsor: Rep. Robert Menendez (D-NJ-08), Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Jefferson Van Drew (R-NJ-02), 1 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 57_  
@@ -51,7 +51,5 @@ Representative for NJ-05 · 9.8 years in the House · Problem Solvers Caucus mem
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

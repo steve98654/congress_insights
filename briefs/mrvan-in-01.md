@@ -11,9 +11,9 @@ Representative for IN-01 · 5.8 years in the House
 1. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 2. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Rudy Yakym III (R-IN-02), Rep. Victoria Spartz (R-IN-05), Rep. Erin Houchin (R-IN-09).
+   3 colleagues from your state already cosponsor: Rep. Victoria Spartz (R-IN-05), Rep. Rudy Yakym III (R-IN-02), Rep. Erin Houchin (R-IN-09).
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Rudy Yakym III (R-IN-02), Rep. Jefferson Shreve (R-IN-06), Rep. André Carson (D-IN-07), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Jefferson Shreve (R-IN-06), Rep. Rudy Yakym III (R-IN-02), Rep. Erin Houchin (R-IN-09), 1 more.
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
@@ -42,16 +42,14 @@ Representative for IN-01 · 5.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
-- [Rep. Jefferson Shreve (R-IN-06)](shreve-in-06.md): same state; shared committees: Appropriations
 - [Rep. David G. Valadao (R-CA-22)](valadao-ca-22.md): shared committees: Appropriations; PSC member
+- [Rep. Nick LaLota (R-NY-01)](lalota-ny-01.md): shared committees: Appropriations; PSC member
+- [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

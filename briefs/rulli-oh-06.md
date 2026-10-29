@@ -2,7 +2,7 @@
 
 Representative for OH-06 · 2.4 years in the House
 
-**Priority tier B** · leverage score 67 (rank 101 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 67 (rank 102 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Education and Workforce; Energy and Commerce
 
@@ -11,15 +11,15 @@ Representative for OH-06 · 2.4 years in the House
 1. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 49 sponsors and cosponsors (2 R, 47 D, 9 PSC).
 2. **Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 78 sponsors and cosponsors (10 R, 68 D, 16 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 3. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 4. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Michael R. Turner (R-OH-10), Rep. Max L. Miller (R-OH-07), Rep. Greg Landsman (D-OH-01), 5 more.
+   8 colleagues from your state already cosponsor: Rep. Joyce Beatty (D-OH-03), Rep. Greg Landsman (D-OH-01), Rep. Emilia Strong Sykes (D-OH-13), 5 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Mike Carey (R-OH-15), Rep. Max L. Miller (R-OH-07), Rep. Greg Landsman (D-OH-01), 1 more.
+   5 colleagues from your state already cosponsor: Rep. David P. Joyce (R-OH-14), Rep. Max L. Miller (R-OH-07), Rep. Mike Carey (R-OH-15), 2 more.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Greg Landsman (D-OH-01), Rep. Warren Davidson (R-OH-08).
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -51,7 +51,5 @@ Representative for OH-06 · 2.4 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

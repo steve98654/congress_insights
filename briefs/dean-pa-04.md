@@ -11,19 +11,19 @@ Representative for PA-04 · 7.8 years in the House
 1. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Dwight Evans (D-PA-03), Rep. Christopher R. Deluzio (D-PA-17).
+   3 colleagues from your state already cosponsor: Rep. Dwight Evans (D-PA-03), Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01).
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01).
+   3 colleagues from your state already cosponsor: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Christopher R. Deluzio (D-PA-17).
 4. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Lloyd Smucker (R-PA-11), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06).
+   3 colleagues from your state already cosponsor: Rep. Chrissy Houlahan (D-PA-06), Rep. Lloyd Smucker (R-PA-11), Rep. Brian K. Fitzpatrick (R-PA-01).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Chrissy Houlahan (D-PA-06), Rep. Brian K. Fitzpatrick (R-PA-01).
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Ryan Mackenzie (R-PA-07).
+   2 colleagues from your state already cosponsor: Rep. Ryan Mackenzie (R-PA-07), Rep. Brian K. Fitzpatrick (R-PA-01).
 8. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Ryan Mackenzie (R-PA-07).
+   2 colleagues from your state already cosponsor: Rep. Ryan Mackenzie (R-PA-07), Rep. Brian K. Fitzpatrick (R-PA-01).
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for PA-04 · 7.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,14 +2,14 @@
 
 Representative for CO-06 · 7.8 years in the House
 
-**Priority tier C** · leverage score 44 (rank 414 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 44 (rank 417 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Intelligence
 
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Gabe Evans (R-CO-08), Rep. Brittany Pettersen (D-CO-07), Rep. Joe Neguse (D-CO-02).
+   3 colleagues from your state already cosponsor: Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07), Rep. Gabe Evans (R-CO-08).
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 3. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -36,14 +36,12 @@ Representative for CO-06 · 7.8 years in the House
 
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): shared committees: Intelligence; PSC member
 - [Rep. Don Bacon (R-NE-02)](bacon-ne-02.md): shared committees: Armed Services; PSC member
-- [Rep. Jennifer A. Kiggans (R-VA-02)](kiggans-va-02.md): shared committees: Armed Services; PSC member
+- [Rep. Gabe Evans (R-CO-08)](evans-co-08.md): same state; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

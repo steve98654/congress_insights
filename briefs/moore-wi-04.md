@@ -2,14 +2,14 @@
 
 Representative for WI-04 · 21.8 years in the House
 
-**Priority tier B** · leverage score 64 (rank 170 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 64 (rank 169 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Ways and Means; Joint Economic Committee
 
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 88 sponsors and cosponsors (44 R, 42 D, 15 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
 2. **Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
@@ -39,15 +39,13 @@ Representative for WI-04 · 21.8 years in the House
 ## Cross-party partners
 
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): shared committees: Ways and Means; PSC member
-- [Rep. Nicole Malliotakis (R-NY-11)](malliotakis-ny-11.md): shared committees: Ways and Means, Joint Economic Committee
 - [Rep. Bryan Steil (R-WI-01)](steil-wi-01.md): same state; PSC member
+- [Rep. Blake D. Moore (R-UT-01)](moore-ut-01.md): shared committees: Ways and Means; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -11,11 +11,11 @@ Representative for IL-06 · 7.8 years in the House
 1. **Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Eric Sorensen (D-IL-17), Rep. Jesús G. "Chuy" García (D-IL-04), Rep. Raja Krishnamoorthi (D-IL-08), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Eric Sorensen (D-IL-17), Rep. Jesús G. "Chuy" García (D-IL-04), 1 more.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Bradley Scott Schneider (D-IL-10), Rep. Danny K. Davis (D-IL-07), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Danny K. Davis (D-IL-07), Rep. Bradley Scott Schneider (D-IL-10), 1 more.
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 11 of your state colleagues are on it: Rep. Janice D. Schakowsky (D-IL-09), Rep. Mike Quigley (D-IL-05), Rep. Bradley Scott Schneider (D-IL-10), 8 more.
+   It cleared committee (committee vote 42-0). 13 of your state colleagues are on it: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Mike Bost (R-IL-12), Rep. Danny K. Davis (D-IL-07), 10 more.
 5. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Mike Quigley (D-IL-05), Rep. Bradley Scott Schneider (D-IL-10).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -49,7 +49,5 @@ Representative for IL-06 · 7.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

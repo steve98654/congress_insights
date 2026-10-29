@@ -2,14 +2,14 @@
 
 Representative for NC-01 · 3.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 61 (rank 201 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 61 (rank 206 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Armed Services
 
 ## Top actions
 
 1. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Valerie P. Foushee (D-NC-04), Rep. Alma S. Adams (D-NC-12), Rep. Deborah K. Ross (D-NC-02).
+   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Deborah K. Ross (D-NC-02), Rep. Valerie P. Foushee (D-NC-04), Rep. Alma S. Adams (D-NC-12).
 2. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
@@ -44,14 +44,12 @@ Representative for NC-01 · 3.8 years in the House · Problem Solvers Caucus mem
 
 - [Rep. Don Bacon (R-NE-02)](bacon-ne-02.md): shared committees: Agriculture, Armed Services; PSC member
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
-- [Rep. Brad Finstad (R-MN-01)](finstad-mn-01.md): shared committees: Agriculture, Armed Services
+- [Rep. David G. Valadao (R-CA-22)](valadao-ca-22.md): shared committees: Agriculture; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

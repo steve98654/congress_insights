@@ -17,13 +17,13 @@ Representative for OH-04 · 19.8 years in the House
 4. **Schedule a markup of H.R. 10379 (MAPS Act) in Judiciary.** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 95_  
    As chair you control the committee calendar. The bill is PSC-endorsed with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 5. **Schedule a markup of H.R. 10380 (Independent Commissions Act) in Judiciary.** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 95_  
-   As chair you control the committee calendar. The bill is PSC-endorsed with 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   As chair you control the committee calendar. The bill is PSC-endorsed with 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 6. **Schedule a markup of H.R. 10381 (COURTS Act) in Judiciary.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 95_  
    As chair you control the committee calendar. The bill is PSC-endorsed with 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Mark up H.R. 3562 or clear S. 1837 for the floor in Judiciary.** _Make AI safe and protect deepfake victims · [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) · priority 92_  
-   The Senate already passed it. H.R. 3562 has 66 sponsors and cosponsors (32 R, 34 D, 17 PSC).
+   The Senate already passed it. H.R. 3562 has 70 sponsors and cosponsors (34 R, 36 D, 17 PSC).
 8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Michael A. Rulli (R-OH-06), Rep. Mike Carey (R-OH-15), Rep. Max L. Miller (R-OH-07), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Max L. Miller (R-OH-07), Rep. Joyce Beatty (D-OH-03), Rep. Mike Carey (R-OH-15), 2 more.
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for OH-04 · 19.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

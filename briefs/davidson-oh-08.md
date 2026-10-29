@@ -2,7 +2,7 @@
 
 Representative for OH-08 · 10.4 years in the House
 
-**Priority tier B** · leverage score 58 (rank 254 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 257 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; Foreign Affairs
 
@@ -11,19 +11,19 @@ Representative for OH-08 · 10.4 years in the House
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Michael A. Rulli (R-OH-06), Rep. Mike Carey (R-OH-15), Rep. Max L. Miller (R-OH-07), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Max L. Miller (R-OH-07), Rep. Joyce Beatty (D-OH-03), Rep. Mike Carey (R-OH-15), 2 more.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Michael A. Rulli (R-OH-06), Rep. Mike Carey (R-OH-15), Rep. Greg Landsman (D-OH-01), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Joyce Beatty (D-OH-03), Rep. Mike Carey (R-OH-15), Rep. Greg Landsman (D-OH-01), 2 more.
 4. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Michael R. Turner (R-OH-10), Rep. Max L. Miller (R-OH-07), Rep. Greg Landsman (D-OH-01), 5 more.
+   8 colleagues from your state already cosponsor: Rep. Joyce Beatty (D-OH-03), Rep. Greg Landsman (D-OH-01), Rep. Emilia Strong Sykes (D-OH-13), 5 more.
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Mike Carey (R-OH-15), Rep. Max L. Miller (R-OH-07), Rep. Greg Landsman (D-OH-01), 1 more.
+   5 colleagues from your state already cosponsor: Rep. David P. Joyce (R-OH-14), Rep. Max L. Miller (R-OH-07), Rep. Mike Carey (R-OH-15), 2 more.
 6. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
 7. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 9 of your state colleagues are on it: Rep. Robert E. Latta (R-OH-05), Rep. Max L. Miller (R-OH-07), Rep. Greg Landsman (D-OH-01), 6 more.
+   It cleared committee (committee vote 42-0). 12 of your state colleagues are on it: Rep. Joyce Beatty (D-OH-03), Rep. Greg Landsman (D-OH-01), Rep. Michael A. Rulli (R-OH-06), 9 more.
 8. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Emilia Strong Sykes (D-OH-13), Rep. Greg Landsman (D-OH-01).
+   2 colleagues from your state already cosponsor: Rep. Greg Landsman (D-OH-01), Rep. Emilia Strong Sykes (D-OH-13).
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for OH-08 · 10.4 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

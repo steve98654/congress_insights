@@ -2,20 +2,20 @@
 
 Representative for VA-05 · 1.8 years in the House
 
-**Priority tier C** · leverage score 46 (rank 402 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 46 (rank 408 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Oversight and Government Reform
 
 ## Top actions
 
 1. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. James R. Walkinshaw (D-VA-11), Rep. Eugene Simon Vindman (D-VA-07), Rep. Jennifer L. McClellan (D-VA-04), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Eugene Simon Vindman (D-VA-07), Rep. Robert J. Wittman (R-VA-01), Rep. Jennifer L. McClellan (D-VA-04), 1 more.
 2. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Ben Cline (R-VA-06), Rep. Eugene Simon Vindman (D-VA-07).
-3. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Jennifer A. Kiggans (R-VA-02), Rep. Jennifer L. McClellan (D-VA-04), Rep. Donald S. Beyer, Jr. (D-VA-08), 3 more.
+3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
+   You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Jennifer A. Kiggans (R-VA-02), Rep. Eugene Simon Vindman (D-VA-07).
+   2 colleagues from your state already cosponsor: Rep. Eugene Simon Vindman (D-VA-07), Rep. Jennifer A. Kiggans (R-VA-02).
 5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
    It cleared committee (committee vote 62-2).
 
@@ -38,14 +38,12 @@ Representative for VA-05 · 1.8 years in the House
 
 - [Rep. Suhas Subramanyam (D-VA-10)](subramanyam-va-10.md): same state; shared committees: Oversight and Government Reform
 - [Rep. Eugene Simon Vindman (D-VA-07)](vindman-va-07.md): same state; shared committees: Armed Services
-- [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Armed Services; PSC member
+- [Rep. James R. Walkinshaw (D-VA-11)](walkinshaw-va-11.md): same state; shared committees: Oversight and Government Reform
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

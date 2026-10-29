@@ -2,7 +2,7 @@
 
 Representative for KY-03 · 3.8 years in the House
 
-**Priority tier B** · leverage score 62 (rank 192 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 62 (rank 193 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Small Business; Veterans' Affairs; Budget
 
@@ -36,16 +36,14 @@ Representative for KY-03 · 3.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Jennifer A. Kiggans (R-VA-02)](kiggans-va-02.md): shared committees: Veterans' Affairs; PSC member
 - [Rep. Blake D. Moore (R-UT-01)](moore-ut-01.md): shared committees: Budget; PSC member
 - [Rep. Robert P. Bresnahan, Jr. (R-PA-08)](bresnahan-pa-08.md): shared committees: Small Business; PSC member
+- [Rep. Jack Bergman (R-MI-01)](bergman-mi-01.md): shared committees: Budget, Veterans' Affairs
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,20 +2,20 @@
 
 Representative for IL-10 · 13.8 years in the House
 
-**Priority tier B** · leverage score 61 (rank 197 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 61 (rank 203 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Foreign Affairs; Ways and Means
 
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 88 sponsors and cosponsors (44 R, 42 D, 15 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
 2. **Press for a markup of H.R. 5269 (RESULTS Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Eric Sorensen (D-IL-17), Rep. Jesús G. "Chuy" García (D-IL-04), Rep. Raja Krishnamoorthi (D-IL-08), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Eric Sorensen (D-IL-17), Rep. Jesús G. "Chuy" García (D-IL-04), 1 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -42,14 +42,12 @@ Representative for IL-10 · 13.8 years in the House
 
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): shared committees: Ways and Means; PSC member
 - [Rep. Michael Lawler (R-NY-17)](lawler-ny-17.md): shared committees: Foreign Affairs; PSC member
-- [Rep. Darin LaHood (R-IL-16)](lahood-il-16.md): same state; shared committees: Ways and Means
+- [Rep. Thomas H. Kean, Jr. (R-NJ-07)](kean-nj-07.md): shared committees: Foreign Affairs; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

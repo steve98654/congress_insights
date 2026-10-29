@@ -2,20 +2,20 @@
 
 Representative for MN-03 · 1.8 years in the House
 
-**Priority tier C** · leverage score 44 (rank 417 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 44 (rank 418 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Small Business; Veterans' Affairs
 
 ## Top actions
 
-1. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Brad Finstad (R-MN-01), Rep. Michelle Fischbach (R-MN-07), Rep. Angie Craig (D-MN-02), 1 more.
+1. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
+   You cosponsor it and it has cleared committee (committee vote 42-0).
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Betty McCollum (D-MN-04), Rep. Angie Craig (D-MN-02).
+   2 colleagues from your state already cosponsor: Rep. Angie Craig (D-MN-02), Rep. Betty McCollum (D-MN-04).
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
+   2 colleagues from your state already cosponsor: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01).
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
+   2 colleagues from your state already cosponsor: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -38,8 +38,8 @@ Representative for MN-03 · 1.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Pete Stauber (R-MN-08)](stauber-mn-08.md): same state; shared committees: Small Business
 - [Rep. Brad Finstad (R-MN-01)](finstad-mn-01.md): same state; shared committees: Small Business
+- [Rep. Pete Stauber (R-MN-08)](stauber-mn-08.md): same state; shared committees: Small Business
 - [Rep. Jennifer A. Kiggans (R-VA-02)](kiggans-va-02.md): shared committees: Veterans' Affairs; PSC member
 
 ## Sources
@@ -47,7 +47,5 @@ Representative for MN-03 · 1.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

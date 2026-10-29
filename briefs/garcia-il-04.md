@@ -2,7 +2,7 @@
 
 Representative for IL-04 · 7.8 years in the House
 
-**Priority tier B** · leverage score 68 (rank 57 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 68 (rank 58 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Transportation and Infrastructure; Judiciary
 
@@ -17,13 +17,13 @@ Representative for IL-04 · 7.8 years in the House
 4. **Cosponsor H.R. 10379 (MAPS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 5. **Cosponsor H.R. 10380 (Independent Commissions Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
    3 colleagues from your state already cosponsor: Rep. Robin L. Kelly (D-IL-02), Rep. Nikki Budzinski (D-IL-13), Rep. Sean Casten (D-IL-06).
 8. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Bradley Scott Schneider (D-IL-10), Rep. Danny K. Davis (D-IL-07), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Danny K. Davis (D-IL-07), Rep. Bradley Scott Schneider (D-IL-10), 1 more.
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for IL-04 · 7.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

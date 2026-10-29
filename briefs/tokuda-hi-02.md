@@ -34,14 +34,12 @@ Representative for HI-02 · 3.8 years in the House
 
 - [Rep. Don Bacon (R-NE-02)](bacon-ne-02.md): shared committees: Agriculture, Armed Services; PSC member
 - [Rep. David G. Valadao (R-CA-22)](valadao-ca-22.md): shared committees: Agriculture; PSC member
-- [Rep. Brad Finstad (R-MN-01)](finstad-mn-01.md): shared committees: Agriculture, Armed Services
+- [Rep. Robert P. Bresnahan, Jr. (R-PA-08)](bresnahan-pa-08.md): shared committees: Agriculture; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

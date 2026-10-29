@@ -2,7 +2,7 @@
 
 Representative for IL-17 · 3.8 years in the House
 
-**Priority tier C** · leverage score 48 (rank 369 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 47 (rank 392 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Armed Services
 
@@ -11,16 +11,14 @@ Representative for IL-17 · 3.8 years in the House
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
    3 colleagues from your state already cosponsor: Rep. Robin L. Kelly (D-IL-02), Rep. Nikki Budzinski (D-IL-13), Rep. Sean Casten (D-IL-06).
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Bradley Scott Schneider (D-IL-10), Rep. Danny K. Davis (D-IL-07), 1 more.
-3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   7 colleagues from your state already cosponsor: Rep. Mike Quigley (D-IL-05), Rep. Bradley Scott Schneider (D-IL-10), Rep. Mike Bost (R-IL-12), 4 more.
-4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
+   4 colleagues from your state already cosponsor: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Danny K. Davis (D-IL-07), Rep. Bradley Scott Schneider (D-IL-10), 1 more.
+3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
-5. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 42_  
+4. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Mike Quigley (D-IL-05), Rep. Bradley Scott Schneider (D-IL-10).
-6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
+5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
-7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
+6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
    It cleared committee (committee vote 62-2).
 
 ## Position on each goal
@@ -41,15 +39,13 @@ Representative for IL-17 · 3.8 years in the House
 ## Cross-party partners
 
 - [Rep. Don Bacon (R-NE-02)](bacon-ne-02.md): shared committees: Agriculture, Armed Services; PSC member
+- [Rep. David G. Valadao (R-CA-22)](valadao-ca-22.md): shared committees: Agriculture; PSC member
 - [Rep. Mike Bost (R-IL-12)](bost-il-12.md): same state; shared committees: Agriculture
-- [Rep. Brad Finstad (R-MN-01)](finstad-mn-01.md): shared committees: Agriculture, Armed Services
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

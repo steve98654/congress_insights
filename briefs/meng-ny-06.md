@@ -11,17 +11,17 @@ Representative for NY-06 · 13.8 years in the House
 1. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. John W. Mannion (D-NY-22), Rep. Timothy M. Kennedy (D-NY-26), Rep. Thomas R. Suozzi (D-NY-03), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Timothy M. Kennedy (D-NY-26), Rep. John W. Mannion (D-NY-22), Rep. Thomas R. Suozzi (D-NY-03), 2 more.
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Paul Tonko (D-NY-20), Rep. Michael Lawler (R-NY-17), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), 1 more.
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Claudia Tenney (R-NY-24), Rep. Ritchie Torres (D-NY-15), 5 more.
+   8 colleagues from your state already cosponsor: Rep. Andrew R. Garbarino (R-NY-02), Rep. Thomas R. Suozzi (D-NY-03), Rep. Ritchie Torres (D-NY-15), 5 more.
 5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Timothy M. Kennedy (D-NY-26), Rep. Thomas R. Suozzi (D-NY-03), Rep. Paul Tonko (D-NY-20), 5 more.
+   8 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01), Rep. Nicole Malliotakis (R-NY-11), 5 more.
 6. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01).
+   3 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01).
 7. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01).
+   3 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Nick LaLota (R-NY-01), Rep. Joseph D. Morelle (D-NY-25).
 
@@ -51,7 +51,5 @@ Representative for NY-06 · 13.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

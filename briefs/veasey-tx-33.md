@@ -2,7 +2,7 @@
 
 Representative for TX-33 · 13.8 years in the House
 
-**Priority tier B** · leverage score 64 (rank 166 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 64 (rank 165 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Energy and Commerce
 
@@ -15,15 +15,15 @@ Representative for TX-33 · 13.8 years in the House
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Vicente Gonzalez (D-TX-34), Rep. Joaquin Castro (D-TX-20), Rep. Troy E. Nehls (R-TX-22), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Troy E. Nehls (R-TX-22), Rep. Vicente Gonzalez (D-TX-34), Rep. Morgan Luttrell (R-TX-08), 3 more.
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Nathaniel Moran (R-TX-01), Rep. Lance Gooden (R-TX-05), Rep. Monica De La Cruz (R-TX-15), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Lance Gooden (R-TX-05), Rep. Jasmine Crockett (D-TX-30), Rep. Monica De La Cruz (R-TX-15), 1 more.
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Lance Gooden (R-TX-05), Rep. Monica De La Cruz (R-TX-15).
 8. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Vicente Gonzalez (D-TX-34), Rep. Veronica Escobar (D-TX-16).
+   2 colleagues from your state already cosponsor: Rep. Veronica Escobar (D-TX-16), Rep. Vicente Gonzalez (D-TX-34).
 
 ## Position on each goal
 
@@ -42,16 +42,14 @@ Representative for TX-33 · 13.8 years in the House
 
 ## Cross-party partners
 
+- [Rep. Thomas H. Kean, Jr. (R-NJ-07)](kean-nj-07.md): shared committees: Energy and Commerce; PSC member
+- [Rep. Randy K. Weber, Sr. (R-TX-14)](weber-tx-14.md): same state; shared committees: Energy and Commerce
 - [Rep. August Pfluger (R-TX-11)](pfluger-tx-11.md): same state; shared committees: Energy and Commerce
-- [Rep. Craig A. Goldman (R-TX-12)](goldman-tx-12.md): same state; shared committees: Energy and Commerce
-- [Rep. Dan Crenshaw (R-TX-02)](crenshaw-tx-02.md): same state; shared committees: Energy and Commerce
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

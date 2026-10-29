@@ -11,15 +11,15 @@ Senator for VT · 19.8 years in the Senate · Senate Democratic Outreach Chair
 1. **Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 80_  
    You voted no on cloture. It passed the House 417-3 and needs 3 more votes in the Senate.
 2. **Ask Sen. Bill Cassidy to mark up S. 1929.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 72_  
-   As ranking member you can bring the minority votes. It has 8 sponsors and cosponsors (3 R, 5 D, 0 PSC).
+   As ranking member you can bring the minority votes. It has 9 sponsors and cosponsors (4 R, 5 D, 0 PSC).
 3. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
    It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
-4. **Introduce a Senate companion to H.R. 3876 (LIHEAP Staffing Support Act) with Sen. Bill Cassidy (R-LA).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 55_  
+4. **Introduce a Senate companion to H.R. 3876 (LIHEAP Staffing Support Act) with Sen. Roger Marshall (R-KS).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 55_  
    There is no Senate version yet, and you sit on Health, Education, Labor, and Pensions (likely committee of jurisdiction). The House bill is in committee with 49 sponsors and cosponsors (2 R, 47 D, 9 PSC).
 5. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Roger Marshall (R-KS).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
-6. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Bill Cassidy (R-LA).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 191 sponsors and cosponsors (66 R, 123 D, 28 PSC).
+6. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Roger Marshall (R-KS).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
 7. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Dan Sullivan (R-AK).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    There is no Senate version yet, and you sit on Environment and Public Works (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 8. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Bill Cassidy (R-LA).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 40_  
@@ -42,8 +42,8 @@ Senator for VT · 19.8 years in the Senate · Senate Democratic Outreach Chair
 
 ## Cross-party partners
 
-- [Sen. Bill Cassidy (R-LA)](cassidy-la.md): shared committees: Finance, Health, Education, Labor, and Pensions, Veterans' Affairs
 - [Sen. Roger Marshall (R-KS)](marshall-ks.md): shared committees: Budget, Finance, Health, Education, Labor, and Pensions
+- [Sen. Bill Cassidy (R-LA)](cassidy-la.md): shared committees: Finance, Health, Education, Labor, and Pensions, Veterans' Affairs
 - [Sen. Jim Banks (R-IN)](banks-in.md): shared committees: Health, Education, Labor, and Pensions, Veterans' Affairs
 
 ## Sources
@@ -51,7 +51,5 @@ Senator for VT · 19.8 years in the Senate · Senate Democratic Outreach Chair
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

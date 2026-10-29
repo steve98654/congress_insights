@@ -2,28 +2,28 @@
 
 Representative for PA-16 · 15.8 years in the House
 
-**Priority tier B** · leverage score 76 (rank 26 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 72 (rank 32 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Ways and Means
 
 ## Top actions
 
 1. **Ask the Speaker and Majority Leader for floor time on H.R. 3514, or a suspension vote.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 90_  
-   It cleared committee (committee vote 42-0). Suspension needs two-thirds, and it has 191 sponsors and cosponsors (66 R, 123 D, 28 PSC).
-2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 201 sponsors and cosponsors (51 R, 147 D, 33 PSC).
-3. **Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 55_  
+   It cleared committee (committee vote 42-0). Suspension needs two-thirds, and it has 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+2. **Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
-4. **Press for a markup of H.R. 5269 (RESULTS Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
+3. **Press for a markup of H.R. 5269 (RESULTS Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
+   You already cosponsor it, and your committee is where it is stuck.
+4. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Dwight Evans (D-PA-03), Rep. Christopher R. Deluzio (D-PA-17).
+   3 colleagues from your state already cosponsor: Rep. Dwight Evans (D-PA-03), Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01).
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01).
+   3 colleagues from your state already cosponsor: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Christopher R. Deluzio (D-PA-17).
 7. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Dwight Evans (D-PA-03), Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Summer L. Lee (D-PA-12), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Ryan Mackenzie (R-PA-07), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Dwight Evans (D-PA-03), 3 more.
 8. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Lloyd Smucker (R-PA-11), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06).
+   3 colleagues from your state already cosponsor: Rep. Chrissy Houlahan (D-PA-06), Rep. Lloyd Smucker (R-PA-11), Rep. Brian K. Fitzpatrick (R-PA-01).
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for PA-16 · 15.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

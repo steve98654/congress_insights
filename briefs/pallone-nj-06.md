@@ -15,15 +15,15 @@ Representative for NJ-06 · 39.8 years in the House
 3. **Ask Rep. Brett Guthrie to schedule a markup of H.R. 7116, and cosponsor it.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 80_  
    As ranking member you can offer minority votes to get it marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Jefferson Van Drew (R-NJ-02), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Robert Menendez (D-NJ-08), Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Jefferson Van Drew (R-NJ-02), 1 more.
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Jefferson Van Drew (R-NJ-02), Rep. Donald Norcross (D-NJ-01), Rep. LaMonica McIver (D-NJ-10), 2 more.
+   8 colleagues from your state already cosponsor: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. LaMonica McIver (D-NJ-10), Rep. Thomas H. Kean, Jr. (R-NJ-07), 5 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Bonnie Watson Coleman (D-NJ-12), Rep. Jefferson Van Drew (R-NJ-02), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Josh Gottheimer (D-NJ-05), Rep. Bonnie Watson Coleman (D-NJ-12), Rep. Jefferson Van Drew (R-NJ-02), 1 more.
 7. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 5 of your state colleagues are on it: Rep. Jefferson Van Drew (R-NJ-02), Rep. Donald Norcross (D-NJ-01), Rep. Nellie Pou (D-NJ-09), 2 more.
+   It cleared committee (committee vote 42-0). 9 of your state colleagues are on it: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. LaMonica McIver (D-NJ-10), Rep. Thomas H. Kean, Jr. (R-NJ-07), 6 more.
 8. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Donald Norcross (D-NJ-01).
+   2 colleagues from your state already cosponsor: Rep. Donald Norcross (D-NJ-01), Rep. Thomas H. Kean, Jr. (R-NJ-07).
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for NJ-06 · 39.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

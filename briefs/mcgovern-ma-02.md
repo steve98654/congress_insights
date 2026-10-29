@@ -2,7 +2,7 @@
 
 Representative for MA-02 · 29.8 years in the House
 
-**Priority tier A** · leverage score 75 (rank 27 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 75 (rank 27 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Rules (Ranking Member)
 
@@ -19,11 +19,11 @@ Representative for MA-02 · 29.8 years in the House
 5. **Move H.R. 8870 through Rules, or back taking it up under suspension.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 60_  
    It has been reported (committee vote 62-2) and needs a way to the floor.
 6. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. William R. Keating (D-MA-09), Rep. Stephen F. Lynch (D-MA-08), Rep. Lori Trahan (D-MA-03).
+   3 colleagues from your state already cosponsor: Rep. William R. Keating (D-MA-09), Rep. Lori Trahan (D-MA-03), Rep. Stephen F. Lynch (D-MA-08).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Seth Moulton (D-MA-06), Rep. Stephen F. Lynch (D-MA-08), Rep. Jake Auchincloss (D-MA-04).
-8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Ayanna Pressley (D-MA-07), Rep. Lori Trahan (D-MA-03), Rep. Seth Moulton (D-MA-06), 3 more.
+   3 colleagues from your state already cosponsor: Rep. Stephen F. Lynch (D-MA-08), Rep. Jake Auchincloss (D-MA-04), Rep. Seth Moulton (D-MA-06).
+8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
+   2 colleagues from your state already cosponsor: Rep. Lori Trahan (D-MA-03), Rep. Seth Moulton (D-MA-06).
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for MA-02 · 29.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

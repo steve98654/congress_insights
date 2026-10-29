@@ -2,7 +2,7 @@
 
 Representative for TN-01 · 5.8 years in the House
 
-**Priority tier B** · leverage score 66 (rank 128 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 66 (rank 129 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 **Committees:** Energy and Commerce
 
@@ -14,16 +14,16 @@ Representative for TN-01 · 5.8 years in the House
    Committee cosponsors decide whether a bill gets marked up. It has 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
 3. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
-4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
+4. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
+   5 colleagues from your state already cosponsor: Rep. Tim Burchett (R-TN-02), Rep. Charles J. "Chuck" Fleischmann (R-TN-03), Rep. Steve Cohen (D-TN-09), 2 more.
+5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
-5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Steve Cohen (D-TN-09), Rep. Charles J. "Chuck" Fleischmann (R-TN-03).
-6. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Steve Cohen (D-TN-09), Rep. Tim Burchett (R-TN-02).
-7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
+6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
+   2 colleagues from your state already cosponsor: Rep. Charles J. "Chuck" Fleischmann (R-TN-03), Rep. Steve Cohen (D-TN-09).
+7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
+   2 colleagues from your state already cosponsor: Rep. Tim Burchett (R-TN-02), Rep. Steve Cohen (D-TN-09).
+8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues are on it: Rep. Matt Van Epps (R-TN-07).
-8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
-   It cleared committee (committee vote 62-2).
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for TN-01 · 5.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

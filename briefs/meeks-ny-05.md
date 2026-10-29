@@ -2,7 +2,7 @@
 
 Representative for NY-05 · 28.7 years in the House
 
-**Priority tier B** · leverage score 58 (rank 248 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 251 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; Foreign Affairs (Ranking Member)
 
@@ -11,19 +11,19 @@ Representative for NY-05 · 28.7 years in the House
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. John W. Mannion (D-NY-22), Rep. Timothy M. Kennedy (D-NY-26), Rep. Thomas R. Suozzi (D-NY-03), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Timothy M. Kennedy (D-NY-26), Rep. John W. Mannion (D-NY-22), Rep. Thomas R. Suozzi (D-NY-03), 2 more.
 3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Claudia Tenney (R-NY-24), Rep. Ritchie Torres (D-NY-15), 5 more.
+   8 colleagues from your state already cosponsor: Rep. Andrew R. Garbarino (R-NY-02), Rep. Thomas R. Suozzi (D-NY-03), Rep. Ritchie Torres (D-NY-15), 5 more.
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   7 colleagues from your state already cosponsor: Rep. Paul Tonko (D-NY-20), Rep. Joseph D. Morelle (D-NY-25), Rep. Ritchie Torres (D-NY-15), 4 more.
+   8 colleagues from your state already cosponsor: Rep. Andrew R. Garbarino (R-NY-02), Rep. Ritchie Torres (D-NY-15), Rep. Grace Meng (D-NY-06), 5 more.
 5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Timothy M. Kennedy (D-NY-26), Rep. Thomas R. Suozzi (D-NY-03), Rep. Paul Tonko (D-NY-20), 5 more.
+   8 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01), Rep. Nicole Malliotakis (R-NY-11), 5 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   9 colleagues from your state already cosponsor: Rep. Alexandria Ocasio-Cortez (D-NY-14), Rep. Thomas R. Suozzi (D-NY-03), Rep. Nydia M. Velázquez (D-NY-07), 6 more.
+   9 colleagues from your state already cosponsor: Rep. Andrew R. Garbarino (R-NY-02), Rep. Thomas R. Suozzi (D-NY-03), Rep. Grace Meng (D-NY-06), 6 more.
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01).
+   3 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01).
 8. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01).
+   3 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01).
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for NY-05 · 28.7 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
