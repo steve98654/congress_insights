@@ -1,0 +1,16 @@
+id: protect-filibuster
+title: Protect the Senate filibuster
+area: Institutions
+summary: A constitutional amendment requiring three-fifths of senators to end debate, so major legislation keeps needing bipartisan support.
+psc_ask: Advance H.J.Res.4.
+endorsed: '2025-10-03'
+sources:
+- https://problemsolverscaucus.house.gov/media/press-releases/problem-solvers-caucus-backs-proposal-to-preserve-the-senate-filibuster
+- https://problemsolverscaucus.house.gov/issues/congress
+bills:
+- id: hjres4
+  short: Filibuster amendment
+  house_committees: [HSJU]
+  senate_committees: [SSJU]
+  senate_committees_inferred: true
+  what: Proposes a constitutional amendment that debate on legislation in the Senate cannot close without three-fifths of senators.

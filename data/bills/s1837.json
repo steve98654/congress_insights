@@ -1,0 +1,75 @@
+{
+ "id": "s1837",
+ "title": "DEFIANCE Act of 2025 (Senate)",
+ "sponsor": {
+  "bioguide": "D000563",
+  "name": "Durbin, Richard J.",
+  "party": "D",
+  "state": "IL"
+ },
+ "introduced": "2025-05-21",
+ "committees": [
+  "SSJU"
+ ],
+ "latest": {
+  "date": "2026-01-13",
+  "text": "Held at the desk."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "G000359",
+   "party": "R",
+   "state": "SC",
+   "date": ""
+  },
+  {
+   "bioguide": "K000367",
+   "party": "D",
+   "state": "MN",
+   "date": ""
+  },
+  {
+   "bioguide": "K000383",
+   "party": "I",
+   "state": "ME",
+   "date": ""
+  },
+  {
+   "bioguide": "L000577",
+   "party": "R",
+   "state": "UT",
+   "date": ""
+  },
+  {
+   "bioguide": "H001046",
+   "party": "D",
+   "state": "NM",
+   "date": ""
+  },
+  {
+   "bioguide": "W000800",
+   "party": "D",
+   "state": "VT",
+   "date": ""
+  },
+  {
+   "bioguide": "S000148",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "H001089",
+   "party": "R",
+   "state": "MO",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "passed_senate",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1837.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

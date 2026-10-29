@@ -1,0 +1,112 @@
+---
+import Base from '../../layouts/Base.astro';
+import ActionList from '../../components/ActionList.astro';
+import { committeeName, goalById, goalUrl, insightBySlug, memberBySlug, memberUrl, members, partyName } from '../../lib/data';
+
+export function getStaticPaths() {
+  return members.map((m) => ({ params: { slug: m.slug } }));
+}
+
+const m = memberBySlug.get(Astro.params.slug!)!;
+const ins = insightBySlug.get(m.slug)!;
+const partners = ins.partners.map((s) => memberBySlug.get(s)!).filter(Boolean);
+const mine = new Set(m.committees.map((c) => c.code));
+---
+
+<Base title={`${m.name} · Congress Insights`}>
+  <section class="hero">
+    <div class="small muted"><a href={memberUrl('').replace(/\/$/, '')}>Members</a></div>
+    <h1>{m.title} {m.name}</h1>
+    <div class="facts">
+      <span class={`pill ${m.party}`}>{partyName(m.party)} · {m.seat}</span>
+      {m.psc && <span class="pill psc">Problem Solvers Caucus{m.psc !== 'Member' ? ` ${m.psc}` : ''}</span>}
+      {m.leadership.map((l) => <span class="pill">{l}</span>)}
+      <span class={`pill tier-${ins.tier}`}>Tier {ins.tier}</span>
+    </div>
+    <div class="facts">
+      <span>Leverage score <b>{ins.score}</b> (rank {ins.rank} of {ins.rank_of} in the {m.chamber === 'senate' ? 'Senate' : 'House'})</span>
+      <span>Supports <b>{ins.support.count}</b> of {ins.support.total} caucus bills in their chamber</span>
+      <span>{m.years_in_chamber} years in the {m.chamber === 'senate' ? 'Senate' : 'House'}</span>
+    </div>
+  </section>
+
+  <div class="two">
+    <section>
+      <h2>Top actions</h2>
+      {
+        ins.actions.length ? (
+          <ActionList actions={ins.actions} />
+        ) : (
+          <p class="muted">
+            No specific action stands out yet. This member holds no committee seat or leadership role on the caucus goals, and
+            their home-state colleagues are not cosponsors.
+          </p>
+        )
+      }
+      {ins.action_count > ins.actions.length && <p class="small muted">{ins.action_count - ins.actions.length} lower-priority actions not shown.</p>}
+
+      <h2>Position on each goal</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Goal</th><th>Position</th><th class="num">Leverage</th></tr>
+          </thead>
+          <tbody>
+            {
+              Object.entries(ins.goals)
+                .sort((a, b) => b[1].leverage - a[1].leverage)
+                .map(([gid, pos]) => (
+                  <tr>
+                    <td><a href={goalUrl(gid)}>{goalById.get(gid)?.title}</a></td>
+                    <td>{pos.position || <span class="muted">none yet</span>}</td>
+                    <td class="num">{pos.leverage}</td>
+                  </tr>
+                ))
+            }
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <aside>
+      <h2>Committees</h2>
+      <ul class="plain">
+        {
+          m.committees.map((c) => (
+            <li>
+              {committeeName(c.name)}
+              {c.title && <span class="pill">{c.title}</span>}
+            </li>
+          ))
+        }
+        {m.committees.length === 0 && <li class="muted">None listed</li>}
+      </ul>
+
+      <h2>Cross-party partners</h2>
+      <ul class="plain">
+        {
+          partners.map((p) => {
+            const shared = p.committees.filter((c) => mine.has(c.code)).map((c) => committeeName(c.name));
+            return (
+              <li>
+                <a href={memberUrl(p.slug)}>{p.name}</a> <span class={`pill ${p.party}`}>{p.label}</span>
+                <div class="small muted">
+                  {[p.state === m.state && 'same state', shared.length && `shared: ${shared.join(', ')}`, p.psc && 'PSC member'].filter(Boolean).join(' · ') ||
+                    'backs the same caucus bills'}
+                </div>
+              </li>
+            );
+          })
+        }
+      </ul>
+
+      <h2>Contact</h2>
+      <dl class="kv">
+        {m.contact.url && (<><dt>Website</dt><dd><a href={m.contact.url}>{m.contact.url.replace(/^https?:\/\//, '')}</a></dd></>)}
+        {m.contact.phone && (<><dt>Phone</dt><dd>{m.contact.phone}</dd></>)}
+        {m.contact.office && (<><dt>Office</dt><dd>{m.contact.office}</dd></>)}
+        {m.contact.x && (<><dt>X</dt><dd><a href={`https://x.com/${m.contact.x}`}>@{m.contact.x}</a></dd></>)}
+      </dl>
+    </aside>
+  </div>
+</Base>

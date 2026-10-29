@@ -1,0 +1,69 @@
+{
+ "id": "hr7116",
+ "title": "SEPSIS Act",
+ "sponsor": {
+  "bioguide": "N000188",
+  "name": "Norcross, Donald",
+  "party": "D",
+  "state": "NJ"
+ },
+ "introduced": "2026-01-15",
+ "committees": [
+  "HSIF"
+ ],
+ "latest": {
+  "date": "2026-01-15",
+  "text": "Referred to the House Committee on Energy and Commerce."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "K000398",
+   "party": "R",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "G000583",
+   "party": "D",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "N000147",
+   "party": "D",
+   "state": "DC",
+   "date": ""
+  },
+  {
+   "bioguide": "L000599",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "L000598",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "R000603",
+   "party": "R",
+   "state": "NC",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7116.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

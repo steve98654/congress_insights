@@ -1,0 +1,280 @@
+{
+ "id": "hr3289",
+ "title": "Fiscal Commission Act",
+ "sponsor": {
+  "bioguide": "H001058",
+  "name": "Huizenga, Bill",
+  "party": "R",
+  "state": "MI"
+ },
+ "introduced": "2025-05-08",
+ "committees": [
+  "HSBU",
+  "HSRU"
+ ],
+ "latest": {
+  "date": "2025-05-08",
+  "text": "Referred to the Budget and Rules committees for provisions within their jurisdiction."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "P000608",
+   "party": "D",
+   "state": "CA",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "T000480",
+   "party": "R",
+   "state": "SC",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "C001055",
+   "party": "D",
+   "state": "HI",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "M001216",
+   "party": "R",
+   "state": "FL",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "C001136",
+   "party": "D",
+   "state": "NJ",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "B001301",
+   "party": "R",
+   "state": "MI",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "C001063",
+   "party": "D",
+   "state": "TX",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "M001213",
+   "party": "R",
+   "state": "UT",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "G000600",
+   "party": "D",
+   "state": "WA",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "S001172",
+   "party": "R",
+   "state": "NE",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "G000592",
+   "party": "D",
+   "state": "ME",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "G000605",
+   "party": "D",
+   "state": "CA",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "J000301",
+   "party": "R",
+   "state": "SD",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "L000601",
+   "party": "D",
+   "state": "OH",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "G000576",
+   "party": "R",
+   "state": "WI",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "M001217",
+   "party": "D",
+   "state": "FL",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "S001183",
+   "party": "R",
+   "state": "AZ",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "Q000023",
+   "party": "D",
+   "state": "IL",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "M001194",
+   "party": "R",
+   "state": "MI",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "S001221",
+   "party": "D",
+   "state": "MI",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "R000603",
+   "party": "R",
+   "state": "NC",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "S001190",
+   "party": "D",
+   "state": "IL",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "H001093",
+   "party": "R",
+   "state": "IN",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "S001201",
+   "party": "D",
+   "state": "NY",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "V000129",
+   "party": "R",
+   "state": "CA",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "P000613",
+   "party": "D",
+   "state": "CA",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "B001282",
+   "party": "R",
+   "state": "KY",
+   "date": "2025-05-08"
+  },
+  {
+   "bioguide": "F000475",
+   "party": "R",
+   "state": "MN",
+   "date": "2025-05-29"
+  },
+  {
+   "bioguide": "B001292",
+   "party": "D",
+   "state": "VA",
+   "date": "2025-05-29"
+  },
+  {
+   "bioguide": "H001085",
+   "party": "D",
+   "state": "PA",
+   "date": "2025-07-17"
+  },
+  {
+   "bioguide": "H001072",
+   "party": "R",
+   "state": "AR",
+   "date": "2025-07-17"
+  },
+  {
+   "bioguide": "E000246",
+   "party": "R",
+   "state": "NC",
+   "date": "2025-09-09"
+  },
+  {
+   "bioguide": "M001237",
+   "party": "D",
+   "state": "MI",
+   "date": "2025-09-09"
+  },
+  {
+   "bioguide": "O000019",
+   "party": "R",
+   "state": "CA",
+   "date": "2025-10-21"
+  },
+  {
+   "bioguide": "V000131",
+   "party": "D",
+   "state": "TX",
+   "date": "2025-10-21"
+  },
+  {
+   "bioguide": "Y000067",
+   "party": "R",
+   "state": "IN",
+   "date": "2025-10-31"
+  },
+  {
+   "bioguide": "D000230",
+   "party": "D",
+   "state": "NC",
+   "date": "2025-10-31"
+  },
+  {
+   "bioguide": "S001199",
+   "party": "R",
+   "state": "PA",
+   "date": "2026-01-27"
+  },
+  {
+   "bioguide": "T000460",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-01-27"
+  },
+  {
+   "bioguide": "S000929",
+   "party": "R",
+   "state": "IN",
+   "date": "2026-03-03"
+  },
+  {
+   "bioguide": "B000490",
+   "party": "D",
+   "state": "GA",
+   "date": "2026-03-03"
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3289.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

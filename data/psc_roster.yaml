@@ -1,0 +1,49 @@
+# House Problem Solvers Caucus members as listed on the caucus site.
+# The caucus says it has about 45-50 members; members can join without being listed publicly,
+# so this list is a floor. Districts are resolved to bioguide ids by scripts/build_members.py.
+source: https://problemsolverscaucus.house.gov/caucus-members
+checked: '2026-10-29'
+members:
+- {district: PA-01, name: Brian K. Fitzpatrick, role: Co-Chair}
+- {district: NY-03, name: Tom Suozzi, role: Co-Chair}
+- {district: CA-40, name: Young Kim}
+- {district: NJ-07, name: Thomas H. Kean Jr.}
+- {district: NV-03, name: Susie Lee}
+- {district: NV-04, name: Steven Horsford}
+- {district: CA-50, name: Scott H. Peters}
+- {district: CA-24, name: Salud O. Carbajal}
+- {district: PA-08, name: Rob Bresnahan}
+- {district: NY-01, name: Nick LaLota}
+- {district: NY-17, name: Michael Lawler}
+- {district: WA-03, name: Marie Gluesenkamp Perez}
+- {district: FL-27, name: Maria Salazar}
+- {district: AZ-06, name: Juan Ciscomani}
+- {district: CA-09, name: Josh Harder}
+- {district: NJ-05, name: Josh Gottheimer}
+- {district: CA-19, name: Jimmy Panetta}
+- {district: CA-21, name: Jim Costa}
+- {district: VA-02, name: Jennifer A. Kiggans}
+- {district: CO-03, name: Jeff Hurd}
+- {district: ME-02, name: Jared F. Golden}
+- {district: GU-00, name: James C. Moylan}
+- {district: MI-03, name: Hillary J. Scholten}
+- {district: TX-28, name: Henry Cuellar}
+- {district: MI-11, name: Haley Stevens}
+- {district: OH-01, name: Greg Landsman}
+- {district: CO-08, name: Gabe Evans}
+- {district: OH-13, name: Emilia Strong Sykes}
+- {district: HI-01, name: Ed Case}
+- {district: NJ-01, name: Donald Norcross, role: National Security Working Group Co-Chair}
+- {district: NC-01, name: Donald G. Davis}
+- {district: NE-02, name: Don Bacon, role: National Security Working Group Co-Chair}
+- {district: MI-06, name: Debbie Dingell}
+- {district: CA-22, name: David G. Valadao}
+- {district: OH-14, name: David P. Joyce}
+- {district: FL-09, name: Darren Soto}
+- {district: PA-09, name: Daniel Meuser}
+- {district: NH-01, name: Chris Pappas}
+- {district: WI-01, name: Bryan Steil}
+- {district: UT-01, name: Blake D. Moore}
+- {district: MN-02, name: Angie Craig}
+- {district: NY-02, name: Andrew R. Garbarino}
+- {district: PA-07, name: Ryan Mackenzie}

@@ -1,0 +1,25 @@
+id: online-safety-ai
+title: Make AI safe and protect deepfake victims
+area: Technology
+summary: Let victims of non-consensual intimate deepfakes sue the people who make or share them, and press for US leadership on AI safety standards. The caucus started an AI working group in September 2026.
+psc_ask: House passage of the DEFIANCE Act, which the Senate already passed; the administration should lead on AI safety standards and US-China AI safety coordination.
+endorsed: '2026-09-24'
+sources:
+- https://problemsolverscaucus.house.gov/media/press-releases/problem-solvers-caucus-endorses-defiance-act-to-allow-victims-of-non-consensual-deepfakes-to-sue-perpetrators
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=921
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=917
+committees: [HSSY, HSIF, SSCM]
+bills:
+- id: hr3562
+  short: DEFIANCE Act
+  house_committees: [HSJU]
+  senate_committees: [SSJU]
+  companion: s1837
+  what: Creates a civil right of action for victims of non-consensual intimate deepfakes.
+- id: s1837
+  short: DEFIANCE Act
+  senate_committees: [SSJU]
+  companion: hr3562
+  status: passed_senate
+  status_note: Passed the Senate by unanimous consent; held at the House desk since 2026-01-13.
+  what: Senate version, which has passed the Senate and is waiting on the House.

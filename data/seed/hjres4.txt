@@ -1,0 +1,11 @@
+TITLE: Constitutional amendment requiring three-fifths of Senators to close debate (filibuster)
+SPONSOR: F000466|Fitzpatrick, Brian K.|R|PA
+INTRODUCED: 2025-01-03
+COMMITTEES: hsju00 Judiciary Committee
+LATEST: 2025-01-03|Referred to the House Committee on the Judiciary.
+VOTES: none
+COSPONSORS (4):
+G000592|D|ME|2025-01-03
+S001201|D|NY|2025-10-03
+L000599|R|NY|2025-11-04
+G000605|D|CA|2025-11-07

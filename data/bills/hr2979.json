@@ -1,0 +1,71 @@
+{
+ "id": "hr2979",
+ "title": "BUILD Act of 2025 (facilities for local police and fire departments)",
+ "sponsor": {
+  "bioguide": "P000614",
+  "name": "Pappas, Chris",
+  "party": "D",
+  "state": "NH"
+ },
+ "introduced": "2025-04-21",
+ "committees": [
+  "HSJU",
+  "HSPW",
+  "HSSY"
+ ],
+ "latest": {
+  "date": "2025-04-22",
+  "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "L000595",
+   "party": "R",
+   "state": "LA",
+   "date": ""
+  },
+  {
+   "bioguide": "K000398",
+   "party": "R",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "V000135",
+   "party": "R",
+   "state": "WI",
+   "date": ""
+  },
+  {
+   "bioguide": "G000604",
+   "party": "D",
+   "state": "NH",
+   "date": ""
+  },
+  {
+   "bioguide": "P000613",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "K000399",
+   "party": "R",
+   "state": "VA",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2979.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

@@ -1,0 +1,711 @@
+{
+ "key": "senate_vote_119_2_254",
+ "chamber": "senate",
+ "question": "Cloture on the motion to proceed to H.R. 9340",
+ "date": "2026-09-30",
+ "result": "Cloture on the Motion to Proceed Rejected 57-43 (3/5 required)",
+ "members": [
+  {
+   "lis": "S428",
+   "last": "Alsobrooks",
+   "party": "D",
+   "state": "MD",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S440",
+   "last": "Armstrong",
+   "party": "R",
+   "state": "OK",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S354",
+   "last": "Baldwin",
+   "party": "D",
+   "state": "WI",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S429",
+   "last": "Banks",
+   "party": "R",
+   "state": "IN",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S317",
+   "last": "Barrasso",
+   "party": "R",
+   "state": "WY",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S330",
+   "last": "Bennet",
+   "party": "D",
+   "state": "CO",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S396",
+   "last": "Blackburn",
+   "party": "R",
+   "state": "TN",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S341",
+   "last": "Blumenthal",
+   "party": "D",
+   "state": "CT",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S430",
+   "last": "Blunt Rochester",
+   "party": "D",
+   "state": "DE",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S370",
+   "last": "Booker",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S343",
+   "last": "Boozman",
+   "party": "R",
+   "state": "AR",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S416",
+   "last": "Britt",
+   "party": "R",
+   "state": "AL",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S417",
+   "last": "Budd",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S275",
+   "last": "Cantwell",
+   "party": "D",
+   "state": "WA",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S372",
+   "last": "Capito",
+   "party": "R",
+   "state": "WV",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S373",
+   "last": "Cassidy",
+   "party": "R",
+   "state": "LA",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S252",
+   "last": "Collins",
+   "party": "R",
+   "state": "ME",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S337",
+   "last": "Coons",
+   "party": "D",
+   "state": "DE",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S287",
+   "last": "Cornyn",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S385",
+   "last": "Cortez Masto",
+   "party": "D",
+   "state": "NV",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S374",
+   "last": "Cotton",
+   "party": "R",
+   "state": "AR",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S398",
+   "last": "Cramer",
+   "party": "R",
+   "state": "ND",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S266",
+   "last": "Crapo",
+   "party": "R",
+   "state": "ID",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S355",
+   "last": "Cruz",
+   "party": "R",
+   "state": "TX",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S431",
+   "last": "Curtis",
+   "party": "R",
+   "state": "UT",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S375",
+   "last": "Daines",
+   "party": "R",
+   "state": "MT",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S386",
+   "last": "Duckworth",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S253",
+   "last": "Durbin",
+   "party": "D",
+   "state": "IL",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S376",
+   "last": "Ernst",
+   "party": "R",
+   "state": "IA",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S418",
+   "last": "Fetterman",
+   "party": "D",
+   "state": "PA",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S357",
+   "last": "Fischer",
+   "party": "R",
+   "state": "NE",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S432",
+   "last": "Gallego",
+   "party": "D",
+   "state": "AZ",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S331",
+   "last": "Gillibrand",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S441",
+   "last": "Graham",
+   "party": "R",
+   "state": "SC",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S153",
+   "last": "Grassley",
+   "party": "R",
+   "state": "IA",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S407",
+   "last": "Hagerty",
+   "party": "R",
+   "state": "TN",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S388",
+   "last": "Hassan",
+   "party": "D",
+   "state": "NH",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S399",
+   "last": "Hawley",
+   "party": "R",
+   "state": "MO",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S359",
+   "last": "Heinrich",
+   "party": "D",
+   "state": "NM",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S408",
+   "last": "Hickenlooper",
+   "party": "D",
+   "state": "CO",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S361",
+   "last": "Hirono",
+   "party": "D",
+   "state": "HI",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S344",
+   "last": "Hoeven",
+   "party": "R",
+   "state": "ND",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S438",
+   "last": "Husted",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S395",
+   "last": "Hyde-Smith",
+   "party": "R",
+   "state": "MS",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S345",
+   "last": "Johnson",
+   "party": "R",
+   "state": "WI",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S437",
+   "last": "Justice",
+   "party": "R",
+   "state": "WV",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S362",
+   "last": "Kaine",
+   "party": "D",
+   "state": "VA",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S406",
+   "last": "Kelly",
+   "party": "D",
+   "state": "AZ",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S389",
+   "last": "Kennedy",
+   "party": "R",
+   "state": "LA",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S426",
+   "last": "Kim",
+   "party": "D",
+   "state": "NJ",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S363",
+   "last": "King",
+   "party": "I",
+   "state": "ME",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S311",
+   "last": "Klobuchar",
+   "party": "D",
+   "state": "MN",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S378",
+   "last": "Lankford",
+   "party": "R",
+   "state": "OK",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S346",
+   "last": "Lee",
+   "party": "R",
+   "state": "UT",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S409",
+   "last": "Lujan",
+   "party": "D",
+   "state": "NM",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S410",
+   "last": "Lummis",
+   "party": "R",
+   "state": "WY",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S369",
+   "last": "Markey",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S411",
+   "last": "Marshall",
+   "party": "R",
+   "state": "KS",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S174",
+   "last": "McConnell",
+   "party": "R",
+   "state": "KY",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S433",
+   "last": "McCormick",
+   "party": "R",
+   "state": "PA",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S322",
+   "last": "Merkley",
+   "party": "D",
+   "state": "OR",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S439",
+   "last": "Moody",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S347",
+   "last": "Moran",
+   "party": "R",
+   "state": "KS",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S434",
+   "last": "Moreno",
+   "party": "R",
+   "state": "OH",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S288",
+   "last": "Murkowski",
+   "party": "R",
+   "state": "AK",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S364",
+   "last": "Murphy",
+   "party": "D",
+   "state": "CT",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S229",
+   "last": "Murray",
+   "party": "D",
+   "state": "WA",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S414",
+   "last": "Ossoff",
+   "party": "D",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S413",
+   "last": "Padilla",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S348",
+   "last": "Paul",
+   "party": "R",
+   "state": "KY",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S380",
+   "last": "Peters",
+   "party": "D",
+   "state": "MI",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S259",
+   "last": "Reed",
+   "party": "D",
+   "state": "RI",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S423",
+   "last": "Ricketts",
+   "party": "R",
+   "state": "NE",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S323",
+   "last": "Risch",
+   "party": "R",
+   "state": "ID",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S402",
+   "last": "Rosen",
+   "party": "D",
+   "state": "NV",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S381",
+   "last": "Rounds",
+   "party": "R",
+   "state": "SD",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S313",
+   "last": "Sanders",
+   "party": "I",
+   "state": "VT",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S353",
+   "last": "Schatz",
+   "party": "D",
+   "state": "HI",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S427",
+   "last": "Schiff",
+   "party": "D",
+   "state": "CA",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S420",
+   "last": "Schmitt",
+   "party": "R",
+   "state": "MO",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S270",
+   "last": "Schumer",
+   "party": "D",
+   "state": "NY",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S404",
+   "last": "Scott",
+   "party": "R",
+   "state": "FL",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S365",
+   "last": "Scott",
+   "party": "R",
+   "state": "SC",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S324",
+   "last": "Shaheen",
+   "party": "D",
+   "state": "NH",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S435",
+   "last": "Sheehy",
+   "party": "R",
+   "state": "MT",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S436",
+   "last": "Slotkin",
+   "party": "D",
+   "state": "MI",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S394",
+   "last": "Smith",
+   "party": "D",
+   "state": "MN",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S383",
+   "last": "Sullivan",
+   "party": "R",
+   "state": "AK",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S303",
+   "last": "Thune",
+   "party": "R",
+   "state": "SD",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S384",
+   "last": "Tillis",
+   "party": "R",
+   "state": "NC",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S412",
+   "last": "Tuberville",
+   "party": "R",
+   "state": "AL",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S390",
+   "last": "Van Hollen",
+   "party": "D",
+   "state": "MD",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S327",
+   "last": "Warner",
+   "party": "D",
+   "state": "VA",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S415",
+   "last": "Warnock",
+   "party": "D",
+   "state": "GA",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S366",
+   "last": "Warren",
+   "party": "D",
+   "state": "MA",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S422",
+   "last": "Welch",
+   "party": "D",
+   "state": "VT",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S316",
+   "last": "Whitehouse",
+   "party": "D",
+   "state": "RI",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S318",
+   "last": "Wicker",
+   "party": "R",
+   "state": "MS",
+   "vote": "Yea"
+  },
+  {
+   "lis": "S247",
+   "last": "Wyden",
+   "party": "D",
+   "state": "OR",
+   "vote": "Nay"
+  },
+  {
+   "lis": "S391",
+   "last": "Young",
+   "party": "R",
+   "state": "IN",
+   "vote": "Yea"
+  }
+ ],
+ "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.xml",
+ "fetched": "2026-10-29"
+}

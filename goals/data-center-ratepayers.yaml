@@ -1,0 +1,17 @@
+id: data-center-ratepayers
+title: Keep data center power costs off household bills
+area: Energy
+summary: Make data centers of 100 MW or more pay the full cost of the generation and grid they need, so utility bills for families and small businesses do not rise to serve them.
+psc_ask: The House passed the Ratepayer Protection Act 417-3; the caucus asked Senate leaders to bring it up and pass it. Cloture on the motion to proceed failed 57-43 on 2026-09-30.
+endorsed: '2026-09-17'
+sources:
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=914
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=919
+bills:
+- id: hr9340
+  short: Ratepayer Protection Act
+  house_committees: [HSIF]
+  senate_committees: [SSEG]
+  senate_committees_inferred: true
+  senate_vote: senate_vote_119_2_254
+  what: Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.

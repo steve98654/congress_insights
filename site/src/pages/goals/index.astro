@@ -1,0 +1,38 @@
+---
+import Base from '../../layouts/Base.astro';
+import SupportBar from '../../components/SupportBar.astro';
+import { STAGES, formatDate, goalUrl, goals } from '../../lib/data';
+---
+
+<Base title="Goals · Congress Insights">
+  <section class="hero">
+    <h1>Goals</h1>
+    <p class="lede">
+      The legislative goals behind the action items, taken from Problem Solvers Caucus endorsements and its affordability
+      agenda. Each links to its sources.
+    </p>
+  </section>
+  <div class="grid">
+    {
+      goals.map((g) => (
+        <a class="card card-link" href={goalUrl(g.id)}>
+          <div class="eyebrow">{g.area} · endorsed {formatDate(g.endorsed)}</div>
+          <h3>{g.title}</h3>
+          <p class="small muted">{g.summary}</p>
+          {g.bills
+            .filter((b) => b.chamber === 'house' || !g.bills.some((x) => x.companion === b.id))
+            .slice(0, 4)
+            .map((b) => (
+              <div style="margin-top:10px">
+                <div class="small">
+                  <b>{b.label}</b> {b.short} <span class={`pill stage-${b.stage}`}>{STAGES[b.stage]}</span>
+                </div>
+                <SupportBar bill={b} />
+              </div>
+            ))}
+          {g.bills.length === 0 && <p class="small">Committee work: {g.committees.length} committees</p>}
+        </a>
+      ))
+    }
+  </div>
+</Base>

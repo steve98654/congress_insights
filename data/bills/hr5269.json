@@ -1,0 +1,778 @@
+{
+ "id": "hr5269",
+ "title": "RESULTS Act (Medicare clinical lab payments)",
+ "sponsor": {
+  "bioguide": "H001067",
+  "name": "Hudson, Richard",
+  "party": "R",
+  "state": "NC"
+ },
+ "introduced": "2025-09-10",
+ "committees": [
+  "HSIF",
+  "HSWM"
+ ],
+ "latest": {
+  "date": "2025-09-10",
+  "text": "Referred to Energy and Commerce, and to Ways and Means."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "P000608",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001257",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "K000391",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "F000466",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001103",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "J000302",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001133",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000230",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000629",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "R000305",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001306",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001185",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000397",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "K000403",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "V000138",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000624",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "H001066",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001327",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001119",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000628",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "A000148",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "P000613",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001225",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "G000583",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "K000398",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "N000147",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000460",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001285",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "P000620",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "R000603",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001238",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001213",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000488",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000096",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000600",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001068",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000478",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001236",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001156",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001120",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000482",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001126",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001201",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000593",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "W000814",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000617",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "F000468",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000601",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001200",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "P000621",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "E000246",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "K000376",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "N000191",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "P000048",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "W000804",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "P000607",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000597",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "R000619",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000599",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "V000134",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "H001103",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "V000131",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001300",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001205",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001190",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B000668",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001039",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "O000086",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "J000298",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001215",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001210",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "H001093",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "G000601",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "E000300",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000585",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001281",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000468",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001298",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "H001101",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "F000475",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "K000405",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001066",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "W000797",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001224",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001287",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001240",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "A000372",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "Y000067",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001227",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001229",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001218",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001246",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "F000482",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001291",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M000317",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000631",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000467",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001121",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "H001058",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001112",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "K000397",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001314",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "R000609",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "W000831",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "F000474",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "V000129",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "P000597",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000598",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "W000822",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S000168",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "K000402",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001059",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001214",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001230",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001296",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001326",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "J000304",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001136",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001213",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "N000188",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001159",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001215",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "W000795",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000469",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001072",
+   "party": "",
+   "state": "",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5269.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

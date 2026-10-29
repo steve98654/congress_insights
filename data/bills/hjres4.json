@@ -1,0 +1,51 @@
+{
+ "id": "hjres4",
+ "title": "Constitutional amendment requiring three-fifths of Senators to close debate (filibuster)",
+ "sponsor": {
+  "bioguide": "F000466",
+  "name": "Fitzpatrick, Brian K.",
+  "party": "R",
+  "state": "PA"
+ },
+ "introduced": "2025-01-03",
+ "committees": [
+  "HSJU"
+ ],
+ "latest": {
+  "date": "2025-01-03",
+  "text": "Referred to the House Committee on the Judiciary."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "G000592",
+   "party": "D",
+   "state": "ME",
+   "date": "2025-01-03"
+  },
+  {
+   "bioguide": "S001201",
+   "party": "D",
+   "state": "NY",
+   "date": "2025-10-03"
+  },
+  {
+   "bioguide": "L000599",
+   "party": "R",
+   "state": "NY",
+   "date": "2025-11-04"
+  },
+  {
+   "bioguide": "G000605",
+   "party": "D",
+   "state": "CA",
+   "date": "2025-11-07"
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres4.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

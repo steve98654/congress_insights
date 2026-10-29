@@ -1,0 +1,591 @@
+{
+ "id": "hr3694",
+ "title": "VA Loan Informed Disclosure (VALID) Act of 2025",
+ "sponsor": {
+  "bioguide": "P000620",
+  "name": "Pettersen, Brittany",
+  "party": "D",
+  "state": "CO"
+ },
+ "introduced": "2025-06-03",
+ "committees": [
+  "HSBA"
+ ],
+ "latest": {
+  "date": "2025-06-03",
+  "text": "Referred to the House Committee on Financial Services."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "H001096",
+   "party": "R",
+   "state": "WY",
+   "date": ""
+  },
+  {
+   "bioguide": "W000788",
+   "party": "D",
+   "state": "GA",
+   "date": ""
+  },
+  {
+   "bioguide": "K000397",
+   "party": "R",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "S001190",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "M001194",
+   "party": "R",
+   "state": "MI",
+   "date": ""
+  },
+  {
+   "bioguide": "S001145",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "N000189",
+   "party": "R",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "S001159",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "T000193",
+   "party": "D",
+   "state": "MS",
+   "date": ""
+  },
+  {
+   "bioguide": "K000389",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "T000488",
+   "party": "D",
+   "state": "MI",
+   "date": ""
+  },
+  {
+   "bioguide": "T000468",
+   "party": "D",
+   "state": "NV",
+   "date": ""
+  },
+  {
+   "bioguide": "K000391",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "N000147",
+   "party": "D",
+   "state": "DC",
+   "date": ""
+  },
+  {
+   "bioguide": "C001117",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "C001068",
+   "party": "D",
+   "state": "TN",
+   "date": ""
+  },
+  {
+   "bioguide": "C001059",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "J000309",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "L000582",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001196",
+   "party": "D",
+   "state": "MA",
+   "date": ""
+  },
+  {
+   "bioguide": "G000565",
+   "party": "R",
+   "state": "AZ",
+   "date": ""
+  },
+  {
+   "bioguide": "G000587",
+   "party": "D",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "D000096",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "T000469",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "C001119",
+   "party": "D",
+   "state": "MN",
+   "date": ""
+  },
+  {
+   "bioguide": "T000480",
+   "party": "R",
+   "state": "SC",
+   "date": ""
+  },
+  {
+   "bioguide": "S001226",
+   "party": "D",
+   "state": "OR",
+   "date": ""
+  },
+  {
+   "bioguide": "A000148",
+   "party": "D",
+   "state": "MA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001091",
+   "party": "D",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "K000385",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "N000191",
+   "party": "D",
+   "state": "CO",
+   "date": ""
+  },
+  {
+   "bioguide": "M001238",
+   "party": "D",
+   "state": "DE",
+   "date": ""
+  },
+  {
+   "bioguide": "S000510",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000599",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "B001323",
+   "party": "R",
+   "state": "AK",
+   "date": ""
+  },
+  {
+   "bioguide": "F000475",
+   "party": "R",
+   "state": "MN",
+   "date": ""
+  },
+  {
+   "bioguide": "B001301",
+   "party": "R",
+   "state": "MI",
+   "date": ""
+  },
+  {
+   "bioguide": "T000481",
+   "party": "D",
+   "state": "MI",
+   "date": ""
+  },
+  {
+   "bioguide": "S001216",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "D000230",
+   "party": "D",
+   "state": "NC",
+   "date": ""
+  },
+  {
+   "bioguide": "N000026",
+   "party": "R",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "C001072",
+   "party": "D",
+   "state": "IN",
+   "date": ""
+  },
+  {
+   "bioguide": "R000305",
+   "party": "D",
+   "state": "NC",
+   "date": ""
+  },
+  {
+   "bioguide": "W000804",
+   "party": "R",
+   "state": "VA",
+   "date": ""
+  },
+  {
+   "bioguide": "R000609",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "S001231",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "G000586",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "H001103",
+   "party": "D",
+   "state": "PR",
+   "date": ""
+  },
+  {
+   "bioguide": "F000459",
+   "party": "R",
+   "state": "TN",
+   "date": ""
+  },
+  {
+   "bioguide": "G000581",
+   "party": "D",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "T000463",
+   "party": "R",
+   "state": "OH",
+   "date": ""
+  },
+  {
+   "bioguide": "L000560",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "B001307",
+   "party": "R",
+   "state": "IN",
+   "date": ""
+  },
+  {
+   "bioguide": "G000604",
+   "party": "D",
+   "state": "NH",
+   "date": ""
+  },
+  {
+   "bioguide": "H001081",
+   "party": "D",
+   "state": "CT",
+   "date": ""
+  },
+  {
+   "bioguide": "L000598",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "P000614",
+   "party": "D",
+   "state": "NH",
+   "date": ""
+  },
+  {
+   "bioguide": "N000193",
+   "party": "R",
+   "state": "IA",
+   "date": ""
+  },
+  {
+   "bioguide": "E000300",
+   "party": "R",
+   "state": "CO",
+   "date": ""
+  },
+  {
+   "bioguide": "F000472",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "S001230",
+   "party": "D",
+   "state": "VA",
+   "date": ""
+  },
+  {
+   "bioguide": "P000613",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "W000809",
+   "party": "R",
+   "state": "AR",
+   "date": ""
+  },
+  {
+   "bioguide": "H001090",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "T000474",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001216",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "V000129",
+   "party": "R",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000603",
+   "party": "R",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "B001287",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "R000621",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001051",
+   "party": "R",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "O000019",
+   "party": "R",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "S000168",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "L000562",
+   "party": "D",
+   "state": "MA",
+   "date": ""
+  },
+  {
+   "bioguide": "N000188",
+   "party": "D",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "L000595",
+   "party": "R",
+   "state": "LA",
+   "date": ""
+  },
+  {
+   "bioguide": "H001066",
+   "party": "D",
+   "state": "NV",
+   "date": ""
+  },
+  {
+   "bioguide": "C001118",
+   "party": "R",
+   "state": "VA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001055",
+   "party": "D",
+   "state": "HI",
+   "date": ""
+  },
+  {
+   "bioguide": "B001327",
+   "party": "R",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "K000399",
+   "party": "R",
+   "state": "VA",
+   "date": ""
+  },
+  {
+   "bioguide": "S001201",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "S001225",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "L000583",
+   "party": "R",
+   "state": "GA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000596",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "K000398",
+   "party": "R",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "S001185",
+   "party": "D",
+   "state": "AL",
+   "date": ""
+  },
+  {
+   "bioguide": "D000530",
+   "party": "D",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001239",
+   "party": "R",
+   "state": "VA",
+   "date": ""
+  },
+  {
+   "bioguide": "D000623",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000397",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001110",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "M000871",
+   "party": "R",
+   "state": "KS",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3694.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

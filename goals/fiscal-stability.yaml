@@ -1,0 +1,28 @@
+id: fiscal-stability
+title: Stabilize the national debt
+area: Budget
+summary: Set up bipartisan machinery to stabilize the debt, which passed $40 trillion in August 2026, and test whether the government could absorb a recession or other shock.
+psc_ask: Pass a bipartisan fiscal commission, a 10-year balanced-budget panel, and annual fiscal stress tests.
+endorsed: '2026-10-01'
+sources:
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=922
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=905
+bills:
+- id: hr3289
+  short: Fiscal Commission Act
+  house_committees: [HSBU, HSRU]
+  senate_committees: [SSBU, SSGA]
+  senate_committees_inferred: true
+  what: Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
+- id: hr222
+  short: Sustainable Budget Act
+  house_committees: [HSBU, HSRU]
+  senate_committees: [SSBU]
+  senate_committees_inferred: true
+  what: Sets up a bipartisan panel to draft a plan to balance the budget within 10 years.
+- id: hr4642
+  short: Fiscal Contingency Preparedness Act
+  house_committees: [HSGO]
+  senate_committees: [SSGA, SSBU]
+  senate_committees_inferred: true
+  what: Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.

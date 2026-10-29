@@ -1,0 +1,417 @@
+{
+ "id": "hr3562",
+ "title": "DEFIANCE Act of 2025",
+ "sponsor": {
+  "bioguide": "O000172",
+  "name": "Ocasio-Cortez, Alexandria",
+  "party": "D",
+  "state": "NY"
+ },
+ "introduced": "2025-05-21",
+ "committees": [
+  "HSJU"
+ ],
+ "latest": {
+  "date": "2025-05-21",
+  "text": "Referred to the House Committee on the Judiciary."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "L000597",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001039",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000530",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000624",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000599",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000582",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M000194",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001222",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "R000606",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "P000620",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "V000133",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "V000081",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "F000466",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000478",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001130",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M000317",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "G000583",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "E000246",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001110",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001126",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "H001090",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "G000589",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "G000606",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000596",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "A000381",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "K000398",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000481",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "E000296",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001238",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001224",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001217",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "H001093",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000601",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001295",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "N000147",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000594",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "C001059",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000595",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "K000389",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000480",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "A000148",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001260",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000230",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001215",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "W000822",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "W000812",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "T000468",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001327",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "P000613",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "L000598",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "F000477",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001214",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000631",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "G000597",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S001201",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001213",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "R000305",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "S000168",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001188",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "F000485",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "M001220",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "B001307",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "O000173",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "J000295",
+   "party": "",
+   "state": "",
+   "date": ""
+  },
+  {
+   "bioguide": "D000617",
+   "party": "",
+   "state": "",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3562.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

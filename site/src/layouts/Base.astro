@@ -1,0 +1,58 @@
+---
+import '../styles/global.css';
+import { generated, formatDate, url } from '../lib/data';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'Action items for every member of Congress toward Problem Solvers Caucus goals.' } = Astro.props;
+
+const NAV = [
+  ['', 'Overview'],
+  ['members/', 'Members'],
+  ['goals/', 'Goals'],
+];
+const here = Astro.url.pathname.replace(import.meta.env.BASE_URL.replace(/\/$/, ''), '') || '/';
+const current = (path: string) => (path ? here.startsWith(`/${path}`) : here === '/');
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="robots" content="noindex" />
+    <title>{title}</title>
+    <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="wordmark" href={url()}>
+          <span class="mark" aria-hidden="true"></span>
+          Congress Insights
+        </a>
+        <nav class="nav" aria-label="Sections">
+          {
+            NAV.map(([path, label]) => (
+              <a href={url(path)} aria-current={current(path) ? 'page' : undefined}>
+                {label}
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+    </header>
+    <main class="wrap">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        Built {formatDate(generated)} from congress-legislators, govinfo bill status and Problem Solvers Caucus
+        releases. Priorities rank options for each member; they are not predictions of what members will do.
+      </div>
+    </footer>
+  </body>
+</html>

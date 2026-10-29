@@ -1,0 +1,549 @@
+{
+ "id": "hr2036",
+ "title": "Credit for Caring Act of 2025",
+ "sponsor": {
+  "bioguide": "C001126",
+  "name": "Carey, Mike",
+  "party": "R",
+  "state": "OH"
+ },
+ "introduced": "2025-03-11",
+ "committees": [
+  "HSWM"
+ ],
+ "latest": {
+  "date": "2025-03-11",
+  "text": "Referred to the House Committee on Ways and Means."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "S001156",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001223",
+   "party": "D",
+   "state": "RI",
+   "date": ""
+  },
+  {
+   "bioguide": "D000594",
+   "party": "R",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "N000147",
+   "party": "D",
+   "state": "DC",
+   "date": ""
+  },
+  {
+   "bioguide": "K000399",
+   "party": "R",
+   "state": "VA",
+   "date": ""
+  },
+  {
+   "bioguide": "R000305",
+   "party": "D",
+   "state": "NC",
+   "date": ""
+  },
+  {
+   "bioguide": "V000133",
+   "party": "R",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "P000613",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000599",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "M001234",
+   "party": "D",
+   "state": "MN",
+   "date": ""
+  },
+  {
+   "bioguide": "M000317",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "T000486",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "M000871",
+   "party": "R",
+   "state": "KS",
+   "date": ""
+  },
+  {
+   "bioguide": "F000476",
+   "party": "D",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "K000376",
+   "party": "R",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "B001315",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "C001053",
+   "party": "R",
+   "state": "OK",
+   "date": ""
+  },
+  {
+   "bioguide": "S001207",
+   "party": "D",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "T000478",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "C001078",
+   "party": "D",
+   "state": "VA",
+   "date": ""
+  },
+  {
+   "bioguide": "V000129",
+   "party": "R",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "N000191",
+   "party": "D",
+   "state": "CO",
+   "date": ""
+  },
+  {
+   "bioguide": "A000372",
+   "party": "R",
+   "state": "GA",
+   "date": ""
+  },
+  {
+   "bioguide": "H001066",
+   "party": "D",
+   "state": "NV",
+   "date": ""
+  },
+  {
+   "bioguide": "G000597",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "S001201",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "N000193",
+   "party": "R",
+   "state": "IA",
+   "date": ""
+  },
+  {
+   "bioguide": "H001090",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "K000385",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "M001205",
+   "party": "R",
+   "state": "WV",
+   "date": ""
+  },
+  {
+   "bioguide": "B001322",
+   "party": "R",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "B001326",
+   "party": "D",
+   "state": "OR",
+   "date": ""
+  },
+  {
+   "bioguide": "M001222",
+   "party": "R",
+   "state": "OH",
+   "date": ""
+  },
+  {
+   "bioguide": "V000138",
+   "party": "D",
+   "state": "VA",
+   "date": ""
+  },
+  {
+   "bioguide": "G000546",
+   "party": "R",
+   "state": "MO",
+   "date": ""
+  },
+  {
+   "bioguide": "S001185",
+   "party": "D",
+   "state": "AL",
+   "date": ""
+  },
+  {
+   "bioguide": "M001235",
+   "party": "R",
+   "state": "WV",
+   "date": ""
+  },
+  {
+   "bioguide": "B001296",
+   "party": "D",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "W000795",
+   "party": "R",
+   "state": "SC",
+   "date": ""
+  },
+  {
+   "bioguide": "D000617",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "B001298",
+   "party": "R",
+   "state": "NE",
+   "date": ""
+  },
+  {
+   "bioguide": "B001281",
+   "party": "D",
+   "state": "OH",
+   "date": ""
+  },
+  {
+   "bioguide": "M001196",
+   "party": "D",
+   "state": "MA",
+   "date": ""
+  },
+  {
+   "bioguide": "S001228",
+   "party": "R",
+   "state": "KS",
+   "date": ""
+  },
+  {
+   "bioguide": "A000369",
+   "party": "R",
+   "state": "NV",
+   "date": ""
+  },
+  {
+   "bioguide": "W000797",
+   "party": "D",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "C001066",
+   "party": "D",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "R000609",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "W000812",
+   "party": "R",
+   "state": "MO",
+   "date": ""
+  },
+  {
+   "bioguide": "C001121",
+   "party": "D",
+   "state": "CO",
+   "date": ""
+  },
+  {
+   "bioguide": "B001301",
+   "party": "R",
+   "state": "MI",
+   "date": ""
+  },
+  {
+   "bioguide": "P000620",
+   "party": "D",
+   "state": "CO",
+   "date": ""
+  },
+  {
+   "bioguide": "D000631",
+   "party": "D",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "S001229",
+   "party": "R",
+   "state": "IN",
+   "date": ""
+  },
+  {
+   "bioguide": "F000474",
+   "party": "R",
+   "state": "NE",
+   "date": ""
+  },
+  {
+   "bioguide": "D000624",
+   "party": "D",
+   "state": "MI",
+   "date": ""
+  },
+  {
+   "bioguide": "R000619",
+   "party": "R",
+   "state": "OH",
+   "date": ""
+  },
+  {
+   "bioguide": "D000629",
+   "party": "D",
+   "state": "KS",
+   "date": ""
+  },
+  {
+   "bioguide": "S001212",
+   "party": "R",
+   "state": "MN",
+   "date": ""
+  },
+  {
+   "bioguide": "T000482",
+   "party": "D",
+   "state": "MA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001068",
+   "party": "D",
+   "state": "TN",
+   "date": ""
+  },
+  {
+   "bioguide": "B001309",
+   "party": "R",
+   "state": "TN",
+   "date": ""
+  },
+  {
+   "bioguide": "B001282",
+   "party": "R",
+   "state": "KY",
+   "date": ""
+  },
+  {
+   "bioguide": "M001214",
+   "party": "D",
+   "state": "IN",
+   "date": ""
+  },
+  {
+   "bioguide": "G000589",
+   "party": "R",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "C001136",
+   "party": "D",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "J000311",
+   "party": "R",
+   "state": "GA",
+   "date": ""
+  },
+  {
+   "bioguide": "A000380",
+   "party": "D",
+   "state": "RI",
+   "date": ""
+  },
+  {
+   "bioguide": "C001112",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "N000189",
+   "party": "R",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "K000398",
+   "party": "R",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "C001117",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "G000602",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "S000168",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "C001110",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "B001257",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "T000474",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001039",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "M001226",
+   "party": "D",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "L000600",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "P000607",
+   "party": "D",
+   "state": "WI",
+   "date": ""
+  },
+  {
+   "bioguide": "S001189",
+   "party": "R",
+   "state": "GA",
+   "date": ""
+  },
+  {
+   "bioguide": "H001085",
+   "party": "D",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "G000591",
+   "party": "R",
+   "state": "MS",
+   "date": ""
+  },
+  {
+   "bioguide": "H001091",
+   "party": "R",
+   "state": "IA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000601",
+   "party": "D",
+   "state": "OH",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2036.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

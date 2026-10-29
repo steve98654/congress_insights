@@ -1,0 +1,58 @@
+---
+import { billById, goalById, goalUrl, memberBySlug, memberUrl, type Action } from '../lib/data';
+
+interface Props {
+  actions: Action[];
+  /** Show which member each action is for (cross-member lists). */
+  who?: Record<number, string>;
+}
+const { actions, who } = Astro.props;
+---
+
+<ol class="actions">
+  {
+    actions.map((a, i) => {
+      const goal = goalById.get(a.goal);
+      const bill = a.bill ? billById.get(a.bill) : undefined;
+      const m = who?.[i] ? memberBySlug.get(who[i]) : undefined;
+      return (
+        <li>
+          {m && (
+            <div class="small">
+              <a href={memberUrl(m.slug)}>
+                {m.title} {m.name}
+              </a>{' '}
+              <span class={`pill ${m.party}`}>{m.label}</span>
+            </div>
+          )}
+          <div class="what">{a.text}</div>
+          <div class="why">{a.why}</div>
+          <div class="meta">
+            {goal && <a href={goalUrl(goal.id)}>{goal.title}</a>}
+            {bill && (
+              <>
+                {' · '}
+                <a href={bill.url}>{bill.label}</a>
+              </>
+            )}
+            {' · '}priority {a.priority}
+            {a.partners.length > 0 && (
+              <>
+                {' · with '}
+                {a.partners.map((s, j) => {
+                  const p = memberBySlug.get(s);
+                  return p ? (
+                    <>
+                      {j > 0 && ', '}
+                      <a href={memberUrl(s)}>{p.name}</a>
+                    </>
+                  ) : null;
+                })}
+              </>
+            )}
+          </div>
+        </li>
+      );
+    })
+  }
+</ol>

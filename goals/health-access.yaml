@@ -1,0 +1,46 @@
+id: health-access
+title: Protect access to care
+area: Health
+summary: Faster Medicare Advantage prior authorization, stable Medicare lab payments, a stronger sepsis response, and no waiting periods for metastatic breast cancer patients.
+psc_ask: Pass the caucus-endorsed health bills; two have cleared committee votes.
+endorsed: '2026-08-12'
+sources:
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=903
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=904
+- https://problemsolverscaucus.house.gov/issues/congress
+- https://pappas.house.gov/media/press-releases/pappas-backed-bills-included-in-problem-solvers-caucus-bipartisan-affordability-agenda
+bills:
+- id: hr3514
+  short: Improving Seniors' Timely Access to Care Act
+  house_committees: [HSWM, HSIF]
+  senate_committees: [SSFI]
+  senate_committees_inferred: true
+  what: Modernizes Medicare Advantage prior authorization so seniors are not delayed.
+- id: hr5269
+  short: RESULTS Act
+  house_committees: [HSIF, HSWM]
+  senate_committees: [SSFI]
+  senate_committees_inferred: true
+  what: Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
+- id: hr7116
+  short: SEPSIS Act
+  house_committees: [HSIF]
+  senate_committees: [SSHR]
+  companion: s1929
+  what: Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.
+- id: s1929
+  short: SEPSIS Act
+  senate_committees: [SSHR]
+  companion: hr7116
+  what: Senate companion to H.R. 7116.
+- id: hr2048
+  short: Metastatic Breast Cancer Access to Care Act
+  house_committees: [HSWM]
+  senate_committees: [SSFI]
+  companion: s3442
+  what: Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
+- id: s3442
+  short: Metastatic Breast Cancer Access to Care Act
+  senate_committees: [SSFI]
+  companion: hr2048
+  what: Senate companion to H.R. 2048.

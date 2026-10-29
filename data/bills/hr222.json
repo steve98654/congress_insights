@@ -1,0 +1,70 @@
+{
+ "id": "hr222",
+ "title": "Sustainable Budget Act of 2025",
+ "sponsor": {
+  "bioguide": "C001055",
+  "name": "Case, Ed",
+  "party": "D",
+  "state": "HI"
+ },
+ "introduced": "2025-01-07",
+ "committees": [
+  "HSBU",
+  "HSRU"
+ ],
+ "latest": {
+  "date": "2025-01-07",
+  "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules"
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "W000809",
+   "party": "R",
+   "state": "AR",
+   "date": "2025-01-07"
+  },
+  {
+   "bioguide": "P000608",
+   "party": "D",
+   "state": "CA",
+   "date": "2025-01-07"
+  },
+  {
+   "bioguide": "N000193",
+   "party": "R",
+   "state": "IA",
+   "date": "2025-01-07"
+  },
+  {
+   "bioguide": "B001298",
+   "party": "R",
+   "state": "NE",
+   "date": "2025-02-07"
+  },
+  {
+   "bioguide": "C001103",
+   "party": "R",
+   "state": "GA",
+   "date": "2025-02-10"
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": "2025-04-07"
+  },
+  {
+   "bioguide": "L000598",
+   "party": "R",
+   "state": "NY",
+   "date": "2026-04-29"
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr222.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}
