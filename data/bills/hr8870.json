@@ -1,0 +1,61 @@
+{
+ "id": "hr8870",
+ "title": "BUILD America 250 Act (surface transportation reauthorization)",
+ "sponsor": {
+  "bioguide": "G000546",
+  "name": "Graves, Sam",
+  "party": "R",
+  "state": "MO"
+ },
+ "introduced": "2026-05-19",
+ "committees": [
+  "HSPW"
+ ],
+ "latest": {
+  "date": "2026-05-22",
+  "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 62 - 2."
+ },
+ "votes": [
+  {
+   "text": "House T&I committee 2026-05-22 ordered reported 62-2"
+  }
+ ],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "L000560",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "R000603",
+   "party": "R",
+   "state": "NC",
+   "date": ""
+  },
+  {
+   "bioguide": "W000806",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "N000147",
+   "party": "D",
+   "state": "DC",
+   "date": ""
+  },
+  {
+   "bioguide": "R000619",
+   "party": "R",
+   "state": "OH",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "reported",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8870.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

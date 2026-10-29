@@ -1,0 +1,34 @@
+id: redistricting-reform
+title: End partisan gerrymandering
+area: Elections
+summary: Four caucus bills introduced together on 2026-09-15 to limit mid-decade redistricting, set national map-drawing standards, require independent commissions and standardize court challenges.
+psc_ask: Move the four Problem Solvers redistricting bills through Judiciary as a package.
+endorsed: '2026-09-16'
+sources:
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=916
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=911
+bills:
+- id: hr10378
+  short: TRUST Act
+  house_committees: [HSJU]
+  senate_committees: [SSJU, SSRA]
+  senate_committees_inferred: true
+  what: Limits states to one congressional redistricting after each census.
+- id: hr10379
+  short: MAPS Act
+  house_committees: [HSJU]
+  senate_committees: [SSJU, SSRA]
+  senate_committees_inferred: true
+  what: Sets national map-drawing criteria and bars maps drawn to favor a party, candidate or incumbent.
+- id: hr10380
+  short: Independent Commissions Act
+  house_committees: [HSJU]
+  senate_committees: [SSJU, SSRA]
+  senate_committees_inferred: true
+  what: Requires congressional maps to be drawn by independent citizen commissions.
+- id: hr10381
+  short: COURTS Act
+  house_committees: [HSJU]
+  senate_committees: [SSJU]
+  senate_committees_inferred: true
+  what: Creates one federal process, with set jurisdiction and venue, for court challenges to congressional maps.

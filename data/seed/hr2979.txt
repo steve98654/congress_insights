@@ -1,0 +1,14 @@
+TITLE: BUILD Act of 2025 (facilities for local police and fire departments)
+SPONSOR: P000614|Pappas, Chris|D|NH
+INTRODUCED: 2025-04-21
+COMMITTEES: hspw00 Transportation and Infrastructure Committee, hssy00 Science, Space, and Technology Committee, hsju00 Judiciary Committee
+LATEST: 2025-04-22|Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+VOTES: none
+COSPONSORS (7):
+L000595|R|LA
+K000398|R|NJ
+F000466|R|PA
+V000135|R|WI
+G000604|D|NH
+P000613|D|CA
+K000399|R|VA

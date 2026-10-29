@@ -1,0 +1,69 @@
+{
+ "id": "s1929",
+ "title": "SEPSIS Act (Senate)",
+ "sponsor": {
+  "bioguide": "S000148",
+  "name": "Schumer, Charles E.",
+  "party": "D",
+  "state": "NY"
+ },
+ "introduced": "2025-06-03",
+ "committees": [
+  "SSHR"
+ ],
+ "latest": {
+  "date": "2025-06-03",
+  "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "C001035",
+   "party": "R",
+   "state": "ME",
+   "date": ""
+  },
+  {
+   "bioguide": "K000394",
+   "party": "D",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "K000367",
+   "party": "D",
+   "state": "MN",
+   "date": ""
+  },
+  {
+   "bioguide": "M001169",
+   "party": "D",
+   "state": "CT",
+   "date": ""
+  },
+  {
+   "bioguide": "M001153",
+   "party": "R",
+   "state": "AK",
+   "date": ""
+  },
+  {
+   "bioguide": "B001299",
+   "party": "R",
+   "state": "IN",
+   "date": ""
+  },
+  {
+   "bioguide": "C001088",
+   "party": "D",
+   "state": "DE",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1929.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

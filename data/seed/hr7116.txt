@@ -1,0 +1,14 @@
+TITLE: SEPSIS Act
+SPONSOR: N000188|Norcross, Donald|D|NJ
+INTRODUCED: 2026-01-15
+COMMITTEES: hsif00 Energy and Commerce Committee
+LATEST: 2026-01-15|Referred to the House Committee on Energy and Commerce.
+VOTES: none
+COSPONSORS (7):
+K000398|R|NJ
+F000466|R|PA
+G000583|D|NJ
+N000147|D|DC
+L000599|R|NY
+L000598|R|NY
+R000603|R|NC

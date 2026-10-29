@@ -1,0 +1,489 @@
+{
+ "id": "hr1464",
+ "title": "MODERN WIC Act of 2025",
+ "sponsor": {
+  "bioguide": "F000466",
+  "name": "Fitzpatrick, Brian K.",
+  "party": "R",
+  "state": "PA"
+ },
+ "introduced": "2025-02-21",
+ "committees": [
+  "HSED"
+ ],
+ "latest": {
+  "date": "2025-02-21",
+  "text": "Referred to the House Committee on Education and Workforce."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "B001278",
+   "party": "D",
+   "state": "OR",
+   "date": ""
+  },
+  {
+   "bioguide": "K000389",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000582",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001206",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "B001326",
+   "party": "D",
+   "state": "OR",
+   "date": ""
+  },
+  {
+   "bioguide": "C001080",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "S001156",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "G000598",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "S001216",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "T000474",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "M000312",
+   "party": "D",
+   "state": "MA",
+   "date": ""
+  },
+  {
+   "bioguide": "T000488",
+   "party": "D",
+   "state": "MI",
+   "date": ""
+  },
+  {
+   "bioguide": "F000483",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "B001298",
+   "party": "R",
+   "state": "NE",
+   "date": ""
+  },
+  {
+   "bioguide": "B001300",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "D000629",
+   "party": "D",
+   "state": "KS",
+   "date": ""
+  },
+  {
+   "bioguide": "B001322",
+   "party": "R",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "F000476",
+   "party": "D",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "B001318",
+   "party": "D",
+   "state": "VT",
+   "date": ""
+  },
+  {
+   "bioguide": "H001090",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "D000617",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000599",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "C001125",
+   "party": "D",
+   "state": "LA",
+   "date": ""
+  },
+  {
+   "bioguide": "N000147",
+   "party": "D",
+   "state": "DC",
+   "date": ""
+  },
+  {
+   "bioguide": "R000305",
+   "party": "D",
+   "state": "NC",
+   "date": ""
+  },
+  {
+   "bioguide": "G000581",
+   "party": "D",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "F000477",
+   "party": "D",
+   "state": "NC",
+   "date": ""
+  },
+  {
+   "bioguide": "P000614",
+   "party": "D",
+   "state": "NH",
+   "date": ""
+  },
+  {
+   "bioguide": "V000129",
+   "party": "R",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001069",
+   "party": "D",
+   "state": "CT",
+   "date": ""
+  },
+  {
+   "bioguide": "A000370",
+   "party": "D",
+   "state": "NC",
+   "date": ""
+  },
+  {
+   "bioguide": "U000040",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "S000510",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001112",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "S000168",
+   "party": "R",
+   "state": "FL",
+   "date": ""
+  },
+  {
+   "bioguide": "S001231",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001223",
+   "party": "D",
+   "state": "RI",
+   "date": ""
+  },
+  {
+   "bioguide": "P000608",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001208",
+   "party": "D",
+   "state": "GA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001214",
+   "party": "D",
+   "state": "IN",
+   "date": ""
+  },
+  {
+   "bioguide": "L000601",
+   "party": "D",
+   "state": "OH",
+   "date": ""
+  },
+  {
+   "bioguide": "V000138",
+   "party": "D",
+   "state": "VA",
+   "date": ""
+  },
+  {
+   "bioguide": "P000621",
+   "party": "D",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "W000830",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "B001327",
+   "party": "R",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "G000600",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "S001223",
+   "party": "D",
+   "state": "OH",
+   "date": ""
+  },
+  {
+   "bioguide": "M001230",
+   "party": "R",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000593",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001068",
+   "party": "D",
+   "state": "TN",
+   "date": ""
+  },
+  {
+   "bioguide": "T000460",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "T000491",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "D000631",
+   "party": "D",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000397",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001123",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000598",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "L000602",
+   "party": "D",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "K000400",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001160",
+   "party": "D",
+   "state": "WI",
+   "date": ""
+  },
+  {
+   "bioguide": "E000296",
+   "party": "D",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001163",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "A000381",
+   "party": "D",
+   "state": "AZ",
+   "date": ""
+  },
+  {
+   "bioguide": "M001188",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "T000486",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "T000487",
+   "party": "D",
+   "state": "HI",
+   "date": ""
+  },
+  {
+   "bioguide": "C001072",
+   "party": "D",
+   "state": "IN",
+   "date": ""
+  },
+  {
+   "bioguide": "G000597",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "V000136",
+   "party": "D",
+   "state": "NM",
+   "date": ""
+  },
+  {
+   "bioguide": "G000606",
+   "party": "D",
+   "state": "AZ",
+   "date": ""
+  },
+  {
+   "bioguide": "P000620",
+   "party": "D",
+   "state": "CO",
+   "date": ""
+  },
+  {
+   "bioguide": "D000623",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "K000375",
+   "party": "D",
+   "state": "MA",
+   "date": ""
+  },
+  {
+   "bioguide": "E000299",
+   "party": "D",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "T000469",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "M001229",
+   "party": "D",
+   "state": "NJ",
+   "date": ""
+  },
+  {
+   "bioguide": "B001287",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001241",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1464.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

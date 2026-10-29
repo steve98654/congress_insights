@@ -1,0 +1,57 @@
+{
+ "id": "hr10381",
+ "title": "PSC COURTS Act (redistricting litigation)",
+ "sponsor": {
+  "bioguide": "M001230",
+  "name": "Mackenzie, Ryan",
+  "party": "R",
+  "state": "PA"
+ },
+ "introduced": "2026-09-15",
+ "committees": [
+  "HSJU"
+ ],
+ "latest": {
+  "date": "2026-09-15",
+  "text": "Referred to the House Committee on the Judiciary."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "C001055",
+   "party": "D",
+   "state": "HI",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "H001100",
+   "party": "R",
+   "state": "CO",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "L000598",
+   "party": "R",
+   "state": "NY",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "L000599",
+   "party": "R",
+   "state": "NY",
+   "date": "2026-09-15"
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10381.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

@@ -1,0 +1,91 @@
+---
+import Base from '../../layouts/Base.astro';
+import ActionList from '../../components/ActionList.astro';
+import SupportBar from '../../components/SupportBar.astro';
+import { STAGES, committeeByCode, formatDate, goalById, goals, insights, memberById, memberUrl, type Action } from '../../lib/data';
+
+export function getStaticPaths() {
+  return goals.map((g) => ({ params: { id: g.id } }));
+}
+
+const g = goalById.get(Astro.params.id!)!;
+// Best action on this goal for each member, top 20 across Congress.
+const ranked = insights
+  .map((i) => ({ slug: i.slug, action: i.actions.find((a) => a.goal === g.id) }))
+  .filter((x): x is { slug: string; action: Action } => !!x.action)
+  .sort((a, b) => b.action.priority - a.action.priority || a.slug.localeCompare(b.slug))
+  .slice(0, 20);
+const who = Object.fromEntries(ranked.map((r, n) => [n, r.slug]));
+const committees = (codes: string[]) => codes.map(committeeByCode).join(', ');
+---
+
+<Base title={`${g.title} · Congress Insights`}>
+  <section class="hero">
+    <div class="small muted">{g.area} · endorsed {formatDate(g.endorsed)}</div>
+    <h1>{g.title}</h1>
+    <p class="lede">{g.summary}</p>
+    <p><b>What the caucus is asking:</b> {g.psc_ask}</p>
+  </section>
+
+  <div class="two">
+    <section>
+      <h2>Who can move it</h2>
+      {ranked.length ? <ActionList actions={ranked.map((r) => r.action)} who={who} /> : <p class="muted">No member-level actions yet.</p>}
+    </section>
+    <aside>
+      <h2>Bills</h2>
+      {
+        g.bills.map((b) => {
+          const sponsor = b.sponsor_id ? memberById.get(b.sponsor_id) : undefined;
+          return (
+            <div class="card" style="margin-bottom:12px">
+              <div class="small">
+                <a href={b.url}><b>{b.label}</b></a> <span class={`pill stage-${b.stage}`}>{STAGES[b.stage]}</span>
+              </div>
+              <h3>{b.short}</h3>
+              <p class="small muted">{b.what}</p>
+              <SupportBar bill={b} />
+              <dl class="kv" style="margin-top:8px">
+                {sponsor && (<><dt>Sponsor</dt><dd><a href={memberUrl(sponsor.slug)}>{sponsor.name}</a> ({sponsor.label})</dd></>)}
+                {b.house_committees.length > 0 && (<><dt>House</dt><dd>{committees(b.house_committees)}</dd></>)}
+                {b.senate_committees.length > 0 && (<><dt>Senate</dt><dd>{committees(b.senate_committees)}{b.senate_committees_inferred && ' (likely)'}</dd></>)}
+                {b.committee_vote && (<><dt>Committee</dt><dd>{b.committee_vote}</dd></>)}
+                {b.house_vote && (<><dt>House vote</dt><dd>{b.house_vote}</dd></>)}
+                {b.senate_result && (<><dt>Senate</dt><dd>{b.senate_result}</dd></>)}
+                {b.latest?.text && (<><dt>Latest</dt><dd>{formatDate(b.latest.date)}: {b.latest.text}</dd></>)}
+              </dl>
+              {b.status_note && <p class="small">{b.status_note}</p>}
+            </div>
+          );
+        })
+      }
+      {
+        g.unnumbered.length > 0 && (
+          <>
+            <h2>Proposals without a bill number</h2>
+            <ul class="plain">
+              {g.unnumbered.map((u) => (
+                <li>
+                  <b>{u.title}</b>
+                  <div class="small muted">{u.what}</div>
+                </li>
+              ))}
+            </ul>
+          </>
+        )
+      }
+      {
+        g.committees.length > 0 && (
+          <>
+            <h2>Committees</h2>
+            <p class="small">{committees(g.committees)}</p>
+          </>
+        )
+      }
+      <h2>Sources</h2>
+      <ul class="plain small">
+        {g.sources.map((s) => (<li><a href={s}>{s.replace(/^https?:\/\/(www\.)?/, '').slice(0, 70)}</a></li>))}
+      </ul>
+    </aside>
+  </div>
+</Base>

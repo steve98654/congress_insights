@@ -1,0 +1,12 @@
+TITLE: PSC COURTS Act (redistricting litigation)
+SPONSOR: M001230|Mackenzie, Ryan|R|PA
+INTRODUCED: 2026-09-15
+COMMITTEES: hsju00 Judiciary Committee
+LATEST: 2026-09-15|Referred to the House Committee on the Judiciary.
+VOTES: none
+COSPONSORS (5):
+C001055|D|HI|2026-09-15
+F000466|R|PA|2026-09-15
+H001100|R|CO|2026-09-15
+L000598|R|NY|2026-09-15
+L000599|R|NY|2026-09-15

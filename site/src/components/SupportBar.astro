@@ -1,0 +1,17 @@
+---
+import type { Bill } from '../lib/data';
+interface Props {
+  bill: Bill;
+}
+const { bill } = Astro.props;
+const total = Math.max(bill.stats.supporters, 1);
+---
+
+<div class="bar" role="img" aria-label={`${bill.stats.R} Republicans and ${bill.stats.D} Democrats`}>
+  <span class="R" style={`width:${(100 * bill.stats.R) / total}%`}></span>
+  <span class="D" style={`width:${(100 * bill.stats.D) / total}%`}></span>
+</div>
+<div class="small muted">
+  {bill.stats.supporters} sponsors and cosponsors · {bill.stats.R} R · {bill.stats.D} D · {bill.stats.psc} PSC
+  {!bill.cosponsors_complete && ' · list incomplete until next refresh'}
+</div>

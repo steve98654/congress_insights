@@ -1,0 +1,22 @@
+id: infrastructure
+title: Rebuild roads, transit and first-responder facilities
+area: Infrastructure
+summary: Pass a multi-year surface transportation bill, BUILD America 250, before this Congress ends, and fund facilities for small and rural police and fire departments.
+psc_ask: Bring H.R. 8870 to the floor (committee vote 62-2) and pass the BUILD Act.
+endorsed: '2026-09-03'
+sources:
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=910
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=902
+bills:
+- id: hr8870
+  short: BUILD America 250 Act
+  house_committees: [HSPW]
+  senate_committees: [SSEV, SSCM, SSBK]
+  senate_committees_inferred: true
+  what: Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
+- id: hr2979
+  short: BUILD Act for police and fire facilities
+  house_committees: [HSPW, HSJU, HSSY]
+  senate_committees: [SSJU, SSGA]
+  senate_committees_inferred: true
+  what: DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.

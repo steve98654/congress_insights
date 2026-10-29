@@ -1,0 +1,286 @@
+{
+ "id": "hr9340",
+ "title": "Ratepayer Protection Act",
+ "sponsor": {
+  "bioguide": "E000300",
+  "name": "Evans, Gabe",
+  "party": "R",
+  "state": "CO"
+ },
+ "introduced": "2026-06-18",
+ "committees": [
+  "HSIF"
+ ],
+ "latest": {
+  "date": "2026-09-30",
+  "text": "Motion to proceed to consideration of measure withdrawn in Senate. (CR S5199)"
+ },
+ "votes": [
+  {
+   "text": "House roll 312 2026-09-16 On motion to suspend the rules and pass, as amended: Agreed to 417-3"
+  },
+  {
+   "text": "Senate vote 254 2026-09-30 Cloture on the motion to proceed not invoked 57-43"
+  }
+ ],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "C001066",
+   "party": "D",
+   "state": "FL",
+   "date": "2026-06-18"
+  },
+  {
+   "bioguide": "V000133",
+   "party": "R",
+   "state": "NJ",
+   "date": "2026-06-23"
+  },
+  {
+   "bioguide": "J000302",
+   "party": "R",
+   "state": "PA",
+   "date": "2026-06-25"
+  },
+  {
+   "bioguide": "M001157",
+   "party": "R",
+   "state": "TX",
+   "date": "2026-06-29"
+  },
+  {
+   "bioguide": "B001322",
+   "party": "R",
+   "state": "WA",
+   "date": "2026-06-29"
+  },
+  {
+   "bioguide": "F000485",
+   "party": "R",
+   "state": "GA",
+   "date": "2026-06-30"
+  },
+  {
+   "bioguide": "W000804",
+   "party": "R",
+   "state": "VA",
+   "date": "2026-06-30"
+  },
+  {
+   "bioguide": "O000177",
+   "party": "R",
+   "state": "MO",
+   "date": "2026-07-13"
+  },
+  {
+   "bioguide": "H001096",
+   "party": "R",
+   "state": "WY",
+   "date": "2026-07-20"
+  },
+  {
+   "bioguide": "K000398",
+   "party": "R",
+   "state": "NJ",
+   "date": "2026-07-20"
+  },
+  {
+   "bioguide": "V000135",
+   "party": "R",
+   "state": "WI",
+   "date": "2026-07-20"
+  },
+  {
+   "bioguide": "M001239",
+   "party": "R",
+   "state": "VA",
+   "date": "2026-07-20"
+  },
+  {
+   "bioguide": "G000568",
+   "party": "R",
+   "state": "VA",
+   "date": "2026-07-21"
+  },
+  {
+   "bioguide": "M001230",
+   "party": "R",
+   "state": "PA",
+   "date": "2026-07-23"
+  },
+  {
+   "bioguide": "B000490",
+   "party": "D",
+   "state": "GA",
+   "date": "2026-07-27"
+  },
+  {
+   "bioguide": "M001227",
+   "party": "D",
+   "state": "VA",
+   "date": "2026-08-03"
+  },
+  {
+   "bioguide": "G000583",
+   "party": "D",
+   "state": "NJ",
+   "date": "2026-08-03"
+  },
+  {
+   "bioguide": "L000597",
+   "party": "R",
+   "state": "FL",
+   "date": "2026-08-17"
+  },
+  {
+   "bioguide": "C001063",
+   "party": "D",
+   "state": "TX",
+   "date": "2026-08-17"
+  },
+  {
+   "bioguide": "C001118",
+   "party": "R",
+   "state": "VA",
+   "date": "2026-08-27"
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": "2026-08-27"
+  },
+  {
+   "bioguide": "M001237",
+   "party": "D",
+   "state": "MI",
+   "date": "2026-08-27"
+  },
+  {
+   "bioguide": "B000825",
+   "party": "R",
+   "state": "CO",
+   "date": "2026-08-27"
+  },
+  {
+   "bioguide": "L000599",
+   "party": "R",
+   "state": "NY",
+   "date": "2026-08-27"
+  },
+  {
+   "bioguide": "V000134",
+   "party": "R",
+   "state": "TX",
+   "date": "2026-08-27"
+  },
+  {
+   "bioguide": "F000475",
+   "party": "R",
+   "state": "MN",
+   "date": "2026-08-31"
+  },
+  {
+   "bioguide": "C001137",
+   "party": "R",
+   "state": "CO",
+   "date": "2026-08-31"
+  },
+  {
+   "bioguide": "M001235",
+   "party": "R",
+   "state": "WV",
+   "date": "2026-08-31"
+  },
+  {
+   "bioguide": "C001103",
+   "party": "R",
+   "state": "GA",
+   "date": "2026-08-31"
+  },
+  {
+   "bioguide": "J000289",
+   "party": "R",
+   "state": "OH",
+   "date": "2026-09-01"
+  },
+  {
+   "bioguide": "K000399",
+   "party": "R",
+   "state": "VA",
+   "date": "2026-09-01"
+  },
+  {
+   "bioguide": "M001194",
+   "party": "R",
+   "state": "MI",
+   "date": "2026-09-02"
+  },
+  {
+   "bioguide": "W000814",
+   "party": "R",
+   "state": "TX",
+   "date": "2026-09-02"
+  },
+  {
+   "bioguide": "S000522",
+   "party": "R",
+   "state": "NJ",
+   "date": "2026-09-02"
+  },
+  {
+   "bioguide": "G000604",
+   "party": "D",
+   "state": "NH",
+   "date": "2026-09-04"
+  },
+  {
+   "bioguide": "H001058",
+   "party": "R",
+   "state": "MI",
+   "date": "2026-09-10"
+  },
+  {
+   "bioguide": "H001100",
+   "party": "R",
+   "state": "CO",
+   "date": "2026-09-10"
+  },
+  {
+   "bioguide": "V000129",
+   "party": "R",
+   "state": "CA",
+   "date": "2026-09-10"
+  },
+  {
+   "bioguide": "B001321",
+   "party": "R",
+   "state": "MI",
+   "date": "2026-09-10"
+  },
+  {
+   "bioguide": "D000594",
+   "party": "R",
+   "state": "TX",
+   "date": "2026-09-10"
+  },
+  {
+   "bioguide": "F000246",
+   "party": "R",
+   "state": "TX",
+   "date": "2026-09-10"
+  },
+  {
+   "bioguide": "F000474",
+   "party": "R",
+   "state": "NE",
+   "date": "2026-09-10"
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "passed_house",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9340.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

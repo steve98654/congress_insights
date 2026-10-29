@@ -1,0 +1,28 @@
+name: Site
+
+on:
+  pull_request:
+    paths: ['site/**', 'briefs/**', 'data/**', 'goals/**', 'scripts/**', '.github/workflows/site.yml']
+  push:
+    branches: [main]
+    paths: ['site/**', 'briefs/**', 'data/**', 'goals/**', 'scripts/**', '.github/workflows/site.yml']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml==6.0.2 requests==2.32.3
+      # Rebuild from the committed data so a broken script or goal file fails here, not in the weekly refresh.
+      - name: Rebuild members and insights
+        run: python scripts/build_members.py && python scripts/build_insights.py
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - working-directory: site
+        run: npm ci && npm run check && npm run build

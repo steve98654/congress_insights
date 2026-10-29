@@ -1,0 +1,163 @@
+{
+ "id": "hr4642",
+ "title": "Fiscal Contingency Preparedness Act",
+ "sponsor": {
+  "bioguide": "C001118",
+  "name": "Cline, Ben",
+  "party": "R",
+  "state": "VA"
+ },
+ "introduced": "2025-07-23",
+ "committees": [
+  "HSGO"
+ ],
+ "latest": {
+  "date": "2026-03-18",
+  "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 39 - 1."
+ },
+ "votes": [
+  {
+   "text": "House Oversight committee 2026-03-18 Ordered to be Reported (Amended) 39-1"
+  }
+ ],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "G000592",
+   "party": "D",
+   "state": "ME",
+   "date": "2025-07-23"
+  },
+  {
+   "bioguide": "B001301",
+   "party": "R",
+   "state": "MI",
+   "date": "2025-07-23"
+  },
+  {
+   "bioguide": "G000600",
+   "party": "D",
+   "state": "WA",
+   "date": "2025-07-23"
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": "2025-11-12"
+  },
+  {
+   "bioguide": "M001206",
+   "party": "D",
+   "state": "NY",
+   "date": "2025-11-12"
+  },
+  {
+   "bioguide": "D000626",
+   "party": "R",
+   "state": "OH",
+   "date": "2025-11-12"
+  },
+  {
+   "bioguide": "C001063",
+   "party": "D",
+   "state": "TX",
+   "date": "2025-11-12"
+  },
+  {
+   "bioguide": "H001093",
+   "party": "R",
+   "state": "IN",
+   "date": "2025-11-12"
+  },
+  {
+   "bioguide": "L000601",
+   "party": "D",
+   "state": "OH",
+   "date": "2025-11-12"
+  },
+  {
+   "bioguide": "E000246",
+   "party": "R",
+   "state": "NC",
+   "date": "2025-11-12"
+  },
+  {
+   "bioguide": "H001058",
+   "party": "R",
+   "state": "MI",
+   "date": "2025-11-19"
+  },
+  {
+   "bioguide": "P000608",
+   "party": "D",
+   "state": "CA",
+   "date": "2025-11-19"
+  },
+  {
+   "bioguide": "W000809",
+   "party": "R",
+   "state": "AR",
+   "date": "2026-01-09"
+  },
+  {
+   "bioguide": "C001055",
+   "party": "D",
+   "state": "HI",
+   "date": "2026-01-09"
+  },
+  {
+   "bioguide": "B001282",
+   "party": "R",
+   "state": "KY",
+   "date": "2026-01-20"
+  },
+  {
+   "bioguide": "D000230",
+   "party": "D",
+   "state": "NC",
+   "date": "2026-01-20"
+  },
+  {
+   "bioguide": "V000139",
+   "party": "R",
+   "state": "TN",
+   "date": "2026-04-15"
+  },
+  {
+   "bioguide": "H001085",
+   "party": "D",
+   "state": "PA",
+   "date": "2026-04-15"
+  },
+  {
+   "bioguide": "L000598",
+   "party": "R",
+   "state": "NY",
+   "date": "2026-04-29"
+  },
+  {
+   "bioguide": "V000138",
+   "party": "D",
+   "state": "VA",
+   "date": "2026-04-29"
+  },
+  {
+   "bioguide": "M001213",
+   "party": "R",
+   "state": "UT",
+   "date": "2026-05-22"
+  },
+  {
+   "bioguide": "D000629",
+   "party": "D",
+   "state": "KS",
+   "date": "2026-06-08"
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "reported",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4642.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

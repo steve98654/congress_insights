@@ -1,0 +1,114 @@
+---
+import Base from '../../layouts/Base.astro';
+import { insightBySlug, memberUrl, members } from '../../lib/data';
+
+const rows = members
+  .map((m) => ({ m, i: insightBySlug.get(m.slug)! }))
+  .sort((a, b) => b.i.score - a.i.score || a.m.last.localeCompare(b.m.last));
+const states = [...new Set(members.map((m) => m.state))].sort();
+---
+
+<Base title="Members · Congress Insights">
+  <section class="hero">
+    <h1>Members</h1>
+    <p class="lede">
+      Sorted by leverage score: how much each member's best moves could advance the caucus goals. Tier A is the
+      pilot group: PSC members, floor leaders, and chairs and ranking members of the committees that hold caucus bills.
+    </p>
+  </section>
+
+  <div class="toolbar">
+    <label class="visually-hidden" for="q">Search members</label>
+    <input id="q" type="search" placeholder="Search by name, state or committee" autocomplete="off" />
+    <select id="chamber" aria-label="Chamber">
+      <option value="">Both chambers</option>
+      <option value="senate">Senate</option>
+      <option value="house">House</option>
+    </select>
+    <select id="party" aria-label="Party">
+      <option value="">All parties</option>
+      <option value="R">Republican</option>
+      <option value="D">Democrat</option>
+      <option value="I">Independent</option>
+    </select>
+    <select id="tier" aria-label="Tier">
+      <option value="">All tiers</option>
+      <option value="A">Tier A (pilot)</option>
+      <option value="B">Tier B</option>
+      <option value="C">Tier C</option>
+    </select>
+    <select id="psc" aria-label="Problem Solvers Caucus">
+      <option value="">PSC and non-PSC</option>
+      <option value="yes">PSC members</option>
+      <option value="no">Not listed in PSC</option>
+    </select>
+    <select id="state" aria-label="State">
+      <option value="">All states</option>
+      {states.map((s) => <option value={s}>{s}</option>)}
+    </select>
+    <span class="muted small" id="count"></span>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Member</th>
+          <th>Tier</th>
+          <th class="num">Score</th>
+          <th class="num">Supports</th>
+          <th>Top action</th>
+        </tr>
+      </thead>
+      <tbody id="rows">
+        {
+          rows.map(({ m, i }) => (
+            <tr
+              data-chamber={m.chamber}
+              data-party={m.party}
+              data-tier={i.tier}
+              data-psc={m.psc ? 'yes' : 'no'}
+              data-state={m.state}
+              data-text={[m.name, m.state, m.seat, m.leadership.join(' '), m.committees.map((c) => c.name).join(' ')].join(' ').toLowerCase()}
+            >
+              <td>
+                <a href={memberUrl(m.slug)}>{m.name}</a> <span class={`pill ${m.party}`}>{m.label}</span>
+                {m.psc && <span class="pill psc">PSC</span>}
+              </td>
+              <td>
+                <span class={`pill tier-${i.tier}`}>{i.tier}</span>
+              </td>
+              <td class="num">{i.score}</td>
+              <td class="num">
+                {i.support.count}/{i.support.total}
+              </td>
+              <td class="small">{i.actions[0]?.text ?? <span class="muted">No strong lever yet</span>}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    const ids = ['chamber', 'party', 'tier', 'psc', 'state'] as const;
+    const q = document.querySelector<HTMLInputElement>('#q')!;
+    const selects = ids.map((id) => document.querySelector<HTMLSelectElement>(`#${id}`)!);
+    const rows = [...document.querySelectorAll<HTMLTableRowElement>('#rows tr')];
+    const count = document.querySelector('#count')!;
+    function apply() {
+      const text = q.value.trim().toLowerCase();
+      let shown = 0;
+      for (const row of rows) {
+        const ok =
+          (!text || row.dataset.text!.includes(text)) && selects.every((s, n) => !s.value || row.dataset[ids[n]] === s.value);
+        row.hidden = !ok;
+        if (ok) shown++;
+      }
+      count.textContent = `${shown} of ${rows.length}`;
+    }
+    q.addEventListener('input', apply);
+    selects.forEach((s) => s.addEventListener('change', apply));
+    apply();
+  </script>
+</Base>

@@ -1,0 +1,29 @@
+id: energy-housing-costs
+title: Lower housing and home energy costs
+area: Affordability
+summary: The housing and energy part of the caucus's February 2026 affordability agenda, covering more housing supply, LIHEAP administration, and clearer VA home loan terms for veterans.
+psc_ask: Move the affordability agenda bills for housing supply, home energy help and VA loans.
+endorsed: '2026-02-04'
+sources:
+- https://pappas.house.gov/media/press-releases/pappas-backed-bills-included-in-problem-solvers-caucus-bipartisan-affordability-agenda
+- https://thedailyrecord.com/2026/02/04/house-problem-solvers-affordability-agenda-cost-of-living/
+bills:
+- id: hr3876
+  short: LIHEAP Staffing Support Act
+  house_committees: [HSIF, HSED]
+  senate_committees: [SSHR]
+  senate_committees_inferred: true
+  what: Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
+- id: hr3694
+  short: VALID Act
+  house_committees: [HSBA]
+  senate_committees: [SSBK, SSVA]
+  senate_committees_inferred: true
+  what: Improves veterans' access to and understanding of VA home loans.
+unnumbered:
+- title: Affordable Housing Credit Improvement Act
+  what: Expands and strengthens the Low-Income Housing Tax Credit.
+  committees: [HSWM, SSFI]
+- title: Accelerating Home Building Act
+  what: Helps local governments speed up permitting and home building.
+  committees: [HSBA, SSBK]

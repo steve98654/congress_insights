@@ -1,0 +1,26 @@
+id: family-costs
+title: Cut costs for caregivers and young families
+area: Affordability
+summary: Tax relief for family caregivers and early childhood educators, and remote WIC enrollment, from the affordability agenda and later endorsements.
+psc_ask: Pass the Credit for Caring Act (endorsed 2026-10-22) and the child care and WIC bills in the affordability agenda.
+endorsed: '2026-10-22'
+sources:
+- https://problemsolverscaucus.house.gov/news/documentsingle.aspx?DocumentID=923
+- https://pappas.house.gov/media/press-releases/pappas-backed-bills-included-in-problem-solvers-caucus-bipartisan-affordability-agenda
+bills:
+- id: hr2036
+  short: Credit for Caring Act
+  house_committees: [HSWM]
+  senate_committees: [SSFI]
+  senate_committees_inferred: true
+  what: A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
+- id: hr1464
+  short: MODERN WIC Act
+  house_committees: [HSED]
+  senate_committees: [SSAF]
+  senate_committees_inferred: true
+  what: Lets families complete WIC certification and receive benefits remotely.
+unnumbered:
+- title: Early Childhood Educator Expense Deduction (SEED) Act
+  what: Gives early childhood educators the same expense deduction K-12 teachers get. (The press release cites H.R. 5334, but that number belongs to a different bill, so it is left unnumbered.)
+  committees: [HSWM, SSFI]

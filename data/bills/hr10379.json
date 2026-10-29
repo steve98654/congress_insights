@@ -1,0 +1,87 @@
+{
+ "id": "hr10379",
+ "title": "Problem Solvers MAPS Act (map-drawing standards)",
+ "sponsor": {
+  "bioguide": "L000599",
+  "name": "Lawler, Michael",
+  "party": "R",
+  "state": "NY"
+ },
+ "introduced": "2026-09-15",
+ "committees": [
+  "HSJU"
+ ],
+ "latest": {
+  "date": "2026-09-15",
+  "text": "Referred to the House Committee on the Judiciary."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "C001112",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "S001201",
+   "party": "D",
+   "state": "NY",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "H001100",
+   "party": "R",
+   "state": "CO",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "C001055",
+   "party": "D",
+   "state": "HI",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "L000598",
+   "party": "R",
+   "state": "NY",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "D000624",
+   "party": "D",
+   "state": "MI",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "M001230",
+   "party": "R",
+   "state": "PA",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "N000188",
+   "party": "D",
+   "state": "NJ",
+   "date": "2026-09-15"
+  },
+  {
+   "bioguide": "S001200",
+   "party": "D",
+   "state": "FL",
+   "date": "2026-09-15"
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10379.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

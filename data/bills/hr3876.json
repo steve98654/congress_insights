@@ -1,0 +1,316 @@
+{
+ "id": "hr3876",
+ "title": "LIHEAP Staffing Support Act",
+ "sponsor": {
+  "bioguide": "G000583",
+  "name": "Gottheimer, Josh",
+  "party": "D",
+  "state": "NJ"
+ },
+ "introduced": "2025-06-10",
+ "committees": [
+  "HSED",
+  "HSIF"
+ ],
+ "latest": {
+  "date": "2025-06-10",
+  "text": "Referred to Energy and Commerce and, additionally, Education and Workforce."
+ },
+ "votes": [],
+ "actions": [],
+ "cosponsors": [
+  {
+   "bioguide": "L000599",
+   "party": "R",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "F000466",
+   "party": "R",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "C001072",
+   "party": "D",
+   "state": "IN",
+   "date": ""
+  },
+  {
+   "bioguide": "T000488",
+   "party": "D",
+   "state": "MI",
+   "date": ""
+  },
+  {
+   "bioguide": "C001119",
+   "party": "D",
+   "state": "MN",
+   "date": ""
+  },
+  {
+   "bioguide": "K000402",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "M001143",
+   "party": "D",
+   "state": "MN",
+   "date": ""
+  },
+  {
+   "bioguide": "G000586",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "D000617",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "B001318",
+   "party": "D",
+   "state": "VT",
+   "date": ""
+  },
+  {
+   "bioguide": "P000614",
+   "party": "D",
+   "state": "NH",
+   "date": ""
+  },
+  {
+   "bioguide": "A000370",
+   "party": "D",
+   "state": "NC",
+   "date": ""
+  },
+  {
+   "bioguide": "F000468",
+   "party": "D",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "S001211",
+   "party": "D",
+   "state": "AZ",
+   "date": ""
+  },
+  {
+   "bioguide": "M001238",
+   "party": "D",
+   "state": "DE",
+   "date": ""
+  },
+  {
+   "bioguide": "M001223",
+   "party": "D",
+   "state": "RI",
+   "date": ""
+  },
+  {
+   "bioguide": "N000147",
+   "party": "D",
+   "state": "DC",
+   "date": ""
+  },
+  {
+   "bioguide": "K000391",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "T000482",
+   "party": "D",
+   "state": "MA",
+   "date": ""
+  },
+  {
+   "bioguide": "E000296",
+   "party": "D",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "F000483",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "L000562",
+   "party": "D",
+   "state": "MA",
+   "date": ""
+  },
+  {
+   "bioguide": "P000620",
+   "party": "D",
+   "state": "CO",
+   "date": ""
+  },
+  {
+   "bioguide": "M001232",
+   "party": "D",
+   "state": "MD",
+   "date": ""
+  },
+  {
+   "bioguide": "D000530",
+   "party": "D",
+   "state": "PA",
+   "date": ""
+  },
+  {
+   "bioguide": "M001214",
+   "party": "D",
+   "state": "IN",
+   "date": ""
+  },
+  {
+   "bioguide": "J000310",
+   "party": "D",
+   "state": "TX",
+   "date": ""
+  },
+  {
+   "bioguide": "M000687",
+   "party": "D",
+   "state": "MD",
+   "date": ""
+  },
+  {
+   "bioguide": "G000604",
+   "party": "D",
+   "state": "NH",
+   "date": ""
+  },
+  {
+   "bioguide": "C001069",
+   "party": "D",
+   "state": "CT",
+   "date": ""
+  },
+  {
+   "bioguide": "R000622",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "B001315",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "A000381",
+   "party": "D",
+   "state": "AZ",
+   "date": ""
+  },
+  {
+   "bioguide": "C001059",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "S001223",
+   "party": "D",
+   "state": "OH",
+   "date": ""
+  },
+  {
+   "bioguide": "S001201",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "G000605",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "B001324",
+   "party": "D",
+   "state": "MO",
+   "date": ""
+  },
+  {
+   "bioguide": "T000193",
+   "party": "D",
+   "state": "MS",
+   "date": ""
+  },
+  {
+   "bioguide": "S001225",
+   "party": "D",
+   "state": "IL",
+   "date": ""
+  },
+  {
+   "bioguide": "M001231",
+   "party": "D",
+   "state": "NY",
+   "date": ""
+  },
+  {
+   "bioguide": "S000510",
+   "party": "D",
+   "state": "WA",
+   "date": ""
+  },
+  {
+   "bioguide": "R000599",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "B001326",
+   "party": "D",
+   "state": "OR",
+   "date": ""
+  },
+  {
+   "bioguide": "L000582",
+   "party": "D",
+   "state": "CA",
+   "date": ""
+  },
+  {
+   "bioguide": "K000375",
+   "party": "D",
+   "state": "MA",
+   "date": ""
+  },
+  {
+   "bioguide": "H001066",
+   "party": "D",
+   "state": "NV",
+   "date": ""
+  },
+  {
+   "bioguide": "V000138",
+   "party": "D",
+   "state": "VA",
+   "date": ""
+  }
+ ],
+ "cosponsors_complete": true,
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3876.xml",
+ "fetched": "2026-10-29",
+ "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+}

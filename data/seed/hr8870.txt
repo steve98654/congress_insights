@@ -1,0 +1,12 @@
+TITLE: BUILD America 250 Act (surface transportation reauthorization)
+SPONSOR: G000546|Graves, Sam|R|MO
+INTRODUCED: 2026-05-19
+COMMITTEES: hspw00 Transportation and Infrastructure Committee
+LATEST: 2026-05-22|Ordered to be Reported (Amended) by the Yeas and Nays: 62 - 2.
+VOTES: House T&I committee 2026-05-22 ordered reported 62-2
+COSPONSORS (5):
+L000560|D|WA
+R000603|R|NC
+W000806|R|FL
+N000147|D|DC
+R000619|R|OH

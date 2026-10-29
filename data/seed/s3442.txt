@@ -1,0 +1,14 @@
+TITLE: Metastatic Breast Cancer Access to Care Act (Senate)
+SPONSOR: M001169|Murphy, Christopher|D|CT
+INTRODUCED: 2025-12-11
+COMMITTEES: ssfi00 Finance Committee
+LATEST: 2025-12-11|Read twice and referred to the Committee on Finance.
+VOTES: none
+COSPONSORS (7):
+M001153|R|AK
+R000605|R|SD
+G000555|D|NY
+M001176|D|OR
+C001047|R|WV
+A000382|D|MD
+C001035|R|ME

@@ -1,0 +1,66 @@
+---
+import Base from '../layouts/Base.astro';
+import ActionList from '../components/ActionList.astro';
+import { STAGES, STAGE_ORDER, goalUrl, goals, insights, members, type Action } from '../lib/data';
+
+const psc = members.filter((m) => m.psc).length;
+const tierA = insights.filter((i) => i.tier === 'A').length;
+const bills = goals.flatMap((g) => g.bills);
+
+// The strongest single move for each member, then the best of those across Congress.
+const best = insights
+  .filter((i) => i.actions.length)
+  .map((i) => ({ slug: i.slug, action: i.actions[0] }))
+  .sort((a, b) => b.action.priority - a.action.priority || a.slug.localeCompare(b.slug))
+  .slice(0, 15);
+const topActions: Action[] = best.map((b) => b.action);
+const who = Object.fromEntries(best.map((b, i) => [i, b.slug]));
+
+const stageCount = (stage: string) => bills.filter((b) => b.stage === stage).length;
+---
+
+<Base title="Congress Insights">
+  <section class="hero">
+    <h1>What each member of Congress can do next</h1>
+    <p class="lede">
+      Every senator and representative gets action items toward the Problem Solvers Caucus agenda. The ranking
+      weighs where each bill is stuck against the member's leverage at that stage: sponsorship, the chair or
+      ranking seat on the committee holding it, other committee seats, floor leadership, their recorded votes
+      and their state delegation.
+    </p>
+    <div class="facts">
+      <span><b>{members.length}</b> members</span>
+      <span><b>{psc}</b> listed PSC members</span>
+      <span><b>{tierA}</b> in the pilot tier</span>
+      <span><b>{goals.length}</b> goals</span>
+      <span><b>{bills.length}</b> bills tracked</span>
+      <span>{['reported', 'passed_house', 'passed_senate'].map((s) => `${stageCount(s)} ${STAGES[s].toLowerCase()}`).join(' · ')}</span>
+    </div>
+  </section>
+
+  <div class="two">
+    <section>
+      <h2>Highest-leverage moves right now</h2>
+      <p class="muted small">The top action for each member, ranked across both chambers.</p>
+      <ActionList actions={topActions} who={who} />
+    </section>
+    <aside>
+      <h2>Goals</h2>
+      <ul class="plain">
+        {
+          goals.map((g) => {
+            const furthest = g.bills.map((b) => b.stage).sort((a, b) => STAGE_ORDER.indexOf(b) - STAGE_ORDER.indexOf(a))[0];
+            return (
+              <li>
+                <a href={goalUrl(g.id)}>{g.title}</a>
+                <div class="small muted">
+                  {g.area} · {g.bills.length ? `${g.bills.length} ${g.bills.length === 1 ? 'bill' : 'bills'}, furthest: ${STAGES[furthest].toLowerCase()}` : 'committee work'}
+                </div>
+              </li>
+            );
+          })
+        }
+      </ul>
+    </aside>
+  </div>
+</Base>

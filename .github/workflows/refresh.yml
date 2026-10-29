@@ -1,0 +1,65 @@
+name: Data refresh
+
+# Weekly pull of members and committees (congress-legislators), bill status and cosponsors (govinfo
+# BILLSTATUS) and roll calls (senate.gov, clerk.house.gov) for every goal bill. Rebuilds the briefs and
+# opens a pull request with the changes. None of the sources need an API key.
+on:
+  schedule:
+    - cron: '23 9 * * 1' # Mondays 09:23 UTC
+  workflow_dispatch:
+  pull_request:
+    paths: ['scripts/**', 'goals/**', '.github/workflows/refresh.yml']
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: data-refresh-${{ github.event_name }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml==6.0.2 requests==2.32.3
+
+      - name: Fetch
+        run: python scripts/refresh_data.py all 2>&1 | tee "$RUNNER_TEMP/refresh.log"
+      - name: Rebuild members and insights
+        run: |
+          python scripts/build_members.py
+          python scripts/build_insights.py | tee -a "$RUNNER_TEMP/refresh.log"
+
+      # Make sure the site still builds with the new data before proposing it.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Build site
+        working-directory: site
+        run: npm ci && npm run check && npm run build
+
+      - name: Open pull request
+        if: github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- briefs data; then echo "No changes."; exit 0; fi
+          branch="data-refresh/$(date -u +%Y-%m-%d)-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add briefs data
+          git commit -q -m "Data refresh $(date -u +%Y-%m-%d)"
+          git push -q origin "$branch"
+          { echo '```'; cat "$RUNNER_TEMP/refresh.log"; echo '```'; } > "$RUNNER_TEMP/body.md"
+          gh pr create --base main --head "$branch" --title "Data refresh $(date -u +%Y-%m-%d)" \
+            --body-file "$RUNNER_TEMP/body.md" \
+            || echo "::warning::Could not open the PR. Turn on Settings > Actions > General > 'Allow GitHub Actions to create and approve pull requests', or open $branch by hand."

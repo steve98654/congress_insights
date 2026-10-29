@@ -1,0 +1,14 @@
+TITLE: SEPSIS Act (Senate)
+SPONSOR: S000148|Schumer, Charles E.|D|NY
+INTRODUCED: 2025-06-03
+COMMITTEES: sshr00 Health, Education, Labor, and Pensions Committee
+LATEST: 2025-06-03|Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+VOTES: none
+COSPONSORS (7):
+C001035|R|ME
+K000394|D|NJ
+K000367|D|MN
+M001169|D|CT
+M001153|R|AK
+B001299|R|IN
+C001088|D|DE
