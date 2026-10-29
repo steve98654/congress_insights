@@ -20,9 +20,27 @@ state delegation. It writes concrete next steps such as "Schedule a markup of H.
 | `data/members.json` | 539 members with committees, leadership and PSC membership |
 | `data/bills/`, `data/votes/` | Sponsor, cosponsors, status and roll calls for the 23 goal bills |
 | `data/insights.json` | Everything the site reads: actions, scores, tiers, partners |
-| `scripts/` | `refresh_data.py` (fetch), `build_members.py`, `plays.py` (rules), `build_insights.py` |
-| `site/` | Astro site: overview, member pages, goal pages |
+| `data/analysis.json` | The ten cross-member insights below |
+| `scripts/` | `refresh_data.py` (fetch), `build_members.py`, `plays.py` (rules), `analysis.py`, `build_insights.py` |
+| `site/` | Astro site: overview, member pages, goal pages, insights, CSV call sheets |
 | `docs/` | [Hosting and refresh](docs/hosting.md), [weekly caucus research task](docs/weekly-research.md) |
+
+## Insights
+
+Ten views across all of Congress, on the site under Insights:
+
+1. **Senate whip count**: no votes on caucus bills, ranked by persuadability (home-state split, committee seat, other caucus support).
+2. **Floor math**: backers against 218 and 290 for each House bill, and which bills could be discharged.
+3. **Next cosponsors**: the ten best cosponsor asks for each House bill, with reasons.
+4. **Caucus gaps**: PSC members not yet on bills the caucus endorsed. Co-chairs also get these as actions.
+5. **Missing Senate companions**: House bills with no Senate version and the bipartisan pair best placed to introduce one.
+6. **Committee bottlenecks**: committees holding caucus bills, ranked by the support waiting on them.
+7. **State delegations**: support per goal by state, and the bill most of each delegation already backs.
+8. **Bridge builders**: members backing the most caucus bills led by the other party.
+9. **Momentum**: cosponsors added in the last 90 days.
+10. **Call sheets**: `actions.csv` and `members.csv` downloads with phones and offices.
+
+Sponsors of bills with 150+ backers stuck in committee also get a discharge petition action.
 
 ## Tiers
 
@@ -42,7 +60,7 @@ cd site && npm ci && npm run build      # or npm run dev
 ```
 
 `python scripts/refresh_data.py seed` rebuilds bill and vote data from the snapshots in `data/seed/`
-without network access.
+without network access. The committed bill data comes from a live govinfo refresh.
 
 ## Caveats
 

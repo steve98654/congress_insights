@@ -34,7 +34,7 @@ jobs:
       - run: npm ci
       - run: npm run build
       # Keep crawlers out whichever host is used.
-      - run: printf 'User-agent: *\nDisallow: /\n' > dist/robots.txt
+      - run: "printf 'User-agent: *\\nDisallow: /\\n' > dist/robots.txt"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site/dist

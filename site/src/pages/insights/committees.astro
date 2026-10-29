@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import BillRef from '../../components/BillRef.astro';
+import Who from '../../components/Who.astro';
+import { STAGES, analysis } from '../../lib/data';
+---
+
+<Base title="Committee bottlenecks · Congress Insights">
+  <section class="hero">
+    <h1>Committee bottlenecks</h1>
+    <p class="lede">
+      Committees holding caucus bills that have not been reported, ranked by how much support is waiting on them. The chair
+      decides whether they get a markup.
+    </p>
+  </section>
+  {
+    analysis.committees.map((c) => (
+      <section class="card" style="margin-bottom:14px">
+        <div class="eyebrow">{c.chamber === 'senate' ? 'Senate' : 'House'} · {c.size} members · bottleneck score {c.bottleneck}</div>
+        <h3>{c.name}</h3>
+        <p class="small">
+          {c.chair && <>Chair <Who m={c.chair} /></>} {c.ranking && <>· Ranking <Who m={c.ranking} /></>}
+        </p>
+        <table>
+          <thead><tr><th>Bill</th><th>Stage</th><th class="num">Backers</th><th class="num">On this committee</th></tr></thead>
+          <tbody>
+            {c.bills.map((b) => (
+              <tr>
+                <td><BillRef bill={b.bill} /></td>
+                <td><span class={`pill stage-${b.stage}`}>{STAGES[b.stage]}</span></td>
+                <td class="num">{b.supporters}</td>
+                <td class="num">{b.committee_supporters} ({Math.round(100 * b.committee_share)}%)</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </section>
+    ))
+  }
+</Base>

@@ -2,7 +2,7 @@
 
 Representative for PA-13 · 7.8 years in the House
 
-**Priority tier B** · leverage score 64 (rank 161 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 64 (rank 160 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Energy and Commerce
 
@@ -15,15 +15,15 @@ Representative for PA-13 · 7.8 years in the House
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01).
+   3 colleagues from your state already cosponsor: Rep. Christopher R. Deluzio (D-PA-17), Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Brian K. Fitzpatrick (R-PA-01).
 5. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Chrissy Houlahan (D-PA-06), Rep. Mike Kelly (R-PA-16), Rep. Brendan F. Boyle (D-PA-02), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Mike Kelly (R-PA-16), Rep. Brendan F. Boyle (D-PA-02), Rep. Madeleine Dean (D-PA-04), 2 more.
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Dwight Evans (D-PA-03), Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Summer L. Lee (D-PA-12), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Ryan Mackenzie (R-PA-07), Rep. Summer L. Lee (D-PA-12), Rep. Dwight Evans (D-PA-03), 3 more.
 7. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Lloyd Smucker (R-PA-11), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06).
+   3 colleagues from your state already cosponsor: Rep. Chrissy Houlahan (D-PA-06), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Lloyd Smucker (R-PA-11).
 8. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   11 colleagues from your state already cosponsor: Rep. Mary Gay Scanlon (D-PA-05), Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Brian K. Fitzpatrick (R-PA-01), 8 more.
+   13 colleagues from your state already cosponsor: Rep. Christopher R. Deluzio (D-PA-17), Rep. Mary Gay Scanlon (D-PA-05), Rep. Ryan Mackenzie (R-PA-07), 10 more.
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for PA-13 · 7.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

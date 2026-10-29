@@ -15,11 +15,11 @@ Senator for KY · 41.8 years in the Senate
 3. **Introduce a Senate companion to H.R. 10379 (MAPS Act) with Sen. Amy Klobuchar (D-MN).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 55_  
    There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 4. **Introduce a Senate companion to H.R. 10380 (Independent Commissions Act) with Sen. Amy Klobuchar (D-MN).** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 55_  
-   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 5. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 6. **Introduce a Senate companion to H.R. 1464 (MODERN WIC Act) with Sen. Amy Klobuchar (D-MN).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 40_  
-   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 78 sponsors and cosponsors (10 R, 68 D, 16 PSC).
+   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 
 ## Position on each goal
 
@@ -47,7 +47,5 @@ Senator for KY · 41.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

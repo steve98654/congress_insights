@@ -9,11 +9,11 @@ Representative for CA-09 · 7.8 years in the House · Problem Solvers Caucus mem
 ## Top actions
 
 1. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Raul Ruiz (D-CA-25), Rep. Jim Costa (D-CA-21), Rep. Ted Lieu (D-CA-36), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Jim Costa (D-CA-21), Rep. Raul Ruiz (D-CA-25), Rep. Ted Lieu (D-CA-36), 2 more.
 2. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Mike Thompson (D-CA-04), Rep. Scott H. Peters (D-CA-50), Rep. Jay Obernolte (R-CA-23), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Jay Obernolte (R-CA-23), Rep. Scott H. Peters (D-CA-50), Rep. Jimmy Panetta (D-CA-19), 3 more.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 14 colleagues from your state already cosponsor: Rep. Mike Thompson (D-CA-04), Rep. Kevin Mullin (D-CA-15), Rep. Nanette Diaz Barragán (D-CA-44), 11 more.
+   It is PSC-endorsed and you are a caucus member. 14 colleagues from your state already cosponsor: Rep. Julia Brownley (D-CA-26), Rep. Mike Levin (D-CA-49), Rep. Young Kim (R-CA-40), 11 more.
 4. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
@@ -51,7 +51,5 @@ Representative for CA-09 · 7.8 years in the House · Problem Solvers Caucus mem
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

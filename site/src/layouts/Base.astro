@@ -12,6 +12,7 @@ const NAV = [
   ['', 'Overview'],
   ['members/', 'Members'],
   ['goals/', 'Goals'],
+  ['insights/', 'Insights'],
 ];
 const here = Astro.url.pathname.replace(import.meta.env.BASE_URL.replace(/\/$/, ''), '') || '/';
 const current = (path: string) => (path ? here.startsWith(`/${path}`) : here === '/');

@@ -2,7 +2,7 @@
 
 Representative for RI-01 · 3 years in the House
 
-**Priority tier B** · leverage score 66 (rank 127 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 66 (rank 128 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Foreign Affairs; Science, Space, and Technology; Budget
 
@@ -39,15 +39,13 @@ Representative for RI-01 · 3 years in the House
 ## Cross-party partners
 
 - [Rep. Michael Lawler (R-NY-17)](lawler-ny-17.md): shared committees: Foreign Affairs; PSC member
+- [Rep. Thomas H. Kean, Jr. (R-NJ-07)](kean-nj-07.md): shared committees: Foreign Affairs; PSC member
 - [Rep. Maria Elvira Salazar (R-FL-27)](salazar-fl-27.md): shared committees: Foreign Affairs; PSC member
-- [Rep. Ryan Mackenzie (R-PA-07)](mackenzie-pa-07.md): shared committees: Foreign Affairs; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

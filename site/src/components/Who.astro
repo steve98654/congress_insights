@@ -1,0 +1,9 @@
+---
+import { memberUrl, type Who } from '../lib/data';
+interface Props {
+  m: Who;
+}
+const { m } = Astro.props;
+---
+
+<span class="nowrap"><a href={memberUrl(m.slug)}>{m.name}</a> <span class={`pill ${m.party}`}>{m.label}</span>{m.psc && <> <span class="pill psc">PSC</span></>}</span>

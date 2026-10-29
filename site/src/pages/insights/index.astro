@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import { INSIGHTS } from '../../lib/insights';
+import { url } from '../../lib/data';
+---
+
+<Base title="Insights · Congress Insights">
+  <section class="hero">
+    <h1>Insights</h1>
+    <p class="lede">Views across all of Congress that show where the caucus agenda is closest to moving and who can move it.</p>
+  </section>
+  <div class="grid">
+    {
+      INSIGHTS.map(([path, title, blurb]) => (
+        <a class="card card-link" href={url(path === 'downloads' ? 'downloads/' : `insights/${path}/`)}>
+          <h3>{title}</h3>
+          <p class="small muted">{blurb}</p>
+        </a>
+      ))
+    }
+  </div>
+</Base>

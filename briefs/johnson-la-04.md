@@ -9,15 +9,15 @@ Representative for LA-04 · 9.8 years in the House · Speaker of the House
 1. **Schedule a floor vote on H.R. 4642 (Fiscal Contingency Preparedness Act).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 95_  
    It cleared committee (committee vote 39-1) with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 2. **Schedule a floor vote on H.R. 3514 (Improving Seniors' Timely Access to Care Act).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 95_  
-   It cleared committee (committee vote 42-0) with 191 sponsors and cosponsors (66 R, 123 D, 28 PSC).
+   It cleared committee (committee vote 42-0) with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
 3. **Schedule a floor vote on H.R. 8870 (BUILD America 250 Act).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 95_  
    It cleared committee (committee vote 62-2) with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 4. **Bring S. 1837 (DEFIANCE Act), already passed by the Senate, to the House floor.** _Make AI safe and protect deepfake victims · [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) · priority 90_  
-   Passing the Senate text sends it straight to the President. The House version H.R. 3562 has 66 sponsors and cosponsors (32 R, 34 D, 17 PSC).
-5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Troy A. Carter (D-LA-02), Rep. Cleo Fields (D-LA-06).
-6. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 40_  
-   It cleared committee (committee vote 42-0). 1 of your state colleagues are on it: Rep. Cleo Fields (D-LA-06).
+   Passing the Senate text sends it straight to the President. The House version H.R. 3562 has 70 sponsors and cosponsors (34 R, 36 D, 17 PSC).
+5. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
+   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Cleo Fields (D-LA-06), Rep. Troy A. Carter (D-LA-02), Rep. Julia Letlow (R-LA-05).
+6. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
+   2 colleagues from your state already cosponsor: Rep. Cleo Fields (D-LA-06), Rep. Troy A. Carter (D-LA-02).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -40,16 +40,14 @@ Representative for LA-04 · 9.8 years in the House · Speaker of the House
 
 ## Cross-party partners
 
+- [Rep. Troy A. Carter (D-LA-02)](carter-la-02.md): same state
 - [Rep. Cleo Fields (D-LA-06)](fields-la-06.md): same state
 - [Rep. Thomas R. Suozzi (D-NY-03)](suozzi-ny-03.md): PSC member
-- [Rep. Troy A. Carter (D-LA-02)](carter-la-02.md): same state
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

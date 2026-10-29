@@ -2,7 +2,7 @@
 
 Senator for AK · 23.8 years in the Senate
 
-**Priority tier B** · leverage score 56 (rank 55 of 100 in the Senate) · supports 3 of 4 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 54 of 100 in the Senate) · supports 3 of 4 caucus bills in their chamber
 
 **Committees:** Appropriations; Energy and Natural Resources; Health, Education, Labor, and Pensions; Indian Affairs (Chairman)
 
@@ -43,7 +43,5 @@ Senator for AK · 23.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import BillRef from '../../components/BillRef.astro';
+import Who from '../../components/Who.astro';
+import { analysis } from '../../lib/data';
+---
+
+<Base title="Next cosponsors · Congress Insights">
+  <section class="hero">
+    <h1>Next cosponsors</h1>
+    <p class="lede">
+      For each House bill still short of the floor, the members most likely to sign on next. The score adds PSC membership, a seat
+      on the committee, home-state colleagues already on the bill, support for related caucus bills and a record of backing the
+      other party's caucus bills.
+    </p>
+  </section>
+  {
+    analysis.targets.map((t) => (
+      <section>
+        <h2><BillRef bill={t.bill} /></h2>
+        {t.sponsor && <p class="small muted">Sponsor: <Who m={t.sponsor} /></p>}
+        <ol class="small">
+          {t.targets.map((x) => (
+            <li><Who m={x} /> <span class="muted">{x.reasons.join('; ')}</span></li>
+          ))}
+        </ol>
+      </section>
+    ))
+  }
+</Base>

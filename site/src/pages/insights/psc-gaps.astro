@@ -1,0 +1,33 @@
+---
+import Base from '../../layouts/Base.astro';
+import BillRef from '../../components/BillRef.astro';
+import Who from '../../components/Who.astro';
+import { analysis } from '../../lib/data';
+---
+
+<Base title="Caucus gaps · Congress Insights">
+  <section class="hero">
+    <h1>Caucus gaps</h1>
+    <p class="lede">Listed PSC members who are not yet sponsors or cosponsors of bills the caucus endorsed. These are the easiest cosponsors to add.</p>
+  </section>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Bill</th><th class="num">PSC on</th><th>Not yet on</th></tr></thead>
+      <tbody>
+        {
+          analysis.psc_gaps.map((r) => (
+            <tr>
+              <td><BillRef bill={r.bill} />{!r.complete && <div class="small muted">cosponsor list incomplete</div>}</td>
+              <td class="num">{r.psc_on}/{r.psc_total}</td>
+              <td class="small">
+                {r.missing.map((m, i) => (
+                  <>{i > 0 && ', '}<Who m={m} /></>
+                ))}
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</Base>

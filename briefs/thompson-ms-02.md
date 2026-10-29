@@ -2,7 +2,7 @@
 
 Representative for MS-02 · 33.5 years in the House
 
-**Priority tier C** · leverage score 36 (rank 431 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 36 (rank 432 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Homeland Security (Ranking Member)
 
@@ -32,8 +32,8 @@ Representative for MS-02 · 33.5 years in the House
 
 ## Cross-party partners
 
-- [Rep. Michael Guest (R-MS-03)](guest-ms-03.md): same state; shared committees: Homeland Security
 - [Rep. Nick LaLota (R-NY-01)](lalota-ny-01.md): shared committees: Homeland Security; PSC member
+- [Rep. Michael Guest (R-MS-03)](guest-ms-03.md): same state; shared committees: Homeland Security
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
 
 ## Sources
@@ -41,7 +41,5 @@ Representative for MS-02 · 33.5 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

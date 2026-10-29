@@ -1,9 +1,9 @@
 {
  "id": "hr2979",
- "title": "BUILD Act of 2025 (facilities for local police and fire departments)",
+ "title": "BUILD Act of 2025",
  "sponsor": {
   "bioguide": "P000614",
-  "name": "Pappas, Chris",
+  "name": "Rep. Pappas, Chris [D-NH-1]",
   "party": "D",
   "state": "NH"
  },
@@ -18,54 +18,79 @@
   "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
  },
  "votes": [],
- "actions": [],
+ "actions": [
+  {
+   "date": "2025-04-22",
+   "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Introduced in House"
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Introduced in House"
+  }
+ ],
  "cosponsors": [
   {
    "bioguide": "L000595",
    "party": "R",
    "state": "LA",
-   "date": ""
+   "date": "2025-04-21"
   },
   {
    "bioguide": "K000398",
    "party": "R",
    "state": "NJ",
-   "date": ""
+   "date": "2025-04-21"
   },
   {
    "bioguide": "F000466",
    "party": "R",
    "state": "PA",
-   "date": ""
+   "date": "2025-05-06"
   },
   {
    "bioguide": "V000135",
    "party": "R",
    "state": "WI",
-   "date": ""
+   "date": "2025-09-09"
   },
   {
    "bioguide": "G000604",
    "party": "D",
    "state": "NH",
-   "date": ""
+   "date": "2026-01-27"
   },
   {
    "bioguide": "P000613",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2026-03-24"
   },
   {
    "bioguide": "K000399",
    "party": "R",
    "state": "VA",
-   "date": ""
+   "date": "2026-03-25"
   }
  ],
  "cosponsors_complete": true,
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2979.xml",
  "fetched": "2026-10-29",
- "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+ "fetched_via": "govinfo BILLSTATUS XML"
 }

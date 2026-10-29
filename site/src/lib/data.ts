@@ -148,3 +148,55 @@ export function formatDate(iso?: string) {
   const d = new Date(`${iso.slice(0, 10)}T00:00:00Z`);
   return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
 }
+
+export interface Who {
+  slug: string;
+  name: string;
+  label: string;
+  party: string;
+  psc: boolean;
+}
+type BillRef = { goal: string; bill: string; label: string; short: string };
+
+export interface Analysis {
+  generated: string;
+  whip: (BillRef & { yeas: number; needed: number; short_by: number; result: string; nays: (Who & { score: number; reasons: string[] })[] })[];
+  floor_math: (BillRef & {
+    stage: string;
+    supporters: number;
+    to_majority: number;
+    to_suspension: number;
+    bipartisan: boolean;
+    days_since_intro: number | null;
+    discharge_ready: boolean;
+    complete: boolean;
+  })[];
+  delegations: {
+    state: string;
+    members: number;
+    house: number;
+    senate: number;
+    psc: Who[];
+    tier_a: number;
+    goal_support: Record<string, number>;
+    closest_bill: { bill: string; label: string; short: string; share: number; on: number; of: number; missing: Who[] } | null;
+  }[];
+  committees: {
+    code: string;
+    name: string;
+    chamber: string;
+    size: number;
+    chair: Who | null;
+    ranking: Who | null;
+    bills: (BillRef & { stage: string; supporters: number; committee_supporters: number; committee_share: number })[];
+    waiting: number;
+    bottleneck: number;
+  }[];
+  bridges: Record<'house' | 'senate', (Who & { cross_party: number; total: number })[]>;
+  companions: (BillRef & { stage: string; supporters: number; committees: string[]; inferred: boolean; pair: (Who & { reasons: string[] })[] })[];
+  psc_gaps: (BillRef & { psc_on: number; psc_total: number; missing: Who[]; complete: boolean })[];
+  targets: (BillRef & { sponsor: Who | null; targets: (Who & { score: number; reasons: string[] })[] })[];
+  momentum: (BillRef & { dated: boolean; recent: number | null; recent_members: (Who & { date: string })[]; last_added: string | null })[];
+}
+
+export const analysis = read<Analysis>('analysis.json');

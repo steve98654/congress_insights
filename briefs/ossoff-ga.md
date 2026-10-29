@@ -17,7 +17,7 @@ Senator for GA · 5.8 years in the Senate
 4. **Introduce a Senate companion to H.R. 10379 (MAPS Act) with Sen. Shelley Moore Capito (R-WV).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 40_  
    There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 5. **Introduce a Senate companion to H.R. 10380 (Independent Commissions Act) with Sen. Shelley Moore Capito (R-WV).** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 40_  
-   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 
 ## Position on each goal
 
@@ -45,7 +45,5 @@ Senator for GA · 5.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

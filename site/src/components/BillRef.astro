@@ -1,0 +1,10 @@
+---
+import { billById, goalById, goalUrl } from '../lib/data';
+interface Props {
+  bill: string;
+}
+const b = billById.get(Astro.props.bill)!;
+const g = [...goalById.values()].find((x) => x.bills.some((y) => y.id === b.id))!;
+---
+
+<a href={b.url}><b>{b.label}</b></a> {b.short} <span class="small muted">· <a href={goalUrl(g.id)}>{g.title}</a></span>

@@ -3,7 +3,7 @@
  "title": "Ratepayer Protection Act",
  "sponsor": {
   "bioguide": "E000300",
-  "name": "Evans, Gabe",
+  "name": "Rep. Evans, Gabe [R-CO-8]",
   "party": "R",
   "state": "CO"
  },
@@ -17,13 +17,145 @@
  },
  "votes": [
   {
-   "text": "House roll 312 2026-09-16 On motion to suspend the rules and pass, as amended: Agreed to 417-3"
+   "chamber": "Senate",
+   "roll": "254",
+   "date": "2026-09-30",
+   "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.xml",
+   "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 254."
   },
   {
-   "text": "Senate vote 254 2026-09-30 Cloture on the motion to proceed not invoked 57-43"
+   "chamber": "House",
+   "roll": "312",
+   "date": "2026-09-16",
+   "url": "https://clerk.house.gov/evs/2026/roll312.xml",
+   "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 312). (text: CR H5656-5657)"
+  },
+  {
+   "chamber": "House",
+   "roll": "312",
+   "date": "2026-09-16",
+   "url": "https://clerk.house.gov/evs/2026/roll312.xml",
+   "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 312). (text: CR H5656-5657)"
   }
  ],
- "actions": [],
+ "actions": [
+  {
+   "date": "2026-09-30",
+   "text": "Motion to proceed to consideration of measure withdrawn in Senate. (CR S5199)"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 254."
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Motion to proceed to consideration of measure made in Senate. (CR S5199)"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Motion to proceed to consideration of measure made in Senate."
+  },
+  {
+   "date": "2026-09-28",
+   "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S5065)"
+  },
+  {
+   "date": "2026-09-28",
+   "text": "Motion to proceed to consideration of measure made in Senate. (CR S5065)"
+  },
+  {
+   "date": "2026-09-24",
+   "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 684."
+  },
+  {
+   "date": "2026-09-23",
+   "text": "Read the first time. Placed on Senate Legislative Calendar under Read the First Time."
+  },
+  {
+   "date": "2026-09-17",
+   "text": "Received in the Senate."
+  },
+  {
+   "date": "2026-09-16",
+   "text": "Motion to reconsider laid on the table Agreed to without objection."
+  },
+  {
+   "date": "2026-09-16",
+   "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 312). (text: CR H5656-5657)"
+  },
+  {
+   "date": "2026-09-16",
+   "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 312). (text: CR H5656-5657)"
+  },
+  {
+   "date": "2026-09-16",
+   "text": "Considered as unfinished business. (consideration: CR H5958-5959)"
+  },
+  {
+   "date": "2026-09-15",
+   "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+  },
+  {
+   "date": "2026-09-15",
+   "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9340."
+  },
+  {
+   "date": "2026-09-15",
+   "text": "Considered under suspension of the rules. (consideration: CR H5656-5661)"
+  },
+  {
+   "date": "2026-09-15",
+   "text": "Mr. Guthrie moved to suspend the rules and pass the bill, as amended."
+  },
+  {
+   "date": "2026-09-10",
+   "text": "Placed on the Union Calendar, Calendar No. 713."
+  },
+  {
+   "date": "2026-09-10",
+   "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-814."
+  },
+  {
+   "date": "2026-09-10",
+   "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-814."
+  },
+  {
+   "date": "2026-07-21",
+   "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 52 - 0."
+  },
+  {
+   "date": "2026-07-21",
+   "text": "Committee Consideration and Mark-up Session Held"
+  },
+  {
+   "date": "2026-07-20",
+   "text": "Committee Consideration and Mark-up Session Held"
+  },
+  {
+   "date": "2026-06-24",
+   "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+  },
+  {
+   "date": "2026-06-24",
+   "text": "Subcommittee Consideration and Mark-up Session Held"
+  },
+  {
+   "date": "2026-06-18",
+   "text": "Referred to the Subcommittee on Energy."
+  },
+  {
+   "date": "2026-06-18",
+   "text": "Referred to the House Committee on Energy and Commerce."
+  },
+  {
+   "date": "2026-06-18",
+   "text": "Introduced in House"
+  },
+  {
+   "date": "2026-06-18",
+   "text": "Introduced in House"
+  }
+ ],
  "cosponsors": [
   {
    "bioguide": "C001066",
@@ -282,5 +414,5 @@
  "status": "passed_house",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9340.xml",
  "fetched": "2026-10-29",
- "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+ "fetched_via": "govinfo BILLSTATUS XML"
 }

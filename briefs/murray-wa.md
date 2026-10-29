@@ -13,16 +13,16 @@ Senator for WA · 33.8 years in the Senate
 2. **Negotiate bipartisan toplines so all 12 bills can move on time.** _Fund the government on time · priority 75_  
    The PSC is pushing regular order, and the ranking member's agreement is needed to get there.
 3. **Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 60_  
-   It has 8 sponsors and cosponsors (3 R, 5 D, 0 PSC).
-4. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. John Kennedy (R-LA).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
+   It has 9 sponsors and cosponsors (4 R, 5 D, 0 PSC).
+4. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Roger Marshall (R-KS).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 5. **Introduce a Senate companion to H.R. 3876 (LIHEAP Staffing Support Act) with Sen. Lisa Murkowski (R-AK).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 40_  
    There is no Senate version yet, and you sit on Health, Education, Labor, and Pensions (likely committee of jurisdiction). The House bill is in committee with 49 sponsors and cosponsors (2 R, 47 D, 9 PSC).
 6. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Jim Banks (R-IN).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 40_  
    There is no Senate version yet, and you sit on Veterans' Affairs (likely committee of jurisdiction). The House bill is in committee with 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
-7. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. John Kennedy (R-LA).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
+7. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Roger Marshall (R-KS).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
-8. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. John Kennedy (R-LA).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 40_  
+8. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Roger Marshall (R-KS).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 40_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 
 ## Position on each goal
@@ -51,7 +51,5 @@ Senator for WA · 33.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

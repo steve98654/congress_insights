@@ -2,7 +2,7 @@
 
 Senator for GA · 5.8 years in the Senate
 
-**Priority tier B** · leverage score 56 (rank 56 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 55 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
 
 **Committees:** Agriculture, Nutrition, and Forestry; Banking, Housing, and Urban Affairs; Finance; Aging
 
@@ -12,17 +12,17 @@ Senator for GA · 5.8 years in the Senate
    It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
 2. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
-3. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Chuck Grassley (R-IA).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 191 sponsors and cosponsors (66 R, 123 D, 28 PSC).
+3. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Roger Marshall (R-KS).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
 4. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. David McCormick (R-PA).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    There is no Senate version yet, and you sit on Banking, Housing, and Urban Affairs (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 5. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. David McCormick (R-PA).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 40_  
    There is no Senate version yet, and you sit on Banking, Housing, and Urban Affairs (likely committee of jurisdiction). The House bill is in committee with 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
-6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Chuck Grassley (R-IA).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 88 sponsors and cosponsors (44 R, 42 D, 15 PSC).
-7. **Introduce a Senate companion to H.R. 1464 (MODERN WIC Act) with Sen. Chuck Grassley (R-IA).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 40_  
-   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 78 sponsors and cosponsors (10 R, 68 D, 16 PSC).
-8. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Chuck Grassley (R-IA).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
+6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Roger Marshall (R-KS).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
+7. **Introduce a Senate companion to H.R. 1464 (MODERN WIC Act) with Sen. Roger Marshall (R-KS).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 40_  
+   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
+8. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Roger Marshall (R-KS).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
 
 ## Position on each goal
@@ -42,16 +42,14 @@ Senator for GA · 5.8 years in the Senate
 
 ## Cross-party partners
 
+- [Sen. Roger Marshall (R-KS)](marshall-ks.md): shared committees: Agriculture, Nutrition, and Forestry, Finance
 - [Sen. Chuck Grassley (R-IA)](grassley-ia.md): shared committees: Agriculture, Nutrition, and Forestry, Finance
 - [Sen. David McCormick (R-PA)](mccormick-pa.md): shared committees: Aging, Banking, Housing, and Urban Affairs
-- [Sen. James C. Justice (R-WV)](justice-wv.md): shared committees: Aging, Agriculture, Nutrition, and Forestry
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

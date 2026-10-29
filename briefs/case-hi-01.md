@@ -42,8 +42,8 @@ Representative for HI-01 · 23.8 years in the House · Problem Solvers Caucus me
 
 ## Cross-party partners
 
-- [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
 - [Rep. Nick LaLota (R-NY-01)](lalota-ny-01.md): shared committees: Appropriations; PSC member
+- [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
 - [Rep. Michael Lawler (R-NY-17)](lawler-ny-17.md): PSC member
 
 ## Sources
@@ -51,7 +51,5 @@ Representative for HI-01 · 23.8 years in the House · Problem Solvers Caucus me
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

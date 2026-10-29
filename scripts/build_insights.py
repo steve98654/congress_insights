@@ -8,6 +8,7 @@ import datetime
 import re
 from collections import Counter
 
+import analysis
 import plays
 from common import (BILLS, BRIEFS, DATA, VOTES, bill_chamber, bill_label, bill_url, load_goals, load_json,
                     write_json)
@@ -38,6 +39,10 @@ class Context:
         self.goals = goals
         self.support_count = Counter()
         self.supports = {}
+
+    @staticmethod
+    def days_since(iso):
+        return (datetime.date.today() - datetime.date.fromisoformat(iso)).days if iso else None
 
     def committee_chair(self, code):
         return self.chairs.get(code)
@@ -276,6 +281,9 @@ def main():
         go["bills"] = [public_bill(b) for b in g["resolved_bills"]]
         goal_out.append(go)
     write_json(DATA / "insights.json", {"generated": generated, "goals": goal_out, "members": insights})
+
+    data_by_bill = {b["id"]: load_json(BILLS / f"{b['id']}.json", {}) or {} for g in goals for b in g["bills"]}
+    write_json(DATA / "analysis.json", dict(generated=generated, **analysis.build(ctx, goals, insights, data_by_bill)))
 
     BRIEFS.mkdir(exist_ok=True)
     for old in BRIEFS.glob("*.md"):

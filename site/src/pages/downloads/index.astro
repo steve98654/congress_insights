@@ -1,0 +1,15 @@
+---
+import Base from '../../layouts/Base.astro';
+import { url } from '../../lib/data';
+---
+
+<Base title="Call sheets · Congress Insights">
+  <section class="hero">
+    <h1>Call sheets</h1>
+    <p class="lede">Spreadsheets for outreach. Open them in Excel or Google Sheets and filter by tier, state, goal or committee.</p>
+  </section>
+  <ul>
+    <li><a href={url('downloads/actions.csv')} download>actions.csv</a>: the top action items for every member, with priority, goal, bill, reason, phone and office.</li>
+    <li><a href={url('downloads/members.csv')} download>members.csv</a>: one row per member with tier, score, PSC role, committees and their top action.</li>
+  </ul>
+</Base>

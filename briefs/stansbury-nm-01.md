@@ -2,7 +2,7 @@
 
 Representative for NM-01 · 5.4 years in the House
 
-**Priority tier C** · leverage score 36 (rank 433 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 36 (rank 434 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Natural Resources; Oversight and Government Reform
 
@@ -33,15 +33,13 @@ Representative for NM-01 · 5.4 years in the House
 ## Cross-party partners
 
 - [Rep. Jennifer A. Kiggans (R-VA-02)](kiggans-va-02.md): shared committees: Natural Resources; PSC member
-- [Rep. Jeff Hurd (R-CO-03)](hurd-co-03.md): shared committees: Natural Resources; PSC member
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
+- [Rep. Jeff Hurd (R-CO-03)](hurd-co-03.md): shared committees: Natural Resources; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

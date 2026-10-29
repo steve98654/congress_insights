@@ -15,7 +15,7 @@ Senator for CA · 5.8 years in the Senate
 3. **Introduce a Senate companion to H.R. 10379 (MAPS Act) with Sen. Cindy Hyde-Smith (R-MS).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 55_  
    There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 4. **Introduce a Senate companion to H.R. 10380 (Independent Commissions Act) with Sen. Cindy Hyde-Smith (R-MS).** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 55_  
-   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 5. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Mike Lee (R-UT).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 6. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Shelley Moore Capito (R-WV).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
@@ -51,7 +51,5 @@ Senator for CA · 5.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

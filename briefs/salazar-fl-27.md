@@ -2,7 +2,7 @@
 
 Representative for FL-27 · 5.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 59 (rank 213 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 59 (rank 215 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; Foreign Affairs
 
@@ -43,15 +43,13 @@ Representative for FL-27 · 5.8 years in the House · Problem Solvers Caucus mem
 ## Cross-party partners
 
 - [Rep. Debbie Wasserman Schultz (D-FL-25)](wasserman-schultz-fl-25.md): same state; shared committees: Foreign Affairs
-- [Rep. Josh Gottheimer (D-NJ-05)](gottheimer-nj-05.md): shared committees: Financial Services; PSC member
 - [Rep. Jim Costa (D-CA-21)](costa-ca-21.md): shared committees: Foreign Affairs; PSC member
+- [Rep. Darren Soto (D-FL-09)](soto-fl-09.md): same state; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

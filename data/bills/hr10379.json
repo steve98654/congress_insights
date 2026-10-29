@@ -1,9 +1,9 @@
 {
  "id": "hr10379",
- "title": "Problem Solvers MAPS Act (map-drawing standards)",
+ "title": "Problem Solvers MAPS Act",
  "sponsor": {
   "bioguide": "L000599",
-  "name": "Lawler, Michael",
+  "name": "Rep. Lawler, Michael [R-NY-17]",
   "party": "R",
   "state": "NY"
  },
@@ -16,7 +16,20 @@
   "text": "Referred to the House Committee on the Judiciary."
  },
  "votes": [],
- "actions": [],
+ "actions": [
+  {
+   "date": "2026-09-15",
+   "text": "Referred to the House Committee on the Judiciary."
+  },
+  {
+   "date": "2026-09-15",
+   "text": "Introduced in House"
+  },
+  {
+   "date": "2026-09-15",
+   "text": "Introduced in House"
+  }
+ ],
  "cosponsors": [
   {
    "bioguide": "C001112",
@@ -83,5 +96,5 @@
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10379.xml",
  "fetched": "2026-10-29",
- "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+ "fetched_via": "govinfo BILLSTATUS XML"
 }

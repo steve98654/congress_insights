@@ -19,7 +19,7 @@ Representative for NH-01 · 7.8 years in the House · Problem Solvers Caucus mem
 5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    It cleared committee (committee vote 62-2).
 6. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 45_  
-   It is PSC-endorsed and you are a caucus member. It has 88 sponsors and cosponsors (44 R, 42 D, 15 PSC).
+   It is PSC-endorsed and you are a caucus member. It has 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
 7. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 45_  
    It is PSC-endorsed and you are a caucus member. It has 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
 8. **Cosponsor H.R. 222 (Sustainable Budget Act).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 45_  
@@ -44,14 +44,12 @@ Representative for NH-01 · 7.8 years in the House · Problem Solvers Caucus mem
 
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
 - [Rep. Jennifer A. Kiggans (R-VA-02)](kiggans-va-02.md): shared committees: Veterans' Affairs; PSC member
-- [Rep. Michael Lawler (R-NY-17)](lawler-ny-17.md): PSC member
+- [Rep. Robert P. Bresnahan, Jr. (R-PA-08)](bresnahan-pa-08.md): shared committees: Transportation and Infrastructure; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

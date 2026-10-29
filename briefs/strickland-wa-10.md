@@ -2,7 +2,7 @@
 
 Representative for WA-10 · 5.8 years in the House
 
-**Priority tier B** · leverage score 58 (rank 262 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 265 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Transportation and Infrastructure
 
@@ -11,9 +11,9 @@ Representative for WA-10 · 5.8 years in the House
 1. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Michael Baumgartner (R-WA-05), Rep. Dan Newhouse (R-WA-04), Rep. Suzan K. DelBene (D-WA-01).
+   3 colleagues from your state already cosponsor: Rep. Suzan K. DelBene (D-WA-01), Rep. Dan Newhouse (R-WA-04), Rep. Michael Baumgartner (R-WA-05).
 3. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Michael Baumgartner (R-WA-05), Rep. Kim Schrier (D-WA-08), Rep. Marie Gluesenkamp Perez (D-WA-03), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Suzan K. DelBene (D-WA-01), Rep. Kim Schrier (D-WA-08), Rep. Marie Gluesenkamp Perez (D-WA-03), 2 more.
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
@@ -40,16 +40,14 @@ Representative for WA-10 · 5.8 years in the House
 
 ## Cross-party partners
 
+- [Rep. Robert P. Bresnahan, Jr. (R-PA-08)](bresnahan-pa-08.md): shared committees: Transportation and Infrastructure; PSC member
 - [Rep. Don Bacon (R-NE-02)](bacon-ne-02.md): shared committees: Armed Services; PSC member
 - [Rep. Jennifer A. Kiggans (R-VA-02)](kiggans-va-02.md): shared committees: Armed Services; PSC member
-- [Rep. Robert P. Bresnahan, Jr. (R-PA-08)](bresnahan-pa-08.md): shared committees: Transportation and Infrastructure; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

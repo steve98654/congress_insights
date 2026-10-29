@@ -2,7 +2,7 @@
 
 Representative for MD-06 · 1.8 years in the House
 
-**Priority tier B** · leverage score 54 (rank 302 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 54 (rank 310 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Science, Space, and Technology
 
@@ -34,16 +34,14 @@ Representative for MD-06 · 1.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Don Bacon (R-NE-02)](bacon-ne-02.md): shared committees: Agriculture; PSC member
-- [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
 - [Rep. David G. Valadao (R-CA-22)](valadao-ca-22.md): shared committees: Agriculture; PSC member
+- [Rep. Don Bacon (R-NE-02)](bacon-ne-02.md): shared committees: Agriculture; PSC member
+- [Rep. Robert P. Bresnahan, Jr. (R-PA-08)](bresnahan-pa-08.md): shared committees: Agriculture; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

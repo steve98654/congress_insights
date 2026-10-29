@@ -2,7 +2,7 @@
 
 Representative for OH-01 · 3.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 70 (rank 38 of 439 in the House) · supports 8 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 70 (rank 37 of 439 in the House) · supports 8 of 20 caucus bills in their chamber
 
 **Committees:** Energy and Commerce
 
@@ -43,15 +43,13 @@ Representative for OH-01 · 3.8 years in the House · Problem Solvers Caucus mem
 ## Cross-party partners
 
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
+- [Rep. Thomas H. Kean, Jr. (R-NJ-07)](kean-nj-07.md): shared committees: Energy and Commerce; PSC member
 - [Rep. Michael A. Rulli (R-OH-06)](rulli-oh-06.md): same state; shared committees: Energy and Commerce
-- [Rep. Michael Lawler (R-NY-17)](lawler-ny-17.md): PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
