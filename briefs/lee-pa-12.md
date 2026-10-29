@@ -2,7 +2,7 @@
 
 Representative for PA-12 · 3.8 years in the House
 
-**Priority tier B** · leverage score 68 (rank 78 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 68 (rank 79 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Education and Workforce; Judiciary
 
@@ -19,7 +19,7 @@ Representative for PA-12 · 3.8 years in the House
 5. **Cosponsor H.R. 10379 (MAPS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 6. **Cosponsor H.R. 10380 (Independent Commissions Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 7. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 8. **Press for a markup of H.R. 1464 (MODERN WIC Act) in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 55_  
@@ -51,7 +51,5 @@ Representative for PA-12 · 3.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

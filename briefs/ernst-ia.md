@@ -13,7 +13,7 @@ Senator for IA · 11.8 years in the Senate
 2. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Elissa Slotkin (D-MI).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Homeland Security and Governmental Affairs (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 3. **Introduce a Senate companion to H.R. 1464 (MODERN WIC Act) with Sen. Elissa Slotkin (D-MI).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 40_  
-   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 78 sponsors and cosponsors (10 R, 68 D, 16 PSC).
+   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 4. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Elissa Slotkin (D-MI).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
    There is no Senate version yet, and you sit on Homeland Security and Governmental Affairs (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
 5. **Introduce a Senate companion to H.R. 2979 (BUILD Act for police and fire facilities) with Sen. Elissa Slotkin (D-MI).** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 40_  
@@ -45,7 +45,5 @@ Senator for IA · 11.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,7 +2,7 @@
 
 Representative for ID-01 · 7.8 years in the House
 
-**Priority tier B** · leverage score 65 (rank 132 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 65 (rank 133 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Energy and Commerce; Natural Resources
 
@@ -14,10 +14,10 @@ Representative for ID-01 · 7.8 years in the House
    Committee cosponsors decide whether a bill gets marked up. It has 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
 3. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
-4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
+4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 40_  
+   It cleared committee (committee vote 42-0). 1 of your state colleagues are on it: Rep. Michael K. Simpson (R-ID-02).
+5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
-5. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 35_  
-   It cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
    It cleared committee (committee vote 62-2).
 
@@ -47,7 +47,5 @@ Representative for ID-01 · 7.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

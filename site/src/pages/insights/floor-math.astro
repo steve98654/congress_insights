@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import BillRef from '../../components/BillRef.astro';
+import { STAGES, analysis } from '../../lib/data';
+---
+
+<Base title="Floor math · Congress Insights">
+  <section class="hero">
+    <h1>Floor math</h1>
+    <p class="lede">
+      Voting House members who sponsor or cosponsor each bill, against 218 for a majority (and the signatures a discharge petition
+      needs) and 290 for a two-thirds suspension vote. A bill is marked discharge-ready after about 60 days in committee.
+    </p>
+  </section>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr><th>Bill</th><th>Stage</th><th class="num">Backers</th><th class="num">Short of 218</th><th class="num">Short of 290</th><th>Notes</th></tr>
+      </thead>
+      <tbody>
+        {
+          analysis.floor_math.map((r) => (
+            <tr>
+              <td><BillRef bill={r.bill} /></td>
+              <td><span class={`pill stage-${r.stage}`}>{STAGES[r.stage]}</span></td>
+              <td class="num">{r.supporters}</td>
+              <td class="num">{r.to_majority || 'met'}</td>
+              <td class="num">{r.to_suspension || 'met'}</td>
+              <td class="small">
+                {[r.discharge_ready && (r.to_majority === 0 ? 'enough backers to discharge' : r.to_majority < 60 ? 'discharge petition within reach' : 'discharge-ready'), r.stage === 'reported' && r.to_suspension === 0 && 'enough backers to pass under suspension', r.bipartisan ? 'bipartisan' : 'one-party backing', !r.complete && 'cosponsor list incomplete']
+                  .filter(Boolean)
+                  .join(' · ')}
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</Base>

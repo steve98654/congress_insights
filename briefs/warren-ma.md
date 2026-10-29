@@ -17,9 +17,9 @@ Senator for MA · 13.8 years in the Senate · Senate Democratic Conference Vice 
 4. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Jim Banks (R-IN).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 55_  
    There is no Senate version yet, and you sit on Banking, Housing, and Urban Affairs (likely committee of jurisdiction). The House bill is in committee with 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 5. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Mike Crapo (R-ID).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 191 sponsors and cosponsors (66 R, 123 D, 28 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
 6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Mike Crapo (R-ID).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 88 sponsors and cosponsors (44 R, 42 D, 15 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
 7. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Mike Crapo (R-ID).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
 
@@ -49,7 +49,5 @@ Senator for MA · 13.8 years in the Senate · Senate Democratic Conference Vice 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

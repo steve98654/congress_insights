@@ -1,0 +1,47 @@
+---
+import Base from '../../layouts/Base.astro';
+import Who from '../../components/Who.astro';
+import { analysis, billById, goals } from '../../lib/data';
+---
+
+<Base title="State delegations · Congress Insights">
+  <section class="hero">
+    <h1>State delegations</h1>
+    <p class="lede">
+      How many members of each state's delegation back at least one bill under each goal, and the House bill most of the
+      delegation is already on, with who is missing. A delegation pitch ("the rest of your state is on this") is often the
+      easiest ask.
+    </p>
+  </section>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>State</th>
+          <th class="num">Members</th>
+          {goals.map((g) => <th class="num" title={g.title}>{g.title.split(' ').slice(0, 2).join(' ')}</th>)}
+          <th>Closest House bill: who is missing</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          analysis.delegations.map((d) => (
+            <tr>
+              <td><b>{d.state}</b>{d.psc.length > 0 && <div class="small muted">{d.psc.length} PSC</div>}</td>
+              <td class="num">{d.members}</td>
+              {goals.map((g) => <td class="num">{d.goal_support[g.id] || ''}</td>)}
+              <td class="small">
+                {d.closest_bill && (
+                  <>
+                    <a href={billById.get(d.closest_bill.bill)?.url}>{d.closest_bill.label}</a> ({d.closest_bill.on} of {d.closest_bill.of} on):{' '}
+                    {d.closest_bill.missing.map((m, i) => (<>{i > 0 && ', '}<Who m={m} /></>))}
+                  </>
+                )}
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</Base>

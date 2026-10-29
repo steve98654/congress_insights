@@ -13,9 +13,9 @@ Senator for OR · 30.7 years in the Senate
 2. **Ask Sen. Mike Crapo to mark up S. 3442.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 72_  
    As ranking member you can bring the minority votes. It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
 3. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. John Cornyn (R-TX).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 65_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 191 sponsors and cosponsors (66 R, 123 D, 28 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
 4. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. John Cornyn (R-TX).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 55_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 88 sponsors and cosponsors (44 R, 42 D, 15 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
 5. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. John Cornyn (R-TX).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
 6. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. John Cornyn (R-TX).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
@@ -51,7 +51,5 @@ Senator for OR · 30.7 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

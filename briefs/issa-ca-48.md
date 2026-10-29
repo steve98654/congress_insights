@@ -2,7 +2,7 @@
 
 Representative for CA-48 · 25.8 years in the House
 
-**Priority tier B** · leverage score 68 (rank 50 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 68 (rank 51 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Foreign Affairs; Science, Space, and Technology; Judiciary
 
@@ -17,13 +17,13 @@ Representative for CA-48 · 25.8 years in the House
 4. **Cosponsor H.R. 10379 (MAPS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 5. **Cosponsor H.R. 10380 (Independent Commissions Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Raul Ruiz (D-CA-25), Rep. Jim Costa (D-CA-21), Rep. Ted Lieu (D-CA-36), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Jim Costa (D-CA-21), Rep. Raul Ruiz (D-CA-25), Rep. Ted Lieu (D-CA-36), 2 more.
 8. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   14 colleagues from your state already cosponsor: Rep. Norma J. Torres (D-CA-35), Rep. Josh Harder (D-CA-09), Rep. Zoe Lofgren (D-CA-18), 11 more.
+   14 colleagues from your state already cosponsor: Rep. Mark DeSaulnier (D-CA-10), Rep. Young Kim (R-CA-40), Rep. Josh Harder (D-CA-09), 11 more.
 
 ## Position on each goal
 
@@ -42,8 +42,8 @@ Representative for CA-48 · 25.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Ted Lieu (D-CA-36)](lieu-ca-36.md): same state; shared committees: Foreign Affairs, Judiciary
 - [Rep. Jim Costa (D-CA-21)](costa-ca-21.md): same state; shared committees: Foreign Affairs; PSC member
+- [Rep. Ted Lieu (D-CA-36)](lieu-ca-36.md): same state; shared committees: Foreign Affairs, Judiciary
 - [Rep. Zoe Lofgren (D-CA-18)](lofgren-ca-18.md): same state; shared committees: Judiciary, Science, Space, and Technology
 
 ## Sources
@@ -51,7 +51,5 @@ Representative for CA-48 · 25.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

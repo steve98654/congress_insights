@@ -9,13 +9,13 @@ Representative for MO-08 · 13.4 years in the House
 ## Top actions
 
 1. **Schedule a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 95_  
-   As chair you control the committee calendar. The bill is PSC-endorsed with 88 sponsors and cosponsors (44 R, 42 D, 15 PSC).
+   As chair you control the committee calendar. The bill is PSC-endorsed with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
 2. **Schedule a markup of H.R. 5269 (RESULTS Act) in Ways and Means.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 95_  
    As chair you control the committee calendar. The bill is PSC-endorsed with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
 3. **Schedule a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 95_  
-   As chair you control the committee calendar. The bill is PSC-endorsed with 201 sponsors and cosponsors (51 R, 147 D, 33 PSC).
-4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 40_  
-   It cleared committee (committee vote 42-0). 1 of your state colleagues are on it: Rep. Robert F. Onder, Jr. (R-MO-03).
+   As chair you control the committee calendar. The bill is PSC-endorsed with 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
+4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Wesley Bell (D-MO-01), Rep. Ann Wagner (R-MO-02), Rep. Mark Alford (R-MO-04), 3 more.
 5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
    It cleared committee (committee vote 62-2). 1 of your state colleagues are on it: Rep. Sam Graves (R-MO-06).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -47,7 +47,5 @@ Representative for MO-08 · 13.4 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,22 +2,22 @@
 
 Representative for NY-01 · 3.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 62 (rank 193 of 439 in the House) · supports 11 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 62 (rank 195 of 439 in the House) · supports 12 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations; Homeland Security
 
 ## Top actions
 
 1. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. John W. Mannion (D-NY-22), Rep. Timothy M. Kennedy (D-NY-26), Rep. Thomas R. Suozzi (D-NY-03), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Josh Riley (D-NY-19), Rep. Thomas R. Suozzi (D-NY-03), Rep. John W. Mannion (D-NY-22), 2 more.
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 8 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Claudia Tenney (R-NY-24), Rep. Ritchie Torres (D-NY-15), 5 more.
+   It is PSC-endorsed and you are a caucus member. 8 colleagues from your state already cosponsor: Rep. Nicholas A. Langworthy (R-NY-23), Rep. Nicole Malliotakis (R-NY-11), Rep. Thomas R. Suozzi (D-NY-03), 5 more.
 3. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
 4. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
-5. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
-   It cleared committee (committee vote 42-0). 14 of your state colleagues are on it: Rep. John W. Mannion (D-NY-22), Rep. Thomas R. Suozzi (D-NY-03), Rep. Yvette D. Clarke (D-NY-09), 11 more.
+5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
+   You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.J.Res. 4 (Filibuster amendment).** _Protect the Senate filibuster · [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) · priority 57_  
    It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17).
 7. **Cosponsor H.R. 10380 (Independent Commissions Act).** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 57_  
@@ -51,7 +51,5 @@ Representative for NY-01 · 3.8 years in the House · Problem Solvers Caucus mem
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

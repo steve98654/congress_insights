@@ -9,19 +9,19 @@ Representative for MA-01 · 37.8 years in the House
 ## Top actions
 
 1. **Ask Rep. Jason Smith to schedule a markup of H.R. 2036, and cosponsor it.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 80_  
-   As ranking member you can offer minority votes to get it marked up. It has 88 sponsors and cosponsors (44 R, 42 D, 15 PSC).
+   As ranking member you can offer minority votes to get it marked up. It has 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
 2. **Ask Rep. Jason Smith to schedule a markup of H.R. 5269, and cosponsor it.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 80_  
    As ranking member you can offer minority votes to get it marked up. It has 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
 3. **Ask Rep. Jason Smith to schedule a markup of H.R. 2048, and cosponsor it.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 80_  
-   As ranking member you can offer minority votes to get it marked up. It has 201 sponsors and cosponsors (51 R, 147 D, 33 PSC).
+   As ranking member you can offer minority votes to get it marked up. It has 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. William R. Keating (D-MA-09), Rep. Stephen F. Lynch (D-MA-08), Rep. Lori Trahan (D-MA-03).
+   3 colleagues from your state already cosponsor: Rep. Lori Trahan (D-MA-03), Rep. Stephen F. Lynch (D-MA-08), Rep. William R. Keating (D-MA-09).
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Seth Moulton (D-MA-06), Rep. Stephen F. Lynch (D-MA-08), Rep. Jake Auchincloss (D-MA-04).
+   3 colleagues from your state already cosponsor: Rep. Jake Auchincloss (D-MA-04), Rep. Stephen F. Lynch (D-MA-08), Rep. Seth Moulton (D-MA-06).
 6. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Ayanna Pressley (D-MA-07), Rep. Lori Trahan (D-MA-03), Rep. Seth Moulton (D-MA-06), 3 more.
+   It cleared committee (committee vote 42-0). 7 of your state colleagues are on it: Rep. Stephen F. Lynch (D-MA-08), Rep. William R. Keating (D-MA-09), Rep. Jake Auchincloss (D-MA-04), 4 more.
 7. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. William R. Keating (D-MA-09), Rep. James P. McGovern (D-MA-02).
+   2 colleagues from your state already cosponsor: Rep. James P. McGovern (D-MA-02), Rep. William R. Keating (D-MA-09).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 
@@ -51,7 +51,5 @@ Representative for MA-01 · 37.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

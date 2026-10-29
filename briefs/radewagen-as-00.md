@@ -2,7 +2,7 @@
 
 Representative for AS-00 · 11.8 years in the House
 
-**Priority tier C** · leverage score 0 (rank 438 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 0 (rank 439 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 **Committees:** Foreign Affairs; Natural Resources; Veterans' Affairs
 
@@ -30,14 +30,12 @@ No specific action stands out for this member yet: they hold no committee seat o
 
 - [Rep. Debbie Dingell (D-MI-06)](dingell-mi-06.md): shared committees: Natural Resources; PSC member
 - [Rep. Chris Pappas (D-NH-01)](pappas-nh-01.md): shared committees: Veterans' Affairs; PSC member
-- [Rep. Jared F. Golden (D-ME-02)](golden-me-02.md): shared committees: Natural Resources; PSC member
+- [Rep. Jim Costa (D-CA-21)](costa-ca-21.md): shared committees: Foreign Affairs; PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

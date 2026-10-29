@@ -3,7 +3,7 @@
  "title": "Problem Solvers Independent Commissions Act",
  "sponsor": {
   "bioguide": "F000466",
-  "name": "Fitzpatrick, Brian K.",
+  "name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
   "party": "R",
   "state": "PA"
  },
@@ -16,7 +16,20 @@
   "text": "Referred to the House Committee on the Judiciary."
  },
  "votes": [],
- "actions": [],
+ "actions": [
+  {
+   "date": "2026-09-15",
+   "text": "Referred to the House Committee on the Judiciary."
+  },
+  {
+   "date": "2026-09-15",
+   "text": "Introduced in House"
+  },
+  {
+   "date": "2026-09-15",
+   "text": "Introduced in House"
+  }
+ ],
  "cosponsors": [
   {
    "bioguide": "D000624",
@@ -53,11 +66,17 @@
    "party": "D",
    "state": "NY",
    "date": "2026-09-15"
+  },
+  {
+   "bioguide": "M001230",
+   "party": "R",
+   "state": "PA",
+   "date": "2026-09-21"
   }
  ],
  "cosponsors_complete": true,
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10380.xml",
  "fetched": "2026-10-29",
- "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+ "fetched_via": "govinfo BILLSTATUS XML"
 }

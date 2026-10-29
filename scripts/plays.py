@@ -96,6 +96,15 @@ def house_bill_in_house(ctx, goal, bill, m):
                                   f"Ask {chair['title']} {chair['name']}, chair of {ctx.committee_name(main)}, to mark up {label} ({short}).",
                                   f"You lead the bill. It has {support_line(bill)} and has not had a committee vote.",
                                   [chair]))
+            age = ctx.days_since(bill.get("introduced"))
+            voting = sum(1 for x in bill["supporter_ids"] if x in ctx.members and ctx.members[x]["voting"])
+            if voting >= 150 and age is not None and age >= 60:
+                out.append(action(goal, bill, 78, "discharge",
+                                  f"Consider a discharge petition for {label}: {voting} members already back it and 218 signatures force a floor vote.",
+                                  f"It has sat in committee for {age} days without a markup. "
+                                  + (f"Its backers alone are enough to reach 218 signatures if the chair will not act." if voting >= 218
+                                     else f"Its backers are {218 - voting} short of 218, so converting them to signatures is the fastest route if the chair will not act."),
+                                  []))
             targets = recruit_targets(ctx, bill, codes, "house", prefer_caucus="D" if m["caucus"] == "R" else "R")
             if targets:
                 out.append(action(goal, bill, 80, "recruit",
@@ -324,8 +333,28 @@ def goal_without_bills(ctx, goal, m):
     return out
 
 
-def actions_for(ctx, goal, m):
+def psc_leader_actions(ctx, goal, m):
+    """Co-chairs chase caucus members who have not signed on to the caucus's own bills."""
     out = []
+    if m["psc"] != "Co-Chair":
+        return out
+    psc = [x for x in ctx.members.values() if x["psc"] and x["bioguide"] != m["bioguide"]]
+    for bill in goal["resolved_bills"]:
+        if bill["chamber"] != "house" or bill["stage"] in ("passed_house", "enacted"):
+            continue
+        missing = sorted((x for x in psc if x["bioguide"] not in bill["supporter_ids"]),
+                         key=lambda x: (x["caucus"] == m["caucus"], x["last"]))
+        if len(missing) >= 10:
+            out.append(action(goal, bill, 50 + min(len(missing), 30) / 2, "caucus",
+                              f"Get the {len(missing)} PSC members not yet on {bill['label']} ({bill['short']}) to sign on, starting with {names(missing)}.",
+                              "The caucus endorsed it, so its own members are the easiest cosponsors to add. Other-party members are listed first."
+                              + ("" if bill["cosponsors_complete"] else " The cosponsor list is incomplete until the next refresh."),
+                              missing[:3]))
+    return out
+
+
+def actions_for(ctx, goal, m):
+    out = psc_leader_actions(ctx, goal, m)
     bills = {b["id"]: b for b in goal["resolved_bills"]}
     for bill in goal["resolved_bills"]:
         if bill["chamber"] == "house" and m["chamber"] == "house":

@@ -2,7 +2,7 @@
 
 Representative for CA-36 · 11.8 years in the House · House Democratic Caucus Vice Chair
 
-**Priority tier B** · leverage score 68 (rank 47 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 68 (rank 48 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
 
 **Committees:** Foreign Affairs; Judiciary
 
@@ -17,13 +17,13 @@ Representative for CA-36 · 11.8 years in the House · House Democratic Caucus V
 4. **Cosponsor H.R. 10379 (MAPS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 5. **Cosponsor H.R. 10380 (Independent Commissions Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   7 colleagues from your state already cosponsor: Rep. Norma J. Torres (D-CA-35), Rep. Salud O. Carbajal (D-CA-24), Rep. Josh Harder (D-CA-09), 4 more.
+   8 colleagues from your state already cosponsor: Rep. Josh Harder (D-CA-09), Rep. Norma J. Torres (D-CA-35), Rep. Salud O. Carbajal (D-CA-24), 5 more.
 8. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Mike Thompson (D-CA-04), Rep. Scott H. Peters (D-CA-50), Rep. Jay Obernolte (R-CA-23), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Jay Obernolte (R-CA-23), Rep. Scott H. Peters (D-CA-50), Rep. Jimmy Panetta (D-CA-19), 3 more.
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for CA-36 · 11.8 years in the House · House Democratic Caucus V
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

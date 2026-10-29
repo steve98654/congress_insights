@@ -2,23 +2,25 @@
 
 Representative for GA-13 · 0.2 years in the House
 
-**Priority tier C** · leverage score 48 (rank 365 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 48 (rank 367 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Brian Jack (R-GA-03), Rep. Rick W. Allen (R-GA-12), Rep. Austin Scott (R-GA-08).
+   3 colleagues from your state already cosponsor: Rep. Austin Scott (R-GA-08), Rep. Brian Jack (R-GA-03), Rep. Rick W. Allen (R-GA-12).
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
    3 colleagues from your state already cosponsor: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Richard McCormick (R-GA-07), Rep. Rick W. Allen (R-GA-12).
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), Rep. Richard McCormick (R-GA-07), Rep. Lucy McBath (D-GA-06).
+   6 colleagues from your state already cosponsor: Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), Rep. Nikema Williams (D-GA-05), Rep. Richard McCormick (R-GA-07), 3 more.
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Barry Loudermilk (R-GA-11), Rep. Earl L. "Buddy" Carter (R-GA-01).
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Barry Loudermilk (R-GA-11), Rep. Richard McCormick (R-GA-07), Rep. Earl L. "Buddy" Carter (R-GA-01), 3 more.
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Barry Loudermilk (R-GA-11), Rep. Nikema Williams (D-GA-05).
-6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
+   2 colleagues from your state already cosponsor: Rep. Nikema Williams (D-GA-05), Rep. Barry Loudermilk (R-GA-11).
+6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
+   2 colleagues from your state already cosponsor: Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Lucy McBath (D-GA-06).
+7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
-7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
+8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
    It cleared committee (committee vote 62-2).
 
 ## Position on each goal
@@ -39,15 +41,13 @@ Representative for GA-13 · 0.2 years in the House
 ## Cross-party partners
 
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
-- [Rep. Michael Lawler (R-NY-17)](lawler-ny-17.md): PSC member
 - [Rep. Earl L. "Buddy" Carter (R-GA-01)](carter-ga-01.md): same state
+- [Rep. Michael Lawler (R-NY-17)](lawler-ny-17.md): PSC member
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

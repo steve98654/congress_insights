@@ -15,13 +15,13 @@ Senator for NM · 5.8 years in the Senate
 3. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Chuck Grassley (R-IA).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Chuck Grassley (R-IA).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 191 sponsors and cosponsors (66 R, 123 D, 28 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
 5. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Bernie Moreno (R-OH).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    There is no Senate version yet, and you sit on Commerce, Science, and Transportation (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Chuck Grassley (R-IA).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 88 sponsors and cosponsors (44 R, 42 D, 15 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
 7. **Introduce a Senate companion to H.R. 1464 (MODERN WIC Act) with Sen. Chuck Grassley (R-IA).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 40_  
-   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 78 sponsors and cosponsors (10 R, 68 D, 16 PSC).
+   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 8. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Chuck Grassley (R-IA).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
 
@@ -43,15 +43,13 @@ Senator for NM · 5.8 years in the Senate
 ## Cross-party partners
 
 - [Sen. Chuck Grassley (R-IA)](grassley-ia.md): shared committees: United States Senate Caucus on International Narcotics Control, Agriculture, Nutrition, and Forestry, Budget, Finance
+- [Sen. Roger Marshall (R-KS)](marshall-ks.md): shared committees: Agriculture, Nutrition, and Forestry, Budget, Finance
 - [Sen. Bernie Moreno (R-OH)](moreno-oh.md): shared committees: United States Senate Caucus on International Narcotics Control, Budget, Commerce, Science, and Transportation
-- [Sen. Jerry Moran (R-KS)](moran-ks.md): shared committees: Indian Affairs, Agriculture, Nutrition, and Forestry, Commerce, Science, and Transportation
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

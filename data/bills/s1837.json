@@ -1,9 +1,9 @@
 {
  "id": "s1837",
- "title": "DEFIANCE Act of 2025 (Senate)",
+ "title": "DEFIANCE Act of 2025",
  "sponsor": {
   "bioguide": "D000563",
-  "name": "Durbin, Richard J.",
+  "name": "Sen. Durbin, Richard J. [D-IL]",
   "party": "D",
   "state": "IL"
  },
@@ -16,60 +16,97 @@
   "text": "Held at the desk."
  },
  "votes": [],
- "actions": [],
+ "actions": [
+  {
+   "date": "2026-01-13",
+   "text": "Held at the desk."
+  },
+  {
+   "date": "2026-01-13",
+   "text": "Received in the House."
+  },
+  {
+   "date": "2026-01-13",
+   "text": "Message on Senate action sent to the House."
+  },
+  {
+   "date": "2026-01-13",
+   "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S143-147; text: CR S145-146)"
+  },
+  {
+   "date": "2026-01-13",
+   "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent."
+  },
+  {
+   "date": "2026-01-13",
+   "text": "Senate Committee on the Judiciary discharged by Unanimous Consent."
+  },
+  {
+   "date": "2026-01-13",
+   "text": "Senate Committee on the Judiciary discharged by Unanimous Consent."
+  },
+  {
+   "date": "2025-05-21",
+   "text": "Read twice and referred to the Committee on the Judiciary. (text: CR S3059-3060)"
+  },
+  {
+   "date": "2025-05-21",
+   "text": "Introduced in Senate"
+  }
+ ],
  "cosponsors": [
   {
    "bioguide": "G000359",
    "party": "R",
    "state": "SC",
-   "date": ""
+   "date": "2025-05-21"
   },
   {
    "bioguide": "K000367",
    "party": "D",
    "state": "MN",
-   "date": ""
+   "date": "2025-05-21"
   },
   {
    "bioguide": "K000383",
    "party": "I",
    "state": "ME",
-   "date": ""
+   "date": "2025-05-21"
   },
   {
    "bioguide": "L000577",
    "party": "R",
    "state": "UT",
-   "date": ""
+   "date": "2025-05-21"
   },
   {
    "bioguide": "H001046",
    "party": "D",
    "state": "NM",
-   "date": ""
+   "date": "2025-05-21"
   },
   {
    "bioguide": "W000800",
    "party": "D",
    "state": "VT",
-   "date": ""
+   "date": "2025-05-21"
   },
   {
    "bioguide": "S000148",
    "party": "D",
    "state": "NY",
-   "date": ""
+   "date": "2025-05-21"
   },
   {
    "bioguide": "H001089",
    "party": "R",
    "state": "MO",
-   "date": ""
+   "date": "2025-05-21"
   }
  ],
  "cosponsors_complete": true,
  "status": "passed_senate",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1837.xml",
  "fetched": "2026-10-29",
- "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+ "fetched_via": "govinfo BILLSTATUS XML"
 }

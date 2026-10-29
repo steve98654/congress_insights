@@ -2,14 +2,14 @@
 
 Representative for VA-07 · 1.8 years in the House
 
-**Priority tier C** · leverage score 46 (rank 403 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 46 (rank 409 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Armed Services
 
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Ben Cline (R-VA-06), Rep. Jennifer A. Kiggans (R-VA-02), Rep. Suhas Subramanyam (D-VA-10), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Ben Cline (R-VA-06), Rep. Robert J. Wittman (R-VA-01), Rep. Suhas Subramanyam (D-VA-10), 2 more.
 2. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -43,7 +43,5 @@ Representative for VA-07 · 1.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

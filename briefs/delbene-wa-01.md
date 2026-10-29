@@ -2,7 +2,7 @@
 
 Representative for WA-01 · 14 years in the House
 
-**Priority tier C** · leverage score 54 (rank 312 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 54 (rank 316 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
 
 **Committees:** Ways and Means
 
@@ -15,7 +15,7 @@ Representative for WA-01 · 14 years in the House
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Rick Larsen (D-WA-02), Rep. Kim Schrier (D-WA-08), Rep. Dan Newhouse (R-WA-04), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Kim Schrier (D-WA-08), Rep. Emily Randall (D-WA-06), Rep. Dan Newhouse (R-WA-04), 3 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
@@ -49,7 +49,5 @@ Representative for WA-01 · 14 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

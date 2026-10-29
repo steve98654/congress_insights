@@ -41,9 +41,8 @@ Both options add a `robots.txt` asking search engines not to index the site.
 It then checks that the site builds and opens a pull request. One-time setup: Settings > Actions >
 General > Workflow permissions > tick **Allow GitHub Actions to create and approve pull requests**.
 
-The first version's bill data came from text snapshots (`data/seed/`) because the build environment
-could not reach govinfo directly. The first refresh run replaces them with parsed XML, including the
-two truncated cosponsor lists.
+The first refresh (2026-10-29) replaced the seed snapshots with parsed govinfo XML. The Senate roll call
+still comes from the seed snapshot, which matches the official tally (57-43).
 
 ## Updating goals
 

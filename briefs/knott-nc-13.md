@@ -2,7 +2,7 @@
 
 Representative for NC-13 · 1.8 years in the House
 
-**Priority tier B** · leverage score 68 (rank 67 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 68 (rank 68 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Ethics; Homeland Security; Transportation and Infrastructure; Judiciary
 
@@ -17,13 +17,13 @@ Representative for NC-13 · 1.8 years in the House
 4. **Cosponsor H.R. 10379 (MAPS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 5. **Cosponsor H.R. 10380 (Independent Commissions Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 7 sponsors and cosponsors (3 R, 4 D, 7 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Valerie P. Foushee (D-NC-04), Rep. Alma S. Adams (D-NC-12), Rep. Deborah K. Ross (D-NC-02).
+   3 colleagues from your state already cosponsor: Rep. Alma S. Adams (D-NC-12), Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02).
 8. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Donald G. Davis (D-NC-01), Rep. David Rouzer (R-NC-07), Rep. Chuck Edwards (R-NC-11).
+   3 colleagues from your state already cosponsor: Rep. David Rouzer (R-NC-07), Rep. Chuck Edwards (R-NC-11), Rep. Donald G. Davis (D-NC-01).
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Representative for NC-13 · 1.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

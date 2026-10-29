@@ -11,7 +11,7 @@ Senator for KY · 15.8 years in the Senate
 1. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Andy Kim (D-NJ).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 65_  
    There is no Senate version yet, and you sit on Homeland Security and Governmental Affairs (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 2. **Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 60_  
-   It has 8 sponsors and cosponsors (3 R, 5 D, 0 PSC).
+   It has 9 sponsors and cosponsors (4 R, 5 D, 0 PSC).
 3. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Adam B. Schiff (D-CA), Sen. John W. Hickenlooper (D-CO).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 4. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Andy Kim (D-NJ).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 55_  
@@ -47,7 +47,5 @@ Senator for KY · 15.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,9 +1,9 @@
 {
  "id": "hr3694",
- "title": "VA Loan Informed Disclosure (VALID) Act of 2025",
+ "title": "VALID Act of 2025",
  "sponsor": {
   "bioguide": "P000620",
-  "name": "Pettersen, Brittany",
+  "name": "Rep. Pettersen, Brittany [D-CO-7]",
   "party": "D",
   "state": "CO"
  },
@@ -16,576 +16,589 @@
   "text": "Referred to the House Committee on Financial Services."
  },
  "votes": [],
- "actions": [],
+ "actions": [
+  {
+   "date": "2025-06-03",
+   "text": "Referred to the House Committee on Financial Services."
+  },
+  {
+   "date": "2025-06-03",
+   "text": "Introduced in House"
+  },
+  {
+   "date": "2025-06-03",
+   "text": "Introduced in House"
+  }
+ ],
  "cosponsors": [
   {
    "bioguide": "H001096",
    "party": "R",
    "state": "WY",
-   "date": ""
+   "date": "2025-06-03"
   },
   {
    "bioguide": "W000788",
    "party": "D",
    "state": "GA",
-   "date": ""
+   "date": "2025-06-03"
   },
   {
    "bioguide": "K000397",
    "party": "R",
    "state": "CA",
-   "date": ""
+   "date": "2025-06-03"
   },
   {
    "bioguide": "F000466",
    "party": "R",
    "state": "PA",
-   "date": ""
+   "date": "2025-06-11"
   },
   {
    "bioguide": "S001190",
    "party": "D",
    "state": "IL",
-   "date": ""
+   "date": "2025-06-17"
   },
   {
    "bioguide": "M001194",
    "party": "R",
    "state": "MI",
-   "date": ""
+   "date": "2025-06-17"
   },
   {
    "bioguide": "S001145",
    "party": "D",
    "state": "IL",
-   "date": ""
+   "date": "2025-06-17"
   },
   {
    "bioguide": "N000189",
    "party": "R",
    "state": "WA",
-   "date": ""
+   "date": "2025-06-17"
   },
   {
    "bioguide": "S001159",
    "party": "D",
    "state": "WA",
-   "date": ""
+   "date": "2025-06-17"
   },
   {
    "bioguide": "T000193",
    "party": "D",
    "state": "MS",
-   "date": ""
+   "date": "2025-06-17"
   },
   {
    "bioguide": "K000389",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2025-06-17"
   },
   {
    "bioguide": "T000488",
    "party": "D",
    "state": "MI",
-   "date": ""
+   "date": "2025-06-17"
   },
   {
    "bioguide": "T000468",
    "party": "D",
    "state": "NV",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "K000391",
    "party": "D",
    "state": "IL",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "N000147",
    "party": "D",
    "state": "DC",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "C001117",
    "party": "D",
    "state": "IL",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "C001068",
    "party": "D",
    "state": "TN",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "C001059",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "J000309",
    "party": "D",
    "state": "IL",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "L000582",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "M001196",
    "party": "D",
    "state": "MA",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "G000565",
    "party": "R",
    "state": "AZ",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "G000587",
    "party": "D",
    "state": "TX",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "D000096",
    "party": "D",
    "state": "IL",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "T000469",
    "party": "D",
    "state": "NY",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "C001119",
    "party": "D",
    "state": "MN",
-   "date": ""
+   "date": "2025-06-23"
   },
   {
    "bioguide": "T000480",
    "party": "R",
    "state": "SC",
-   "date": ""
+   "date": "2025-06-24"
   },
   {
    "bioguide": "S001226",
    "party": "D",
    "state": "OR",
-   "date": ""
+   "date": "2025-06-24"
   },
   {
    "bioguide": "A000148",
    "party": "D",
    "state": "MA",
-   "date": ""
+   "date": "2025-06-24"
   },
   {
    "bioguide": "C001091",
    "party": "D",
    "state": "TX",
-   "date": ""
+   "date": "2025-06-24"
   },
   {
    "bioguide": "K000385",
    "party": "D",
    "state": "IL",
-   "date": ""
+   "date": "2025-06-25"
   },
   {
    "bioguide": "N000191",
    "party": "D",
    "state": "CO",
-   "date": ""
+   "date": "2025-06-25"
   },
   {
    "bioguide": "M001238",
    "party": "D",
    "state": "DE",
-   "date": ""
+   "date": "2025-06-25"
   },
   {
    "bioguide": "S000510",
    "party": "D",
    "state": "WA",
-   "date": ""
+   "date": "2025-06-26"
   },
   {
    "bioguide": "L000599",
    "party": "R",
    "state": "NY",
-   "date": ""
+   "date": "2025-06-26"
   },
   {
    "bioguide": "B001323",
    "party": "R",
    "state": "AK",
-   "date": ""
+   "date": "2025-06-26"
   },
   {
    "bioguide": "F000475",
    "party": "R",
    "state": "MN",
-   "date": ""
+   "date": "2025-06-27"
   },
   {
    "bioguide": "B001301",
    "party": "R",
    "state": "MI",
-   "date": ""
+   "date": "2025-06-30"
   },
   {
    "bioguide": "T000481",
    "party": "D",
    "state": "MI",
-   "date": ""
+   "date": "2025-06-30"
   },
   {
    "bioguide": "S001216",
    "party": "D",
    "state": "WA",
-   "date": ""
+   "date": "2025-06-30"
   },
   {
    "bioguide": "D000230",
    "party": "D",
    "state": "NC",
-   "date": ""
+   "date": "2025-07-02"
   },
   {
    "bioguide": "N000026",
    "party": "R",
    "state": "TX",
-   "date": ""
+   "date": "2025-07-10"
   },
   {
    "bioguide": "C001072",
    "party": "D",
    "state": "IN",
-   "date": ""
+   "date": "2025-07-10"
   },
   {
    "bioguide": "R000305",
    "party": "D",
    "state": "NC",
-   "date": ""
+   "date": "2025-07-16"
   },
   {
    "bioguide": "W000804",
    "party": "R",
    "state": "VA",
-   "date": ""
+   "date": "2025-07-22"
   },
   {
    "bioguide": "R000609",
    "party": "R",
    "state": "FL",
-   "date": ""
+   "date": "2025-07-23"
   },
   {
    "bioguide": "S001231",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2025-07-29"
   },
   {
    "bioguide": "G000586",
    "party": "D",
    "state": "IL",
-   "date": ""
+   "date": "2025-07-29"
   },
   {
    "bioguide": "H001103",
    "party": "D",
    "state": "PR",
-   "date": ""
+   "date": "2025-07-29"
   },
   {
    "bioguide": "F000459",
    "party": "R",
    "state": "TN",
-   "date": ""
+   "date": "2025-09-02"
   },
   {
    "bioguide": "G000581",
    "party": "D",
    "state": "TX",
-   "date": ""
+   "date": "2025-09-02"
   },
   {
    "bioguide": "T000463",
    "party": "R",
    "state": "OH",
-   "date": ""
+   "date": "2025-09-03"
   },
   {
    "bioguide": "L000560",
    "party": "D",
    "state": "WA",
-   "date": ""
+   "date": "2025-09-08"
   },
   {
    "bioguide": "B001307",
    "party": "R",
    "state": "IN",
-   "date": ""
+   "date": "2025-09-08"
   },
   {
    "bioguide": "G000604",
    "party": "D",
    "state": "NH",
-   "date": ""
+   "date": "2025-09-26"
   },
   {
    "bioguide": "H001081",
    "party": "D",
    "state": "CT",
-   "date": ""
+   "date": "2025-09-26"
   },
   {
    "bioguide": "L000598",
    "party": "R",
    "state": "NY",
-   "date": ""
+   "date": "2025-10-03"
   },
   {
    "bioguide": "P000614",
    "party": "D",
    "state": "NH",
-   "date": ""
+   "date": "2025-10-03"
   },
   {
    "bioguide": "N000193",
    "party": "R",
    "state": "IA",
-   "date": ""
+   "date": "2025-10-06"
   },
   {
    "bioguide": "E000300",
    "party": "R",
    "state": "CO",
-   "date": ""
+   "date": "2025-10-06"
   },
   {
    "bioguide": "F000472",
    "party": "R",
    "state": "FL",
-   "date": ""
+   "date": "2025-10-10"
   },
   {
    "bioguide": "S001230",
    "party": "D",
    "state": "VA",
-   "date": ""
+   "date": "2025-10-10"
   },
   {
    "bioguide": "P000613",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2025-10-10"
   },
   {
    "bioguide": "W000809",
    "party": "R",
    "state": "AR",
-   "date": ""
+   "date": "2025-10-21"
   },
   {
    "bioguide": "H001090",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2025-10-24"
   },
   {
    "bioguide": "T000474",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2025-10-24"
   },
   {
    "bioguide": "M001216",
    "party": "R",
    "state": "FL",
-   "date": ""
+   "date": "2025-10-24"
   },
   {
    "bioguide": "V000129",
    "party": "R",
    "state": "CA",
-   "date": ""
+   "date": "2025-10-24"
   },
   {
    "bioguide": "L000603",
    "party": "R",
    "state": "TX",
-   "date": ""
+   "date": "2025-10-24"
   },
   {
    "bioguide": "B001287",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2025-10-28"
   },
   {
    "bioguide": "R000621",
    "party": "D",
    "state": "WA",
-   "date": ""
+   "date": "2025-11-07"
   },
   {
    "bioguide": "C001051",
    "party": "R",
    "state": "TX",
-   "date": ""
+   "date": "2025-11-07"
   },
   {
    "bioguide": "O000019",
    "party": "R",
    "state": "CA",
-   "date": ""
+   "date": "2025-11-07"
   },
   {
    "bioguide": "S000168",
    "party": "R",
    "state": "FL",
-   "date": ""
+   "date": "2025-11-07"
   },
   {
    "bioguide": "L000562",
    "party": "D",
    "state": "MA",
-   "date": ""
+   "date": "2025-11-07"
   },
   {
    "bioguide": "N000188",
    "party": "D",
    "state": "NJ",
-   "date": ""
+   "date": "2025-11-12"
   },
   {
    "bioguide": "L000595",
    "party": "R",
    "state": "LA",
-   "date": ""
+   "date": "2025-11-17"
   },
   {
    "bioguide": "H001066",
    "party": "D",
    "state": "NV",
-   "date": ""
+   "date": "2025-11-17"
   },
   {
    "bioguide": "C001118",
    "party": "R",
    "state": "VA",
-   "date": ""
+   "date": "2025-12-12"
   },
   {
    "bioguide": "C001055",
    "party": "D",
    "state": "HI",
-   "date": ""
+   "date": "2025-12-16"
   },
   {
    "bioguide": "B001327",
    "party": "R",
    "state": "PA",
-   "date": ""
+   "date": "2025-12-18"
   },
   {
    "bioguide": "K000399",
    "party": "R",
    "state": "VA",
-   "date": ""
+   "date": "2026-01-08"
   },
   {
    "bioguide": "S001201",
    "party": "D",
    "state": "NY",
-   "date": ""
+   "date": "2026-01-21"
   },
   {
    "bioguide": "S001225",
    "party": "D",
    "state": "IL",
-   "date": ""
+   "date": "2026-01-22"
   },
   {
    "bioguide": "L000583",
    "party": "R",
    "state": "GA",
-   "date": ""
+   "date": "2026-02-03"
   },
   {
    "bioguide": "L000596",
    "party": "R",
    "state": "FL",
-   "date": ""
+   "date": "2026-03-25"
   },
   {
    "bioguide": "K000398",
    "party": "R",
    "state": "NJ",
-   "date": ""
+   "date": "2026-04-06"
   },
   {
    "bioguide": "S001185",
    "party": "D",
    "state": "AL",
-   "date": ""
+   "date": "2026-04-27"
   },
   {
    "bioguide": "D000530",
    "party": "D",
    "state": "PA",
-   "date": ""
+   "date": "2026-04-27"
   },
   {
    "bioguide": "M001239",
    "party": "R",
    "state": "VA",
-   "date": ""
+   "date": "2026-04-30"
   },
   {
    "bioguide": "D000623",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2026-06-23"
   },
   {
    "bioguide": "L000397",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2026-06-24"
   },
   {
    "bioguide": "C001110",
    "party": "D",
    "state": "CA",
-   "date": ""
+   "date": "2026-06-29"
   },
   {
    "bioguide": "M000871",
    "party": "R",
    "state": "KS",
-   "date": ""
+   "date": "2026-08-03"
   }
  ],
  "cosponsors_complete": true,
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3694.xml",
  "fetched": "2026-10-29",
- "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+ "fetched_via": "govinfo BILLSTATUS XML"
 }

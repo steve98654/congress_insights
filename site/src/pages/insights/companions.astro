@@ -1,0 +1,38 @@
+---
+import Base from '../../layouts/Base.astro';
+import BillRef from '../../components/BillRef.astro';
+import Who from '../../components/Who.astro';
+import { STAGES, analysis } from '../../lib/data';
+---
+
+<Base title="Missing Senate companions · Congress Insights">
+  <section class="hero">
+    <h1>Missing Senate companions</h1>
+    <p class="lede">
+      House caucus bills with no Senate version yet. For each, the Republican and Democratic senators on the likely committee who
+      are best placed to introduce one together, based on committee leadership, House support from their state and their record on
+      caucus bills.
+    </p>
+  </section>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>House bill</th><th>Stage</th><th>Senate committee</th><th>Suggested pair</th></tr></thead>
+      <tbody>
+        {
+          analysis.companions.map((r) => (
+            <tr>
+              <td><BillRef bill={r.bill} /><div class="small muted">{r.supporters} House backers</div></td>
+              <td><span class={`pill stage-${r.stage}`}>{STAGES[r.stage]}</span></td>
+              <td class="small">{r.committees.join(', ')}{r.inferred && ' (likely)'}</td>
+              <td class="small">
+                {r.pair.map((p) => (
+                  <div><Who m={p} /> <span class="muted">{p.reasons.join('; ')}</span></div>
+                ))}
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</Base>

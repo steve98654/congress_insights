@@ -2,14 +2,14 @@
 
 Senator for NH · 9.8 years in the Senate
 
-**Priority tier B** · leverage score 58 (rank 52 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 51 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
 
 **Committees:** Joint Economic Committee (Ranking Member); Finance; Health, Education, Labor, and Pensions; Homeland Security and Governmental Affairs; Veterans' Affairs
 
 ## Top actions
 
 1. **Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 60_  
-   It has 8 sponsors and cosponsors (3 R, 5 D, 0 PSC).
+   It has 9 sponsors and cosponsors (4 R, 5 D, 0 PSC).
 2. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
    It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
 3. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Jeanne Shaheen (D-NH).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
@@ -17,13 +17,13 @@ Senator for NH · 9.8 years in the Senate
 4. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Ashley Moody (R-FL).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Homeland Security and Governmental Affairs (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 5. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Bill Cassidy (R-LA).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 191 sponsors and cosponsors (66 R, 123 D, 28 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
 6. **Introduce a Senate companion to H.R. 3876 (LIHEAP Staffing Support Act) with Sen. Ashley Moody (R-FL).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 40_  
    There is no Senate version yet, and you sit on Health, Education, Labor, and Pensions (likely committee of jurisdiction). The House bill is in committee with 49 sponsors and cosponsors (2 R, 47 D, 9 PSC).
 7. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Bill Cassidy (R-LA).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 40_  
    There is no Senate version yet, and you sit on Veterans' Affairs (likely committee of jurisdiction). The House bill is in committee with 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 8. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Bill Cassidy (R-LA).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 88 sponsors and cosponsors (44 R, 42 D, 15 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
 
 ## Position on each goal
 
@@ -51,7 +51,5 @@ Senator for NH · 9.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

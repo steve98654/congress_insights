@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import BillRef from '../../components/BillRef.astro';
+import Who from '../../components/Who.astro';
+import { analysis, formatDate } from '../../lib/data';
+---
+
+<Base title="Momentum · Congress Insights">
+  <section class="hero">
+    <h1>Momentum</h1>
+    <p class="lede">Cosponsors added in the last 90 days. Bills that keep gaining backers are the ones to put in front of committee chairs.</p>
+  </section>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Bill</th><th class="num">Added, 90 days</th><th>Last added</th><th>Most recent</th></tr></thead>
+      <tbody>
+        {
+          analysis.momentum.map((r) => (
+            <tr>
+              <td><BillRef bill={r.bill} /></td>
+              <td class="num">{r.dated ? r.recent : <span class="muted">dates after next refresh</span>}</td>
+              <td class="nowrap">{formatDate(r.last_added ?? undefined)}</td>
+              <td class="small">{r.recent_members.map((m, i) => (<>{i > 0 && ', '}<Who m={m} /></>))}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</Base>

@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import BillRef from '../../components/BillRef.astro';
+import Who from '../../components/Who.astro';
+import { analysis } from '../../lib/data';
+---
+
+<Base title="Senate whip count · Congress Insights">
+  <section class="hero">
+    <h1>Senate whip count</h1>
+    <p class="lede">
+      Senators who voted no on a caucus bill, ranked by how persuadable they look: a home-state colleague who voted yes
+      counts most, then a seat on the committee of jurisdiction, then support for other caucus bills.
+    </p>
+  </section>
+  {
+    analysis.whip.map((w) => (
+      <section>
+        <h2><BillRef bill={w.bill} /></h2>
+        <p>
+          <b>{w.yeas}</b> yes votes, {w.needed} needed: <b>{w.short_by} short</b>. <span class="muted">{w.result}</span>
+        </p>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Senator</th><th class="num">Score</th><th>Why they might move</th></tr></thead>
+            <tbody>
+              {w.nays.map((n) => (
+                <tr>
+                  <td><Who m={n} /></td>
+                  <td class="num">{n.score}</td>
+                  <td class="small">{n.reasons.join('; ') || <span class="muted">no obvious lever</span>}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    ))
+  }
+</Base>

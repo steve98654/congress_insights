@@ -2,7 +2,7 @@
 
 Representative for MI-06 · 11.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 70 (rank 37 of 439 in the House) · supports 8 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 70 (rank 36 of 439 in the House) · supports 8 of 20 caucus bills in their chamber
 
 **Committees:** Energy and Commerce; Natural Resources
 
@@ -13,11 +13,11 @@ Representative for MI-06 · 11.8 years in the House · Problem Solvers Caucus me
 2. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 colleagues from your state already cosponsor: Rep. John R. Moolenaar (R-MI-02), Rep. Rashida Tlaib (D-MI-12), Rep. Shri Thanedar (D-MI-13), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 colleagues from your state already cosponsor: Rep. John R. Moolenaar (R-MI-02), Rep. Rashida Tlaib (D-MI-12), Rep. Jack Bergman (R-MI-01), 1 more.
 4. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Bill Huizenga (R-MI-04), Rep. John R. Moolenaar (R-MI-02), Rep. Jack Bergman (R-MI-01), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Jack Bergman (R-MI-01), Rep. Kristen McDonald Rivet (D-MI-08), Rep. Hillary J. Scholten (D-MI-03), 2 more.
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Bill Huizenga (R-MI-04), Rep. Jack Bergman (R-MI-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04).
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 60_  
@@ -51,7 +51,5 @@ Representative for MI-06 · 11.8 years in the House · Problem Solvers Caucus me
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for H.R. 3514, H.R. 2048 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

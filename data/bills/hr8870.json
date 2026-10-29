@@ -1,9 +1,9 @@
 {
  "id": "hr8870",
- "title": "BUILD America 250 Act (surface transportation reauthorization)",
+ "title": "BUILD America 250 Act",
  "sponsor": {
   "bioguide": "G000546",
-  "name": "Graves, Sam",
+  "name": "Rep. Graves, Sam [R-MO-6]",
   "party": "R",
   "state": "MO"
  },
@@ -15,47 +15,80 @@
   "date": "2026-05-22",
   "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 62 - 2."
  },
- "votes": [
+ "votes": [],
+ "actions": [
   {
-   "text": "House T&I committee 2026-05-22 ordered reported 62-2"
+   "date": "2026-05-22",
+   "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 62 - 2."
+  },
+  {
+   "date": "2026-05-21",
+   "text": "Committee Consideration and Mark-up Session Held"
+  },
+  {
+   "date": "2026-05-21",
+   "text": "Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged"
+  },
+  {
+   "date": "2026-05-21",
+   "text": "Subcommittee on Highways and Transit Discharged"
+  },
+  {
+   "date": "2026-05-20",
+   "text": "Referred to the Subcommittee on Highways and Transit."
+  },
+  {
+   "date": "2026-05-20",
+   "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+  },
+  {
+   "date": "2026-05-19",
+   "text": "Referred to the House Committee on Transportation and Infrastructure."
+  },
+  {
+   "date": "2026-05-19",
+   "text": "Introduced in House"
+  },
+  {
+   "date": "2026-05-19",
+   "text": "Introduced in House"
   }
  ],
- "actions": [],
  "cosponsors": [
   {
    "bioguide": "L000560",
    "party": "D",
    "state": "WA",
-   "date": ""
+   "date": "2026-05-19"
   },
   {
    "bioguide": "R000603",
    "party": "R",
    "state": "NC",
-   "date": ""
+   "date": "2026-05-19"
   },
   {
    "bioguide": "W000806",
    "party": "R",
    "state": "FL",
-   "date": ""
+   "date": "2026-05-19"
   },
   {
    "bioguide": "N000147",
    "party": "D",
    "state": "DC",
-   "date": ""
+   "date": "2026-05-19"
   },
   {
    "bioguide": "R000619",
    "party": "R",
    "state": "OH",
-   "date": ""
+   "date": "2026-05-26"
   }
  ],
  "cosponsors_complete": true,
  "status": "reported",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8870.xml",
  "fetched": "2026-10-29",
- "fetched_via": "snapshot of govinfo BILLSTATUS (data/seed)"
+ "fetched_via": "govinfo BILLSTATUS XML"
 }

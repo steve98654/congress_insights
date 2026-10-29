@@ -1,0 +1,34 @@
+---
+import Base from '../../layouts/Base.astro';
+import Who from '../../components/Who.astro';
+import { analysis } from '../../lib/data';
+---
+
+<Base title="Bridge builders · Congress Insights">
+  <section class="hero">
+    <h1>Bridge builders</h1>
+    <p class="lede">
+      Members who sponsor or cosponsor the most caucus bills led by the other party. They are natural messengers to colleagues
+      in their own party.
+    </p>
+  </section>
+  <div class="two">
+    {
+      (['house', 'senate'] as const).map((ch) => (
+        <section>
+          <h2>{ch === 'house' ? 'House' : 'Senate'}</h2>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>Member</th><th class="num">Other-party bills</th><th class="num">All caucus bills</th></tr></thead>
+              <tbody>
+                {analysis.bridges[ch].map((r) => (
+                  <tr><td><Who m={r} /></td><td class="num">{r.cross_party}</td><td class="num">{r.total}</td></tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      ))
+    }
+  </div>
+</Base>
