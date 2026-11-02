@@ -11,7 +11,7 @@ Representative for NV-02 · 15.1 years in the House
 1. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Dina Titus (D-NV-01), Rep. Steven Horsford (D-NV-04), Rep. Susie Lee (D-NV-03).
+   3 colleagues from your state already cosponsor: Rep. Steven Horsford (D-NV-04), Rep. Susie Lee (D-NV-03), Rep. Dina Titus (D-NV-01).
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
@@ -50,4 +50,4 @@ Representative for NV-02 · 15.1 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

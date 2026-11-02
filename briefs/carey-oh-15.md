@@ -9,7 +9,7 @@ Representative for OH-15 · 5 years in the House
 ## Top actions
 
 1. **Ask Rep. Jason Smith, chair of Ways and Means, to mark up H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 90_  
-   You lead the bill. It has 92 sponsors and cosponsors (46 R, 44 D, 16 PSC) and has not had a committee vote.
+   You lead the bill. It has 146 sponsors and cosponsors (46 R, 98 D, 23 PSC) and has not had a committee vote.
 2. **Recruit cosponsors on the committee of jurisdiction for H.R. 2036: Rep. Blake D. Moore (R-UT-01), Rep. Richard E. Neal (D-MA-01), Rep. Lloyd Doggett (D-TX-37).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 80_  
    Committee members who cosponsor make a markup easier to get. These are the highest-ranked committee members not yet on the bill, other party and PSC first.
 3. **Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 68_  
@@ -21,7 +21,7 @@ Representative for OH-15 · 5 years in the House
 6. **Press for a markup of H.R. 5269 (RESULTS Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Warren Davidson (R-OH-08), Rep. Greg Landsman (D-OH-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Greg Landsman (D-OH-01), Rep. Warren Davidson (R-OH-08).
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 
@@ -52,4 +52,4 @@ Representative for OH-15 · 5 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

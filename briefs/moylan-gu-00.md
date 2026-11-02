@@ -35,8 +35,8 @@ Representative for GU-00 · 3.8 years in the House · Problem Solvers Caucus mem
 ## Cross-party partners
 
 - [Rep. Donald Norcross (D-NJ-01)](norcross-nj-01.md): shared committees: Armed Services, Education and Workforce; PSC member
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Armed Services; PSC member
+- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services; PSC member
 
 ## Sources
 
@@ -44,4 +44,4 @@ Representative for GU-00 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

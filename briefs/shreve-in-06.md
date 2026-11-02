@@ -19,7 +19,7 @@ Representative for IN-06 · 1.8 years in the House
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. James R. Baird (R-IN-04), Rep. André Carson (D-IN-07).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Frank J. Mrvan (D-IN-01), Rep. André Carson (D-IN-07).
+   2 colleagues from your state already cosponsor: Rep. André Carson (D-IN-07), Rep. Frank J. Mrvan (D-IN-01).
 7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Frank J. Mrvan (D-IN-01), Rep. André Carson (D-IN-07).
 8. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
@@ -43,8 +43,8 @@ Representative for IN-06 · 1.8 years in the House
 ## Cross-party partners
 
 - [Rep. Frank J. Mrvan (D-IN-01)](mrvan-in-01.md): same state; shared committees: Appropriations
+- [Rep. Henry Cuellar (D-TX-28)](cuellar-tx-28.md): shared committees: Appropriations; PSC member
 - [Rep. Josh Harder (D-CA-09)](harder-ca-09.md): shared committees: Appropriations; PSC member
-- [Rep. Ed Case (D-HI-01)](case-hi-01.md): shared committees: Appropriations; PSC member
 
 ## Sources
 
@@ -52,4 +52,4 @@ Representative for IN-06 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

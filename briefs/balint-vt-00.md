@@ -2,7 +2,7 @@
 
 Representative for VT-00 · 3.8 years in the House
 
-**Priority tier B** · leverage score 68 (rank 91 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 68 (rank 91 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
 
 **Committees:** Budget; Judiciary
 
@@ -43,8 +43,8 @@ Representative for VT-00 · 3.8 years in the House
 ## Cross-party partners
 
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
-- [Rep. Blake D. Moore (R-UT-01)](moore-ut-01.md): shared committees: Budget; PSC member
 - [Rep. Michael Lawler (R-NY-17)](lawler-ny-17.md): PSC member
+- [Rep. Blake D. Moore (R-UT-01)](moore-ut-01.md): shared committees: Budget; PSC member
 
 ## Sources
 
@@ -52,4 +52,4 @@ Representative for VT-00 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

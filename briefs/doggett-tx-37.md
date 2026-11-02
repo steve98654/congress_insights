@@ -9,7 +9,7 @@ Representative for TX-37 · 31.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 2. **Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
 3. **Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Budget, where you sit.** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 68_  
@@ -19,11 +19,11 @@ Representative for TX-37 · 31.8 years in the House
 5. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Vicente Gonzalez (D-TX-34), Rep. Morgan Luttrell (R-TX-08), Rep. Sylvia R. Garcia (D-TX-29), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Vicente Gonzalez (D-TX-34), Rep. Sylvia R. Garcia (D-TX-29), Rep. Troy E. Nehls (R-TX-22), 3 more.
 7. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Monica De La Cruz (R-TX-15), Rep. Nathaniel Moran (R-TX-01), Rep. Lance Gooden (R-TX-05), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Monica De La Cruz (R-TX-15), Rep. Jasmine Crockett (D-TX-30), Rep. Lance Gooden (R-TX-05), 1 more.
 8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 22 of your state colleagues are on it: Rep. Jodey C. Arrington (R-TX-19), Rep. Joaquin Castro (D-TX-20), Rep. Vicente Gonzalez (D-TX-34), 19 more.
+   It cleared committee (committee vote 42-0). 22 of your state colleagues are on it: Rep. Beth Van Duyne (R-TX-24), Rep. Julie Johnson (D-TX-32), Rep. Marc A. Veasey (D-TX-33), 19 more.
 
 ## Position on each goal
 
@@ -52,4 +52,4 @@ Representative for TX-37 · 31.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

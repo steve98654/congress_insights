@@ -2,24 +2,24 @@
 
 Representative for CA-13 · 1.8 years in the House
 
-**Priority tier C** · leverage score 48 (rank 355 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 48 (rank 354 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Natural Resources
 
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   14 colleagues from your state already cosponsor: Rep. Mark DeSaulnier (D-CA-10), Rep. Young Kim (R-CA-40), Rep. Josh Harder (D-CA-09), 11 more.
+   14 colleagues from your state already cosponsor: Rep. Ro Khanna (D-CA-17), Rep. Mark DeSaulnier (D-CA-10), Rep. David G. Valadao (R-CA-22), 11 more.
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Josh Harder (D-CA-09), Rep. Norma J. Torres (D-CA-35), Rep. Salud O. Carbajal (D-CA-24), 5 more.
+   16 colleagues from your state already cosponsor: Rep. Mark DeSaulnier (D-CA-10), Rep. Nanette Diaz Barragán (D-CA-44), Rep. Lateefah Simon (D-CA-12), 13 more.
 3. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   24 colleagues from your state already cosponsor: Rep. Mark DeSaulnier (D-CA-10), Rep. Mike Levin (D-CA-49), Rep. Josh Harder (D-CA-09), 21 more.
+   24 colleagues from your state already cosponsor: Rep. Ro Khanna (D-CA-17), Rep. Judy Chu (D-CA-28), Rep. Mark DeSaulnier (D-CA-10), 21 more.
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   14 colleagues from your state already cosponsor: Rep. Julia Brownley (D-CA-26), Rep. Mike Levin (D-CA-49), Rep. Young Kim (R-CA-40), 11 more.
+   14 colleagues from your state already cosponsor: Rep. Kevin Mullin (D-CA-15), Rep. David G. Valadao (R-CA-22), Rep. Nanette Diaz Barragán (D-CA-44), 11 more.
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   45 colleagues from your state already cosponsor: Rep. Luz M. Rivas (D-CA-29), Rep. Mike Levin (D-CA-49), Rep. Zoe Lofgren (D-CA-18), 42 more.
+   45 colleagues from your state already cosponsor: Rep. Judy Chu (D-CA-28), Rep. Mark DeSaulnier (D-CA-10), Rep. Doris O. Matsui (D-CA-07), 42 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Josh Harder (D-CA-09), Rep. Ro Khanna (D-CA-17), Rep. Jim Costa (D-CA-21), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Ro Khanna (D-CA-17), Rep. Ted Lieu (D-CA-36), Rep. J. Luis Correa (D-CA-46), 3 more.
 7. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
@@ -52,4 +52,4 @@ Representative for CA-13 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -23,7 +23,7 @@ Representative for NC-05 · 21.8 years in the House
 7. **Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 8. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   10 colleagues from your state already cosponsor: Rep. David Rouzer (R-NC-07), Rep. Brad Knott (R-NC-13), Rep. Pat Harrigan (R-NC-10), 7 more.
+   10 colleagues from your state already cosponsor: Rep. Richard Hudson (R-NC-09), Rep. Pat Harrigan (R-NC-10), Rep. Tim Moore (R-NC-14), 7 more.
 
 ## Position on each goal
 
@@ -52,4 +52,4 @@ Representative for NC-05 · 21.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

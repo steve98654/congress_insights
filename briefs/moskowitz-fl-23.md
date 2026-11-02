@@ -21,9 +21,9 @@ Representative for FL-23 · 3.8 years in the House
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. John H. Rutherford (R-FL-05), Rep. Anna Paulina Luna (R-FL-13), Rep. Maria Elvira Salazar (R-FL-27), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Scott Franklin (R-FL-18), Rep. John H. Rutherford (R-FL-05), Rep. Maria Elvira Salazar (R-FL-27), 2 more.
 8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   7 colleagues from your state already cosponsor: Rep. John H. Rutherford (R-FL-05), Rep. Maria Elvira Salazar (R-FL-27), Rep. Debbie Wasserman Schultz (D-FL-25), 4 more.
+   9 colleagues from your state already cosponsor: Rep. Darren Soto (D-FL-09), Rep. John H. Rutherford (R-FL-05), Rep. Debbie Wasserman Schultz (D-FL-25), 6 more.
 
 ## Position on each goal
 
@@ -52,4 +52,4 @@ Representative for FL-23 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

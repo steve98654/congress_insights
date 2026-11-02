@@ -2,14 +2,14 @@
 
 Representative for LA-03 · 9.8 years in the House
 
-**Priority tier C** · leverage score 42 (rank 422 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 42 (rank 423 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Oversight and Government Reform; House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021
 
 ## Top actions
 
 1. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Cleo Fields (D-LA-06), Rep. Troy A. Carter (D-LA-02), Rep. Julia Letlow (R-LA-05).
+   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Julia Letlow (R-LA-05), Rep. Cleo Fields (D-LA-06), Rep. Troy A. Carter (D-LA-02).
 2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Cleo Fields (D-LA-06), Rep. Troy A. Carter (D-LA-02).
 3. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -34,8 +34,8 @@ Representative for LA-03 · 9.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Armed Services; PSC member
+- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services; PSC member
 - [Rep. Donald Norcross (D-NJ-01)](norcross-nj-01.md): shared committees: Armed Services; PSC member
 
 ## Sources
@@ -44,4 +44,4 @@ Representative for LA-03 · 9.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

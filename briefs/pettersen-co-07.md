@@ -13,7 +13,7 @@ Representative for CO-07 · 3.8 years in the House
 2. **Recruit cosponsors on the committee of jurisdiction for H.R. 3694: Rep. Bryan Steil (R-WI-01), Rep. Daniel Meuser (R-PA-09), Rep. Andrew R. Garbarino (R-NY-02).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 80_  
    Committee members who cosponsor make a markup easier to get. These are the highest-ranked committee members not yet on the bill, other party and PSC first.
 3. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Jeff Crank (R-CO-05), Rep. Jason Crow (D-CO-06), Rep. Gabe Evans (R-CO-08), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Jeff Crank (R-CO-05), Rep. Joe Neguse (D-CO-02), Rep. Gabe Evans (R-CO-08), 1 more.
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -46,4 +46,4 @@ Representative for CO-07 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

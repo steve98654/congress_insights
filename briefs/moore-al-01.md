@@ -21,7 +21,7 @@ Representative for AL-01 · 5.8 years in the House
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Robert B. Aderholt (R-AL-04), Rep. Terri A. Sewell (D-AL-07), Rep. Shomari Figures (D-AL-02).
+   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Terri A. Sewell (D-AL-07), Rep. Shomari Figures (D-AL-02), Rep. Robert B. Aderholt (R-AL-04).
 8. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Terri A. Sewell (D-AL-07), Rep. Shomari Figures (D-AL-02).
 
@@ -43,8 +43,8 @@ Representative for AL-01 · 5.8 years in the House
 ## Cross-party partners
 
 - [Rep. Shomari Figures (D-AL-02)](figures-al-02.md): same state; shared committees: Agriculture
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Agriculture; PSC member
+- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture; PSC member
 
 ## Sources
 
@@ -52,4 +52,4 @@ Representative for AL-01 · 5.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

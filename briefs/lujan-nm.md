@@ -19,7 +19,7 @@ Senator for NM · 5.8 years in the Senate
 5. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Bernie Moreno (R-OH).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    There is no Senate version yet, and you sit on Commerce, Science, and Transportation (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Chuck Grassley (R-IA).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 7. **Introduce a Senate companion to H.R. 1464 (MODERN WIC Act) with Sen. Chuck Grassley (R-IA).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 40_  
    There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 8. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Chuck Grassley (R-IA).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
@@ -52,4 +52,4 @@ Senator for NM · 5.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

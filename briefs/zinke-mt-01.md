@@ -35,8 +35,8 @@ Representative for MT-01 · 11.8 years in the House
 ## Cross-party partners
 
 - [Rep. Ed Case (D-HI-01)](case-hi-01.md): shared committees: Appropriations; PSC member
+- [Rep. Henry Cuellar (D-TX-28)](cuellar-tx-28.md): shared committees: Appropriations; PSC member
 - [Rep. Jim Costa (D-CA-21)](costa-ca-21.md): shared committees: Foreign Affairs; PSC member
-- [Rep. Josh Harder (D-CA-09)](harder-ca-09.md): shared committees: Appropriations; PSC member
 
 ## Sources
 
@@ -44,4 +44,4 @@ Representative for MT-01 · 11.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

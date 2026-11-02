@@ -9,9 +9,9 @@ Representative for VA-02 · 3.8 years in the House · Problem Solvers Caucus mem
 ## Top actions
 
 1. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 colleagues from your state already cosponsor: Rep. Jennifer L. McClellan (D-VA-04), Rep. Robert J. Wittman (R-VA-01), Rep. Eugene Simon Vindman (D-VA-07), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 colleagues from your state already cosponsor: Rep. Eugene Simon Vindman (D-VA-07), Rep. Robert J. Wittman (R-VA-01), Rep. Jennifer L. McClellan (D-VA-04), 1 more.
 2. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Eugene Simon Vindman (D-VA-07), Rep. Ben Cline (R-VA-06).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Ben Cline (R-VA-06), Rep. Eugene Simon Vindman (D-VA-07).
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 51_  
@@ -42,8 +42,8 @@ Representative for VA-02 · 3.8 years in the House · Problem Solvers Caucus mem
 
 ## Cross-party partners
 
-- [Rep. Eugene Simon Vindman (D-VA-07)](vindman-va-07.md): same state; shared committees: Armed Services
 - [Rep. Maggie Goodlander (D-NH-02)](goodlander-nh-02.md): shared committees: Armed Services, Veterans' Affairs
+- [Rep. Eugene Simon Vindman (D-VA-07)](vindman-va-07.md): same state; shared committees: Armed Services
 - [Rep. Jared F. Golden (D-ME-02)](golden-me-02.md): shared committees: Armed Services, Natural Resources; PSC member
 
 ## Sources
@@ -52,4 +52,4 @@ Representative for VA-02 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

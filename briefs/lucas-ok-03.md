@@ -11,9 +11,9 @@ Representative for OK-03 · 32.5 years in the House
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Stephanie I. Bice (R-OK-05), Rep. Kevin Hern (R-OK-01), Rep. Tom Cole (R-OK-04).
+   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Tom Cole (R-OK-04), Rep. Stephanie I. Bice (R-OK-05), Rep. Kevin Hern (R-OK-01).
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Stephanie I. Bice (R-OK-05), Rep. Tom Cole (R-OK-04).
+   2 colleagues from your state already cosponsor: Rep. Tom Cole (R-OK-04), Rep. Stephanie I. Bice (R-OK-05).
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -36,9 +36,9 @@ Representative for OK-03 · 32.5 years in the House
 
 ## Cross-party partners
 
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Agriculture; PSC member
 - [Rep. Josh Gottheimer (D-NJ-05)](gottheimer-nj-05.md): shared committees: Financial Services; PSC member
+- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture; PSC member
 
 ## Sources
 
@@ -46,4 +46,4 @@ Representative for OK-03 · 32.5 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -11,7 +11,7 @@ Representative for AL-05 · 3.8 years in the House
 1. **Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).** _Fund the government on time · priority 65_  
    Your THUD subcommittee seat decides this. The PSC letter flags about $10B in highway cuts, $5B for airports and $4B for transit.
 2. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Robert B. Aderholt (R-AL-04), Rep. Terri A. Sewell (D-AL-07), Rep. Shomari Figures (D-AL-02).
+   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Terri A. Sewell (D-AL-07), Rep. Shomari Figures (D-AL-02), Rep. Robert B. Aderholt (R-AL-04).
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Terri A. Sewell (D-AL-07), Rep. Shomari Figures (D-AL-02).
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -37,8 +37,8 @@ Representative for AL-05 · 3.8 years in the House
 ## Cross-party partners
 
 - [Rep. Ed Case (D-HI-01)](case-hi-01.md): shared committees: Appropriations; PSC member
-- [Rep. Josh Harder (D-CA-09)](harder-ca-09.md): shared committees: Appropriations; PSC member
 - [Rep. Henry Cuellar (D-TX-28)](cuellar-tx-28.md): shared committees: Appropriations; PSC member
+- [Rep. Josh Harder (D-CA-09)](harder-ca-09.md): shared committees: Appropriations; PSC member
 
 ## Sources
 
@@ -46,4 +46,4 @@ Representative for AL-05 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

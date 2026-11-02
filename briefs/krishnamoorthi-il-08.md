@@ -9,7 +9,7 @@ Representative for IL-08 · 9.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Sean Casten (D-IL-06), Rep. Nikki Budzinski (D-IL-13), Rep. Robin L. Kelly (D-IL-02).
+   6 colleagues from your state already cosponsor: Rep. Nikki Budzinski (D-IL-13), Rep. Lauren Underwood (D-IL-14), Rep. Delia C. Ramirez (D-IL-03), 3 more.
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 3. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 42_  
@@ -46,4 +46,4 @@ Representative for IL-08 · 9.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

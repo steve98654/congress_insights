@@ -2,7 +2,7 @@
 
 Representative for AZ-08 · 1.8 years in the House
 
-**Priority tier C** · leverage score 46 (rank 399 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 46 (rank 402 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Veterans' Affairs
 
@@ -11,13 +11,13 @@ Representative for AZ-08 · 1.8 years in the House
 1. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
    3 colleagues from your state already cosponsor: Rep. Juan Ciscomani (R-AZ-06), Rep. Adelita S. Grijalva (D-AZ-07), Rep. Greg Stanton (D-AZ-04).
 2. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Juan Ciscomani (R-AZ-06), Rep. David Schweikert (R-AZ-01), Rep. Adelita S. Grijalva (D-AZ-07), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. David Schweikert (R-AZ-01), Rep. Juan Ciscomani (R-AZ-06), Rep. Adelita S. Grijalva (D-AZ-07), 1 more.
 3. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Yassamin Ansari (D-AZ-03), Rep. Greg Stanton (D-AZ-04).
+   2 colleagues from your state already cosponsor: Rep. Greg Stanton (D-AZ-04), Rep. Yassamin Ansari (D-AZ-03).
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Yassamin Ansari (D-AZ-03), Rep. Adelita S. Grijalva (D-AZ-07).
+   2 colleagues from your state already cosponsor: Rep. Adelita S. Grijalva (D-AZ-07), Rep. Yassamin Ansari (D-AZ-03).
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Yassamin Ansari (D-AZ-03), Rep. Adelita S. Grijalva (D-AZ-07).
+   2 colleagues from your state already cosponsor: Rep. Adelita S. Grijalva (D-AZ-07), Rep. Yassamin Ansari (D-AZ-03).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -40,8 +40,8 @@ Representative for AZ-08 · 1.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Armed Services; PSC member
+- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services; PSC member
 - [Rep. Donald Norcross (D-NJ-01)](norcross-nj-01.md): shared committees: Armed Services; PSC member
 
 ## Sources
@@ -50,4 +50,4 @@ Representative for AZ-08 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -13,9 +13,9 @@ Representative for OK-02 · 3.8 years in the House
 2. **Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Budget, where you sit.** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 3. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Stephanie I. Bice (R-OK-05), Rep. Kevin Hern (R-OK-01), Rep. Tom Cole (R-OK-04).
+   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Tom Cole (R-OK-04), Rep. Stephanie I. Bice (R-OK-05), Rep. Kevin Hern (R-OK-01).
 4. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Stephanie I. Bice (R-OK-05), Rep. Tom Cole (R-OK-04).
+   2 colleagues from your state already cosponsor: Rep. Tom Cole (R-OK-04), Rep. Stephanie I. Bice (R-OK-05).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -48,4 +48,4 @@ Representative for OK-02 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

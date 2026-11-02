@@ -21,9 +21,9 @@ Representative for CA-36 · 11.8 years in the House · House Democratic Caucus V
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Josh Harder (D-CA-09), Rep. Norma J. Torres (D-CA-35), Rep. Salud O. Carbajal (D-CA-24), 5 more.
+   16 colleagues from your state already cosponsor: Rep. Mark DeSaulnier (D-CA-10), Rep. Nanette Diaz Barragán (D-CA-44), Rep. Lateefah Simon (D-CA-12), 13 more.
 8. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Jay Obernolte (R-CA-23), Rep. Scott H. Peters (D-CA-50), Rep. Jimmy Panetta (D-CA-19), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Adam Gray (D-CA-13), Rep. David G. Valadao (R-CA-22), Rep. Scott H. Peters (D-CA-50), 3 more.
 
 ## Position on each goal
 
@@ -52,4 +52,4 @@ Representative for CA-36 · 11.8 years in the House · House Democratic Caucus V
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -13,17 +13,17 @@ Representative for NY-02 · 5.8 years in the House · Problem Solvers Caucus mem
 2. **Recruit cosponsors on the committee of jurisdiction for H.R. 2048: Rep. Richard E. Neal (D-MA-01), Rep. Jason Smith (R-MO-08), Rep. Adrian Smith (R-NE-03).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 80_  
    Committee members who cosponsor make a markup easier to get. These are the highest-ranked committee members not yet on the bill, other party and PSC first.
 3. **Consider a discharge petition for H.R. 2048: 264 members already back it and 218 signatures force a floor vote.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 78_  
-   It has sat in committee for 597 days without a markup. Its backers alone are enough to reach 218 signatures if the chair will not act.
+   It has sat in committee for 601 days without a markup. Its backers alone are enough to reach 218 signatures if the chair will not act.
 4. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Josh Riley (D-NY-19), Rep. Thomas R. Suozzi (D-NY-03), Rep. John W. Mannion (D-NY-22), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Michael Lawler (R-NY-17), Rep. Josh Riley (D-NY-19), Rep. Timothy M. Kennedy (D-NY-26), 2 more.
 6. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 8 colleagues from your state already cosponsor: Rep. Nicholas A. Langworthy (R-NY-23), Rep. Nicole Malliotakis (R-NY-11), Rep. Thomas R. Suozzi (D-NY-03), 5 more.
+   It is PSC-endorsed and you are a caucus member. 8 colleagues from your state already cosponsor: Rep. Nicole Malliotakis (R-NY-11), Rep. Timothy M. Kennedy (D-NY-26), Rep. Thomas R. Suozzi (D-NY-03), 5 more.
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17).
+   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 8. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17).
+   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 
 ## Position on each goal
 
@@ -44,7 +44,7 @@ Representative for NY-02 · 5.8 years in the House · Problem Solvers Caucus mem
 
 - [Rep. Thomas R. Suozzi (D-NY-03)](suozzi-ny-03.md): same state; PSC member
 - [Rep. Ritchie Torres (D-NY-15)](torres-ny-15.md): same state; shared committees: Financial Services
-- [Rep. Nydia M. Velázquez (D-NY-07)](velazquez-ny-07.md): same state; shared committees: Financial Services
+- [Rep. Timothy M. Kennedy (D-NY-26)](kennedy-ny-26.md): same state; shared committees: Homeland Security
 
 ## Sources
 
@@ -52,4 +52,4 @@ Representative for NY-02 · 5.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -9,7 +9,7 @@ Representative for AZ-01 · 15.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 2. **Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 68_  
@@ -17,11 +17,11 @@ Representative for AZ-01 · 15.8 years in the House
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Yassamin Ansari (D-AZ-03), Rep. Greg Stanton (D-AZ-04).
+   2 colleagues from your state already cosponsor: Rep. Greg Stanton (D-AZ-04), Rep. Yassamin Ansari (D-AZ-03).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Yassamin Ansari (D-AZ-03), Rep. Adelita S. Grijalva (D-AZ-07).
+   2 colleagues from your state already cosponsor: Rep. Adelita S. Grijalva (D-AZ-07), Rep. Yassamin Ansari (D-AZ-03).
 7. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Yassamin Ansari (D-AZ-03), Rep. Adelita S. Grijalva (D-AZ-07).
+   2 colleagues from your state already cosponsor: Rep. Adelita S. Grijalva (D-AZ-07), Rep. Yassamin Ansari (D-AZ-03).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 
@@ -52,4 +52,4 @@ Representative for AZ-01 · 15.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

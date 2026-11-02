@@ -9,7 +9,7 @@ Representative for VA-07 · 1.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Ben Cline (R-VA-06), Rep. Robert J. Wittman (R-VA-01), Rep. Suhas Subramanyam (D-VA-10), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Robert J. Wittman (R-VA-01), Rep. Suhas Subramanyam (D-VA-10), Rep. Ben Cline (R-VA-06), 2 more.
 2. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -44,4 +44,4 @@ Representative for VA-07 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

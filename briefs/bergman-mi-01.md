@@ -2,7 +2,7 @@
 
 Representative for MI-01 · 9.8 years in the House
 
-**Priority tier B** · leverage score 59 (rank 216 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 59 (rank 217 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Veterans' Affairs; Budget
 
@@ -13,7 +13,7 @@ Representative for MI-01 · 9.8 years in the House
 2. **Press for a markup of H.R. 3289 (Fiscal Commission Act) in Budget, where you sit.** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Bill Huizenga (R-MI-04), Rep. Haley M. Stevens (D-MI-11), Rep. Debbie Dingell (D-MI-06), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Shri Thanedar (D-MI-13), Rep. Bill Huizenga (R-MI-04), Rep. Debbie Dingell (D-MI-06), 1 more.
 4. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -40,9 +40,9 @@ Representative for MI-01 · 9.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Debbie Dingell (D-MI-06)](dingell-mi-06.md): same state; PSC member
-- [Rep. Jimmy Panetta (D-CA-19)](panetta-ca-19.md): shared committees: Budget; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Armed Services; PSC member
+- [Rep. Hillary J. Scholten (D-MI-03)](scholten-mi-03.md): same state; PSC member
+- [Rep. Debbie Dingell (D-MI-06)](dingell-mi-06.md): same state; PSC member
 
 ## Sources
 
@@ -50,4 +50,4 @@ Representative for MI-01 · 9.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

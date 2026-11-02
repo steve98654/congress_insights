@@ -2,7 +2,7 @@
 
 Representative for TN-06 · 7.8 years in the House
 
-**Priority tier B** · leverage score 56 (rank 293 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 292 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Financial Services
 
@@ -13,7 +13,7 @@ Representative for TN-06 · 7.8 years in the House
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Tim Burchett (R-TN-02), Rep. Steve Cohen (D-TN-09).
+   2 colleagues from your state already cosponsor: Rep. Steve Cohen (D-TN-09), Rep. Tim Burchett (R-TN-02).
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues are on it: Rep. Matt Van Epps (R-TN-07).
 5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -36,9 +36,9 @@ Representative for TN-06 · 7.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Agriculture; PSC member
 - [Rep. Josh Gottheimer (D-NJ-05)](gottheimer-nj-05.md): shared committees: Financial Services; PSC member
+- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture; PSC member
 
 ## Sources
 
@@ -46,4 +46,4 @@ Representative for TN-06 · 7.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

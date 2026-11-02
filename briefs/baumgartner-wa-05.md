@@ -44,7 +44,7 @@ Representative for WA-05 · 1.8 years in the House
 
 - [Rep. Pramila Jayapal (D-WA-07)](jayapal-wa-07.md): same state; shared committees: Foreign Affairs, Judiciary
 - [Rep. Marie Gluesenkamp Perez (D-WA-03)](gluesenkamp-perez-wa-03.md): same state; PSC member
-- [Rep. Ted Lieu (D-CA-36)](lieu-ca-36.md): shared committees: Foreign Affairs, Judiciary
+- [Rep. Lucy McBath (D-GA-06)](mcbath-ga-06.md): shared committees: Education and Workforce, Judiciary
 
 ## Sources
 
@@ -52,4 +52,4 @@ Representative for WA-05 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

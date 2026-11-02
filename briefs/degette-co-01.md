@@ -15,11 +15,11 @@ Representative for CO-01 · 29.8 years in the House
 3. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Brittany Pettersen (D-CO-07), Rep. Gabe Evans (R-CO-08), Rep. Joe Neguse (D-CO-02).
+   3 colleagues from your state already cosponsor: Rep. Brittany Pettersen (D-CO-07), Rep. Joe Neguse (D-CO-02), Rep. Gabe Evans (R-CO-08).
 5. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Jason Crow (D-CO-06), Rep. Brittany Pettersen (D-CO-07), Rep. Joe Neguse (D-CO-02).
+   3 colleagues from your state already cosponsor: Rep. Joe Neguse (D-CO-02), Rep. Jason Crow (D-CO-06), Rep. Brittany Pettersen (D-CO-07).
 6. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Jeff Crank (R-CO-05), Rep. Jason Crow (D-CO-06), Rep. Gabe Evans (R-CO-08), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Jeff Crank (R-CO-05), Rep. Joe Neguse (D-CO-02), Rep. Gabe Evans (R-CO-08), 1 more.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -52,4 +52,4 @@ Representative for CO-01 · 29.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

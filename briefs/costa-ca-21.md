@@ -9,11 +9,11 @@ Representative for CA-21 · 21.8 years in the House · Problem Solvers Caucus me
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 8 colleagues from your state already cosponsor: Rep. Josh Harder (D-CA-09), Rep. Norma J. Torres (D-CA-35), Rep. Salud O. Carbajal (D-CA-24), 5 more.
+   It is PSC-endorsed and you are a caucus member. 16 colleagues from your state already cosponsor: Rep. Mark DeSaulnier (D-CA-10), Rep. Nanette Diaz Barragán (D-CA-44), Rep. Lateefah Simon (D-CA-12), 13 more.
 2. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 24 colleagues from your state already cosponsor: Rep. Mark DeSaulnier (D-CA-10), Rep. Mike Levin (D-CA-49), Rep. Josh Harder (D-CA-09), 21 more.
+   It is PSC-endorsed and you are a caucus member. 24 colleagues from your state already cosponsor: Rep. Ro Khanna (D-CA-17), Rep. Judy Chu (D-CA-28), Rep. Mark DeSaulnier (D-CA-10), 21 more.
 3. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Jay Obernolte (R-CA-23), Rep. Scott H. Peters (D-CA-50), Rep. Jimmy Panetta (D-CA-19), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Adam Gray (D-CA-13), Rep. David G. Valadao (R-CA-22), Rep. Scott H. Peters (D-CA-50), 3 more.
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 55_  
@@ -52,4 +52,4 @@ Representative for CA-21 · 21.8 years in the House · Problem Solvers Caucus me
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

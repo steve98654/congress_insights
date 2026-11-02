@@ -17,7 +17,7 @@ Representative for NJ-07 · 3.8 years in the House · Problem Solvers Caucus mem
 4. **Press for a markup of H.R. 7116 (SEPSIS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 60_  
    You already cosponsor it, and your committee is where it is stuck.
 5. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. LaMonica McIver (D-NJ-10), Rep. Nellie Pou (D-NJ-09).
+   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Nellie Pou (D-NJ-09), Rep. LaMonica McIver (D-NJ-10).
 6. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 51_  
    It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Herbert C. Conaway, Jr. (D-NJ-03).
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 51_  
@@ -52,4 +52,4 @@ Representative for NJ-07 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

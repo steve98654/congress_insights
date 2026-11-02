@@ -2,7 +2,7 @@
 
 Representative for CT-02 · 19.8 years in the House
 
-**Priority tier C** · leverage score 52 (rank 322 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 52 (rank 322 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Education and Workforce
 
@@ -36,9 +36,9 @@ Representative for CT-02 · 19.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Ryan Mackenzie (R-PA-07)](mackenzie-pa-07.md): shared committees: Education and Workforce; PSC member
 - [Rep. Don Bacon (R-NE-02)](bacon-ne-02.md): shared committees: Armed Services; PSC member
 - [Rep. Brian K. Fitzpatrick (R-PA-01)](fitzpatrick-pa-01.md): PSC member
+- [Rep. Ryan Mackenzie (R-PA-07)](mackenzie-pa-07.md): shared committees: Education and Workforce; PSC member
 
 ## Sources
 
@@ -46,4 +46,4 @@ Representative for CT-02 · 19.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

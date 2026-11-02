@@ -2,7 +2,7 @@
 
 Representative for GA-04 · 19.8 years in the House
 
-**Priority tier B** · leverage score 68 (rank 56 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 68 (rank 56 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Transportation and Infrastructure; Judiciary
 
@@ -20,10 +20,10 @@ Representative for GA-04 · 19.8 years in the House
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
-7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Austin Scott (R-GA-08), Rep. Brian Jack (R-GA-03), Rep. Rick W. Allen (R-GA-12).
-8. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Richard McCormick (R-GA-07), Rep. Rick W. Allen (R-GA-12).
+7. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
+   3 colleagues from your state already cosponsor: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Rick W. Allen (R-GA-12), Rep. Richard McCormick (R-GA-07).
+8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Sanford D. Bishop, Jr. (D-GA-02), 3 more.
 
 ## Position on each goal
 
@@ -32,7 +32,7 @@ Representative for GA-04 · 19.8 years in the House
 | Fund the government on time | committee work | - | 0 |
 | Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 42 |
-| Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 48 |
+| Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | cosponsor | 42 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 35 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 48 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 68 |
@@ -42,9 +42,9 @@ Representative for GA-04 · 19.8 years in the House
 
 ## Cross-party partners
 
+- [Rep. Jefferson Van Drew (R-NJ-02)](van-drew-nj-02.md): shared committees: Judiciary, Transportation and Infrastructure
 - [Rep. Clay Fuller (R-GA-14)](fuller-ga-14.md): same state; shared committees: Transportation and Infrastructure
 - [Rep. Robert P. Bresnahan, Jr. (R-PA-08)](bresnahan-pa-08.md): shared committees: Transportation and Infrastructure; PSC member
-- [Rep. Jefferson Van Drew (R-NJ-02)](van-drew-nj-02.md): shared committees: Judiciary, Transportation and Infrastructure
 
 ## Sources
 
@@ -52,4 +52,4 @@ Representative for GA-04 · 19.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

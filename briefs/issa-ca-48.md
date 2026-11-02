@@ -21,9 +21,9 @@ Representative for CA-48 · 25.8 years in the House
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Jim Costa (D-CA-21), Rep. Raul Ruiz (D-CA-25), Rep. Ted Lieu (D-CA-36), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Raul Ruiz (D-CA-25), Rep. Adam Gray (D-CA-13), Rep. Jim Costa (D-CA-21), 2 more.
 8. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   14 colleagues from your state already cosponsor: Rep. Mark DeSaulnier (D-CA-10), Rep. Young Kim (R-CA-40), Rep. Josh Harder (D-CA-09), 11 more.
+   14 colleagues from your state already cosponsor: Rep. Ro Khanna (D-CA-17), Rep. Mark DeSaulnier (D-CA-10), Rep. David G. Valadao (R-CA-22), 11 more.
 
 ## Position on each goal
 
@@ -52,4 +52,4 @@ Representative for CA-48 · 25.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

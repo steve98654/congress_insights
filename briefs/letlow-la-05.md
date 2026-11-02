@@ -1,6 +1,6 @@
 # Rep. Julia Letlow (R-LA-05)
 
-Representative for LA-05 · 5.5 years in the House
+Representative for LA-05 · 5.6 years in the House
 
 **Priority tier B** · leverage score 63 (rank 181 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
@@ -50,4 +50,4 @@ Representative for LA-05 · 5.5 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

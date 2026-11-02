@@ -13,11 +13,11 @@ Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus mem
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 3. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Yassamin Ansari (D-AZ-03), Rep. Greg Stanton (D-AZ-04).
+   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Greg Stanton (D-AZ-04), Rep. Yassamin Ansari (D-AZ-03).
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Yassamin Ansari (D-AZ-03), Rep. Adelita S. Grijalva (D-AZ-07).
+   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Adelita S. Grijalva (D-AZ-07), Rep. Yassamin Ansari (D-AZ-03).
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Yassamin Ansari (D-AZ-03), Rep. Adelita S. Grijalva (D-AZ-07).
+   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Adelita S. Grijalva (D-AZ-07), Rep. Yassamin Ansari (D-AZ-03).
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 51_  
    It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Paul A. Gosar (R-AZ-09).
 7. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 51_  
@@ -42,9 +42,9 @@ Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus mem
 
 ## Cross-party partners
 
+- [Rep. Henry Cuellar (D-TX-28)](cuellar-tx-28.md): shared committees: Appropriations; PSC member
 - [Rep. Josh Harder (D-CA-09)](harder-ca-09.md): shared committees: Appropriations; PSC member
 - [Rep. Ed Case (D-HI-01)](case-hi-01.md): shared committees: Appropriations; PSC member
-- [Rep. Chris Pappas (D-NH-01)](pappas-nh-01.md): shared committees: Veterans' Affairs; PSC member
 
 ## Sources
 
@@ -52,4 +52,4 @@ Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

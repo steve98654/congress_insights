@@ -11,19 +11,19 @@ Representative for NY-05 · 28.7 years in the House
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Josh Riley (D-NY-19), Rep. Thomas R. Suozzi (D-NY-03), Rep. John W. Mannion (D-NY-22), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Michael Lawler (R-NY-17), Rep. Josh Riley (D-NY-19), Rep. Timothy M. Kennedy (D-NY-26), 2 more.
 3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Nicholas A. Langworthy (R-NY-23), Rep. Nicole Malliotakis (R-NY-11), Rep. Thomas R. Suozzi (D-NY-03), 5 more.
+   13 colleagues from your state already cosponsor: Rep. Nicole Malliotakis (R-NY-11), Rep. Yvette D. Clarke (D-NY-09), Rep. Timothy M. Kennedy (D-NY-26), 10 more.
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Grace Meng (D-NY-06), Rep. Joseph D. Morelle (D-NY-25), Rep. Andrew R. Garbarino (R-NY-02), 5 more.
+   8 colleagues from your state already cosponsor: Rep. Grace Meng (D-NY-06), Rep. Joseph D. Morelle (D-NY-25), Rep. Nick LaLota (R-NY-01), 5 more.
 5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Nicholas A. Langworthy (R-NY-23), Rep. Nicole Malliotakis (R-NY-11), Rep. Thomas R. Suozzi (D-NY-03), 5 more.
+   8 colleagues from your state already cosponsor: Rep. Nicole Malliotakis (R-NY-11), Rep. Timothy M. Kennedy (D-NY-26), Rep. Thomas R. Suozzi (D-NY-03), 5 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   9 colleagues from your state already cosponsor: Rep. Nicole Malliotakis (R-NY-11), Rep. Grace Meng (D-NY-06), Rep. Thomas R. Suozzi (D-NY-03), 6 more.
+   9 colleagues from your state already cosponsor: Rep. Nicole Malliotakis (R-NY-11), Rep. Nydia M. Velázquez (D-NY-07), Rep. Grace Meng (D-NY-06), 6 more.
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17).
+   3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 8. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17).
+   3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 
 ## Position on each goal
 
@@ -52,4 +52,4 @@ Representative for NY-05 · 28.7 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

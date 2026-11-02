@@ -23,7 +23,7 @@ Representative for WI-05 · 5.8 years in the House
 7. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 8. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Derrick Van Orden (R-WI-03), Rep. Mark Pocan (D-WI-02), Rep. Gwen Moore (D-WI-04).
+   3 colleagues from your state already cosponsor: Rep. Gwen Moore (D-WI-04), Rep. Derrick Van Orden (R-WI-03), Rep. Mark Pocan (D-WI-02).
 
 ## Position on each goal
 
@@ -52,4 +52,4 @@ Representative for WI-05 · 5.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

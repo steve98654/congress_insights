@@ -11,13 +11,13 @@ Representative for MN-06 · 11.8 years in the House · House Majority Whip
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Pete Stauber (R-MN-08), Rep. Brad Finstad (R-MN-01), Rep. Kelly Morrison (D-MN-03).
+   5 colleagues from your state already cosponsor: Rep. Kelly Morrison (D-MN-03), Rep. Pete Stauber (R-MN-08), Rep. Brad Finstad (R-MN-01), 2 more.
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   7 colleagues from your state already cosponsor: Rep. Michelle Fischbach (R-MN-07), Rep. Ilhan Omar (D-MN-05), Rep. Kelly Morrison (D-MN-03), 4 more.
+   7 colleagues from your state already cosponsor: Rep. Kelly Morrison (D-MN-03), Rep. Betty McCollum (D-MN-04), Rep. Ilhan Omar (D-MN-05), 4 more.
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 7 of your state colleagues are on it: Rep. Michelle Fischbach (R-MN-07), Rep. Ilhan Omar (D-MN-05), Rep. Kelly Morrison (D-MN-03), 4 more.
+   It cleared committee (committee vote 42-0). 7 of your state colleagues are on it: Rep. Kelly Morrison (D-MN-03), Rep. Betty McCollum (D-MN-04), Rep. Ilhan Omar (D-MN-05), 4 more.
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Betty McCollum (D-MN-04), Rep. Angie Craig (D-MN-02).
+   2 colleagues from your state already cosponsor: Rep. Angie Craig (D-MN-02), Rep. Betty McCollum (D-MN-04).
 6. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -44,7 +44,7 @@ Representative for MN-06 · 11.8 years in the House · House Majority Whip
 
 - [Rep. Angie Craig (D-MN-02)](craig-mn-02.md): same state; PSC member
 - [Rep. Josh Gottheimer (D-NJ-05)](gottheimer-nj-05.md): shared committees: Financial Services; PSC member
-- [Rep. Betty McCollum (D-MN-04)](mccollum-mn-04.md): same state
+- [Rep. Ilhan Omar (D-MN-05)](omar-mn-05.md): same state
 
 ## Sources
 
@@ -52,4 +52,4 @@ Representative for MN-06 · 11.8 years in the House · House Majority Whip
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,7 +2,7 @@
 
 Representative for CA-35 · 11.8 years in the House
 
-**Priority tier B** · leverage score 56 (rank 279 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 278 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations; House Administration
 
@@ -11,15 +11,15 @@ Representative for CA-35 · 11.8 years in the House
 1. **Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).** _Fund the government on time · priority 65_  
    Your THUD subcommittee seat decides this. The PSC letter flags about $10B in highway cuts, $5B for airports and $4B for transit.
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Jim Costa (D-CA-21), Rep. Raul Ruiz (D-CA-25), Rep. Ted Lieu (D-CA-36), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Raul Ruiz (D-CA-25), Rep. Adam Gray (D-CA-13), Rep. Jim Costa (D-CA-21), 2 more.
 3. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Jay Obernolte (R-CA-23), Rep. Scott H. Peters (D-CA-50), Rep. Jimmy Panetta (D-CA-19), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Adam Gray (D-CA-13), Rep. David G. Valadao (R-CA-22), Rep. Scott H. Peters (D-CA-50), 3 more.
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   14 colleagues from your state already cosponsor: Rep. Julia Brownley (D-CA-26), Rep. Mike Levin (D-CA-49), Rep. Young Kim (R-CA-40), 11 more.
+   14 colleagues from your state already cosponsor: Rep. Kevin Mullin (D-CA-15), Rep. David G. Valadao (R-CA-22), Rep. Nanette Diaz Barragán (D-CA-44), 11 more.
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Josh Harder (D-CA-09), Rep. Ro Khanna (D-CA-17), Rep. Jim Costa (D-CA-21), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Ro Khanna (D-CA-17), Rep. Ted Lieu (D-CA-36), Rep. J. Luis Correa (D-CA-46), 3 more.
 6. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 32 of your state colleagues are on it: Rep. Mike Levin (D-CA-49), Rep. Zoe Lofgren (D-CA-18), Rep. Brad Sherman (D-CA-32), 29 more.
+   It cleared committee (committee vote 42-0). 32 of your state colleagues are on it: Rep. Judy Chu (D-CA-28), Rep. Mark DeSaulnier (D-CA-10), Rep. Doris O. Matsui (D-CA-07), 29 more.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues are on it: Rep. Scott H. Peters (D-CA-50).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -52,4 +52,4 @@ Representative for CA-35 · 11.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

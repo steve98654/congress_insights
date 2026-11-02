@@ -15,15 +15,15 @@ Representative for NY-11 · 5.8 years in the House
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Josh Riley (D-NY-19), Rep. Thomas R. Suozzi (D-NY-03), Rep. John W. Mannion (D-NY-22), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Michael Lawler (R-NY-17), Rep. Josh Riley (D-NY-19), Rep. Timothy M. Kennedy (D-NY-26), 2 more.
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Paul Tonko (D-NY-20), Rep. Nick LaLota (R-NY-01), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), 1 more.
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Grace Meng (D-NY-06), Rep. Joseph D. Morelle (D-NY-25), Rep. Andrew R. Garbarino (R-NY-02), 5 more.
+   8 colleagues from your state already cosponsor: Rep. Grace Meng (D-NY-06), Rep. Joseph D. Morelle (D-NY-25), Rep. Nick LaLota (R-NY-01), 5 more.
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17).
+   3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 8. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17).
+   3 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 
 ## Position on each goal
 
@@ -52,4 +52,4 @@ Representative for NY-11 · 5.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

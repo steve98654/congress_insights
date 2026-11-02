@@ -1,6 +1,6 @@
 # Sen. John Barrasso (R-WY)
 
-Senator for WY · 19.3 years in the Senate · Senate Majority Whip
+Senator for WY · 19.4 years in the Senate · Senate Majority Whip
 
 **Priority tier A** · leverage score 48 (rank 92 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
 
@@ -40,4 +40,4 @@ Senator for WY · 19.3 years in the Senate · Senate Majority Whip
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -21,9 +21,9 @@ Representative for NJ-02 · 7.8 years in the House
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   7 colleagues from your state already cosponsor: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Bonnie Watson Coleman (D-NJ-12), Rep. Thomas H. Kean, Jr. (R-NJ-07), 4 more.
+   7 colleagues from your state already cosponsor: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Bonnie Watson Coleman (D-NJ-12), Rep. Nellie Pou (D-NJ-09), 4 more.
 8. **Cosponsor H.R. 7116 (SEPSIS Act).** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Donald Norcross (D-NJ-01), Rep. Josh Gottheimer (D-NJ-05).
+   3 colleagues from your state already cosponsor: Rep. Josh Gottheimer (D-NJ-05), Rep. Donald Norcross (D-NJ-01), Rep. Thomas H. Kean, Jr. (R-NJ-07).
 
 ## Position on each goal
 
@@ -52,4 +52,4 @@ Representative for NJ-02 · 7.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -9,9 +9,9 @@ Representative for CA-22 · 13.8 years in the House · Problem Solvers Caucus me
 ## Top actions
 
 1. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Jim Costa (D-CA-21), Rep. Raul Ruiz (D-CA-25), Rep. Ted Lieu (D-CA-36), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Raul Ruiz (D-CA-25), Rep. Adam Gray (D-CA-13), Rep. Jim Costa (D-CA-21), 2 more.
 2. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Josh Harder (D-CA-09), Rep. Ro Khanna (D-CA-17), Rep. Jim Costa (D-CA-21), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Ro Khanna (D-CA-17), Rep. Ted Lieu (D-CA-36), Rep. J. Luis Correa (D-CA-46), 3 more.
 3. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
@@ -52,4 +52,4 @@ Representative for CA-22 · 13.8 years in the House · Problem Solvers Caucus me
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

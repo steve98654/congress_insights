@@ -17,11 +17,11 @@ Representative for OH-06 · 2.4 years in the House
 4. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   8 colleagues from your state already cosponsor: Rep. Marcy Kaptur (D-OH-09), Rep. Emilia Strong Sykes (D-OH-13), Rep. Joyce Beatty (D-OH-03), 5 more.
+   8 colleagues from your state already cosponsor: Rep. Emilia Strong Sykes (D-OH-13), Rep. David P. Joyce (R-OH-14), Rep. Greg Landsman (D-OH-01), 5 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. David P. Joyce (R-OH-14), Rep. Max L. Miller (R-OH-07), Rep. Mike Carey (R-OH-15), 2 more.
+   5 colleagues from your state already cosponsor: Rep. Greg Landsman (D-OH-01), Rep. Max L. Miller (R-OH-07), Rep. Michael R. Turner (R-OH-10), 2 more.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Warren Davidson (R-OH-08), Rep. Greg Landsman (D-OH-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Greg Landsman (D-OH-01), Rep. Warren Davidson (R-OH-08).
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 
@@ -44,7 +44,7 @@ Representative for OH-06 · 2.4 years in the House
 
 - [Rep. Greg Landsman (D-OH-01)](landsman-oh-01.md): same state; shared committees: Energy and Commerce; PSC member
 - [Rep. Debbie Dingell (D-MI-06)](dingell-mi-06.md): shared committees: Energy and Commerce; PSC member
-- [Rep. Emilia Strong Sykes (D-OH-13)](sykes-oh-13.md): same state; PSC member
+- [Rep. Darren Soto (D-FL-09)](soto-fl-09.md): shared committees: Energy and Commerce; PSC member
 
 ## Sources
 
@@ -52,4 +52,4 @@ Representative for OH-06 · 2.4 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

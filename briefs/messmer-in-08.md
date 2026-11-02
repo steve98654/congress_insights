@@ -12,16 +12,16 @@ Representative for IN-08 · 1.8 years in the House
    Committee cosponsors decide whether a bill gets marked up. It has 49 sponsors and cosponsors (2 R, 47 D, 9 PSC).
 2. **Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
-3. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
+3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
+   3 colleagues from your state already cosponsor: Rep. André Carson (D-IN-07), Rep. Jefferson Shreve (R-IN-06), Rep. Frank J. Mrvan (D-IN-01).
+4. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
    3 colleagues from your state already cosponsor: Rep. Rudy Yakym III (R-IN-02), Rep. Victoria Spartz (R-IN-05), Rep. Erin Houchin (R-IN-09).
-4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Rudy Yakym III (R-IN-02), Rep. Jefferson Shreve (R-IN-06), Rep. André Carson (D-IN-07), 1 more.
-5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
+5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
+   4 colleagues from your state already cosponsor: Rep. Rudy Yakym III (R-IN-02), Rep. André Carson (D-IN-07), Rep. Jefferson Shreve (R-IN-06), 1 more.
+6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
-6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
+7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. James R. Baird (R-IN-04), Rep. André Carson (D-IN-07).
-7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Frank J. Mrvan (D-IN-01), Rep. Jefferson Shreve (R-IN-06).
 8. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Frank J. Mrvan (D-IN-01), Rep. André Carson (D-IN-07).
 
@@ -42,8 +42,8 @@ Representative for IN-08 · 1.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture, Armed Services; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Agriculture, Armed Services; PSC member
+- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture, Armed Services; PSC member
 - [Rep. Donald Norcross (D-NJ-01)](norcross-nj-01.md): shared committees: Armed Services, Education and Workforce; PSC member
 
 ## Sources
@@ -52,4 +52,4 @@ Representative for IN-08 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

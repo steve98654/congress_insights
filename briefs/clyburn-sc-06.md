@@ -11,7 +11,7 @@ Representative for SC-06 · 33.8 years in the House
 1. **Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).** _Fund the government on time · priority 80_  
    Your THUD subcommittee seat decides this. The PSC letter flags about $10B in highway cuts, $5B for airports and $4B for transit.
 2. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 5 of your state colleagues are on it: Rep. Joe Wilson (R-SC-02), Rep. Sheri Biggs (R-SC-03), Rep. Russell Fry (R-SC-07), 2 more.
+   It cleared committee (committee vote 42-0). 5 of your state colleagues are on it: Rep. Nancy Mace (R-SC-01), Rep. Joe Wilson (R-SC-02), Rep. William R. Timmons IV (R-SC-04), 2 more.
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Joe Wilson (R-SC-02), Rep. Ralph Norman (R-SC-05).
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
@@ -48,4 +48,4 @@ Representative for SC-06 · 33.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

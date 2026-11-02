@@ -2,7 +2,7 @@
 
 Representative for TN-02 · 7.8 years in the House
 
-**Priority tier B** · leverage score 56 (rank 292 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 291 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Foreign Affairs; Oversight and Government Reform; Transportation and Infrastructure
 
@@ -11,9 +11,9 @@ Representative for TN-02 · 7.8 years in the House
 1. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Diana Harshbarger (R-TN-01), Rep. Steve Cohen (D-TN-09), Rep. Charles J. "Chuck" Fleischmann (R-TN-03), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Charles J. "Chuck" Fleischmann (R-TN-03), Rep. Steve Cohen (D-TN-09), Rep. John W. Rose (R-TN-06), 1 more.
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Steve Cohen (D-TN-09), Rep. Charles J. "Chuck" Fleischmann (R-TN-03).
+   2 colleagues from your state already cosponsor: Rep. Charles J. "Chuck" Fleischmann (R-TN-03), Rep. Steve Cohen (D-TN-09).
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues are on it: Rep. Matt Van Epps (R-TN-07).
 5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -37,8 +37,8 @@ Representative for TN-02 · 7.8 years in the House
 ## Cross-party partners
 
 - [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Transportation and Infrastructure; PSC member
-- [Rep. Maxwell Frost (D-FL-10)](frost-fl-10.md): shared committees: Oversight and Government Reform, Transportation and Infrastructure
-- [Rep. Chris Pappas (D-NH-01)](pappas-nh-01.md): shared committees: Transportation and Infrastructure; PSC member
+- [Rep. Dina Titus (D-NV-01)](titus-nv-01.md): shared committees: Foreign Affairs, Transportation and Infrastructure
+- [Rep. Hillary J. Scholten (D-MI-03)](scholten-mi-03.md): shared committees: Transportation and Infrastructure; PSC member
 
 ## Sources
 
@@ -46,4 +46,4 @@ Representative for TN-02 · 7.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

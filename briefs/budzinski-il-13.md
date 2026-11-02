@@ -9,9 +9,9 @@ Representative for IL-13 · 3.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   9 colleagues from your state already cosponsor: Rep. Eric Sorensen (D-IL-17), Rep. Bradley Scott Schneider (D-IL-10), Rep. Jonathan L. Jackson (D-IL-01), 6 more.
+   9 colleagues from your state already cosponsor: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Jonathan L. Jackson (D-IL-01), Rep. Janice D. Schakowsky (D-IL-09), 6 more.
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Bradley Scott Schneider (D-IL-10), Rep. Raja Krishnamoorthi (D-IL-08), Rep. Danny K. Davis (D-IL-07), 1 more.
+   4 colleagues from your state already cosponsor: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Darin LaHood (R-IL-16), Rep. Danny K. Davis (D-IL-07), 1 more.
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 42_  
@@ -48,4 +48,4 @@ Representative for IL-13 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

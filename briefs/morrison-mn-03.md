@@ -2,7 +2,7 @@
 
 Representative for MN-03 · 1.8 years in the House
 
-**Priority tier C** · leverage score 44 (rank 418 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 44 (rank 419 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Small Business; Veterans' Affairs
 
@@ -11,7 +11,7 @@ Representative for MN-03 · 1.8 years in the House
 1. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Betty McCollum (D-MN-04), Rep. Angie Craig (D-MN-02).
+   2 colleagues from your state already cosponsor: Rep. Angie Craig (D-MN-02), Rep. Betty McCollum (D-MN-04).
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
@@ -48,4 +48,4 @@ Representative for MN-03 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

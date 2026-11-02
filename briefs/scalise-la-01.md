@@ -15,7 +15,7 @@ Representative for LA-01 · 18.5 years in the House · House Majority Leader
 4. **Bring S. 1837 (DEFIANCE Act), already passed by the Senate, to the House floor.** _Make AI safe and protect deepfake victims · [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) · priority 90_  
    Passing the Senate text sends it straight to the President. The House version H.R. 3562 has 70 sponsors and cosponsors (34 R, 36 D, 17 PSC).
 5. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Cleo Fields (D-LA-06), Rep. Troy A. Carter (D-LA-02), Rep. Julia Letlow (R-LA-05).
+   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Julia Letlow (R-LA-05), Rep. Cleo Fields (D-LA-06), Rep. Troy A. Carter (D-LA-02).
 6. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 colleagues from your state already cosponsor: Rep. Cleo Fields (D-LA-06), Rep. Troy A. Carter (D-LA-02).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -40,8 +40,8 @@ Representative for LA-01 · 18.5 years in the House · House Majority Leader
 
 ## Cross-party partners
 
-- [Rep. Troy A. Carter (D-LA-02)](carter-la-02.md): same state
 - [Rep. Cleo Fields (D-LA-06)](fields-la-06.md): same state
+- [Rep. Troy A. Carter (D-LA-02)](carter-la-02.md): same state
 - [Rep. Thomas R. Suozzi (D-NY-03)](suozzi-ny-03.md): PSC member
 
 ## Sources
@@ -50,4 +50,4 @@ Representative for LA-01 · 18.5 years in the House · House Majority Leader
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

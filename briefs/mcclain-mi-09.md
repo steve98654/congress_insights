@@ -14,16 +14,16 @@ Representative for MI-09 · 5.8 years in the House · House Republican Conferenc
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 3. **Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
-4. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Jack Bergman (R-MI-01), Rep. Kristen McDonald Rivet (D-MI-08), Rep. Hillary J. Scholten (D-MI-03), 2 more.
-5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 colleagues from your state already cosponsor: Rep. Bill Huizenga (R-MI-04), Rep. Haley M. Stevens (D-MI-11), Rep. Debbie Dingell (D-MI-06), 1 more.
-6. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   10 colleagues from your state already cosponsor: Rep. Rashida Tlaib (D-MI-12), Rep. Hillary J. Scholten (D-MI-03), Rep. Debbie Dingell (D-MI-06), 7 more.
-7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
+4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
+   5 colleagues from your state already cosponsor: Rep. Rashida Tlaib (D-MI-12), Rep. Shri Thanedar (D-MI-13), Rep. Debbie Dingell (D-MI-06), 2 more.
+5. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
+   5 colleagues from your state already cosponsor: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04), Rep. Kristen McDonald Rivet (D-MI-08), 2 more.
+6. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
+   4 colleagues from your state already cosponsor: Rep. Shri Thanedar (D-MI-13), Rep. Bill Huizenga (R-MI-04), Rep. Debbie Dingell (D-MI-06), 1 more.
+7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
+   10 colleagues from your state already cosponsor: Rep. Rashida Tlaib (D-MI-12), Rep. Bill Huizenga (R-MI-04), Rep. Jack Bergman (R-MI-01), 7 more.
+8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04).
-8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 11 of your state colleagues are on it: Rep. Rashida Tlaib (D-MI-12), Rep. Hillary J. Scholten (D-MI-03), Rep. Debbie Dingell (D-MI-06), 8 more.
 
 ## Position on each goal
 
@@ -52,4 +52,4 @@ Representative for MI-09 · 5.8 years in the House · House Republican Conferenc
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

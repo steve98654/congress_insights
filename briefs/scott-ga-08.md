@@ -19,11 +19,11 @@ Representative for GA-08 · 15.8 years in the House
 5. **Move H.R. 8870 through Rules, or back taking it up under suspension.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 60_  
    It has been reported (committee vote 62-2) and needs a way to the floor.
 6. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Richard McCormick (R-GA-07), Rep. Rick W. Allen (R-GA-12).
+   3 colleagues from your state already cosponsor: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Rick W. Allen (R-GA-12), Rep. Richard McCormick (R-GA-07).
 7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), Rep. Nikema Williams (D-GA-05), Rep. Richard McCormick (R-GA-07), 3 more.
+   6 colleagues from your state already cosponsor: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Richard McCormick (R-GA-07), 3 more.
 8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Barry Loudermilk (R-GA-11), Rep. Richard McCormick (R-GA-07), Rep. Earl L. "Buddy" Carter (R-GA-01), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Sanford D. Bishop, Jr. (D-GA-02), 3 more.
 
 ## Position on each goal
 
@@ -42,9 +42,9 @@ Representative for GA-08 · 15.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture, Armed Services; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Agriculture, Armed Services; PSC member
-- [Rep. Eugene Simon Vindman (D-VA-07)](vindman-va-07.md): shared committees: Agriculture, Armed Services
+- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture, Armed Services; PSC member
+- [Rep. Josh Gottheimer (D-NJ-05)](gottheimer-nj-05.md): shared committees: Intelligence; PSC member
 
 ## Sources
 
@@ -52,4 +52,4 @@ Representative for GA-08 · 15.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

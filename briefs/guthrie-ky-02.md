@@ -15,7 +15,7 @@ Representative for KY-02 · 17.8 years in the House
 3. **Schedule a markup of H.R. 7116 (SEPSIS Act) in Energy and Commerce.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 95_  
    As chair you control the committee calendar. The bill is PSC-endorsed with 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 2 of your state colleagues are on it: Rep. Andy Barr (R-KY-06), Rep. Morgan McGarvey (D-KY-03).
+   It cleared committee (committee vote 42-0). 2 of your state colleagues are on it: Rep. Morgan McGarvey (D-KY-03), Rep. Andy Barr (R-KY-06).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues are on it: Rep. Andy Barr (R-KY-06).
 6. **Use your Energy and Commerce seat to press for US-led AI safety standards and AI incident reporting.** _Make AI safe and protect deepfake victims · priority 40_  
@@ -50,4 +50,4 @@ Representative for KY-02 · 17.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

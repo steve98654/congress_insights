@@ -9,11 +9,11 @@ Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus mem
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Kim Schrier (D-WA-08), Rep. Emily Randall (D-WA-06), Rep. Dan Newhouse (R-WA-04), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Rick Larsen (D-WA-02), Rep. Emily Randall (D-WA-06), Rep. Dan Newhouse (R-WA-04), 3 more.
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Suzan K. DelBene (D-WA-01), Rep. Dan Newhouse (R-WA-04), Rep. Michael Baumgartner (R-WA-05).
+   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Dan Newhouse (R-WA-04), Rep. Pramila Jayapal (D-WA-07), Rep. Marilyn Strickland (D-WA-10), 2 more.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Suzan K. DelBene (D-WA-01), Rep. Pramila Jayapal (D-WA-07), Rep. Marilyn Strickland (D-WA-10).
+   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Pramila Jayapal (D-WA-07), Rep. Suzan K. DelBene (D-WA-01), Rep. Marilyn Strickland (D-WA-10).
 4. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
 5. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
@@ -52,4 +52,4 @@ Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

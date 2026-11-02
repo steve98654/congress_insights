@@ -35,8 +35,8 @@ Representative for MO-06 · 25.8 years in the House
 ## Cross-party partners
 
 - [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services, Transportation and Infrastructure; PSC member
+- [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Armed Services; PSC member
 - [Rep. Wesley Bell (D-MO-01)](bell-mo-01.md): same state; shared committees: Armed Services
-- [Rep. Seth Moulton (D-MA-06)](moulton-ma-06.md): shared committees: Armed Services, Transportation and Infrastructure
 
 ## Sources
 
@@ -44,4 +44,4 @@ Representative for MO-06 · 25.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-02 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
