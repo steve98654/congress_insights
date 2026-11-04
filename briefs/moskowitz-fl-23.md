@@ -21,9 +21,9 @@ Representative for FL-23 · 3.8 years in the House
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. John H. Rutherford (R-FL-05), Rep. Cory Mills (R-FL-07), Rep. Scott Franklin (R-FL-18), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Scott Franklin (R-FL-18), Rep. Anna Paulina Luna (R-FL-13), Rep. Cory Mills (R-FL-07), 2 more.
 8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   9 of your state colleagues are already cosponsoring: Rep. Darren Soto (D-FL-09), Rep. John H. Rutherford (R-FL-05), Rep. Kat Cammack (R-FL-03), 6 more.
+   9 of your state colleagues are already cosponsoring: Rep. Gus M. Bilirakis (R-FL-12), Rep. Kat Cammack (R-FL-03), Rep. Kathy Castor (D-FL-14), 6 more.
 
 ## Talking points
 

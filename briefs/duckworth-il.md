@@ -22,20 +22,20 @@ Senator for IL · 9.8 years in the Senate
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
-- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
 - Your record: voted nay.
 - [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
 - Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
 - 6 members back it: 4 Republicans and 2 Democrats.
-- CBO (2026-09-30): As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026
+- CBO published a cost estimate on 2026-09-30 (as ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62817)
 
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 9 of your IL colleagues are on it: Eric Sorensen, Danny K. Davis, Janice D. Schakowsky and others.
+- 9 of your IL colleagues are on it: Sean Casten, Danny K. Davis, Jesús G. "Chuy" García and others.
 
 ## Position on each goal
 

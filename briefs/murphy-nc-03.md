@@ -15,13 +15,13 @@ Representative for NC-03 · 7.1 years in the House
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02), Rep. Alma S. Adams (D-NC-12).
+   3 of your state colleagues are already cosponsoring: Rep. Alma S. Adams (D-NC-12), Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02).
 5. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. David Rouzer (R-NC-07), Rep. Chuck Edwards (R-NC-11).
+   3 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. David Rouzer (R-NC-07).
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Chuck Edwards (R-NC-11), Rep. Valerie P. Foushee (D-NC-04), Rep. Donald G. Davis (D-NC-01), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. Valerie P. Foushee (D-NC-04), 1 more.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Chuck Edwards (R-NC-11), Rep. Donald G. Davis (D-NC-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11).
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 
@@ -35,13 +35,13 @@ Representative for NC-03 · 7.1 years in the House
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 9 of your NC colleagues are on it: Richard Hudson, Tim Moore, Addison P. McDowell and others.
+- 9 of your NC colleagues are on it: Donald G. Davis, Chuck Edwards, Richard Hudson and others.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 6 of your NC colleagues are on it: Tim Moore, Addison P. McDowell, Donald G. Davis and others.
+- 6 of your NC colleagues are on it: Alma S. Adams, Donald G. Davis, Chuck Edwards and others.
 - Your record: cosponsor.
 
 ## Position on each goal

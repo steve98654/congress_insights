@@ -11,13 +11,13 @@ Representative for MI-02 · 11.8 years in the House
 1. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Jack Bergman (R-MI-01), Rep. Hillary J. Scholten (D-MI-03), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. Debbie Dingell (D-MI-06), Rep. Hillary J. Scholten (D-MI-03), 2 more.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Bill Huizenga (R-MI-04), Rep. Shri Thanedar (D-MI-13), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Bill Huizenga (R-MI-04), Rep. Haley M. Stevens (D-MI-11), 1 more.
 4. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   10 of your state colleagues are already cosponsoring: Rep. Kristen McDonald Rivet (D-MI-08), Rep. Shri Thanedar (D-MI-13), Rep. John James (R-MI-10), 7 more.
+   10 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. Debbie Dingell (D-MI-06), Rep. Bill Huizenga (R-MI-04), 7 more.
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Bill Huizenga (R-MI-04), Rep. Jack Bergman (R-MI-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04).
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
@@ -30,17 +30,17 @@ Representative for MI-02 · 11.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your MI colleagues are on it: Debbie Dingell, Jack Bergman, Hillary J. Scholten and others.
+- 5 of your MI colleagues are on it: Jack Bergman, Debbie Dingell, Hillary J. Scholten and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 4 of your MI colleagues are on it: Debbie Dingell, Bill Huizenga, Shri Thanedar and others.
+- 4 of your MI colleagues are on it: Debbie Dingell, Bill Huizenga, Haley M. Stevens and others.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 10 of your MI colleagues are on it: Kristen McDonald Rivet, Shri Thanedar, John James and others.
+- 10 of your MI colleagues are on it: Jack Bergman, Debbie Dingell, Bill Huizenga and others.
 
 ## Position on each goal
 

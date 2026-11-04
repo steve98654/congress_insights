@@ -11,11 +11,11 @@ Representative for WI-08 · 2 years in the House
 1. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Gwen Moore (D-WI-04), Rep. Derrick Van Orden (R-WI-03), Rep. Mark Pocan (D-WI-02).
+   3 of your state colleagues are already cosponsoring: Rep. Gwen Moore (D-WI-04), Rep. Mark Pocan (D-WI-02), Rep. Derrick Van Orden (R-WI-03).
 3. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Bryan Steil (R-WI-01), Rep. Scott Fitzgerald (R-WI-05), Rep. Gwen Moore (D-WI-04), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Scott Fitzgerald (R-WI-05), Rep. Glenn Grothman (R-WI-06), Rep. Gwen Moore (D-WI-04), 3 more.
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Bryan Steil (R-WI-01), Rep. Mark Pocan (D-WI-02).
+   2 of your state colleagues are already cosponsoring: Rep. Mark Pocan (D-WI-02), Rep. Bryan Steil (R-WI-01).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -31,12 +31,12 @@ Representative for WI-08 · 2 years in the House
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 3 of your WI colleagues are on it: Gwen Moore, Derrick Van Orden, Mark Pocan.
+- 3 of your WI colleagues are on it: Gwen Moore, Mark Pocan, Derrick Van Orden.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 6 of your WI colleagues are on it: Bryan Steil, Scott Fitzgerald, Gwen Moore and others.
+- 6 of your WI colleagues are on it: Scott Fitzgerald, Glenn Grothman, Gwen Moore and others.
 
 ## Position on each goal
 

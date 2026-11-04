@@ -9,11 +9,11 @@ Representative for WA-09 · 29.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Michael Baumgartner (R-WA-05), Rep. Dan Newhouse (R-WA-04), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Michael Baumgartner (R-WA-05), Rep. Suzan K. DelBene (D-WA-01), Rep. Pramila Jayapal (D-WA-07), 2 more.
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Suzan K. DelBene (D-WA-01), Rep. Pramila Jayapal (D-WA-07).
+   3 of your state colleagues are already cosponsoring: Rep. Suzan K. DelBene (D-WA-01), Rep. Pramila Jayapal (D-WA-07), Rep. Marilyn Strickland (D-WA-10).
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Rick Larsen (D-WA-02), Rep. Kim Schrier (D-WA-08), Rep. Marilyn Strickland (D-WA-10), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Suzan K. DelBene (D-WA-01), Rep. Marie Gluesenkamp Perez (D-WA-03), Rep. Rick Larsen (D-WA-02), 2 more.
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
@@ -26,17 +26,17 @@ Representative for WA-09 · 29.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your WA colleagues are on it: Marilyn Strickland, Michael Baumgartner, Dan Newhouse and others.
+- 5 of your WA colleagues are on it: Michael Baumgartner, Suzan K. DelBene, Pramila Jayapal and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 3 of your WA colleagues are on it: Marilyn Strickland, Suzan K. DelBene, Pramila Jayapal.
+- 3 of your WA colleagues are on it: Suzan K. DelBene, Pramila Jayapal, Marilyn Strickland.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 5 of your WA colleagues are on it: Rick Larsen, Kim Schrier, Marilyn Strickland and others.
+- 5 of your WA colleagues are on it: Suzan K. DelBene, Marie Gluesenkamp Perez, Rick Larsen and others.
 
 ## Position on each goal
 

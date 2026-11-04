@@ -21,9 +21,9 @@ Representative for CA-18 · 31.8 years in the House
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Ted Lieu (D-CA-36), Rep. Laura Friedman (D-CA-30), Rep. Jim Costa (D-CA-21), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. Laura Friedman (D-CA-30), Rep. Adam Gray (D-CA-13), 2 more.
 8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   16 of your state colleagues are already cosponsoring: Rep. Lateefah Simon (D-CA-12), Rep. Mike Levin (D-CA-49), Rep. Sara Jacobs (D-CA-51), 13 more.
+   16 of your state colleagues are already cosponsoring: Rep. Nanette Diaz Barragán (D-CA-44), Rep. J. Luis Correa (D-CA-46), Rep. Salud O. Carbajal (D-CA-24), 13 more.
 
 ## Talking points
 

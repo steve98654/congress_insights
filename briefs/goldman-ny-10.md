@@ -21,9 +21,9 @@ Representative for NY-10 · 3.8 years in the House · Leaving Congress in Januar
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Josh Riley (D-NY-19), Rep. Timothy M. Kennedy (D-NY-26), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Timothy M. Kennedy (D-NY-26), Rep. Michael Lawler (R-NY-17), Rep. John W. Mannion (D-NY-22), 2 more.
 8. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01), Rep. Thomas R. Suozzi (D-NY-03), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), 1 more.
 
 ## Talking points
 
@@ -34,12 +34,12 @@ Representative for NY-10 · 3.8 years in the House · Leaving Congress in Januar
 **H.J.Res. 4, Filibuster amendment: Protect the Senate filibuster**
 - Proposes a constitutional amendment that debate on legislation in the Senate cannot close without three-fifths of senators.
 - 5 members back it: 2 Republicans and 3 Democrats, including 4 Problem Solvers.
-- 2 of your NY colleagues are on it: Thomas R. Suozzi, Michael Lawler.
+- 2 of your NY colleagues are on it: Michael Lawler, Thomas R. Suozzi.
 
 **H.R. 10378, TRUST Act: End partisan gerrymandering**
 - Limits states to one congressional redistricting after each census.
 - 11 members back it: 5 Republicans and 6 Democrats, including 11 Problem Solvers.
-- 3 of your NY colleagues are on it: Michael Lawler, Thomas R. Suozzi, Nick LaLota.
+- 3 of your NY colleagues are on it: Nick LaLota, Michael Lawler, Thomas R. Suozzi.
 
 ## Position on each goal
 

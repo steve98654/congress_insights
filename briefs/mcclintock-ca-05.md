@@ -30,7 +30,7 @@ Representative for CA-05 · 17.8 years in the House
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
 - 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
-- 6 of your CA colleagues are on it: Jimmy Panetta, Jay Obernolte, Adam Gray and others.
+- 6 of your CA colleagues are on it: Adam Gray, Jay Obernolte, Scott H. Peters and others.
 
 **H.R. 222, Sustainable Budget Act: Stabilize the national debt**
 - Sets up a bipartisan panel to draft a plan to balance the budget within 10 years.

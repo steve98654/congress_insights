@@ -17,7 +17,7 @@ Representative for IL-02 · 13.6 years in the House · Leaving Congress in Janua
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Bradley Scott Schneider (D-IL-10), Rep. Mike Quigley (D-IL-05).
+   2 of your state colleagues are already cosponsoring: Rep. Mike Quigley (D-IL-05), Rep. Bradley Scott Schneider (D-IL-10).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -28,12 +28,12 @@ Representative for IL-02 · 13.6 years in the House · Leaving Congress in Janua
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 4 of your IL colleagues are on it: Eric Sorensen, Raja Krishnamoorthi, Nikki Budzinski and others.
+- 4 of your IL colleagues are on it: Nikki Budzinski, Jesús G. "Chuy" García, Raja Krishnamoorthi and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 4 of your IL colleagues are on it: Raja Krishnamoorthi, Darin LaHood, Bradley Scott Schneider and others.
+- 4 of your IL colleagues are on it: Danny K. Davis, Raja Krishnamoorthi, Darin LaHood and others.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
 - Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.

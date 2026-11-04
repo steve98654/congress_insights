@@ -17,20 +17,20 @@ Representative for NC-09 · 13.8 years in the House
 4. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 5. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02), Rep. Alma S. Adams (D-NC-12).
+   3 of your state colleagues are already cosponsoring: Rep. Alma S. Adams (D-NC-12), Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02).
 6. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. David Rouzer (R-NC-07), Rep. Chuck Edwards (R-NC-11).
+   3 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. David Rouzer (R-NC-07).
 7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   7 of your state colleagues are already cosponsoring: Rep. Tim Moore (R-NC-14), Rep. Addison P. McDowell (R-NC-06), Rep. Donald G. Davis (D-NC-01), 4 more.
+   7 of your state colleagues are already cosponsoring: Rep. Alma S. Adams (D-NC-12), Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), 4 more.
 8. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Chuck Edwards (R-NC-11), Rep. Valerie P. Foushee (D-NC-04), Rep. Donald G. Davis (D-NC-01), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. Valerie P. Foushee (D-NC-04), 1 more.
 
 ## Talking points
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 9 of your NC colleagues are on it: Tim Moore, Addison P. McDowell, Pat Harrigan and others.
+- 9 of your NC colleagues are on it: Donald G. Davis, Chuck Edwards, Pat Harrigan and others.
 - Your record: sponsor.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**

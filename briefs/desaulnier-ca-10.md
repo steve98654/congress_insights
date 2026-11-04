@@ -15,11 +15,11 @@ Representative for CA-10 · 11.8 years in the House
 3. **Press for a markup of H.R. 1464 (MODERN WIC Act) in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Jimmy Panetta (D-CA-19), Rep. Jay Obernolte (R-CA-23), Rep. Adam Gray (D-CA-13), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Adam Gray (D-CA-13), Rep. Jay Obernolte (R-CA-23), Rep. Scott H. Peters (D-CA-50), 3 more.
 5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   15 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Mike Levin (D-CA-49), Rep. Young Kim (R-CA-40), 12 more.
+   15 of your state colleagues are already cosponsoring: Rep. Julia Brownley (D-CA-26), Rep. Ami Bera (D-CA-06), Rep. Nanette Diaz Barragán (D-CA-44), 12 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Ted Lieu (D-CA-36), Rep. Ro Khanna (D-CA-17), Rep. Josh Harder (D-CA-09), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), Rep. Josh Harder (D-CA-09), 3 more.
 7. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
@@ -30,7 +30,7 @@ Representative for CA-10 · 11.8 years in the House
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 5 of your CA colleagues are on it: Ted Lieu, Laura Friedman, Jim Costa and others.
+- 5 of your CA colleagues are on it: Jim Costa, Laura Friedman, Adam Gray and others.
 
 **H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
 - DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.
@@ -40,7 +40,7 @@ Representative for CA-10 · 11.8 years in the House
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 23 of your CA colleagues are on it: Ami Bera, Dave Min, Doris O. Matsui and others.
+- 23 of your CA colleagues are on it: Ami Bera, Nanette Diaz Barragán, Judy Chu and others.
 - Your record: cosponsor.
 
 ## Position on each goal

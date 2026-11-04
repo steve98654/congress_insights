@@ -23,7 +23,7 @@ Representative for OH-04 · 19.8 years in the House
 7. **Mark up H.R. 3562 or clear S. 1837 for the floor in Judiciary.** _Make AI safe and protect deepfake victims · [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) · priority 92_  
    The Senate already passed it. H.R. 3562 has 70 sponsors and cosponsors (34 R, 36 D, 17 PSC).
 8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Greg Landsman (D-OH-01), Rep. Max L. Miller (R-OH-07), Rep. Joyce Beatty (D-OH-03), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Joyce Beatty (D-OH-03), Rep. Mike Carey (R-OH-15), Rep. Greg Landsman (D-OH-01), 2 more.
 
 ## Talking points
 

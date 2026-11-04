@@ -15,7 +15,7 @@ Representative for WA-01 · 14 years in the House
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Adam Smith (D-WA-09), Rep. Dan Newhouse (R-WA-04), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Rick Larsen (D-WA-02), Rep. Dan Newhouse (R-WA-04), Rep. Emily Randall (D-WA-06), 3 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
@@ -28,19 +28,19 @@ Representative for WA-01 · 14 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 4 of your WA colleagues are on it: Marilyn Strickland, Michael Baumgartner, Dan Newhouse and others.
+- 4 of your WA colleagues are on it: Michael Baumgartner, Pramila Jayapal, Dan Newhouse and others.
 - Your record: cosponsor.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 2 of your WA colleagues are on it: Marilyn Strickland, Pramila Jayapal.
+- 2 of your WA colleagues are on it: Pramila Jayapal, Marilyn Strickland.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 4 of your WA colleagues are on it: Rick Larsen, Kim Schrier, Marilyn Strickland and others.
+- 4 of your WA colleagues are on it: Marie Gluesenkamp Perez, Rick Larsen, Marilyn Strickland and others.
 - Your record: cosponsor.
 
 ## Position on each goal

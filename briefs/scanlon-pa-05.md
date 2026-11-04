@@ -30,7 +30,7 @@ Representative for PA-05 · 8 years in the House
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
 - 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
-- 3 of your PA colleagues are on it: Lloyd Smucker, Brian K. Fitzpatrick, Chrissy Houlahan.
+- 3 of your PA colleagues are on it: Brian K. Fitzpatrick, Chrissy Houlahan, Lloyd Smucker.
 
 **H.R. 222, Sustainable Budget Act: Stabilize the national debt**
 - Sets up a bipartisan panel to draft a plan to balance the budget within 10 years.

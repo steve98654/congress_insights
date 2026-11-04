@@ -15,7 +15,7 @@ Representative for MA-03 · 7.8 years in the House
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Jake Auchincloss (D-MA-04), Rep. Seth Moulton (D-MA-06), Rep. Stephen F. Lynch (D-MA-08).
+   3 of your state colleagues are already cosponsoring: Rep. Jake Auchincloss (D-MA-04), Rep. Stephen F. Lynch (D-MA-08), Rep. Seth Moulton (D-MA-06).
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  

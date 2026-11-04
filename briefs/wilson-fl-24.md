@@ -15,15 +15,15 @@ Representative for FL-24 · 15.8 years in the House · Leaving Congress in Janua
 3. **Press for a markup of H.R. 1464 (MODERN WIC Act) in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. John H. Rutherford (R-FL-05), Rep. Cory Mills (R-FL-07), Rep. Scott Franklin (R-FL-18), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Scott Franklin (R-FL-18), Rep. Anna Paulina Luna (R-FL-13), Rep. Cory Mills (R-FL-07), 2 more.
 5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   11 of your state colleagues are already cosponsoring: Rep. Darren Soto (D-FL-09), Rep. John H. Rutherford (R-FL-05), Rep. Kat Cammack (R-FL-03), 8 more.
+   11 of your state colleagues are already cosponsoring: Rep. Gus M. Bilirakis (R-FL-12), Rep. Aaron Bean (R-FL-04), Rep. Kat Cammack (R-FL-03), 8 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   7 of your state colleagues are already cosponsoring: Rep. Kat Cammack (R-FL-03), Rep. Vern Buchanan (R-FL-16), Rep. Jared Moskowitz (D-FL-23), 4 more.
+   7 of your state colleagues are already cosponsoring: Rep. Vern Buchanan (R-FL-16), Rep. Kat Cammack (R-FL-03), Rep. Anna Paulina Luna (R-FL-13), 4 more.
 7. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 8. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Jared Moskowitz (D-FL-23), Rep. Cory Mills (R-FL-07).
+   2 of your state colleagues are already cosponsoring: Rep. Cory Mills (R-FL-07), Rep. Jared Moskowitz (D-FL-23).
 
 ## Talking points
 
@@ -38,7 +38,7 @@ Representative for FL-24 · 15.8 years in the House · Leaving Congress in Janua
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 2 of your FL colleagues are on it: Maria Elvira Salazar, Maxwell Frost.
+- 2 of your FL colleagues are on it: Maxwell Frost, Maria Elvira Salazar.
 - Your record: cosponsor.
 
 ## Position on each goal

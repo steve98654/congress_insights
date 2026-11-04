@@ -9,13 +9,13 @@ Representative for FL-07 · 3.8 years in the House · Leaving Congress in Januar
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   9 of your state colleagues are already cosponsoring: Rep. Darren Soto (D-FL-09), Rep. John H. Rutherford (R-FL-05), Rep. Kat Cammack (R-FL-03), 6 more.
+   9 of your state colleagues are already cosponsoring: Rep. Gus M. Bilirakis (R-FL-12), Rep. Kat Cammack (R-FL-03), Rep. Kathy Castor (D-FL-14), 6 more.
 2. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Frederica S. Wilson (D-FL-24), Rep. Maria Elvira Salazar (R-FL-27), Rep. Maxwell Frost (D-FL-10).
+   3 of your state colleagues are already cosponsoring: Rep. Maxwell Frost (D-FL-10), Rep. Maria Elvira Salazar (R-FL-27), Rep. Frederica S. Wilson (D-FL-24).
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   11 of your state colleagues are already cosponsoring: Rep. Darren Soto (D-FL-09), Rep. John H. Rutherford (R-FL-05), Rep. Kat Cammack (R-FL-03), 8 more.
+   11 of your state colleagues are already cosponsoring: Rep. Gus M. Bilirakis (R-FL-12), Rep. Aaron Bean (R-FL-04), Rep. Kat Cammack (R-FL-03), 8 more.
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   7 of your state colleagues are already cosponsoring: Rep. Kat Cammack (R-FL-03), Rep. Vern Buchanan (R-FL-16), Rep. Jared Moskowitz (D-FL-23), 4 more.
+   7 of your state colleagues are already cosponsoring: Rep. Vern Buchanan (R-FL-16), Rep. Kat Cammack (R-FL-03), Rep. Anna Paulina Luna (R-FL-13), 4 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
@@ -28,17 +28,17 @@ Representative for FL-07 · 3.8 years in the House · Leaving Congress in Januar
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 9 of your FL colleagues are on it: Darren Soto, John H. Rutherford, Kat Cammack and others.
+- 9 of your FL colleagues are on it: Gus M. Bilirakis, Kat Cammack, Kathy Castor and others.
 
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 3 of your FL colleagues are on it: Frederica S. Wilson, Maria Elvira Salazar, Maxwell Frost.
+- 3 of your FL colleagues are on it: Maxwell Frost, Maria Elvira Salazar, Frederica S. Wilson.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 11 of your FL colleagues are on it: Darren Soto, John H. Rutherford, Kat Cammack and others.
+- 11 of your FL colleagues are on it: Gus M. Bilirakis, Aaron Bean, Kat Cammack and others.
 
 ## Position on each goal
 

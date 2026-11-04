@@ -11,7 +11,7 @@ Representative for VA-10 · 1.8 years in the House
 1. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Robert J. Wittman (R-VA-01), Rep. Jennifer L. McClellan (D-VA-04), Rep. Eugene Simon Vindman (D-VA-07), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Jennifer L. McClellan (D-VA-04), Rep. Eugene Simon Vindman (D-VA-07), Rep. Robert J. Wittman (R-VA-01), 1 more.
 3. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Ben Cline (R-VA-06), Rep. Eugene Simon Vindman (D-VA-07).
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -29,13 +29,13 @@ Representative for VA-10 · 1.8 years in the House
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 4 of your VA colleagues are on it: Robert J. Wittman, Jennifer L. McClellan, Eugene Simon Vindman and others.
+- 4 of your VA colleagues are on it: Jennifer L. McClellan, Eugene Simon Vindman, Robert J. Wittman and others.
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
 - 2 of your VA colleagues are on it: Ben Cline, Eugene Simon Vindman.
-- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal

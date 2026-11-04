@@ -15,22 +15,22 @@ Representative for NY-09 · 19.8 years in the House
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01), Rep. Thomas R. Suozzi (D-NY-03), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), 1 more.
 5. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   8 of your state colleagues are already cosponsoring: Rep. Grace Meng (D-NY-06), Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01), 5 more.
+   8 of your state colleagues are already cosponsoring: Rep. Andrew R. Garbarino (R-NY-02), Rep. Laura Gillen (D-NY-04), Rep. Nick LaLota (R-NY-01), 5 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   9 of your state colleagues are already cosponsoring: Rep. Grace Meng (D-NY-06), Rep. Alexandria Ocasio-Cortez (D-NY-14), Rep. Michael Lawler (R-NY-17), 6 more.
+   9 of your state colleagues are already cosponsoring: Rep. Andrew R. Garbarino (R-NY-02), Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), 6 more.
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01).
+   3 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 8. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01).
+   3 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 
 ## Talking points
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 5 of your NY colleagues are on it: Michael Lawler, Josh Riley, Timothy M. Kennedy and others.
+- 5 of your NY colleagues are on it: Timothy M. Kennedy, Michael Lawler, John W. Mannion and others.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
 - Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.
@@ -40,7 +40,7 @@ Representative for NY-09 · 19.8 years in the House
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 9 of your NY colleagues are on it: Michael Lawler, Claudia Tenney, Andrew R. Garbarino and others.
+- 9 of your NY colleagues are on it: Andrew R. Garbarino, Timothy M. Kennedy, Nick LaLota and others.
 - Your record: cosponsor.
 
 ## Position on each goal

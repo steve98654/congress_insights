@@ -11,36 +11,36 @@ Representative for NY-13 · 9.8 years in the House · Leaving Congress in Januar
 1. **Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).** _Fund the government on time · priority 65_  
    Your THUD subcommittee seat decides this. The PSC letter flags about $10B in highway cuts, $5B for airports and $4B for transit.
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Josh Riley (D-NY-19), Rep. Timothy M. Kennedy (D-NY-26), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Timothy M. Kennedy (D-NY-26), Rep. Michael Lawler (R-NY-17), Rep. John W. Mannion (D-NY-22), 2 more.
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01), Rep. Thomas R. Suozzi (D-NY-03), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), 1 more.
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   13 of your state colleagues are already cosponsoring: Rep. George Latimer (D-NY-16), Rep. Michael Lawler (R-NY-17), Rep. Claudia Tenney (R-NY-24), 10 more.
+   13 of your state colleagues are already cosponsoring: Rep. Yvette D. Clarke (D-NY-09), Rep. Andrew R. Garbarino (R-NY-02), Rep. Laura Gillen (D-NY-04), 10 more.
 5. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   8 of your state colleagues are already cosponsoring: Rep. Grace Meng (D-NY-06), Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01), 5 more.
+   8 of your state colleagues are already cosponsoring: Rep. Andrew R. Garbarino (R-NY-02), Rep. Laura Gillen (D-NY-04), Rep. Nick LaLota (R-NY-01), 5 more.
 6. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   10 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Claudia Tenney (R-NY-24), Rep. Andrew R. Garbarino (R-NY-02), 7 more.
+   10 of your state colleagues are already cosponsoring: Rep. Yvette D. Clarke (D-NY-09), Rep. Andrew R. Garbarino (R-NY-02), Rep. Timothy M. Kennedy (D-NY-26), 7 more.
 7. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   9 of your state colleagues are already cosponsoring: Rep. Grace Meng (D-NY-06), Rep. Alexandria Ocasio-Cortez (D-NY-14), Rep. Michael Lawler (R-NY-17), 6 more.
+   9 of your state colleagues are already cosponsoring: Rep. Andrew R. Garbarino (R-NY-02), Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), 6 more.
 8. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01).
+   3 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 
 ## Talking points
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 5 of your NY colleagues are on it: Michael Lawler, Josh Riley, Timothy M. Kennedy and others.
+- 5 of your NY colleagues are on it: Timothy M. Kennedy, Michael Lawler, John W. Mannion and others.
 
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 4 of your NY colleagues are on it: Michael Lawler, Nick LaLota, Thomas R. Suozzi and others.
+- 4 of your NY colleagues are on it: Nick LaLota, Michael Lawler, Thomas R. Suozzi and others.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 13 of your NY colleagues are on it: George Latimer, Michael Lawler, Claudia Tenney and others.
+- 13 of your NY colleagues are on it: Yvette D. Clarke, Andrew R. Garbarino, Laura Gillen and others.
 
 ## Position on each goal
 

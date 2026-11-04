@@ -29,7 +29,7 @@ Representative for SC-04 · 7.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 4 of your SC colleagues are on it: Nancy Mace, Joe Wilson, Sheri Biggs and others.
+- 4 of your SC colleagues are on it: Sheri Biggs, Russell Fry, Nancy Mace and others.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**

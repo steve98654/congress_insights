@@ -11,7 +11,7 @@ Representative for MO-01 · 1.8 years in the House
 1. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Ann Wagner (R-MO-02), Rep. Sam Graves (R-MO-06).
+   2 of your state colleagues are already cosponsoring: Rep. Sam Graves (R-MO-06), Rep. Ann Wagner (R-MO-02).
 3. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
    It cleared committee (committee vote 62-2). 1 of your state colleagues is on it: Rep. Sam Graves (R-MO-06).
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -22,19 +22,19 @@ Representative for MO-01 · 1.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 5 of your MO colleagues are on it: Sam Graves, Ann Wagner, Emanuel Cleaver and others.
+- 5 of your MO colleagues are on it: Mark Alford, Emanuel Cleaver, Sam Graves and others.
 - Your record: cosponsor.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 2 of your MO colleagues are on it: Ann Wagner, Sam Graves.
+- 2 of your MO colleagues are on it: Sam Graves, Ann Wagner.
 
 **H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
 - Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
 - 6 members back it: 4 Republicans and 2 Democrats.
 - 1 of your MO colleagues is on it: Sam Graves.
-- CBO (2026-09-30): As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026
+- CBO published a cost estimate on 2026-09-30 (as ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62817)
 
 ## Position on each goal

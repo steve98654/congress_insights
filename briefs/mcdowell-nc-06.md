@@ -15,11 +15,11 @@ Representative for NC-06 · 1.8 years in the House
 3. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02), Rep. Alma S. Adams (D-NC-12).
+   3 of your state colleagues are already cosponsoring: Rep. Alma S. Adams (D-NC-12), Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02).
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Chuck Edwards (R-NC-11), Rep. Valerie P. Foushee (D-NC-04), Rep. Donald G. Davis (D-NC-01), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. Valerie P. Foushee (D-NC-04), 1 more.
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Chuck Edwards (R-NC-11), Rep. Donald G. Davis (D-NC-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11).
 7. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 8. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
@@ -30,7 +30,7 @@ Representative for NC-06 · 1.8 years in the House
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
 - 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
-- 3 of your NC colleagues are on it: Donald G. Davis, David Rouzer, Chuck Edwards.
+- 3 of your NC colleagues are on it: Donald G. Davis, Chuck Edwards, David Rouzer.
 
 **H.R. 222, Sustainable Budget Act: Stabilize the national debt**
 - Sets up a bipartisan panel to draft a plan to balance the budget within 10 years.

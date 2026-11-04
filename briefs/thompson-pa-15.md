@@ -13,15 +13,15 @@ Representative for PA-15 · 17.8 years in the House
 2. **Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Christopher R. Deluzio (D-PA-17), Rep. Robert P. Bresnahan, Jr. (R-PA-08).
+   3 of your state colleagues are already cosponsoring: Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Mike Kelly (R-PA-16), Rep. Chrissy Houlahan (D-PA-06), Rep. Christopher R. Deluzio (D-PA-17), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Brendan F. Boyle (D-PA-02), Rep. Christopher R. Deluzio (D-PA-17), Rep. Madeleine Dean (D-PA-04), 3 more.
 5. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Lloyd Smucker (R-PA-11), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06).
+   3 of your state colleagues are already cosponsoring: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06), Rep. Lloyd Smucker (R-PA-11).
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Dwight Evans (D-PA-03), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Madeleine Dean (D-PA-04), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Christopher R. Deluzio (D-PA-17), Rep. Madeleine Dean (D-PA-04), 2 more.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Chrissy Houlahan (D-PA-06), Rep. Brian K. Fitzpatrick (R-PA-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06).
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 
@@ -30,17 +30,17 @@ Representative for PA-15 · 17.8 years in the House
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 3 of your PA colleagues are on it: Dwight Evans, Brian K. Fitzpatrick, Christopher R. Deluzio.
+- 3 of your PA colleagues are on it: Christopher R. Deluzio, Dwight Evans, Brian K. Fitzpatrick.
 
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 6 of your PA colleagues are on it: Dwight Evans, Brian K. Fitzpatrick, Madeleine Dean and others.
+- 6 of your PA colleagues are on it: Robert P. Bresnahan, Jr., Madeleine Dean, Dwight Evans and others.
 
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 3 of your PA colleagues are on it: Brian K. Fitzpatrick, Christopher R. Deluzio, Robert P. Bresnahan, Jr..
+- 3 of your PA colleagues are on it: Robert P. Bresnahan, Jr., Christopher R. Deluzio, Brian K. Fitzpatrick.
 
 ## Position on each goal
 

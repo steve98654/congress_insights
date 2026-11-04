@@ -9,11 +9,11 @@ Representative for TX-28 · 21.8 years in the House · Problem Solvers Caucus me
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Troy E. Nehls (R-TX-22), Rep. Vicente Gonzalez (D-TX-34), Rep. Sylvia R. Garcia (D-TX-29), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. John R. Carter (R-TX-31), Rep. Joaquin Castro (D-TX-20), Rep. Vicente Gonzalez (D-TX-34), 3 more.
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 11 of your state colleagues are already cosponsoring: Rep. Randy K. Weber, Sr. (R-TX-14), Rep. August Pfluger (R-TX-11), Rep. Beth Van Duyne (R-TX-24), 8 more.
+   It is PSC-endorsed and you are a caucus member. 11 of your state colleagues are already cosponsoring: Rep. Brian Babin (R-TX-36), Rep. Dan Crenshaw (R-TX-02), Rep. Veronica Escobar (D-TX-16), 8 more.
 3. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), Rep. Nathaniel Moran (R-TX-01), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Jasmine Crockett (D-TX-30), Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), 1 more.
 4. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
 5. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
@@ -30,17 +30,17 @@ Representative for TX-28 · 21.8 years in the House · Problem Solvers Caucus me
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 6 of your TX colleagues are on it: Troy E. Nehls, Vicente Gonzalez, Sylvia R. Garcia and others.
+- 6 of your TX colleagues are on it: John R. Carter, Joaquin Castro, Vicente Gonzalez and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 11 of your TX colleagues are on it: Randy K. Weber, Sr., August Pfluger, Beth Van Duyne and others.
+- 11 of your TX colleagues are on it: Brian Babin, Dan Crenshaw, Veronica Escobar and others.
 
 **H.R. 3562, DEFIANCE Act: Make AI safe and protect deepfake victims**
 - Creates a civil right of action for victims of non-consensual intimate deepfakes.
 - 70 members back it: 34 Republicans and 36 Democrats, including 17 Problem Solvers.
-- 4 of your TX colleagues are on it: Monica De La Cruz, Lance Gooden, Nathaniel Moran and others.
+- 4 of your TX colleagues are on it: Jasmine Crockett, Monica De La Cruz, Lance Gooden and others.
 
 ## Position on each goal
 

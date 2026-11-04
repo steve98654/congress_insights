@@ -11,7 +11,7 @@ Representative for MN-01 · 4.2 years in the House
 1. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Betty McCollum (D-MN-04), Rep. Angie Craig (D-MN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Betty McCollum (D-MN-04).
 3. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 4. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -22,18 +22,18 @@ Representative for MN-01 · 4.2 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 6 of your MN colleagues are on it: Kelly Morrison, Ilhan Omar, Michelle Fischbach and others.
+- 6 of your MN colleagues are on it: Angie Craig, Michelle Fischbach, Betty McCollum and others.
 - Your record: cosponsor.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 2 of your MN colleagues are on it: Betty McCollum, Angie Craig.
+- 2 of your MN colleagues are on it: Angie Craig, Betty McCollum.
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
-- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal

@@ -15,7 +15,7 @@ Representative for SC-02 · 24.9 years in the House
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. William R. Timmons IV (R-SC-04), Rep. Nancy Mace (R-SC-01).
+   2 of your state colleagues are already cosponsoring: Rep. Nancy Mace (R-SC-01), Rep. William R. Timmons IV (R-SC-04).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -34,7 +34,7 @@ Representative for SC-02 · 24.9 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 4 of your SC colleagues are on it: William R. Timmons IV, Nancy Mace, Sheri Biggs and others.
+- 4 of your SC colleagues are on it: Sheri Biggs, Russell Fry, Nancy Mace and others.
 - Your record: cosponsor.
 
 ## Position on each goal

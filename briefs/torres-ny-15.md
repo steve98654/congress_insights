@@ -11,15 +11,15 @@ Representative for NY-15 · 5.8 years in the House
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Josh Riley (D-NY-19), Rep. Timothy M. Kennedy (D-NY-26), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Timothy M. Kennedy (D-NY-26), Rep. Michael Lawler (R-NY-17), Rep. John W. Mannion (D-NY-22), 2 more.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   10 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Claudia Tenney (R-NY-24), Rep. Andrew R. Garbarino (R-NY-02), 7 more.
+   10 of your state colleagues are already cosponsoring: Rep. Yvette D. Clarke (D-NY-09), Rep. Andrew R. Garbarino (R-NY-02), Rep. Timothy M. Kennedy (D-NY-26), 7 more.
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   9 of your state colleagues are already cosponsoring: Rep. Grace Meng (D-NY-06), Rep. Alexandria Ocasio-Cortez (D-NY-14), Rep. Michael Lawler (R-NY-17), 6 more.
+   9 of your state colleagues are already cosponsoring: Rep. Andrew R. Garbarino (R-NY-02), Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), 6 more.
 5. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01).
+   3 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 6. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01).
+   3 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Nick LaLota (R-NY-01), Rep. Joseph D. Morelle (D-NY-25).
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -30,17 +30,17 @@ Representative for NY-15 · 5.8 years in the House
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 4 of your NY colleagues are on it: Michael Lawler, Nick LaLota, Thomas R. Suozzi and others.
+- 4 of your NY colleagues are on it: Nick LaLota, Michael Lawler, Thomas R. Suozzi and others.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 5 of your NY colleagues are on it: Michael Lawler, Josh Riley, Timothy M. Kennedy and others.
+- 5 of your NY colleagues are on it: Timothy M. Kennedy, Michael Lawler, John W. Mannion and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 10 of your NY colleagues are on it: Michael Lawler, Claudia Tenney, Andrew R. Garbarino and others.
+- 10 of your NY colleagues are on it: Yvette D. Clarke, Andrew R. Garbarino, Timothy M. Kennedy and others.
 
 ## Position on each goal
 

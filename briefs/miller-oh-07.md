@@ -15,7 +15,7 @@ Representative for OH-07 · 3.8 years in the House
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Greg Landsman (D-OH-01), Rep. Warren Davidson (R-OH-08).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Warren Davidson (R-OH-08), Rep. Greg Landsman (D-OH-01).
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
@@ -28,18 +28,18 @@ Representative for OH-07 · 3.8 years in the House
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 5 of your OH colleagues are on it: Greg Landsman, Joyce Beatty, Michael A. Rulli and others.
+- 5 of your OH colleagues are on it: Joyce Beatty, Troy Balderson, Mike Carey and others.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 4 of your OH colleagues are on it: Greg Landsman, Joyce Beatty, Michael A. Rulli and others.
+- 4 of your OH colleagues are on it: Joyce Beatty, Mike Carey, Greg Landsman and others.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 7 of your OH colleagues are on it: Emilia Strong Sykes, Marcy Kaptur, David P. Joyce and others.
+- 7 of your OH colleagues are on it: Joyce Beatty, Shontel M. Brown, David P. Joyce and others.
 - Your record: cosponsor.
 
 ## Position on each goal

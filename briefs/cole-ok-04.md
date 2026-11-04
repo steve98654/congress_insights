@@ -28,13 +28,13 @@ Representative for OK-04 · 23.8 years in the House
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
-- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 **H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
 - Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
 - 6 members back it: 4 Republicans and 2 Democrats.
-- CBO (2026-09-30): As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026
+- CBO published a cost estimate on 2026-09-30 (as ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62817)
 
 ## Position on each goal

@@ -17,32 +17,32 @@ Representative for PA-16 · 15.8 years in the House
 4. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Dwight Evans (D-PA-03), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Christopher R. Deluzio (D-PA-17).
+   3 of your state colleagues are already cosponsoring: Rep. Christopher R. Deluzio (D-PA-17), Rep. Dwight Evans (D-PA-03), Rep. Brian K. Fitzpatrick (R-PA-01).
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Christopher R. Deluzio (D-PA-17), Rep. Robert P. Bresnahan, Jr. (R-PA-08).
+   3 of your state colleagues are already cosponsoring: Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01).
 7. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Dwight Evans (D-PA-03), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Madeleine Dean (D-PA-04), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Madeleine Dean (D-PA-04), Rep. Dwight Evans (D-PA-03), 3 more.
 8. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Lloyd Smucker (R-PA-11), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06).
+   3 of your state colleagues are already cosponsoring: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06), Rep. Lloyd Smucker (R-PA-11).
 
 ## Talking points
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 13 of your PA colleagues are on it: John Joyce, Robert P. Bresnahan, Jr., Daniel Meuser and others.
+- 13 of your PA colleagues are on it: Brendan F. Boyle, Robert P. Bresnahan, Jr., Christopher R. Deluzio and others.
 - Your record: sponsor.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your PA colleagues are on it: Chrissy Houlahan, Christopher R. Deluzio, Brian K. Fitzpatrick and others.
+- 5 of your PA colleagues are on it: Brendan F. Boyle, Christopher R. Deluzio, Madeleine Dean and others.
 - Your record: cosponsor.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 7 of your PA colleagues are on it: Glenn Thompson, John Joyce, Robert P. Bresnahan, Jr. and others.
+- 7 of your PA colleagues are on it: Brendan F. Boyle, Robert P. Bresnahan, Jr., Madeleine Dean and others.
 - Your record: cosponsor.
 
 ## Position on each goal

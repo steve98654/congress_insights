@@ -15,7 +15,7 @@ Representative for WA-08 · 7.8 years in the House
 3. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Michael Baumgartner (R-WA-05), Rep. Dan Newhouse (R-WA-04), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Michael Baumgartner (R-WA-05), Rep. Suzan K. DelBene (D-WA-01), Rep. Pramila Jayapal (D-WA-07), 2 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
@@ -28,12 +28,12 @@ Representative for WA-08 · 7.8 years in the House
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 2 of your WA colleagues are on it: Adam Smith, Suzan K. DelBene.
+- 2 of your WA colleagues are on it: Suzan K. DelBene, Adam Smith.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 3 of your WA colleagues are on it: Marilyn Strickland, Suzan K. DelBene, Pramila Jayapal.
+- 3 of your WA colleagues are on it: Suzan K. DelBene, Pramila Jayapal, Marilyn Strickland.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
 - Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.

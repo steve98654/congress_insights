@@ -15,15 +15,15 @@ Representative for GA-09 · 5.8 years in the House
 3. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Austin Scott (R-GA-08), Rep. Lucy McBath (D-GA-06), Rep. Rick W. Allen (R-GA-12), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Rick W. Allen (R-GA-12), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), 3 more.
 5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Richard McCormick (R-GA-07), Rep. Rick W. Allen (R-GA-12).
+   3 of your state colleagues are already cosponsoring: Rep. Rick W. Allen (R-GA-12), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Richard McCormick (R-GA-07).
 6. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Lucy McBath (D-GA-06), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Nikema Williams (D-GA-05), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), 3 more.
 7. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Barry Loudermilk (R-GA-11), Rep. Lucy McBath (D-GA-06), Rep. Rick W. Allen (R-GA-12), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), 3 more.
 8. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Nikema Williams (D-GA-05), Rep. Barry Loudermilk (R-GA-11).
+   2 of your state colleagues are already cosponsoring: Rep. Barry Loudermilk (R-GA-11), Rep. Nikema Williams (D-GA-05).
 
 ## Talking points
 
@@ -40,7 +40,7 @@ Representative for GA-09 · 5.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 6 of your GA colleagues are on it: Austin Scott, Lucy McBath, Rick W. Allen and others.
+- 6 of your GA colleagues are on it: Rick W. Allen, Sanford D. Bishop, Jr., Henry C. "Hank" Johnson, Jr. and others.
 
 ## Position on each goal
 

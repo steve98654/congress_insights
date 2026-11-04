@@ -30,7 +30,7 @@ Representative for PA-12 · 3.8 years in the House
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 3 of your PA colleagues are on it: Dwight Evans, Brian K. Fitzpatrick, Christopher R. Deluzio.
+- 3 of your PA colleagues are on it: Christopher R. Deluzio, Dwight Evans, Brian K. Fitzpatrick.
 
 **H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
 - DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.

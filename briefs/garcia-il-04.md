@@ -21,9 +21,9 @@ Representative for IL-04 · 7.8 years in the House · Leaving Congress in Januar
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Janice D. Schakowsky (D-IL-09), Rep. Robin L. Kelly (D-IL-02), Rep. Sean Casten (D-IL-06), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Nikki Budzinski (D-IL-13), Rep. Sean Casten (D-IL-06), Rep. Robin L. Kelly (D-IL-02), 3 more.
 8. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Darin LaHood (R-IL-16), Rep. Bradley Scott Schneider (D-IL-10), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Danny K. Davis (D-IL-07), Rep. Raja Krishnamoorthi (D-IL-08), Rep. Darin LaHood (R-IL-16), 1 more.
 
 ## Talking points
 

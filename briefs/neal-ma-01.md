@@ -15,11 +15,11 @@ Representative for MA-01 · 37.8 years in the House
 3. **Ask Rep. Jason Smith to schedule a markup of H.R. 2048, and cosponsor it.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 80_  
    As ranking member you can offer minority votes to get it marked up. It has 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Lori Trahan (D-MA-03), Rep. William R. Keating (D-MA-09), Rep. Stephen F. Lynch (D-MA-08).
+   3 of your state colleagues are already cosponsoring: Rep. William R. Keating (D-MA-09), Rep. Stephen F. Lynch (D-MA-08), Rep. Lori Trahan (D-MA-03).
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Jake Auchincloss (D-MA-04), Rep. Seth Moulton (D-MA-06), Rep. Stephen F. Lynch (D-MA-08).
+   3 of your state colleagues are already cosponsoring: Rep. Jake Auchincloss (D-MA-04), Rep. Stephen F. Lynch (D-MA-08), Rep. Seth Moulton (D-MA-06).
 6. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 7 of your state colleagues are on it: Rep. Lori Trahan (D-MA-03), Rep. William R. Keating (D-MA-09), Rep. Ayanna Pressley (D-MA-07), 4 more.
+   It cleared committee (committee vote 42-0). 7 of your state colleagues are on it: Rep. Jake Auchincloss (D-MA-04), Rep. William R. Keating (D-MA-09), Rep. Stephen F. Lynch (D-MA-08), 4 more.
 7. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. William R. Keating (D-MA-09), Rep. James P. McGovern (D-MA-02).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -30,17 +30,17 @@ Representative for MA-01 · 37.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 4 of your MA colleagues are on it: Lori Trahan, William R. Keating, Seth Moulton and others.
+- 4 of your MA colleagues are on it: William R. Keating, Stephen F. Lynch, Seth Moulton and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 2 of your MA colleagues are on it: Lori Trahan, Jake Auchincloss.
+- 2 of your MA colleagues are on it: Jake Auchincloss, Lori Trahan.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 7 of your MA colleagues are on it: Lori Trahan, William R. Keating, Ayanna Pressley and others.
+- 7 of your MA colleagues are on it: Jake Auchincloss, William R. Keating, Stephen F. Lynch and others.
 
 ## Position on each goal
 

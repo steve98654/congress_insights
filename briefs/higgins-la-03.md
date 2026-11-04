@@ -9,7 +9,7 @@ Representative for LA-03 · 9.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Troy A. Carter (D-LA-02), Rep. Julia Letlow (R-LA-05), Rep. Cleo Fields (D-LA-06).
+   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Troy A. Carter (D-LA-02), Rep. Cleo Fields (D-LA-06), Rep. Julia Letlow (R-LA-05).
 2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Troy A. Carter (D-LA-02), Rep. Cleo Fields (D-LA-06).
 3. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -22,7 +22,7 @@ Representative for LA-03 · 9.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 3 of your LA colleagues are on it: Troy A. Carter, Julia Letlow, Cleo Fields.
+- 3 of your LA colleagues are on it: Troy A. Carter, Cleo Fields, Julia Letlow.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
@@ -32,7 +32,7 @@ Representative for LA-03 · 9.8 years in the House
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
-- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal

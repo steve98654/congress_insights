@@ -33,7 +33,7 @@ Senator for CA · 5.8 years in the Senate
 - 1 of your CA colleagues is on it: David G. Valadao.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
-- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
 - Your record: voted nay.
 - [CBO cost estimate](https://www.cbo.gov/publication/62762)
 

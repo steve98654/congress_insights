@@ -30,13 +30,13 @@ Representative for NV-04 · 13.8 years in the House · Problem Solvers Caucus me
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 3 of your NV colleagues are on it: Susie Lee, Dina Titus, Mark E. Amodei.
+- 3 of your NV colleagues are on it: Mark E. Amodei, Susie Lee, Dina Titus.
 - Your record: cosponsor.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 2 of your NV colleagues are on it: Dina Titus, Mark E. Amodei.
+- 2 of your NV colleagues are on it: Mark E. Amodei, Dina Titus.
 - Your record: cosponsor.
 
 **H.R. 5269, RESULTS Act: Protect access to care**

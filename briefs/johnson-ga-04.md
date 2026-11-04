@@ -21,9 +21,9 @@ Representative for GA-04 · 19.8 years in the House
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Richard McCormick (R-GA-07), Rep. Rick W. Allen (R-GA-12).
+   3 of your state colleagues are already cosponsoring: Rep. Rick W. Allen (R-GA-12), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Richard McCormick (R-GA-07).
 8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Barry Loudermilk (R-GA-11), Rep. Lucy McBath (D-GA-06), Rep. Rick W. Allen (R-GA-12), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), 3 more.
 
 ## Talking points
 

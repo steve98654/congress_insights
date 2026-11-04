@@ -30,7 +30,7 @@ Representative for NY-17 · 3.8 years in the House · Problem Solvers Caucus mem
 **H.R. 10379, MAPS Act: End partisan gerrymandering**
 - Sets national map-drawing criteria and bars maps drawn to favor a party, candidate or incumbent.
 - 11 members back it: 5 Republicans and 6 Democrats, including 11 Problem Solvers.
-- 2 of your NY colleagues are on it: Thomas R. Suozzi, Nick LaLota.
+- 2 of your NY colleagues are on it: Nick LaLota, Thomas R. Suozzi.
 - Your record: sponsor.
 
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
@@ -43,7 +43,7 @@ Representative for NY-17 · 3.8 years in the House · Problem Solvers Caucus mem
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
 - 2 of your NY colleagues are on it: Nick LaLota, Joseph D. Morelle.
-- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal

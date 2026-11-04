@@ -11,13 +11,13 @@ Representative for PA-17 · 3.8 years in the House
 1. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Dwight Evans (D-PA-03), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Madeleine Dean (D-PA-04), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Madeleine Dean (D-PA-04), Rep. Dwight Evans (D-PA-03), 3 more.
 3. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Lloyd Smucker (R-PA-11), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06).
+   3 of your state colleagues are already cosponsoring: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06), Rep. Lloyd Smucker (R-PA-11).
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   8 of your state colleagues are already cosponsoring: Rep. Mike Kelly (R-PA-16), Rep. Glenn Thompson (R-PA-15), Rep. John Joyce (R-PA-13), 5 more.
+   8 of your state colleagues are already cosponsoring: Rep. Brendan F. Boyle (D-PA-02), Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Madeleine Dean (D-PA-04), 5 more.
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Chrissy Houlahan (D-PA-06), Rep. Brian K. Fitzpatrick (R-PA-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Chrissy Houlahan (D-PA-06).
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 42_  
@@ -35,12 +35,12 @@ Representative for PA-17 · 3.8 years in the House
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 6 of your PA colleagues are on it: Dwight Evans, Brian K. Fitzpatrick, Madeleine Dean and others.
+- 6 of your PA colleagues are on it: Robert P. Bresnahan, Jr., Madeleine Dean, Dwight Evans and others.
 
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
 - 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
-- 3 of your PA colleagues are on it: Lloyd Smucker, Brian K. Fitzpatrick, Chrissy Houlahan.
+- 3 of your PA colleagues are on it: Brian K. Fitzpatrick, Chrissy Houlahan, Lloyd Smucker.
 
 ## Position on each goal
 

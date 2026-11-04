@@ -21,9 +21,9 @@ Representative for TX-30 · 3.8 years in the House · Leaving Congress in Januar
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Troy E. Nehls (R-TX-22), Rep. Vicente Gonzalez (D-TX-34), Rep. Sylvia R. Garcia (D-TX-29), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. John R. Carter (R-TX-31), Rep. Joaquin Castro (D-TX-20), Rep. Vicente Gonzalez (D-TX-34), 3 more.
 8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), Rep. Henry Cuellar (D-TX-28), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Henry Cuellar (D-TX-28), Rep. Joaquin Castro (D-TX-20), Rep. Monica De La Cruz (R-TX-15), 3 more.
 
 ## Talking points
 

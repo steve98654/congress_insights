@@ -15,7 +15,7 @@ Representative for NC-11 · 3.8 years in the House · Leaving Congress in Januar
 3. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02), Rep. Alma S. Adams (D-NC-12).
+   3 of your state colleagues are already cosponsoring: Rep. Alma S. Adams (D-NC-12), Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02).
 5. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -40,7 +40,7 @@ Representative for NC-11 · 3.8 years in the House · Leaving Congress in Januar
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 3 of your NC colleagues are on it: Valerie P. Foushee, Deborah K. Ross, Alma S. Adams.
+- 3 of your NC colleagues are on it: Alma S. Adams, Valerie P. Foushee, Deborah K. Ross.
 
 ## Position on each goal
 

@@ -26,14 +26,14 @@ Representative for MO-02 · 13.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 5 of your MO colleagues are on it: Sam Graves, Emanuel Cleaver, Wesley Bell and others.
+- 5 of your MO colleagues are on it: Mark Alford, Wesley Bell, Emanuel Cleaver and others.
 - Your record: cosponsor.
 
 **H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
 - Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
 - 6 members back it: 4 Republicans and 2 Democrats.
 - 1 of your MO colleagues is on it: Sam Graves.
-- CBO (2026-09-30): As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026
+- CBO published a cost estimate on 2026-09-30 (as ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62817)
 
 ## Position on each goal

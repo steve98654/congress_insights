@@ -11,11 +11,11 @@ Representative for MI-03 · 3.8 years in the House · Problem Solvers Caucus mem
 1. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. John R. Moolenaar (R-MI-02), Rep. Jack Bergman (R-MI-01), Rep. Rashida Tlaib (D-MI-12), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. John R. Moolenaar (R-MI-02), Rep. Rashida Tlaib (D-MI-12), 1 more.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Bill Huizenga (R-MI-04), Rep. Shri Thanedar (D-MI-13), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Bill Huizenga (R-MI-04), Rep. Haley M. Stevens (D-MI-11), 1 more.
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Bill Huizenga (R-MI-04), Rep. Jack Bergman (R-MI-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04).
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 57_  
@@ -34,12 +34,12 @@ Representative for MI-03 · 3.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 4 of your MI colleagues are on it: John R. Moolenaar, Jack Bergman, Rashida Tlaib and others.
+- 4 of your MI colleagues are on it: Jack Bergman, John R. Moolenaar, Rashida Tlaib and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 4 of your MI colleagues are on it: Debbie Dingell, Bill Huizenga, Shri Thanedar and others.
+- 4 of your MI colleagues are on it: Debbie Dingell, Bill Huizenga, Haley M. Stevens and others.
 
 ## Position on each goal
 

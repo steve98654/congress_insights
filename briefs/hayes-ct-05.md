@@ -34,7 +34,7 @@ Representative for CT-05 · 7.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 3 of your CT colleagues are on it: John B. Larson, James A. Himes, Joe Courtney.
+- 3 of your CT colleagues are on it: Joe Courtney, James A. Himes, John B. Larson.
 - Your record: cosponsor.
 
 ## Position on each goal

@@ -15,7 +15,7 @@ Representative for SC-03 · 1.8 years in the House
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Ralph Norman (R-SC-05), Rep. Joe Wilson (R-SC-02).
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. William R. Timmons IV (R-SC-04), Rep. Nancy Mace (R-SC-01).
+   2 of your state colleagues are already cosponsoring: Rep. Nancy Mace (R-SC-01), Rep. William R. Timmons IV (R-SC-04).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -30,7 +30,7 @@ Representative for SC-03 · 1.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 4 of your SC colleagues are on it: William R. Timmons IV, Nancy Mace, Joe Wilson and others.
+- 4 of your SC colleagues are on it: Russell Fry, Nancy Mace, William R. Timmons IV and others.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**

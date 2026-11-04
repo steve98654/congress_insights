@@ -19,18 +19,18 @@ Representative for NY-20 · 17.8 years in the House
 5. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   9 of your state colleagues are already cosponsoring: Rep. Grace Meng (D-NY-06), Rep. Alexandria Ocasio-Cortez (D-NY-14), Rep. Michael Lawler (R-NY-17), 6 more.
+   9 of your state colleagues are already cosponsoring: Rep. Andrew R. Garbarino (R-NY-02), Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), 6 more.
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01).
+   3 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 8. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01).
+   3 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 
 ## Talking points
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 5 of your NY colleagues are on it: Michael Lawler, Josh Riley, Timothy M. Kennedy and others.
+- 5 of your NY colleagues are on it: Timothy M. Kennedy, Michael Lawler, John W. Mannion and others.
 
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.

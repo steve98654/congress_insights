@@ -15,7 +15,7 @@ Representative for MD-04 · 3.8 years in the House
 3. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Kweisi Mfume (D-MD-07), Rep. April McClain Delaney (D-MD-06).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Johnny Olszewski, Jr. (D-MD-02), Rep. April McClain Delaney (D-MD-06).
+   2 of your state colleagues are already cosponsoring: Rep. April McClain Delaney (D-MD-06), Rep. Johnny Olszewski, Jr. (D-MD-02).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -26,7 +26,7 @@ Representative for MD-04 · 3.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 5 of your MD colleagues are on it: Kweisi Mfume, Johnny Olszewski, Jr., Andy Harris and others.
+- 5 of your MD colleagues are on it: Andy Harris, Kweisi Mfume, April McClain Delaney and others.
 - Your record: cosponsor.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
@@ -37,7 +37,7 @@ Representative for MD-04 · 3.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 2 of your MD colleagues are on it: Johnny Olszewski, Jr., April McClain Delaney.
+- 2 of your MD colleagues are on it: April McClain Delaney, Johnny Olszewski, Jr..
 
 ## Position on each goal
 

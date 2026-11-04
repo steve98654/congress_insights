@@ -33,7 +33,7 @@ Senator for WA · 25.8 years in the Senate
 - 1 of your WA colleagues is on it: Michael Baumgartner.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
-- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
 - Your record: voted nay.
 - [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
@@ -41,7 +41,7 @@ Senator for WA · 25.8 years in the Senate
 - Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
 - 6 members back it: 4 Republicans and 2 Democrats.
 - 1 of your WA colleagues is on it: Rick Larsen.
-- CBO (2026-09-30): As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026
+- CBO published a cost estimate on 2026-09-30 (as ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62817)
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**

@@ -22,7 +22,7 @@ Senator for SD · 21.8 years in the Senate · Senate Majority Leader
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
-- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
 - Your record: voted yea.
 - [CBO cost estimate](https://www.cbo.gov/publication/62762)
 

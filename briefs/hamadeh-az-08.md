@@ -11,9 +11,9 @@ Representative for AZ-08 · 1.8 years in the House
 1. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
    3 of your state colleagues are already cosponsoring: Rep. Juan Ciscomani (R-AZ-06), Rep. Adelita S. Grijalva (D-AZ-07), Rep. Greg Stanton (D-AZ-04).
 2. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Juan Ciscomani (R-AZ-06), Rep. Adelita S. Grijalva (D-AZ-07), Rep. Greg Stanton (D-AZ-04), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Juan Ciscomani (R-AZ-06), Rep. Adelita S. Grijalva (D-AZ-07), Rep. David Schweikert (R-AZ-01), 1 more.
 3. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Greg Stanton (D-AZ-04), Rep. Yassamin Ansari (D-AZ-03).
+   2 of your state colleagues are already cosponsoring: Rep. Yassamin Ansari (D-AZ-03), Rep. Greg Stanton (D-AZ-04).
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Yassamin Ansari (D-AZ-03), Rep. Adelita S. Grijalva (D-AZ-07).
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
@@ -33,12 +33,12 @@ Representative for AZ-08 · 1.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 4 of your AZ colleagues are on it: Juan Ciscomani, Adelita S. Grijalva, Greg Stanton and others.
+- 4 of your AZ colleagues are on it: Juan Ciscomani, Adelita S. Grijalva, David Schweikert and others.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 2 of your AZ colleagues are on it: Greg Stanton, Yassamin Ansari.
+- 2 of your AZ colleagues are on it: Yassamin Ansari, Greg Stanton.
 
 ## Position on each goal
 

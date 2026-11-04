@@ -19,9 +19,9 @@ Representative for MN-05 · 7.8 years in the House
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01).
 7. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 
@@ -30,7 +30,7 @@ Representative for MN-05 · 7.8 years in the House
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 2 of your MN colleagues are on it: Betty McCollum, Angie Craig.
+- 2 of your MN colleagues are on it: Angie Craig, Betty McCollum.
 
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.

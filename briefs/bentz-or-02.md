@@ -19,7 +19,7 @@ Representative for OR-02 · 5.8 years in the House
 5. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Janelle S. Bynum (D-OR-05), Rep. Andrea Salinas (D-OR-06).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Janelle S. Bynum (D-OR-05), Rep. Suzanne Bonamici (D-OR-01).
+   2 of your state colleagues are already cosponsoring: Rep. Suzanne Bonamici (D-OR-01), Rep. Janelle S. Bynum (D-OR-05).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  

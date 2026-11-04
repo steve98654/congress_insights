@@ -9,11 +9,11 @@ Representative for IN-05 · 5.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Jefferson Shreve (R-IN-06), Rep. André Carson (D-IN-07), Rep. Frank J. Mrvan (D-IN-01).
+   3 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Frank J. Mrvan (D-IN-01), Rep. Jefferson Shreve (R-IN-06).
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Jefferson Shreve (R-IN-06), Rep. André Carson (D-IN-07), Rep. Erin Houchin (R-IN-09), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Erin Houchin (R-IN-09), Rep. Jefferson Shreve (R-IN-06), 1 more.
 3. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. James R. Baird (R-IN-04), Rep. Jefferson Shreve (R-IN-06), Rep. Erin Houchin (R-IN-09), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. James R. Baird (R-IN-04), Rep. Erin Houchin (R-IN-09), Rep. Frank J. Mrvan (D-IN-01), 3 more.
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Frank J. Mrvan (D-IN-01).
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
@@ -23,24 +23,24 @@ Representative for IN-05 · 5.8 years in the House
 7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Frank J. Mrvan (D-IN-01).
 8. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Erin Houchin (R-IN-09), Rep. James R. Baird (R-IN-04).
+   2 of your state colleagues are already cosponsoring: Rep. James R. Baird (R-IN-04), Rep. Erin Houchin (R-IN-09).
 
 ## Talking points
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 3 of your IN colleagues are on it: Jefferson Shreve, André Carson, Frank J. Mrvan.
+- 3 of your IN colleagues are on it: André Carson, Frank J. Mrvan, Jefferson Shreve.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 4 of your IN colleagues are on it: Jefferson Shreve, André Carson, Erin Houchin and others.
+- 4 of your IN colleagues are on it: André Carson, Erin Houchin, Jefferson Shreve and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 6 of your IN colleagues are on it: James R. Baird, Jefferson Shreve, Erin Houchin and others.
+- 6 of your IN colleagues are on it: James R. Baird, Erin Houchin, Frank J. Mrvan and others.
 
 ## Position on each goal
 

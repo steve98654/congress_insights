@@ -9,9 +9,9 @@ Representative for TX-20 · 13.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   11 of your state colleagues are already cosponsoring: Rep. Randy K. Weber, Sr. (R-TX-14), Rep. August Pfluger (R-TX-11), Rep. Beth Van Duyne (R-TX-24), 8 more.
+   11 of your state colleagues are already cosponsoring: Rep. Brian Babin (R-TX-36), Rep. Dan Crenshaw (R-TX-02), Rep. Veronica Escobar (D-TX-16), 8 more.
 2. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), Rep. Nathaniel Moran (R-TX-01), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Jasmine Crockett (D-TX-30), Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), 1 more.
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
@@ -30,17 +30,17 @@ Representative for TX-20 · 13.8 years in the House
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 11 of your TX colleagues are on it: Randy K. Weber, Sr., August Pfluger, Beth Van Duyne and others.
+- 11 of your TX colleagues are on it: Brian Babin, Dan Crenshaw, Veronica Escobar and others.
 
 **H.R. 3562, DEFIANCE Act: Make AI safe and protect deepfake victims**
 - Creates a civil right of action for victims of non-consensual intimate deepfakes.
 - 70 members back it: 34 Republicans and 36 Democrats, including 17 Problem Solvers.
-- 4 of your TX colleagues are on it: Monica De La Cruz, Lance Gooden, Nathaniel Moran and others.
+- 4 of your TX colleagues are on it: Jasmine Crockett, Monica De La Cruz, Lance Gooden and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 21 of your TX colleagues are on it: August Pfluger, Randy K. Weber, Sr., Lance Gooden and others.
+- 21 of your TX colleagues are on it: Jodey C. Arrington, Brian Babin, Henry Cuellar and others.
 - Your record: cosponsor.
 
 ## Position on each goal

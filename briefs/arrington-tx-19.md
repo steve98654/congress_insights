@@ -19,9 +19,9 @@ Representative for TX-19 · 9.8 years in the House · Leaving Congress in Januar
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Troy E. Nehls (R-TX-22), Rep. Vicente Gonzalez (D-TX-34), Rep. Sylvia R. Garcia (D-TX-29), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. John R. Carter (R-TX-31), Rep. Joaquin Castro (D-TX-20), Rep. Vicente Gonzalez (D-TX-34), 3 more.
 7. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), Rep. Nathaniel Moran (R-TX-01), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Jasmine Crockett (D-TX-30), Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), 1 more.
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 
@@ -39,7 +39,7 @@ Representative for TX-19 · 9.8 years in the House · Leaving Congress in Januar
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 6 of your TX colleagues are on it: Monica De La Cruz, Lance Gooden, Henry Cuellar and others.
+- 6 of your TX colleagues are on it: Henry Cuellar, Joaquin Castro, Monica De La Cruz and others.
 
 ## Position on each goal
 

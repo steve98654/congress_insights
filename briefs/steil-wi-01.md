@@ -11,7 +11,7 @@ Representative for WI-01 · 7.8 years in the House · Problem Solvers Caucus mem
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Gwen Moore (D-WI-04), Rep. Derrick Van Orden (R-WI-03), Rep. Mark Pocan (D-WI-02).
+   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Gwen Moore (D-WI-04), Rep. Mark Pocan (D-WI-02), Rep. Derrick Van Orden (R-WI-03).
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 51_  
@@ -34,12 +34,12 @@ Representative for WI-01 · 7.8 years in the House · Problem Solvers Caucus mem
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 3 of your WI colleagues are on it: Gwen Moore, Derrick Van Orden, Mark Pocan.
+- 3 of your WI colleagues are on it: Gwen Moore, Mark Pocan, Derrick Van Orden.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 5 of your WI colleagues are on it: Scott Fitzgerald, Gwen Moore, Derrick Van Orden and others.
+- 5 of your WI colleagues are on it: Scott Fitzgerald, Glenn Grothman, Gwen Moore and others.
 - Your record: cosponsor.
 
 ## Position on each goal

@@ -212,6 +212,14 @@ def parse_senate_vote(xml_bytes, key):
     }
 
 
+def house_date(text):
+    """Clerk dates look like 16-Sep-2026."""
+    try:
+        return datetime.datetime.strptime(text.strip(), "%d-%b-%Y").date().isoformat()
+    except ValueError:
+        return text
+
+
 def parse_house_vote(xml_bytes, key):
     root = ET.fromstring(xml_bytes)
     meta = root.find("vote-metadata")
@@ -229,7 +237,7 @@ def parse_house_vote(xml_bytes, key):
         "key": key,
         "chamber": "house",
         "question": _text(meta, "vote-question"),
-        "date": _text(meta, "action-date"),
+        "date": house_date(_text(meta, "action-date")),
         "result": _text(meta, "vote-result"),
         "members": members,
         "source_url": vote_url(key),

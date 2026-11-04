@@ -9,11 +9,11 @@ Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus mem
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Adam Smith (D-WA-09), Rep. Dan Newhouse (R-WA-04), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Rick Larsen (D-WA-02), Rep. Dan Newhouse (R-WA-04), Rep. Emily Randall (D-WA-06), 3 more.
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Michael Baumgartner (R-WA-05), Rep. Dan Newhouse (R-WA-04), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Michael Baumgartner (R-WA-05), Rep. Suzan K. DelBene (D-WA-01), Rep. Pramila Jayapal (D-WA-07), 2 more.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Suzan K. DelBene (D-WA-01), Rep. Pramila Jayapal (D-WA-07).
+   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Suzan K. DelBene (D-WA-01), Rep. Pramila Jayapal (D-WA-07), Rep. Marilyn Strickland (D-WA-10).
 4. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
 5. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
@@ -21,7 +21,7 @@ Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus mem
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Adam Smith (D-WA-09), Rep. Suzan K. DelBene (D-WA-01).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Suzan K. DelBene (D-WA-01), Rep. Adam Smith (D-WA-09).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 55_  
    It cleared committee (committee vote 62-2). 1 of your state colleagues is on it: Rep. Rick Larsen (D-WA-02).
 
@@ -30,17 +30,17 @@ Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 6 of your WA colleagues are on it: Marilyn Strickland, Adam Smith, Dan Newhouse and others.
+- 6 of your WA colleagues are on it: Rick Larsen, Dan Newhouse, Emily Randall and others.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your WA colleagues are on it: Marilyn Strickland, Michael Baumgartner, Dan Newhouse and others.
+- 5 of your WA colleagues are on it: Michael Baumgartner, Suzan K. DelBene, Pramila Jayapal and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 3 of your WA colleagues are on it: Marilyn Strickland, Suzan K. DelBene, Pramila Jayapal.
+- 3 of your WA colleagues are on it: Suzan K. DelBene, Pramila Jayapal, Marilyn Strickland.
 
 ## Position on each goal
 

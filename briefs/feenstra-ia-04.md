@@ -26,7 +26,7 @@ Representative for IA-04 · 5.8 years in the House · Leaving Congress in Januar
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 2 of your IA colleagues are on it: Zachary Nunn, Ashley Hinson.
+- 2 of your IA colleagues are on it: Ashley Hinson, Zachary Nunn.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
@@ -36,7 +36,7 @@ Representative for IA-04 · 5.8 years in the House · Leaving Congress in Januar
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 3 of your IA colleagues are on it: Zachary Nunn, Mariannette Miller-Meeks, Ashley Hinson.
+- 3 of your IA colleagues are on it: Ashley Hinson, Mariannette Miller-Meeks, Zachary Nunn.
 - Your record: cosponsor.
 
 ## Position on each goal

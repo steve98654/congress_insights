@@ -13,15 +13,15 @@ Representative for MI-05 · 19.8 years in the House
 2. **Schedule a markup of H.R. 1464 (MODERN WIC Act) in Education and Workforce.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 95_  
    As chair you control the committee calendar. The bill is PSC-endorsed with 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. John R. Moolenaar (R-MI-02), Rep. Jack Bergman (R-MI-01), Rep. Rashida Tlaib (D-MI-12), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. John R. Moolenaar (R-MI-02), Rep. Rashida Tlaib (D-MI-12), 1 more.
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Jack Bergman (R-MI-01), Rep. Hillary J. Scholten (D-MI-03), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. Debbie Dingell (D-MI-06), Rep. Hillary J. Scholten (D-MI-03), 2 more.
 5. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Bill Huizenga (R-MI-04), Rep. Hillary J. Scholten (D-MI-03), Rep. John R. Moolenaar (R-MI-02), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04), Rep. John R. Moolenaar (R-MI-02), 2 more.
 6. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Bill Huizenga (R-MI-04), Rep. Shri Thanedar (D-MI-13), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Bill Huizenga (R-MI-04), Rep. Haley M. Stevens (D-MI-11), 1 more.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Bill Huizenga (R-MI-04), Rep. Jack Bergman (R-MI-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04).
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 
@@ -40,7 +40,7 @@ Representative for MI-05 · 19.8 years in the House
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 4 of your MI colleagues are on it: John R. Moolenaar, Jack Bergman, Rashida Tlaib and others.
+- 4 of your MI colleagues are on it: Jack Bergman, John R. Moolenaar, Rashida Tlaib and others.
 
 ## Position on each goal
 

@@ -13,7 +13,7 @@ Representative for FL-27 · 5.8 years in the House · Problem Solvers Caucus mem
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 3. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Jared Moskowitz (D-FL-23), Rep. Cory Mills (R-FL-07).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Cory Mills (R-FL-07), Rep. Jared Moskowitz (D-FL-23).
 4. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 55_  
    It cleared committee (committee vote 62-2). 1 of your state colleagues is on it: Rep. Daniel Webster (R-FL-11).
 5. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 51_  
@@ -30,19 +30,19 @@ Representative for FL-27 · 5.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 4 of your FL colleagues are on it: John H. Rutherford, Cory Mills, Scott Franklin and others.
+- 4 of your FL colleagues are on it: Scott Franklin, Anna Paulina Luna, Cory Mills and others.
 - Your record: cosponsor.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 19 of your FL colleagues are on it: Scott Franklin, Jared Moskowitz, Frederica S. Wilson and others.
+- 19 of your FL colleagues are on it: Gus M. Bilirakis, Aaron Bean, Kat Cammack and others.
 - Your record: cosponsor.
 
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
 - 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
-- 2 of your FL colleagues are on it: Jared Moskowitz, Cory Mills.
+- 2 of your FL colleagues are on it: Cory Mills, Jared Moskowitz.
 
 ## Position on each goal
 

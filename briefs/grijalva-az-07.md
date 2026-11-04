@@ -24,7 +24,7 @@ Representative for AZ-07 · 1 years in the House
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 2 of your AZ colleagues are on it: Greg Stanton, Yassamin Ansari.
+- 2 of your AZ colleagues are on it: Yassamin Ansari, Greg Stanton.
 
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
@@ -35,7 +35,7 @@ Representative for AZ-07 · 1 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 3 of your AZ colleagues are on it: Juan Ciscomani, Greg Stanton, David Schweikert.
+- 3 of your AZ colleagues are on it: Juan Ciscomani, David Schweikert, Greg Stanton.
 - Your record: cosponsor.
 
 ## Position on each goal

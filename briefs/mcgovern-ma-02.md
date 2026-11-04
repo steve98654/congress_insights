@@ -19,11 +19,11 @@ Representative for MA-02 · 29.8 years in the House
 5. **Move H.R. 8870 through Rules, or back taking it up under suspension.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 60_  
    It has been reported (committee vote 62-2) and needs a way to the floor.
 6. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Lori Trahan (D-MA-03), Rep. William R. Keating (D-MA-09), Rep. Stephen F. Lynch (D-MA-08).
+   3 of your state colleagues are already cosponsoring: Rep. William R. Keating (D-MA-09), Rep. Stephen F. Lynch (D-MA-08), Rep. Lori Trahan (D-MA-03).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Jake Auchincloss (D-MA-04), Rep. Seth Moulton (D-MA-06), Rep. Stephen F. Lynch (D-MA-08).
+   3 of your state colleagues are already cosponsoring: Rep. Jake Auchincloss (D-MA-04), Rep. Stephen F. Lynch (D-MA-08), Rep. Seth Moulton (D-MA-06).
 8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Lori Trahan (D-MA-03), Rep. William R. Keating (D-MA-09), Rep. Seth Moulton (D-MA-06), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. William R. Keating (D-MA-09), Rep. Stephen F. Lynch (D-MA-08), Rep. Seth Moulton (D-MA-06), 1 more.
 
 ## Talking points
 
@@ -38,7 +38,7 @@ Representative for MA-02 · 29.8 years in the House
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
-- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal

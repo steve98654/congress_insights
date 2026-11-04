@@ -296,7 +296,7 @@ def lame_duck(ctx, goals, insights):
         for b in g["resolved_bills"]:
             if b["stage"] == "enacted":
                 continue
-            gone = sorted((ctx.members[x] for x in b["supporter_ids"] if leaving(x)), key=lambda m: m["last"])
+            gone = sorted((ctx.members[x] for x in b["supporter_ids"] if leaving(x)), key=lambda m: (m["last"], m["name"]))
             bills.append({
                 "goal": g["id"], "bill": b["id"], "label": b["label"], "short": b["short"], "stage": b["stage"],
                 "supporters": len(b["supporter_ids"]), "departing": len(gone),
@@ -305,7 +305,7 @@ def lame_duck(ctx, goals, insights):
             })
     bills.sort(key=lambda r: (not r["sponsor_departing"], -r["departing"]))
     members = sorted((m for m in ctx.members.values() if (m.get("election") or {}).get("departing")),
-                     key=lambda m: (tier.get(m["bioguide"]) or "C", m["chamber"], m["last"]))
+                     key=lambda m: (tier.get(m["bioguide"]) or "C", m["chamber"], m["last"], m["name"]))
     return {
         "bills": bills,
         "members": [dict(_brief(m), chamber=m["chamber"], tier=tier.get(m["bioguide"]), status=m["election"]["status"],

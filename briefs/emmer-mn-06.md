@@ -11,15 +11,15 @@ Representative for MN-06 · 11.8 years in the House · House Majority Whip
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Kelly Morrison (D-MN-03), Rep. Ilhan Omar (D-MN-05), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01), Rep. Kelly Morrison (D-MN-03), 2 more.
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   7 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Kelly Morrison (D-MN-03), Rep. Ilhan Omar (D-MN-05), 4 more.
+   7 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Michelle Fischbach (R-MN-07), Rep. Brad Finstad (R-MN-01), 4 more.
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 7 of your state colleagues are on it: Rep. Brad Finstad (R-MN-01), Rep. Kelly Morrison (D-MN-03), Rep. Ilhan Omar (D-MN-05), 4 more.
+   It cleared committee (committee vote 42-0). 7 of your state colleagues are on it: Rep. Angie Craig (D-MN-02), Rep. Michelle Fischbach (R-MN-07), Rep. Brad Finstad (R-MN-01), 4 more.
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Betty McCollum (D-MN-04), Rep. Angie Craig (D-MN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Betty McCollum (D-MN-04).
 6. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -30,17 +30,17 @@ Representative for MN-06 · 11.8 years in the House · House Majority Whip
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 2 of your MN colleagues are on it: Brad Finstad, Angie Craig.
+- 2 of your MN colleagues are on it: Angie Craig, Brad Finstad.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your MN colleagues are on it: Brad Finstad, Kelly Morrison, Ilhan Omar and others.
+- 5 of your MN colleagues are on it: Angie Craig, Brad Finstad, Kelly Morrison and others.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 7 of your MN colleagues are on it: Brad Finstad, Kelly Morrison, Ilhan Omar and others.
+- 7 of your MN colleagues are on it: Angie Craig, Michelle Fischbach, Brad Finstad and others.
 
 ## Position on each goal
 

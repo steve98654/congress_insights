@@ -15,7 +15,7 @@ Representative for MO-08 · 13.4 years in the House
 3. **Schedule a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 95_  
    As chair you control the committee calendar. The bill is PSC-endorsed with 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Sam Graves (R-MO-06), Rep. Ann Wagner (R-MO-02), Rep. Emanuel Cleaver (D-MO-05), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Mark Alford (R-MO-04), Rep. Wesley Bell (D-MO-01), Rep. Emanuel Cleaver (D-MO-05), 3 more.
 5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
    It cleared committee (committee vote 62-2). 1 of your state colleagues is on it: Rep. Sam Graves (R-MO-06).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -26,7 +26,7 @@ Representative for MO-08 · 13.4 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 2 of your MO colleagues are on it: Ann Wagner, Sam Graves.
+- 2 of your MO colleagues are on it: Sam Graves, Ann Wagner.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.

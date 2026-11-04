@@ -11,13 +11,13 @@ Representative for MD-05 · 45.8 years in the House · Leaving Congress in Janua
 1. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Glenn Ivey (D-MD-04), Rep. Kweisi Mfume (D-MD-07), Rep. Johnny Olszewski, Jr. (D-MD-02), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Sarah Elfreth (D-MD-03), Rep. Glenn Ivey (D-MD-04), Rep. Kweisi Mfume (D-MD-07), 3 more.
 3. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Glenn Ivey (D-MD-04), Rep. Kweisi Mfume (D-MD-07), Rep. Johnny Olszewski, Jr. (D-MD-02), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Andy Harris (R-MD-01), Rep. Glenn Ivey (D-MD-04), Rep. Kweisi Mfume (D-MD-07), 3 more.
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Kweisi Mfume (D-MD-07), Rep. April McClain Delaney (D-MD-06).
 5. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Johnny Olszewski, Jr. (D-MD-02), Rep. April McClain Delaney (D-MD-06).
+   2 of your state colleagues are already cosponsoring: Rep. April McClain Delaney (D-MD-06), Rep. Johnny Olszewski, Jr. (D-MD-02).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -28,12 +28,12 @@ Representative for MD-05 · 45.8 years in the House · Leaving Congress in Janua
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 6 of your MD colleagues are on it: Glenn Ivey, Kweisi Mfume, Johnny Olszewski, Jr. and others.
+- 6 of your MD colleagues are on it: Sarah Elfreth, Glenn Ivey, Kweisi Mfume and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 6 of your MD colleagues are on it: Glenn Ivey, Kweisi Mfume, Johnny Olszewski, Jr. and others.
+- 6 of your MD colleagues are on it: Andy Harris, Glenn Ivey, Kweisi Mfume and others.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.

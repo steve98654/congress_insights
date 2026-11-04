@@ -109,6 +109,14 @@ class Context:
         return [x for _, _, x in scored[:k]]
 
 
+def iso_date(text):
+    """House clerk dates look like 16-Sep-2026; Senate ones are already ISO."""
+    try:
+        return datetime.datetime.strptime(text.strip(), "%d-%b-%Y").date().isoformat()
+    except ValueError:
+        return text[:10]
+
+
 def tally(vote_text):
     text = re.sub(r"\d{4}-\d{2}-\d{2}", "", vote_text or "")
     m = re.search(r"\b(\d{1,3})\s*-\s*(\d{1,3})\b", text)
@@ -161,7 +169,7 @@ def resolve_bill(ctx, goal, entry):
                 m = ctx.by_lis.get(row.get("lis")) if chamber == "senate" else ctx.members.get(row.get("bioguide"))
                 if m:
                     by_member[m["bioguide"]] = row["vote"]
-            result = f"{v.get('result', chamber.title() + ' vote')} ({v.get('question', '')}, {v.get('date', '')[:10]})."
+            result = f"{v.get('result', chamber.title() + ' vote')} ({v.get('question', '')}, {iso_date(v.get('date', ''))})."
             url = v.get("source_url")
         b[f"{chamber}_votes"], b[f"{chamber}_vote_url"] = by_member, url
         b["senate_result" if chamber == "senate" else "house_result"] = result
@@ -231,7 +239,7 @@ def talking_points(ctx, m, actions, goals_by_id, k=3):
             if s["psc"]:
                 line += f", including {s['psc']} Problem Solvers"
             pts.append(line + ".")
-        home = [ctx.members[x] for x in b["supporter_ids"] if x in ctx.members and x != m["bioguide"]
+        home = [ctx.members[x] for x in sorted(b["supporter_ids"]) if x in ctx.members and x != m["bioguide"]
                 and ctx.members[x]["state"] == m["state"]]
         if home:
             pts.append(f"{len(home)} of your {m['state']} colleagues {'is' if len(home) == 1 else 'are'} on it: {', '.join(x['name'] for x in home[:3])}"
@@ -242,7 +250,8 @@ def talking_points(ctx, m, actions, goals_by_id, k=3):
             pts.append(f"It is {b['senate_votes_short']} votes short of 60 in the Senate.")
         if b.get("cbo"):
             c = b["cbo"][-1]
-            pts.append(f"CBO ({c['date']}): {first_sentences(c.get('description') or c['title'], 220)}")
+            note = first_sentences(c.get("description") or c["title"], 220).rstrip(".")
+            pts.append(f"CBO published a cost estimate on {c['date']} ({note[:1].lower() + note[1:]}).")
         role = member_role_on_bill(b, m)
         if role:
             pts.append(f"Your record: {role}.")

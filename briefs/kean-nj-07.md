@@ -35,13 +35,13 @@ Representative for NJ-07 · 3.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 8 of your NJ colleagues are on it: Herbert C. Conaway, Jr., LaMonica McIver, Donald Norcross and others.
+- 8 of your NJ colleagues are on it: Herbert C. Conaway, Jr., Josh Gottheimer, Robert Menendez and others.
 - Your record: cosponsor.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 6 of your NJ colleagues are on it: Analilia Mejia, Bonnie Watson Coleman, Herbert C. Conaway, Jr. and others.
+- 6 of your NJ colleagues are on it: Herbert C. Conaway, Jr., Josh Gottheimer, Analilia Mejia and others.
 - Your record: cosponsor.
 
 ## Position on each goal

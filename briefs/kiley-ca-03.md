@@ -30,12 +30,12 @@ Representative for CA-03 · 3.8 years in the House
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 5 of your CA colleagues are on it: Ted Lieu, Laura Friedman, Jim Costa and others.
+- 5 of your CA colleagues are on it: Jim Costa, Laura Friedman, Adam Gray and others.
 
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 24 of your CA colleagues are on it: Ami Bera, Dave Min, Doris O. Matsui and others.
+- 24 of your CA colleagues are on it: Ami Bera, Nanette Diaz Barragán, Judy Chu and others.
 
 **H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
 - DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.

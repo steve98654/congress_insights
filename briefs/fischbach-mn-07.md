@@ -30,7 +30,7 @@ Representative for MN-07 · 5.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your MN colleagues are on it: Brad Finstad, Kelly Morrison, Ilhan Omar and others.
+- 5 of your MN colleagues are on it: Angie Craig, Brad Finstad, Kelly Morrison and others.
 
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.

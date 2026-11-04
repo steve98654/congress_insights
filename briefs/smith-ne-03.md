@@ -26,12 +26,12 @@ Representative for NE-03 · 19.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 2 of your NE colleagues are on it: Mike Flood, Don Bacon.
+- 2 of your NE colleagues are on it: Don Bacon, Mike Flood.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 2 of your NE colleagues are on it: Mike Flood, Don Bacon.
+- 2 of your NE colleagues are on it: Don Bacon, Mike Flood.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.

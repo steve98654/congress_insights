@@ -17,11 +17,11 @@ Representative for NY-02 · 5.8 years in the House · Problem Solvers Caucus mem
 4. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Josh Riley (D-NY-19), Rep. Timothy M. Kennedy (D-NY-26), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Timothy M. Kennedy (D-NY-26), Rep. Michael Lawler (R-NY-17), Rep. John W. Mannion (D-NY-22), 2 more.
 6. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03), Rep. Nick LaLota (R-NY-01).
+   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 7. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17), Rep. Nick LaLota (R-NY-01).
+   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Nick LaLota (R-NY-01), Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Nick LaLota (R-NY-01), Rep. Joseph D. Morelle (D-NY-25).
 
@@ -30,18 +30,18 @@ Representative for NY-02 · 5.8 years in the House · Problem Solvers Caucus mem
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 23 of your NY colleagues are on it: Jerrold Nadler, George Latimer, Michael Lawler and others.
+- 23 of your NY colleagues are on it: Yvette D. Clarke, Adriano Espaillat, Daniel S. Goldman and others.
 - Your record: sponsor.
 
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 4 of your NY colleagues are on it: Michael Lawler, Nick LaLota, Thomas R. Suozzi and others.
+- 4 of your NY colleagues are on it: Nick LaLota, Michael Lawler, Thomas R. Suozzi and others.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 5 of your NY colleagues are on it: Michael Lawler, Josh Riley, Timothy M. Kennedy and others.
+- 5 of your NY colleagues are on it: Timothy M. Kennedy, Michael Lawler, John W. Mannion and others.
 
 ## Position on each goal
 

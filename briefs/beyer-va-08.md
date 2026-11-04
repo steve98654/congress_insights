@@ -15,7 +15,7 @@ Representative for VA-08 · 11.8 years in the House
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Robert J. Wittman (R-VA-01), Rep. John J. McGuire III (R-VA-05), Rep. Suhas Subramanyam (D-VA-10), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Ben Cline (R-VA-06), Rep. Jennifer A. Kiggans (R-VA-02), Rep. John J. McGuire III (R-VA-05), 2 more.
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Ben Cline (R-VA-06), Rep. Eugene Simon Vindman (D-VA-07).
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -28,17 +28,17 @@ Representative for VA-08 · 11.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 4 of your VA colleagues are on it: Eugene Simon Vindman, James R. Walkinshaw, Suhas Subramanyam and others.
+- 4 of your VA colleagues are on it: Jennifer A. Kiggans, Suhas Subramanyam, Eugene Simon Vindman and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 4 of your VA colleagues are on it: Robert J. Wittman, Jennifer L. McClellan, Eugene Simon Vindman and others.
+- 4 of your VA colleagues are on it: Jennifer L. McClellan, Eugene Simon Vindman, Robert J. Wittman and others.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 10 of your VA colleagues are on it: Robert J. Wittman, Eugene Simon Vindman, H. Morgan Griffith and others.
+- 10 of your VA colleagues are on it: Ben Cline, H. Morgan Griffith, Jennifer A. Kiggans and others.
 - Your record: cosponsor.
 
 ## Position on each goal

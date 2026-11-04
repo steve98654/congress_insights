@@ -21,9 +21,9 @@ Representative for CA-36 · 11.8 years in the House · House Democratic Caucus V
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   16 of your state colleagues are already cosponsoring: Rep. Lateefah Simon (D-CA-12), Rep. Mike Levin (D-CA-49), Rep. Sara Jacobs (D-CA-51), 13 more.
+   16 of your state colleagues are already cosponsoring: Rep. Nanette Diaz Barragán (D-CA-44), Rep. J. Luis Correa (D-CA-46), Rep. Salud O. Carbajal (D-CA-24), 13 more.
 8. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Jimmy Panetta (D-CA-19), Rep. Jay Obernolte (R-CA-23), Rep. Adam Gray (D-CA-13), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Adam Gray (D-CA-13), Rep. Jay Obernolte (R-CA-23), Rep. Scott H. Peters (D-CA-50), 3 more.
 
 ## Talking points
 

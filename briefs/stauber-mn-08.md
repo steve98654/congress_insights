@@ -13,11 +13,11 @@ Representative for MN-08 · 7.8 years in the House
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 3. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Betty McCollum (D-MN-04), Rep. Angie Craig (D-MN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Betty McCollum (D-MN-04).
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01).
 5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -32,13 +32,13 @@ Representative for MN-08 · 7.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 6 of your MN colleagues are on it: Brad Finstad, Kelly Morrison, Ilhan Omar and others.
+- 6 of your MN colleagues are on it: Angie Craig, Michelle Fischbach, Brad Finstad and others.
 - Your record: cosponsor.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 2 of your MN colleagues are on it: Betty McCollum, Angie Craig.
+- 2 of your MN colleagues are on it: Angie Craig, Betty McCollum.
 
 ## Position on each goal
 

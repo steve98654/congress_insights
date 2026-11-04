@@ -15,7 +15,7 @@ Representative for MA-04 · 5.8 years in the House
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Lori Trahan (D-MA-03), Rep. William R. Keating (D-MA-09), Rep. Seth Moulton (D-MA-06), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. William R. Keating (D-MA-09), Rep. Stephen F. Lynch (D-MA-08), Rep. Seth Moulton (D-MA-06), 1 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
@@ -30,7 +30,7 @@ Representative for MA-04 · 5.8 years in the House
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 3 of your MA colleagues are on it: Lori Trahan, William R. Keating, Stephen F. Lynch.
+- 3 of your MA colleagues are on it: William R. Keating, Stephen F. Lynch, Lori Trahan.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
 - Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.

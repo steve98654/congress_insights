@@ -13,7 +13,7 @@ Representative for OR-06 · 3.8 years in the House
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 3. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Janelle S. Bynum (D-OR-05), Rep. Suzanne Bonamici (D-OR-01).
+   2 of your state colleagues are already cosponsoring: Rep. Suzanne Bonamici (D-OR-01), Rep. Janelle S. Bynum (D-OR-05).
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Cliff Bentz (R-OR-02), Rep. Janelle S. Bynum (D-OR-05).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -30,13 +30,13 @@ Representative for OR-06 · 3.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 5 of your OR colleagues are on it: Val T. Hoyle, Cliff Bentz, Janelle S. Bynum and others.
+- 5 of your OR colleagues are on it: Cliff Bentz, Suzanne Bonamici, Janelle S. Bynum and others.
 - Your record: cosponsor.
 
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 2 of your OR colleagues are on it: Janelle S. Bynum, Suzanne Bonamici.
+- 2 of your OR colleagues are on it: Suzanne Bonamici, Janelle S. Bynum.
 
 ## Position on each goal
 

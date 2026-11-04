@@ -9,15 +9,15 @@ Representative for TX-08 · 3.8 years in the House · Leaving Congress in Januar
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), Rep. Henry Cuellar (D-TX-28), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Henry Cuellar (D-TX-28), Rep. Joaquin Castro (D-TX-20), Rep. Monica De La Cruz (R-TX-15), 3 more.
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   11 of your state colleagues are already cosponsoring: Rep. Randy K. Weber, Sr. (R-TX-14), Rep. August Pfluger (R-TX-11), Rep. Beth Van Duyne (R-TX-24), 8 more.
+   11 of your state colleagues are already cosponsoring: Rep. Brian Babin (R-TX-36), Rep. Dan Crenshaw (R-TX-02), Rep. Veronica Escobar (D-TX-16), 8 more.
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   15 of your state colleagues are already cosponsoring: Rep. Greg Casar (D-TX-35), Rep. Joaquin Castro (D-TX-20), Rep. Julie Johnson (D-TX-32), 12 more.
+   15 of your state colleagues are already cosponsoring: Rep. Henry Cuellar (D-TX-28), Rep. Joaquin Castro (D-TX-20), Rep. Jasmine Crockett (D-TX-30), 12 more.
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), Rep. Nathaniel Moran (R-TX-01), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Jasmine Crockett (D-TX-30), Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), 1 more.
 5. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 22 of your state colleagues are on it: Rep. August Pfluger (R-TX-11), Rep. Randy K. Weber, Sr. (R-TX-14), Rep. Lance Gooden (R-TX-05), 19 more.
+   It cleared committee (committee vote 42-0). 22 of your state colleagues are on it: Rep. Jodey C. Arrington (R-TX-19), Rep. Brian Babin (R-TX-36), Rep. Henry Cuellar (D-TX-28), 19 more.
 6. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Lizzie Fletcher (D-TX-07), Rep. Julie Johnson (D-TX-32).
 7. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
@@ -30,17 +30,17 @@ Representative for TX-08 · 3.8 years in the House · Leaving Congress in Januar
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 6 of your TX colleagues are on it: Monica De La Cruz, Lance Gooden, Henry Cuellar and others.
+- 6 of your TX colleagues are on it: Henry Cuellar, Joaquin Castro, Monica De La Cruz and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 11 of your TX colleagues are on it: Randy K. Weber, Sr., August Pfluger, Beth Van Duyne and others.
+- 11 of your TX colleagues are on it: Brian Babin, Dan Crenshaw, Veronica Escobar and others.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 15 of your TX colleagues are on it: Greg Casar, Joaquin Castro, Julie Johnson and others.
+- 15 of your TX colleagues are on it: Henry Cuellar, Joaquin Castro, Jasmine Crockett and others.
 
 ## Position on each goal
 

@@ -17,7 +17,7 @@ Representative for AZ-01 · 15.8 years in the House · Leaving Congress in Janua
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Greg Stanton (D-AZ-04), Rep. Yassamin Ansari (D-AZ-03).
+   2 of your state colleagues are already cosponsoring: Rep. Yassamin Ansari (D-AZ-03), Rep. Greg Stanton (D-AZ-04).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Yassamin Ansari (D-AZ-03), Rep. Adelita S. Grijalva (D-AZ-07).
 7. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  

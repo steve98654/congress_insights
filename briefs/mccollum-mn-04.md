@@ -11,13 +11,13 @@ Representative for MN-04 · 25.8 years in the House
 1. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Kelly Morrison (D-MN-03), Rep. Ilhan Omar (D-MN-05), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01), Rep. Kelly Morrison (D-MN-03), 2 more.
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01).
 5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Angie Craig (D-MN-02), Rep. Brad Finstad (R-MN-01).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -28,18 +28,18 @@ Representative for MN-04 · 25.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your MN colleagues are on it: Brad Finstad, Kelly Morrison, Ilhan Omar and others.
+- 5 of your MN colleagues are on it: Angie Craig, Brad Finstad, Kelly Morrison and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 6 of your MN colleagues are on it: Brad Finstad, Kelly Morrison, Ilhan Omar and others.
+- 6 of your MN colleagues are on it: Angie Craig, Michelle Fischbach, Brad Finstad and others.
 - Your record: cosponsor.
 
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 2 of your MN colleagues are on it: Brad Finstad, Angie Craig.
+- 2 of your MN colleagues are on it: Angie Craig, Brad Finstad.
 
 ## Position on each goal
 

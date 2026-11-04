@@ -17,9 +17,9 @@ Representative for NJ-01 · 12 years in the House · Problem Solvers Caucus Nati
 4. **Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 5. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Bonnie Watson Coleman (D-NJ-12), Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Jefferson Van Drew (R-NJ-02), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), 3 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Jefferson Van Drew (R-NJ-02), Rep. Bonnie Watson Coleman (D-NJ-12), Rep. Thomas H. Kean, Jr. (R-NJ-07), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Jefferson Van Drew (R-NJ-02), 1 more.
 7. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 8. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 51_  
@@ -30,7 +30,7 @@ Representative for NJ-01 · 12 years in the House · Problem Solvers Caucus Nati
 **H.R. 7116, SEPSIS Act: Protect access to care**
 - Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.
 - 8 members back it: 5 Republicans and 3 Democrats, including 6 Problem Solvers.
-- 2 of your NJ colleagues are on it: Thomas H. Kean, Jr., Josh Gottheimer.
+- 2 of your NJ colleagues are on it: Josh Gottheimer, Thomas H. Kean, Jr..
 - Your record: sponsor.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**

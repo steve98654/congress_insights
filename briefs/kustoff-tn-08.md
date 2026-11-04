@@ -15,9 +15,9 @@ Representative for TN-08 · 9.8 years in the House
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Charles J. "Chuck" Fleischmann (R-TN-03), Rep. John W. Rose (R-TN-06), Rep. Diana Harshbarger (R-TN-01), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Steve Cohen (D-TN-09), Rep. Charles J. "Chuck" Fleischmann (R-TN-03), Rep. Diana Harshbarger (R-TN-01), 1 more.
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Charles J. "Chuck" Fleischmann (R-TN-03), Rep. Steve Cohen (D-TN-09).
+   2 of your state colleagues are already cosponsoring: Rep. Steve Cohen (D-TN-09), Rep. Charles J. "Chuck" Fleischmann (R-TN-03).
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues is on it: Rep. Matt Van Epps (R-TN-07).
 7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -28,7 +28,7 @@ Representative for TN-08 · 9.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 2 of your TN colleagues are on it: Steve Cohen, Tim Burchett.
+- 2 of your TN colleagues are on it: Tim Burchett, Steve Cohen.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
@@ -38,7 +38,7 @@ Representative for TN-08 · 9.8 years in the House
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 4 of your TN colleagues are on it: Charles J. "Chuck" Fleischmann, John W. Rose, Steve Cohen and others.
+- 4 of your TN colleagues are on it: Tim Burchett, Steve Cohen, Charles J. "Chuck" Fleischmann and others.
 - Your record: cosponsor.
 
 ## Position on each goal

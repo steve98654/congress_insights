@@ -17,13 +17,13 @@ Representative for TX-14 · 13.8 years in the House
 4. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Troy E. Nehls (R-TX-22), Rep. Vicente Gonzalez (D-TX-34), Rep. Sylvia R. Garcia (D-TX-29), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. John R. Carter (R-TX-31), Rep. Joaquin Castro (D-TX-20), Rep. Vicente Gonzalez (D-TX-34), 3 more.
 6. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), Rep. Henry Cuellar (D-TX-28), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Henry Cuellar (D-TX-28), Rep. Joaquin Castro (D-TX-20), Rep. Monica De La Cruz (R-TX-15), 3 more.
 7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   15 of your state colleagues are already cosponsoring: Rep. Greg Casar (D-TX-35), Rep. Joaquin Castro (D-TX-20), Rep. Julie Johnson (D-TX-32), 12 more.
+   15 of your state colleagues are already cosponsoring: Rep. Henry Cuellar (D-TX-28), Rep. Joaquin Castro (D-TX-20), Rep. Jasmine Crockett (D-TX-30), 12 more.
 8. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), Rep. Nathaniel Moran (R-TX-01), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Jasmine Crockett (D-TX-30), Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), 1 more.
 
 ## Talking points
 

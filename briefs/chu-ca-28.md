@@ -19,23 +19,23 @@ Representative for CA-28 · 17.3 years in the House
 5. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 6. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Ted Lieu (D-CA-36), Rep. Laura Friedman (D-CA-30), Rep. Jim Costa (D-CA-21), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. Laura Friedman (D-CA-30), Rep. Adam Gray (D-CA-13), 2 more.
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   14 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Lateefah Simon (D-CA-12), Rep. Ted Lieu (D-CA-36), 11 more.
+   14 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), 11 more.
 8. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Ted Lieu (D-CA-36), Rep. Ro Khanna (D-CA-17), Rep. Josh Harder (D-CA-09), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), Rep. Josh Harder (D-CA-09), 3 more.
 
 ## Talking points
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 16 of your CA colleagues are on it: Lateefah Simon, Mike Levin, Sara Jacobs and others.
+- 16 of your CA colleagues are on it: Nanette Diaz Barragán, J. Luis Correa, Salud O. Carbajal and others.
 
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
 - 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
-- 6 of your CA colleagues are on it: Jimmy Panetta, Jay Obernolte, Adam Gray and others.
+- 6 of your CA colleagues are on it: Adam Gray, Jay Obernolte, Scott H. Peters and others.
 
 **H.R. 222, Sustainable Budget Act: Stabilize the national debt**
 - Sets up a bipartisan panel to draft a plan to balance the budget within 10 years.

@@ -15,9 +15,9 @@ Representative for VA-04 · 3.7 years in the House
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Robert J. Wittman (R-VA-01), Rep. John J. McGuire III (R-VA-05), Rep. Suhas Subramanyam (D-VA-10), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Ben Cline (R-VA-06), Rep. Jennifer A. Kiggans (R-VA-02), Rep. John J. McGuire III (R-VA-05), 2 more.
 5. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Eugene Simon Vindman (D-VA-07), Rep. James R. Walkinshaw (D-VA-11), Rep. Suhas Subramanyam (D-VA-10), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Jennifer A. Kiggans (R-VA-02), Rep. Suhas Subramanyam (D-VA-10), Rep. Eugene Simon Vindman (D-VA-07), 1 more.
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Ben Cline (R-VA-06), Rep. Eugene Simon Vindman (D-VA-07).
 7. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -39,7 +39,7 @@ Representative for VA-04 · 3.7 years in the House
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 3 of your VA colleagues are on it: Robert J. Wittman, Eugene Simon Vindman, James R. Walkinshaw.
+- 3 of your VA colleagues are on it: Eugene Simon Vindman, Robert J. Wittman, James R. Walkinshaw.
 - Your record: cosponsor.
 
 ## Position on each goal

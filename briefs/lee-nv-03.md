@@ -11,11 +11,11 @@ Representative for NV-03 · 7.8 years in the House · Problem Solvers Caucus mem
 1. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
 2. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
-   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Steven Horsford (D-NV-04), Rep. Dina Titus (D-NV-01), Rep. Mark E. Amodei (R-NV-02).
+   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Mark E. Amodei (R-NV-02), Rep. Steven Horsford (D-NV-04), Rep. Dina Titus (D-NV-01).
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Dina Titus (D-NV-01), Rep. Steven Horsford (D-NV-04).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Steven Horsford (D-NV-04), Rep. Dina Titus (D-NV-01).
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Dina Titus (D-NV-01), Rep. Steven Horsford (D-NV-04).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Steven Horsford (D-NV-04), Rep. Dina Titus (D-NV-01).
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 51_  
    It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Steven Horsford (D-NV-04).
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 51_  
@@ -30,17 +30,17 @@ Representative for NV-03 · 7.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 3 of your NV colleagues are on it: Steven Horsford, Dina Titus, Mark E. Amodei.
+- 3 of your NV colleagues are on it: Mark E. Amodei, Steven Horsford, Dina Titus.
 
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 2 of your NV colleagues are on it: Dina Titus, Steven Horsford.
+- 2 of your NV colleagues are on it: Steven Horsford, Dina Titus.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 2 of your NV colleagues are on it: Dina Titus, Steven Horsford.
+- 2 of your NV colleagues are on it: Steven Horsford, Dina Titus.
 
 ## Position on each goal
 

@@ -15,13 +15,13 @@ Representative for MI-11 · 7.8 years in the House · Problem Solvers Caucus mem
 3. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. John R. Moolenaar (R-MI-02), Rep. Jack Bergman (R-MI-01), Rep. Rashida Tlaib (D-MI-12), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. John R. Moolenaar (R-MI-02), Rep. Rashida Tlaib (D-MI-12), 1 more.
 5. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Jack Bergman (R-MI-01), Rep. Hillary J. Scholten (D-MI-03), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. Debbie Dingell (D-MI-06), Rep. Hillary J. Scholten (D-MI-03), 2 more.
 6. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Bill Huizenga (R-MI-04), Rep. Hillary J. Scholten (D-MI-03), Rep. John R. Moolenaar (R-MI-02), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04), Rep. John R. Moolenaar (R-MI-02), 2 more.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Bill Huizenga (R-MI-04), Rep. Jack Bergman (R-MI-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04).
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 

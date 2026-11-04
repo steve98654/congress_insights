@@ -34,7 +34,7 @@ Representative for CT-02 · 19.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 3 of your CT colleagues are on it: Jahana Hayes, John B. Larson, James A. Himes.
+- 3 of your CT colleagues are on it: James A. Himes, Jahana Hayes, John B. Larson.
 - Your record: cosponsor.
 
 ## Position on each goal

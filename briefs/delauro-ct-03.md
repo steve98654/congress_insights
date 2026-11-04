@@ -11,9 +11,9 @@ Representative for CT-03 · 35.8 years in the House
 1. **Negotiate bipartisan toplines so all 12 bills can move on time.** _Fund the government on time · priority 75_  
    The PSC is pushing regular order, and the ranking member's agreement is needed to get there.
 2. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Jahana Hayes (D-CT-05), Rep. John B. Larson (D-CT-01), Rep. James A. Himes (D-CT-04), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Joe Courtney (D-CT-02), Rep. James A. Himes (D-CT-04), Rep. Jahana Hayes (D-CT-05), 1 more.
 3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Jahana Hayes (D-CT-05), Rep. Joe Courtney (D-CT-02).
+   2 of your state colleagues are already cosponsoring: Rep. Joe Courtney (D-CT-02), Rep. Jahana Hayes (D-CT-05).
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -24,17 +24,17 @@ Representative for CT-03 · 35.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 4 of your CT colleagues are on it: Jahana Hayes, John B. Larson, James A. Himes and others.
+- 4 of your CT colleagues are on it: Joe Courtney, James A. Himes, Jahana Hayes and others.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 2 of your CT colleagues are on it: Jahana Hayes, Joe Courtney.
+- 2 of your CT colleagues are on it: Joe Courtney, Jahana Hayes.
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
-- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal

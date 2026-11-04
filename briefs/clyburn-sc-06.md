@@ -11,11 +11,11 @@ Representative for SC-06 · 33.8 years in the House
 1. **Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).** _Fund the government on time · priority 80_  
    Your THUD subcommittee seat decides this. The PSC letter flags about $10B in highway cuts, $5B for airports and $4B for transit.
 2. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 5 of your state colleagues are on it: Rep. William R. Timmons IV (R-SC-04), Rep. Nancy Mace (R-SC-01), Rep. Joe Wilson (R-SC-02), 2 more.
+   It cleared committee (committee vote 42-0). 5 of your state colleagues are on it: Rep. Sheri Biggs (R-SC-03), Rep. Russell Fry (R-SC-07), Rep. Nancy Mace (R-SC-01), 2 more.
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Ralph Norman (R-SC-05), Rep. Joe Wilson (R-SC-02).
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. William R. Timmons IV (R-SC-04), Rep. Nancy Mace (R-SC-01).
+   2 of your state colleagues are already cosponsoring: Rep. Nancy Mace (R-SC-01), Rep. William R. Timmons IV (R-SC-04).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -26,7 +26,7 @@ Representative for SC-06 · 33.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 5 of your SC colleagues are on it: William R. Timmons IV, Nancy Mace, Joe Wilson and others.
+- 5 of your SC colleagues are on it: Sheri Biggs, Russell Fry, Nancy Mace and others.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
@@ -36,7 +36,7 @@ Representative for SC-06 · 33.8 years in the House
 **H.R. 3562, DEFIANCE Act: Make AI safe and protect deepfake victims**
 - Creates a civil right of action for victims of non-consensual intimate deepfakes.
 - 70 members back it: 34 Republicans and 36 Democrats, including 17 Problem Solvers.
-- 2 of your SC colleagues are on it: William R. Timmons IV, Nancy Mace.
+- 2 of your SC colleagues are on it: Nancy Mace, William R. Timmons IV.
 
 ## Position on each goal
 

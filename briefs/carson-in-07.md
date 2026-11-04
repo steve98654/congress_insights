@@ -11,11 +11,11 @@ Representative for IN-07 · 18.6 years in the House
 1. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Victoria Spartz (R-IN-05), Rep. Erin Houchin (R-IN-09), Rep. Rudy Yakym III (R-IN-02).
+   3 of your state colleagues are already cosponsoring: Rep. Erin Houchin (R-IN-09), Rep. Victoria Spartz (R-IN-05), Rep. Rudy Yakym III (R-IN-02).
 3. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. James R. Baird (R-IN-04), Rep. Jefferson Shreve (R-IN-06), Rep. Erin Houchin (R-IN-09), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. James R. Baird (R-IN-04), Rep. Erin Houchin (R-IN-09), Rep. Frank J. Mrvan (D-IN-01), 3 more.
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Erin Houchin (R-IN-09), Rep. James R. Baird (R-IN-04).
+   2 of your state colleagues are already cosponsoring: Rep. James R. Baird (R-IN-04), Rep. Erin Houchin (R-IN-09).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues is on it: Rep. Erin Houchin (R-IN-09).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -30,12 +30,12 @@ Representative for IN-07 · 18.6 years in the House
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
 - 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
-- 3 of your IN colleagues are on it: Victoria Spartz, Erin Houchin, Rudy Yakym III.
+- 3 of your IN colleagues are on it: Erin Houchin, Victoria Spartz, Rudy Yakym III.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 6 of your IN colleagues are on it: James R. Baird, Jefferson Shreve, Erin Houchin and others.
+- 6 of your IN colleagues are on it: James R. Baird, Erin Houchin, Frank J. Mrvan and others.
 
 ## Position on each goal
 

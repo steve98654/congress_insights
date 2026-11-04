@@ -21,7 +21,7 @@ Representative for GA-01 · 11.8 years in the House · Leaving Congress in Janua
 6. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Austin Scott (R-GA-08), Rep. Lucy McBath (D-GA-06), Rep. Rick W. Allen (R-GA-12), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Rick W. Allen (R-GA-12), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), 3 more.
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 

@@ -13,11 +13,11 @@ Representative for CA-50 · 13.8 years in the House · Problem Solvers Caucus me
 2. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 14 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Lateefah Simon (D-CA-12), Rep. Ted Lieu (D-CA-36), 11 more.
+   It is PSC-endorsed and you are a caucus member. 14 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), 11 more.
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 16 of your state colleagues are already cosponsoring: Rep. Lateefah Simon (D-CA-12), Rep. Mike Levin (D-CA-49), Rep. Sara Jacobs (D-CA-51), 13 more.
+   It is PSC-endorsed and you are a caucus member. 16 of your state colleagues are already cosponsoring: Rep. Nanette Diaz Barragán (D-CA-44), Rep. J. Luis Correa (D-CA-46), Rep. Salud O. Carbajal (D-CA-24), 13 more.
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Ted Lieu (D-CA-36), Rep. Ro Khanna (D-CA-17), Rep. Josh Harder (D-CA-09), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), Rep. Josh Harder (D-CA-09), 3 more.
 6. **Press for a markup of H.R. 3289 (Fiscal Commission Act) in Budget, where you sit.** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 60_  
    You already cosponsor it, and your committee is where it is stuck.
 7. **Press for a markup of H.R. 222 (Sustainable Budget Act) in Budget, where you sit.** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 60_  
@@ -30,7 +30,7 @@ Representative for CA-50 · 13.8 years in the House · Problem Solvers Caucus me
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 5 of your CA colleagues are on it: Ted Lieu, Laura Friedman, Jim Costa and others.
+- 5 of your CA colleagues are on it: Jim Costa, Laura Friedman, Adam Gray and others.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
 - Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.
@@ -39,7 +39,7 @@ Representative for CA-50 · 13.8 years in the House · Problem Solvers Caucus me
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 14 of your CA colleagues are on it: Ami Bera, Lateefah Simon, Ted Lieu and others.
+- 14 of your CA colleagues are on it: Ami Bera, Jim Costa, J. Luis Correa and others.
 
 ## Position on each goal
 

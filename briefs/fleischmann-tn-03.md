@@ -15,7 +15,7 @@ Representative for TN-03 · 15.8 years in the House
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Steve Cohen (D-TN-09), Rep. Tim Burchett (R-TN-02).
+   2 of your state colleagues are already cosponsoring: Rep. Tim Burchett (R-TN-02), Rep. Steve Cohen (D-TN-09).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues is on it: Rep. Matt Van Epps (R-TN-07).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -30,13 +30,13 @@ Representative for TN-03 · 15.8 years in the House
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 3 of your TN colleagues are on it: John W. Rose, Diana Harshbarger, Steve Cohen.
+- 3 of your TN colleagues are on it: Steve Cohen, Diana Harshbarger, John W. Rose.
 - Your record: cosponsor.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 2 of your TN colleagues are on it: Steve Cohen, Tim Burchett.
+- 2 of your TN colleagues are on it: Tim Burchett, Steve Cohen.
 
 ## Position on each goal
 

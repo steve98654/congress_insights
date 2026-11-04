@@ -34,17 +34,17 @@ Senator for GA · 5.8 years in the Senate
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
-- 3 of your GA colleagues are on it: Clay Fuller, Sanford D. Bishop, Jr., Earl L. "Buddy" Carter.
+- 3 of your GA colleagues are on it: Sanford D. Bishop, Jr., Earl L. "Buddy" Carter, Clay Fuller.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
-- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
 - Your record: voted yea.
 - [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 6 of your GA colleagues are on it: Barry Loudermilk, Lucy McBath, Rick W. Allen and others.
+- 6 of your GA colleagues are on it: Rick W. Allen, Sanford D. Bishop, Jr., Earl L. "Buddy" Carter and others.
 
 ## Position on each goal
 

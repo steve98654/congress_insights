@@ -21,9 +21,9 @@ Representative for SC-05 · 9.4 years in the House · Leaving Congress in Januar
 6. **Move H.R. 8870 through Rules, or back taking it up under suspension.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 60_  
    It has been reported (committee vote 62-2) and needs a way to the floor.
 7. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 5 of your state colleagues are on it: Rep. William R. Timmons IV (R-SC-04), Rep. Nancy Mace (R-SC-01), Rep. Joe Wilson (R-SC-02), 2 more.
+   It cleared committee (committee vote 42-0). 5 of your state colleagues are on it: Rep. Sheri Biggs (R-SC-03), Rep. Russell Fry (R-SC-07), Rep. Nancy Mace (R-SC-01), 2 more.
 8. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. William R. Timmons IV (R-SC-04), Rep. Nancy Mace (R-SC-01).
+   2 of your state colleagues are already cosponsoring: Rep. Nancy Mace (R-SC-01), Rep. William R. Timmons IV (R-SC-04).
 
 ## Talking points
 

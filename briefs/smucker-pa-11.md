@@ -19,18 +19,18 @@ Representative for PA-11 · 9.8 years in the House
 5. **Press for a markup of H.R. 3289 (Fiscal Commission Act) in Budget, where you sit.** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 6. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Dwight Evans (D-PA-03), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Christopher R. Deluzio (D-PA-17).
+   3 of your state colleagues are already cosponsoring: Rep. Christopher R. Deluzio (D-PA-17), Rep. Dwight Evans (D-PA-03), Rep. Brian K. Fitzpatrick (R-PA-01).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Christopher R. Deluzio (D-PA-17), Rep. Robert P. Bresnahan, Jr. (R-PA-08).
+   3 of your state colleagues are already cosponsoring: Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01).
 8. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Dwight Evans (D-PA-03), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Madeleine Dean (D-PA-04), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Madeleine Dean (D-PA-04), Rep. Dwight Evans (D-PA-03), 3 more.
 
 ## Talking points
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 6 of your PA colleagues are on it: Mike Kelly, Chrissy Houlahan, Christopher R. Deluzio and others.
+- 6 of your PA colleagues are on it: Brendan F. Boyle, Christopher R. Deluzio, Madeleine Dean and others.
 
 **H.R. 222, Sustainable Budget Act: Stabilize the national debt**
 - Sets up a bipartisan panel to draft a plan to balance the budget within 10 years.
@@ -40,7 +40,7 @@ Representative for PA-11 · 9.8 years in the House
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 8 of your PA colleagues are on it: Mike Kelly, Glenn Thompson, John Joyce and others.
+- 8 of your PA colleagues are on it: Brendan F. Boyle, Robert P. Bresnahan, Jr., Madeleine Dean and others.
 
 ## Position on each goal
 

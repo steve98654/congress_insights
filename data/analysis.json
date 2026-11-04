@@ -13364,20 +13364,20 @@
       "status": "seeking_other_office"
      },
      {
-      "slug": "johnson-tx-32",
-      "name": "Julie Johnson",
-      "label": "D-TX-32",
-      "party": "D",
-      "psc": false,
-      "status": "lost_primary"
-     },
-     {
       "slug": "johnson-sd-00",
       "name": "Dusty Johnson",
       "label": "R-SD-00",
       "party": "R",
       "psc": false,
       "status": "seeking_other_office"
+     },
+     {
+      "slug": "johnson-tx-32",
+      "name": "Julie Johnson",
+      "label": "D-TX-32",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
      },
      {
       "slug": "kelly-il-02",
@@ -13720,20 +13720,20 @@
       "status": "seeking_other_office"
      },
      {
-      "slug": "johnson-tx-32",
-      "name": "Julie Johnson",
-      "label": "D-TX-32",
-      "party": "D",
-      "psc": false,
-      "status": "lost_primary"
-     },
-     {
       "slug": "johnson-sd-00",
       "name": "Dusty Johnson",
       "label": "R-SD-00",
       "party": "R",
       "psc": false,
       "status": "seeking_other_office"
+     },
+     {
+      "slug": "johnson-tx-32",
+      "name": "Julie Johnson",
+      "label": "D-TX-32",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
      },
      {
       "slug": "kelly-il-02",

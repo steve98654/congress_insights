@@ -23,7 +23,7 @@ Representative for AZ-05 · 9.8 years in the House · Leaving Congress in Januar
 7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
    3 of your state colleagues are already cosponsoring: Rep. Juan Ciscomani (R-AZ-06), Rep. Adelita S. Grijalva (D-AZ-07), Rep. Greg Stanton (D-AZ-04).
 8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Juan Ciscomani (R-AZ-06), Rep. Adelita S. Grijalva (D-AZ-07), Rep. Greg Stanton (D-AZ-04), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Juan Ciscomani (R-AZ-06), Rep. Adelita S. Grijalva (D-AZ-07), Rep. David Schweikert (R-AZ-01), 1 more.
 
 ## Talking points
 

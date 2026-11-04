@@ -35,12 +35,12 @@ Representative for NJ-05 · 9.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 2 of your NJ colleagues are on it: Donald Norcross, Thomas H. Kean, Jr..
+- 2 of your NJ colleagues are on it: Thomas H. Kean, Jr., Donald Norcross.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 8 of your NJ colleagues are on it: Herbert C. Conaway, Jr., LaMonica McIver, Donald Norcross and others.
+- 8 of your NJ colleagues are on it: Herbert C. Conaway, Jr., Thomas H. Kean, Jr., Robert Menendez and others.
 - Your record: cosponsor.
 
 ## Position on each goal

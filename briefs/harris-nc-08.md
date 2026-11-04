@@ -35,7 +35,7 @@ Representative for NC-08 · 1.8 years in the House
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 3 of your NC colleagues are on it: Valerie P. Foushee, Deborah K. Ross, Alma S. Adams.
+- 3 of your NC colleagues are on it: Alma S. Adams, Valerie P. Foushee, Deborah K. Ross.
 
 **H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
 - DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.

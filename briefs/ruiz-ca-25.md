@@ -15,15 +15,15 @@ Representative for CA-25 · 13.8 years in the House
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   14 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Lateefah Simon (D-CA-12), Rep. Ted Lieu (D-CA-36), 11 more.
+   14 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), 11 more.
 5. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   16 of your state colleagues are already cosponsoring: Rep. Lateefah Simon (D-CA-12), Rep. Mike Levin (D-CA-49), Rep. Sara Jacobs (D-CA-51), 13 more.
+   16 of your state colleagues are already cosponsoring: Rep. Nanette Diaz Barragán (D-CA-44), Rep. J. Luis Correa (D-CA-46), Rep. Salud O. Carbajal (D-CA-24), 13 more.
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   24 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Dave Min (D-CA-47), Rep. Doris O. Matsui (D-CA-07), 21 more.
+   24 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Nanette Diaz Barragán (D-CA-44), Rep. Judy Chu (D-CA-28), 21 more.
 7. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Jimmy Panetta (D-CA-19), Rep. Jay Obernolte (R-CA-23), Rep. Adam Gray (D-CA-13), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Adam Gray (D-CA-13), Rep. Jay Obernolte (R-CA-23), Rep. Scott H. Peters (D-CA-50), 3 more.
 8. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Ted Lieu (D-CA-36), Rep. Ro Khanna (D-CA-17), Rep. Josh Harder (D-CA-09), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), Rep. Josh Harder (D-CA-09), 3 more.
 
 ## Talking points
 
@@ -34,13 +34,13 @@ Representative for CA-25 · 13.8 years in the House
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 4 of your CA colleagues are on it: Ted Lieu, Laura Friedman, Jim Costa and others.
+- 4 of your CA colleagues are on it: Jim Costa, Laura Friedman, Adam Gray and others.
 - Your record: cosponsor.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 14 of your CA colleagues are on it: Ami Bera, Mike Levin, Young Kim and others.
+- 14 of your CA colleagues are on it: Julia Brownley, Ami Bera, Nanette Diaz Barragán and others.
 - Your record: cosponsor.
 
 ## Position on each goal

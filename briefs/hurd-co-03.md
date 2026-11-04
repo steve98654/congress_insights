@@ -13,13 +13,13 @@ Representative for CO-03 · 1.8 years in the House · Problem Solvers Caucus mem
 2. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 63_  
    It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Gabe Evans (R-CO-08), Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07).
 3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Joe Neguse (D-CO-02), Rep. Jason Crow (D-CO-06), Rep. Brittany Pettersen (D-CO-07).
+   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Jason Crow (D-CO-06), Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07).
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Joe Neguse (D-CO-02), Rep. Gabe Evans (R-CO-08), Rep. Jason Crow (D-CO-06), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Jason Crow (D-CO-06), Rep. Gabe Evans (R-CO-08), Rep. Joe Neguse (D-CO-02), 1 more.
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Joe Neguse (D-CO-02), Rep. Diana DeGette (D-CO-01), Rep. Brittany Pettersen (D-CO-07), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Jason Crow (D-CO-06), Rep. Diana DeGette (D-CO-01), Rep. Joe Neguse (D-CO-02), 1 more.
 6. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Jeff Crank (R-CO-05), Rep. Joe Neguse (D-CO-02), Rep. Gabe Evans (R-CO-08), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Jason Crow (D-CO-06), Rep. Jeff Crank (R-CO-05), Rep. Gabe Evans (R-CO-08), 1 more.
 7. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 51_  
    It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Brittany Pettersen (D-CO-07).
 8. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 51_  
@@ -39,7 +39,7 @@ Representative for CO-03 · 1.8 years in the House · Problem Solvers Caucus mem
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 3 of your CO colleagues are on it: Joe Neguse, Jason Crow, Brittany Pettersen.
+- 3 of your CO colleagues are on it: Jason Crow, Joe Neguse, Brittany Pettersen.
 
 ## Position on each goal
 

@@ -31,12 +31,12 @@ Representative for WI-04 · 21.8 years in the House
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 2 of your WI colleagues are on it: Bryan Steil, Mark Pocan.
+- 2 of your WI colleagues are on it: Mark Pocan, Bryan Steil.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 2 of your WI colleagues are on it: Derrick Van Orden, Mark Pocan.
+- 2 of your WI colleagues are on it: Mark Pocan, Derrick Van Orden.
 - Your record: cosponsor.
 
 ## Position on each goal

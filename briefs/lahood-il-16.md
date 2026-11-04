@@ -15,13 +15,13 @@ Representative for IL-16 · 11.1 years in the House
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Eric Sorensen (D-IL-17), Rep. Raja Krishnamoorthi (D-IL-08), Rep. Nikki Budzinski (D-IL-13), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Nikki Budzinski (D-IL-13), Rep. Jesús G. "Chuy" García (D-IL-04), Rep. Raja Krishnamoorthi (D-IL-08), 1 more.
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   9 of your state colleagues are already cosponsoring: Rep. Eric Sorensen (D-IL-17), Rep. Danny K. Davis (D-IL-07), Rep. Janice D. Schakowsky (D-IL-09), 6 more.
+   9 of your state colleagues are already cosponsoring: Rep. Sean Casten (D-IL-06), Rep. Danny K. Davis (D-IL-07), Rep. Jesús G. "Chuy" García (D-IL-04), 6 more.
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Bradley Scott Schneider (D-IL-10), Rep. Mike Quigley (D-IL-05).
+   2 of your state colleagues are already cosponsoring: Rep. Mike Quigley (D-IL-05), Rep. Bradley Scott Schneider (D-IL-10).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 
@@ -30,18 +30,18 @@ Representative for IL-16 · 11.1 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 6 of your IL colleagues are on it: Janice D. Schakowsky, Robin L. Kelly, Sean Casten and others.
+- 6 of your IL colleagues are on it: Nikki Budzinski, Sean Casten, Robin L. Kelly and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 3 of your IL colleagues are on it: Raja Krishnamoorthi, Bradley Scott Schneider, Danny K. Davis.
+- 3 of your IL colleagues are on it: Danny K. Davis, Raja Krishnamoorthi, Bradley Scott Schneider.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 11 of your IL colleagues are on it: Janice D. Schakowsky, Mike Bost, Nikki Budzinski and others.
+- 11 of your IL colleagues are on it: Mike Bost, Nikki Budzinski, Sean Casten and others.
 - Your record: cosponsor.
 
 ## Position on each goal

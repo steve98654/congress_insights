@@ -88,7 +88,7 @@ def house_bill_in_house(ctx, goal, bill, m):
     supporter = m["bioguide"] in bill["supporter_ids"]
     sponsor = m["bioguide"] == bill["sponsor_id"]
     seats = committee_seats(m, codes)
-    delegation = [ctx.members[b] for b in bill["supporter_ids"]
+    delegation = [ctx.members[b] for b in sorted(bill["supporter_ids"])
                   if b in ctx.members and ctx.members[b]["state"] == m["state"] and b != m["bioguide"]]
     psc_bonus = 15 if m["psc"] else 0
 
@@ -276,7 +276,7 @@ def senate_side(ctx, goal, bill, m):
                                   "You cosponsor it and sit on the committee holding it.", []))
             break
         if not seats and not supporter:
-            delegation = [ctx.members[b] for b in bill["supporter_ids"]
+            delegation = [ctx.members[b] for b in sorted(bill["supporter_ids"])
                           if b in ctx.members and ctx.members[b]["state"] == m["state"]]
             if delegation:
                 out.append(action(goal, bill, 35, "cosponsor",

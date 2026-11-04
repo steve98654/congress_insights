@@ -9,9 +9,9 @@ Representative for CA-22 · 13.8 years in the House · Problem Solvers Caucus me
 ## Top actions
 
 1. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Ted Lieu (D-CA-36), Rep. Laura Friedman (D-CA-30), Rep. Jim Costa (D-CA-21), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. Laura Friedman (D-CA-30), Rep. Adam Gray (D-CA-13), 2 more.
 2. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Ted Lieu (D-CA-36), Rep. Ro Khanna (D-CA-17), Rep. Josh Harder (D-CA-09), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), Rep. Josh Harder (D-CA-09), 3 more.
 3. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
@@ -30,17 +30,17 @@ Representative for CA-22 · 13.8 years in the House · Problem Solvers Caucus me
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 5 of your CA colleagues are on it: Ted Lieu, Laura Friedman, Jim Costa and others.
+- 5 of your CA colleagues are on it: Jim Costa, Laura Friedman, Adam Gray and others.
 
 **H.R. 3562, DEFIANCE Act: Make AI safe and protect deepfake victims**
 - Creates a civil right of action for victims of non-consensual intimate deepfakes.
 - 70 members back it: 34 Republicans and 36 Democrats, including 17 Problem Solvers.
-- 6 of your CA colleagues are on it: Ted Lieu, Ro Khanna, Josh Harder and others.
+- 6 of your CA colleagues are on it: Jim Costa, J. Luis Correa, Josh Harder and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 31 of your CA colleagues are on it: Adam Gray, Young Kim, Gilbert Ray Cisneros, Jr. and others.
+- 31 of your CA colleagues are on it: Pete Aguilar, Julia Brownley, Ami Bera and others.
 - Your record: cosponsor.
 
 ## Position on each goal

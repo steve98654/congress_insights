@@ -11,15 +11,15 @@ Representative for IN-01 · 5.8 years in the House
 1. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 2. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Victoria Spartz (R-IN-05), Rep. Erin Houchin (R-IN-09), Rep. Rudy Yakym III (R-IN-02).
+   3 of your state colleagues are already cosponsoring: Rep. Erin Houchin (R-IN-09), Rep. Victoria Spartz (R-IN-05), Rep. Rudy Yakym III (R-IN-02).
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Jefferson Shreve (R-IN-06), Rep. André Carson (D-IN-07), Rep. Erin Houchin (R-IN-09), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Erin Houchin (R-IN-09), Rep. Jefferson Shreve (R-IN-06), 1 more.
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. James R. Baird (R-IN-04), Rep. André Carson (D-IN-07).
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Erin Houchin (R-IN-09), Rep. James R. Baird (R-IN-04).
+   2 of your state colleagues are already cosponsoring: Rep. James R. Baird (R-IN-04), Rep. Erin Houchin (R-IN-09).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues is on it: Rep. Erin Houchin (R-IN-09).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -30,17 +30,17 @@ Representative for IN-01 · 5.8 years in the House
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
 - 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
-- 3 of your IN colleagues are on it: Victoria Spartz, Erin Houchin, Rudy Yakym III.
+- 3 of your IN colleagues are on it: Erin Houchin, Victoria Spartz, Rudy Yakym III.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 4 of your IN colleagues are on it: Jefferson Shreve, André Carson, Erin Houchin and others.
+- 4 of your IN colleagues are on it: André Carson, Erin Houchin, Jefferson Shreve and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 5 of your IN colleagues are on it: James R. Baird, Jefferson Shreve, Erin Houchin and others.
+- 5 of your IN colleagues are on it: James R. Baird, Erin Houchin, Mark B. Messmer and others.
 - Your record: cosponsor.
 
 ## Position on each goal

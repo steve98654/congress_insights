@@ -30,10 +30,10 @@ Senator for NJ · 13 years in the Senate · Senate Democratic Strategic Communic
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
-- 4 of your NJ colleagues are on it: Jefferson Van Drew, Thomas H. Kean, Jr., Christopher H. Smith and others.
+- 4 of your NJ colleagues are on it: Josh Gottheimer, Thomas H. Kean, Jr., Christopher H. Smith and others.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
-- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
 - Your record: voted nay.
 - [CBO cost estimate](https://www.cbo.gov/publication/62762)
 

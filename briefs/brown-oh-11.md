@@ -9,13 +9,13 @@ Representative for OH-11 · 5 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Greg Landsman (D-OH-01), Rep. Max L. Miller (R-OH-07), Rep. Joyce Beatty (D-OH-03), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Joyce Beatty (D-OH-03), Rep. Mike Carey (R-OH-15), Rep. Greg Landsman (D-OH-01), 2 more.
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Greg Landsman (D-OH-01), Rep. Joyce Beatty (D-OH-03), Rep. Michael A. Rulli (R-OH-06), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Joyce Beatty (D-OH-03), Rep. Troy Balderson (R-OH-12), Rep. Mike Carey (R-OH-15), 2 more.
 3. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. David P. Joyce (R-OH-14), Rep. Greg Landsman (D-OH-01), Rep. Max L. Miller (R-OH-07), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Mike Carey (R-OH-15), Rep. David P. Joyce (R-OH-14), Rep. Greg Landsman (D-OH-01), 2 more.
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Greg Landsman (D-OH-01), Rep. Warren Davidson (R-OH-08).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Warren Davidson (R-OH-08), Rep. Greg Landsman (D-OH-01).
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
@@ -28,17 +28,17 @@ Representative for OH-11 · 5 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your OH colleagues are on it: Greg Landsman, Max L. Miller, Joyce Beatty and others.
+- 5 of your OH colleagues are on it: Joyce Beatty, Mike Carey, Greg Landsman and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 5 of your OH colleagues are on it: Greg Landsman, Joyce Beatty, Michael A. Rulli and others.
+- 5 of your OH colleagues are on it: Joyce Beatty, Troy Balderson, Mike Carey and others.
 
 **H.R. 3562, DEFIANCE Act: Make AI safe and protect deepfake victims**
 - Creates a civil right of action for victims of non-consensual intimate deepfakes.
 - 70 members back it: 34 Republicans and 36 Democrats, including 17 Problem Solvers.
-- 5 of your OH colleagues are on it: David P. Joyce, Greg Landsman, Max L. Miller and others.
+- 5 of your OH colleagues are on it: Mike Carey, David P. Joyce, Greg Landsman and others.
 
 ## Position on each goal
 

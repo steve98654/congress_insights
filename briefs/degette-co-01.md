@@ -17,9 +17,9 @@ Representative for CO-01 · 29.8 years in the House · Leaving Congress in Janua
 4. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
    3 of your state colleagues are already cosponsoring: Rep. Gabe Evans (R-CO-08), Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07).
 5. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Joe Neguse (D-CO-02), Rep. Jason Crow (D-CO-06), Rep. Brittany Pettersen (D-CO-07).
+   3 of your state colleagues are already cosponsoring: Rep. Jason Crow (D-CO-06), Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07).
 6. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Jeff Crank (R-CO-05), Rep. Joe Neguse (D-CO-02), Rep. Gabe Evans (R-CO-08), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Jason Crow (D-CO-06), Rep. Jeff Crank (R-CO-05), Rep. Gabe Evans (R-CO-08), 1 more.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -35,7 +35,7 @@ Representative for CO-01 · 29.8 years in the House · Leaving Congress in Janua
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 4 of your CO colleagues are on it: Joe Neguse, Gabe Evans, Jason Crow and others.
+- 4 of your CO colleagues are on it: Jason Crow, Gabe Evans, Joe Neguse and others.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
 - Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.

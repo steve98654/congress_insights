@@ -21,9 +21,9 @@ Representative for WI-07 · 6.5 years in the House · Leaving Congress in Januar
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Gwen Moore (D-WI-04), Rep. Derrick Van Orden (R-WI-03), Rep. Mark Pocan (D-WI-02).
+   3 of your state colleagues are already cosponsoring: Rep. Gwen Moore (D-WI-04), Rep. Mark Pocan (D-WI-02), Rep. Derrick Van Orden (R-WI-03).
 8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Bryan Steil (R-WI-01), Rep. Scott Fitzgerald (R-WI-05), Rep. Gwen Moore (D-WI-04), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Scott Fitzgerald (R-WI-05), Rep. Glenn Grothman (R-WI-06), Rep. Gwen Moore (D-WI-04), 3 more.
 
 ## Talking points
 

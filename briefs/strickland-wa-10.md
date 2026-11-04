@@ -11,11 +11,11 @@ Representative for WA-10 · 5.8 years in the House
 1. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Adam Smith (D-WA-09), Rep. Michael Baumgartner (R-WA-05), Rep. Suzan K. DelBene (D-WA-01), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Michael Baumgartner (R-WA-05), Rep. Suzan K. DelBene (D-WA-01), Rep. Marie Gluesenkamp Perez (D-WA-03), 2 more.
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Adam Smith (D-WA-09), Rep. Suzan K. DelBene (D-WA-01).
+   2 of your state colleagues are already cosponsoring: Rep. Suzan K. DelBene (D-WA-01), Rep. Adam Smith (D-WA-09).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues is on it: Rep. Marie Gluesenkamp Perez (D-WA-03).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
@@ -30,12 +30,12 @@ Representative for WA-10 · 5.8 years in the House
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 5 of your WA colleagues are on it: Adam Smith, Michael Baumgartner, Suzan K. DelBene and others.
+- 5 of your WA colleagues are on it: Michael Baumgartner, Suzan K. DelBene, Marie Gluesenkamp Perez and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 8 of your WA colleagues are on it: Michael Baumgartner, Rick Larsen, Kim Schrier and others.
+- 8 of your WA colleagues are on it: Michael Baumgartner, Suzan K. DelBene, Marie Gluesenkamp Perez and others.
 - Your record: cosponsor.
 
 ## Position on each goal

@@ -9,7 +9,7 @@ Representative for NC-01 · 3.8 years in the House · Problem Solvers Caucus mem
 ## Top actions
 
 1. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02), Rep. Alma S. Adams (D-NC-12).
+   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Alma S. Adams (D-NC-12), Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02).
 2. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
@@ -30,20 +30,20 @@ Representative for NC-01 · 3.8 years in the House · Problem Solvers Caucus mem
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 3 of your NC colleagues are on it: Valerie P. Foushee, Deborah K. Ross, Alma S. Adams.
+- 3 of your NC colleagues are on it: Alma S. Adams, Valerie P. Foushee, Deborah K. Ross.
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
 - 1 of your NC colleagues is on it: Chuck Edwards.
-- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
 - Your record: cosponsor.
 - [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 12 of your NC colleagues are on it: Tim Moore, Addison P. McDowell, Deborah K. Ross and others.
+- 12 of your NC colleagues are on it: Alma S. Adams, Chuck Edwards, Virginia Foxx and others.
 - Your record: cosponsor.
 
 ## Position on each goal

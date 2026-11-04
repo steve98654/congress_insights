@@ -30,7 +30,7 @@ Representative for MN-02 · 7.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 6 of your MN colleagues are on it: Brad Finstad, Kelly Morrison, Ilhan Omar and others.
+- 6 of your MN colleagues are on it: Michelle Fischbach, Brad Finstad, Betty McCollum and others.
 - Your record: cosponsor.
 
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**

@@ -21,16 +21,16 @@ Representative for CA-23 · 5.8 years in the House
 6. **Press for a markup of H.R. 3289 (Fiscal Commission Act) in Budget, where you sit.** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 7. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   16 of your state colleagues are already cosponsoring: Rep. Lateefah Simon (D-CA-12), Rep. Mike Levin (D-CA-49), Rep. Sara Jacobs (D-CA-51), 13 more.
+   16 of your state colleagues are already cosponsoring: Rep. Nanette Diaz Barragán (D-CA-44), Rep. J. Luis Correa (D-CA-46), Rep. Salud O. Carbajal (D-CA-24), 13 more.
 8. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   24 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Dave Min (D-CA-47), Rep. Doris O. Matsui (D-CA-07), 21 more.
+   24 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Nanette Diaz Barragán (D-CA-44), Rep. Judy Chu (D-CA-28), 21 more.
 
 ## Talking points
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 5 of your CA colleagues are on it: Ted Lieu, Laura Friedman, Jim Costa and others.
+- 5 of your CA colleagues are on it: Jim Costa, Laura Friedman, Adam Gray and others.
 
 **H.R. 222, Sustainable Budget Act: Stabilize the national debt**
 - Sets up a bipartisan panel to draft a plan to balance the budget within 10 years.
@@ -40,7 +40,7 @@ Representative for CA-23 · 5.8 years in the House
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
 - 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 15 of your CA colleagues are on it: Ami Bera, Mike Levin, Young Kim and others.
+- 15 of your CA colleagues are on it: Julia Brownley, Ami Bera, Nanette Diaz Barragán and others.
 
 ## Position on each goal
 

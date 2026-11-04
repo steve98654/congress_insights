@@ -36,7 +36,7 @@ Senator for KS · 5.8 years in the Senate
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
-- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
 - Your record: voted yea.
 - [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
@@ -44,7 +44,7 @@ Senator for KS · 5.8 years in the Senate
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
 - 1 of your KS colleagues is on it: Sharice Davids.
-- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal

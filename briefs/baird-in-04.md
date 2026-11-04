@@ -11,11 +11,11 @@ Representative for IN-04 · 7.8 years in the House
 1. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Jefferson Shreve (R-IN-06), Rep. André Carson (D-IN-07), Rep. Frank J. Mrvan (D-IN-01).
+   3 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Frank J. Mrvan (D-IN-01), Rep. Jefferson Shreve (R-IN-06).
 3. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Victoria Spartz (R-IN-05), Rep. Erin Houchin (R-IN-09), Rep. Rudy Yakym III (R-IN-02).
+   3 of your state colleagues are already cosponsoring: Rep. Erin Houchin (R-IN-09), Rep. Victoria Spartz (R-IN-05), Rep. Rudy Yakym III (R-IN-02).
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Jefferson Shreve (R-IN-06), Rep. André Carson (D-IN-07), Rep. Erin Houchin (R-IN-09), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Erin Houchin (R-IN-09), Rep. Jefferson Shreve (R-IN-06), 1 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
@@ -34,12 +34,12 @@ Representative for IN-04 · 7.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 3 of your IN colleagues are on it: Jefferson Shreve, André Carson, Frank J. Mrvan.
+- 3 of your IN colleagues are on it: André Carson, Frank J. Mrvan, Jefferson Shreve.
 
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
 - Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
 - 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
-- 3 of your IN colleagues are on it: Victoria Spartz, Erin Houchin, Rudy Yakym III.
+- 3 of your IN colleagues are on it: Erin Houchin, Victoria Spartz, Rudy Yakym III.
 
 ## Position on each goal
 
