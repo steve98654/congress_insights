@@ -1,0 +1,77 @@
+---
+import Base from '../../layouts/Base.astro';
+import { billById, formatDate, goalById, insights, memberById, memberUrl, outreach, outreachStages } from '../../lib/data';
+
+const counts = Object.fromEntries(outreachStages.map((s) => [s, outreach.filter((e) => e.stage === s).length]));
+const touched = new Set(outreach.map((e) => e.bioguide));
+// Next calls: the highest-leverage members nobody has contacted yet.
+const next = insights
+  .filter((i) => !touched.has(i.bioguide) && i.actions.length)
+  .sort((a, b) => b.score - a.score)
+  .slice(0, 25);
+const label = (s: string) => s.replace('_', ' ');
+---
+
+<Base title="Outreach · Congress Insights">
+  <section class="hero">
+    <h1>Outreach</h1>
+    <p class="lede">
+      Who we have asked, about what, and where each ask stands. Log a touch in <code>data/outreach.yaml</code> and it shows here, on the
+      member's page, in their brief and in the call sheet.
+    </p>
+  </section>
+
+  <div class="stat-row">
+    {outreachStages.map((s) => (<span><b>{counts[s]}</b> {label(s)}</span>))}
+  </div>
+
+  <h2>Pipeline</h2>
+  {
+    outreach.length ? (
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Date</th><th>Member</th><th>Stage</th><th>Ask</th><th>Owner</th><th>Notes</th></tr></thead>
+          <tbody>
+            {outreach.map((e) => {
+              const m = memberById.get(e.bioguide)!;
+              return (
+                <tr>
+                  <td class="nowrap">{formatDate(e.date)}</td>
+                  <td><a href={memberUrl(m.slug)}>{m.name}</a> <span class={`pill ${m.party}`}>{m.label}</span></td>
+                  <td><span class={`pill outreach-${e.stage}`}>{label(e.stage)}</span></td>
+                  <td class="small">{e.bill ? billById.get(e.bill)?.label : e.goal ? goalById.get(e.goal)?.title : ''}</td>
+                  <td>{e.owner}</td>
+                  <td class="small">{e.notes}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    ) : (
+      <p class="muted">Nothing logged yet. Start with the list below.</p>
+    )
+  }
+
+  <h2>Next calls</h2>
+  <p class="small muted">The 25 highest-leverage members with no outreach logged, with the ask to make.</p>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Member</th><th>Tier</th><th class="num">Score</th><th>Ask</th><th>Phone</th></tr></thead>
+      <tbody>
+        {next.map((i) => {
+          const m = memberById.get(i.bioguide)!;
+          return (
+            <tr>
+              <td><a href={memberUrl(m.slug)}>{m.name}</a> <span class={`pill ${m.party}`}>{m.label}</span></td>
+              <td>{i.tier}</td>
+              <td class="num">{i.score}</td>
+              <td class="small">{i.actions[0].text}</td>
+              <td class="nowrap small">{m.contact.phone}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+</Base>

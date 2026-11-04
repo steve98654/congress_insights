@@ -1,0 +1,23 @@
+# Outreach tracker: who we have asked, about what, and where it stands.
+#
+# Add one entry per ask and update `stage` as it moves. Rebuild with
+#   python scripts/build_insights.py
+# and the site's Outreach page, each member page and actions.csv show the status.
+#
+#   member:  member slug from data/members.json, e.g. fitzpatrick-pa-01 (or a bioguide id)
+#   goal:    goal id from goals/, optional
+#   bill:    bill id such as hr9340, optional
+#   stage:   to_contact | contacted | meeting | committed | done | declined
+#   date:    date of the last touch, YYYY-MM-DD
+#   owner:   who on our side is handling it
+#   notes:   free text
+#
+# Example:
+# - member: fitzpatrick-pa-01
+#   goal: data-center-ratepayers
+#   bill: hr9340
+#   stage: meeting
+#   date: 2026-11-10
+#   owner: Steve
+#   notes: Staff call with the LD; asked for a Dear Colleague to Senate offices.
+entries: []

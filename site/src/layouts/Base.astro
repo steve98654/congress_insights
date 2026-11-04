@@ -13,6 +13,8 @@ const NAV = [
   ['members/', 'Members'],
   ['goals/', 'Goals'],
   ['insights/', 'Insights'],
+  ['changes/', 'What changed'],
+  ['outreach/', 'Outreach'],
 ];
 const here = Astro.url.pathname.replace(import.meta.env.BASE_URL.replace(/\/$/, ''), '') || '/';
 const current = (path: string) => (path ? here.startsWith(`/${path}`) : here === '/');
@@ -51,8 +53,8 @@ const current = (path: string) => (path ? here.startsWith(`/${path}`) : here ===
     </main>
     <footer class="site-footer">
       <div class="wrap">
-        Built {formatDate(generated)} from congress-legislators, govinfo bill status and Problem Solvers Caucus
-        releases. Priorities rank options for each member; they are not predictions of what members will do.
+        Built {formatDate(generated)} from congress-legislators, govinfo bill status and roll calls, Problem Solvers Caucus and No Labels
+        releases, and 2026 election listings. Priorities rank options for each member; they are not predictions of what members will do.
       </div>
     </footer>
   </body>

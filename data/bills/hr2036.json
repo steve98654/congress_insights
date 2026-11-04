@@ -576,11 +576,338 @@
    "party": "D",
    "state": "CA",
    "date": "2026-09-28"
+  },
+  {
+   "bioguide": "M001232",
+   "party": "D",
+   "state": "MD",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "G000559",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "T000481",
+   "party": "D",
+   "state": "MI",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "M001238",
+   "party": "D",
+   "state": "DE",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "H001081",
+   "party": "D",
+   "state": "CT",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "G000604",
+   "party": "D",
+   "state": "NH",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "W000822",
+   "party": "D",
+   "state": "NJ",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "B000490",
+   "party": "D",
+   "state": "GA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "C001091",
+   "party": "D",
+   "state": "TX",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "B001300",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "S001218",
+   "party": "D",
+   "state": "NM",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "T000488",
+   "party": "D",
+   "state": "MI",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "J000305",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "M001208",
+   "party": "D",
+   "state": "GA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "T000468",
+   "party": "D",
+   "state": "NV",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "V000136",
+   "party": "D",
+   "state": "NM",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "C001067",
+   "party": "D",
+   "state": "NY",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "G000583",
+   "party": "D",
+   "state": "NJ",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "S001145",
+   "party": "D",
+   "state": "IL",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "F000110",
+   "party": "D",
+   "state": "LA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "W000830",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "G000581",
+   "party": "D",
+   "state": "TX",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "D000530",
+   "party": "D",
+   "state": "PA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "R000617",
+   "party": "D",
+   "state": "IL",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "L000593",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "S001200",
+   "party": "D",
+   "state": "FL",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "S001221",
+   "party": "D",
+   "state": "MI",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "K000375",
+   "party": "D",
+   "state": "MA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "C001119",
+   "party": "D",
+   "state": "MN",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "R000622",
+   "party": "D",
+   "state": "NY",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "L000590",
+   "party": "D",
+   "state": "NV",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "J000288",
+   "party": "D",
+   "state": "GA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "O000173",
+   "party": "D",
+   "state": "MN",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "S001230",
+   "party": "D",
+   "state": "VA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "P000597",
+   "party": "D",
+   "state": "ME",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "U000040",
+   "party": "D",
+   "state": "IL",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "K000402",
+   "party": "D",
+   "state": "NY",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "S001226",
+   "party": "D",
+   "state": "OR",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "C001072",
+   "party": "D",
+   "state": "IN",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "W000831",
+   "party": "D",
+   "state": "VA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "R000620",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "S001231",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "T000469",
+   "party": "D",
+   "state": "NY",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "L000606",
+   "party": "D",
+   "state": "NY",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "J000298",
+   "party": "D",
+   "state": "WA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "L000562",
+   "party": "D",
+   "state": "MA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "J000310",
+   "party": "D",
+   "state": "TX",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "D000623",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "S001159",
+   "party": "D",
+   "state": "WA",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "B001318",
+   "party": "D",
+   "state": "VT",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "D000230",
+   "party": "D",
+   "state": "NC",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "W000808",
+   "party": "D",
+   "state": "FL",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "C001069",
+   "party": "D",
+   "state": "CT",
+   "date": "2026-10-29"
+  },
+  {
+   "bioguide": "C001063",
+   "party": "D",
+   "state": "TX",
+   "date": "2026-10-29"
   }
  ],
  "cosponsors_complete": true,
+ "summary": null,
+ "cbo": [],
+ "policy_area": "Taxation",
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2036.xml",
- "fetched": "2026-10-29",
+ "fetched": "2026-11-04",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

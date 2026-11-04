@@ -2,7 +2,7 @@
 
 Senator for VA · 13.8 years in the Senate
 
-**Priority tier B** · leverage score 66 (rank 30 of 100 in the Senate) · supports 0 of 4 caucus bills in their chamber
+**Priority tier B** · leverage score 66 (rank 33 of 100 in the Senate) · supports 0 of 5 caucus bills in their chamber
 
 **Committees:** Armed Services; Foreign Relations; Health, Education, Labor, and Pensions; Budget
 
@@ -21,6 +21,29 @@ Senator for VA · 13.8 years in the Senate
 6. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Rick Scott (R-FL).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 40_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 
+## Talking points
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- 6 of your VA colleagues are on it: Ben Cline, H. Morgan Griffith, Jennifer A. Kiggans and others.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
+- Your record: voted nay.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
+
+**S. 1929, SEPSIS Act: Protect access to care**
+- Senate companion to H.R. 7116.
+- 9 members back it: 4 Republicans and 5 Democrats.
+
+**H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
+- Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
+- 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
+- 2 of your VA colleagues are on it: Ben Cline, Eugene Simon Vindman.
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
+- [CBO cost estimate](https://www.cbo.gov/publication/62331)
+
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
@@ -33,14 +56,15 @@ Senator for VA · 13.8 years in the Senate
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 0 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
 ## Cross-party partners
 
 - [Sen. Rick Scott (R-FL)](scott-fl.md): shared committees: Armed Services, Budget, Foreign Relations
-- [Sen. Jim Banks (R-IN)](banks-in.md): shared committees: Armed Services, Health, Education, Labor, and Pensions
 - [Sen. Mike Lee (R-UT)](lee-ut.md): shared committees: Budget, Foreign Relations
+- [Sen. Jim Banks (R-IN)](banks-in.md): shared committees: Armed Services, Health, Education, Labor, and Pensions
 
 ## Sources
 
@@ -48,4 +72,4 @@ Senator for VA · 13.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

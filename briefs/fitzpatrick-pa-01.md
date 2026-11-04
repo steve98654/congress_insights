@@ -25,6 +25,25 @@ Representative for PA-01 · 9.8 years in the House · Problem Solvers Caucus Co-
 8. **Get the 30 PSC members not yet on H.R. 3289 (Fiscal Commission Act) to sign on, starting with Rep. Salud O. Carbajal (D-CA-24), Rep. Jim Costa (D-CA-21), Rep. Angie Craig (D-MN-02), 27 more.** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 65_  
    The caucus endorsed it, so its own members are the easiest cosponsors to add. Other-party members are listed first.
 
+## Talking points
+
+**H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
+- Lets families complete WIC certification and receive benefits remotely.
+- 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
+- 5 of your PA colleagues are on it: Robert P. Bresnahan, Jr., Madeleine Dean, Dwight Evans and others.
+- Your record: sponsor.
+
+**H.J.Res. 4, Filibuster amendment: Protect the Senate filibuster**
+- Proposes a constitutional amendment that debate on legislation in the Senate cannot close without three-fifths of senators.
+- 5 members back it: 2 Republicans and 3 Democrats, including 4 Problem Solvers.
+- Your record: sponsor.
+
+**H.R. 10380, Independent Commissions Act: End partisan gerrymandering**
+- Requires congressional maps to be drawn by independent citizen commissions.
+- 8 members back it: 4 Republicans and 4 Democrats, including 8 Problem Solvers.
+- 1 of your PA colleagues is on it: Ryan Mackenzie.
+- Your record: sponsor.
+
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
@@ -37,6 +56,7 @@ Representative for PA-01 · 9.8 years in the House · Problem Solvers Caucus Co-
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 65 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | cosponsor | 65 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 63 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | sponsor | 90 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | cosponsor, sponsor | 90 |
 
@@ -52,4 +72,4 @@ Representative for PA-01 · 9.8 years in the House · Problem Solvers Caucus Co-
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -42,6 +42,11 @@ def names(members, limit=3):
     return ", ".join(shown) if shown else ""
 
 
+def colleagues(group):
+    """'1 of your state colleagues is' / '3 of your state colleagues are'."""
+    return f"{len(group)} of your state colleagues {'is' if len(group) == 1 else 'are'}"
+
+
 def support_line(bill):
     s = bill["stats"]
     return f"{s['supporters']} sponsors and cosponsors ({s['R']} R, {s['D']} D, {s['psc']} PSC)"
@@ -83,7 +88,7 @@ def house_bill_in_house(ctx, goal, bill, m):
     supporter = m["bioguide"] in bill["supporter_ids"]
     sponsor = m["bioguide"] == bill["sponsor_id"]
     seats = committee_seats(m, codes)
-    delegation = [ctx.members[b] for b in bill["supporter_ids"]
+    delegation = [ctx.members[b] for b in sorted(bill["supporter_ids"])
                   if b in ctx.members and ctx.members[b]["state"] == m["state"] and b != m["bioguide"]]
     psc_bonus = 15 if m["psc"] else 0
 
@@ -159,7 +164,7 @@ def house_bill_in_house(ctx, goal, bill, m):
             out.append(action(goal, bill, 35 + psc_bonus + 5 * min(len(delegation), 2), "cosponsor",
                               f"Cosponsor {label} ({short}) before it reaches the floor.",
                               f"It cleared committee ({bill['committee_vote'] or 'reported'})."
-                              + (f" {len(delegation)} of your state colleagues are on it: {names(delegation)}." if delegation else ""),
+                              + (f" {colleagues(delegation)} on it: {names(delegation)}." if delegation else ""),
                               delegation[:2]))
         return out
     elif stage in ("passed_house", "enacted"):
@@ -181,7 +186,7 @@ def house_bill_in_house(ctx, goal, bill, m):
             out.append(action(goal, bill, base, "cosponsor",
                               f"Cosponsor {label} ({short}).",
                               ("It is PSC-endorsed and you are a caucus member. " if m["psc"] else "")
-                              + (f"{len(delegation)} colleagues from your state already cosponsor: {names(delegation)}." if delegation
+                              + (f"{colleagues(delegation)} already cosponsoring: {names(delegation)}." if delegation
                                  else f"It has {support_line(bill)}."),
                               delegation[:2]))
     if stage == "in_committee" and supporter and not sponsor and not seats and m["psc"]:
@@ -271,7 +276,7 @@ def senate_side(ctx, goal, bill, m):
                                   "You cosponsor it and sit on the committee holding it.", []))
             break
         if not seats and not supporter:
-            delegation = [ctx.members[b] for b in bill["supporter_ids"]
+            delegation = [ctx.members[b] for b in sorted(bill["supporter_ids"])
                           if b in ctx.members and ctx.members[b]["state"] == m["state"]]
             if delegation:
                 out.append(action(goal, bill, 35, "cosponsor",
@@ -353,8 +358,41 @@ def psc_leader_actions(ctx, goal, m):
     return out
 
 
+LAME_DUCK_END = "January 3, 2027"
+LEAVING = {"retiring": "retiring", "seeking_other_office": "running for another office",
+           "lost_primary": "leaving after losing your primary", "lost_general": "leaving after the general election"}
+
+
+def lame_duck_actions(ctx, goal, m):
+    """Departing members have weeks left and no reelection pressure: their bills need a vote or an heir."""
+    out = []
+    election = m.get("election") or {}
+    if not election.get("departing"):
+        return out
+    for bill in goal["resolved_bills"]:
+        if bill["stage"] == "enacted" or m["bioguide"] not in bill["supporter_ids"]:
+            continue
+        heirs = sorted((ctx.members[x] for x in bill["supporter_ids"] if x in ctx.members
+                        and not ctx.members[x].get("election", {}).get("departing")
+                        and ctx.members[x]["chamber"] == m["chamber"]),
+                       key=lambda x: (-bool(x["psc"]), x["caucus"] != m["caucus"], x["last"]))
+        why = (f"You are {LEAVING[election['status']]}, and the 119th Congress ends {LAME_DUCK_END}. "
+               "Bills not enacted by then die and have to be reintroduced.")
+        if m["bioguide"] == bill["sponsor_id"]:
+            out.append(action(goal, bill, 88, "lame_duck",
+                              f"Ask leadership for a lame-duck vote on {bill['label']} ({bill['short']}) as a legacy item, "
+                              f"and name a returning lead sponsor for 2027{': ' + names(heirs, 2) if heirs else ''}.",
+                              why + f" It is {STAGE_TEXT.get(bill['stage'], bill['stage'])} with {support_line(bill)}.",
+                              heirs[:2]))
+        elif bill["stage"] != "in_committee":
+            out.append(action(goal, bill, 55, "lame_duck",
+                              f"Use your remaining weeks to press for a vote on {bill['label']} ({bill['short']}) before {LAME_DUCK_END}.",
+                              why + " Departing members can speak freely on the floor and in conference.", heirs[:1]))
+    return out
+
+
 def actions_for(ctx, goal, m):
-    out = psc_leader_actions(ctx, goal, m)
+    out = psc_leader_actions(ctx, goal, m) + lame_duck_actions(ctx, goal, m)
     bills = {b["id"]: b for b in goal["resolved_bills"]}
     for bill in goal["resolved_bills"]:
         if bill["chamber"] == "house" and m["chamber"] == "house":
@@ -367,6 +405,15 @@ def actions_for(ctx, goal, m):
         elif m["chamber"] == "senate":
             out += senate_side(ctx, goal, bill, m)
     out += goal_without_bills(ctx, goal, m)
+    # A departing backer's lame-duck nudge only matters when nothing more specific applies to that bill.
+    specific = {a["bill"] for a in out if a["kind"] != "lame_duck"}
+    out = [a for a in out if not (a["kind"] == "lame_duck" and a["priority"] < 80 and a["bill"] in specific)]
+    # Long-game moves (new companions, discharge petitions) outlast a departing member's term; hand them off.
+    if (m.get("election") or {}).get("departing"):
+        for a in out:
+            if a["kind"] in ("companion", "discharge", "recruit"):
+                a["priority"] = round(a["priority"] * 0.6)
+                a["why"] += f" You leave office {LAME_DUCK_END}, so line up a returning colleague to carry it in 2027."
     # Keep the strongest action per bill and kind.
     best = {}
     for a in out:

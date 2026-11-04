@@ -2,28 +2,51 @@
 
 Senator for UT · 15.8 years in the Senate
 
-**Priority tier A** · leverage score 55 (rank 70 of 100 in the Senate) · supports 2 of 4 caucus bills in their chamber
+**Priority tier A** · leverage score 73 (rank 6 of 100 in the Senate) · supports 3 of 5 caucus bills in their chamber
 
 **Committees:** Energy and Natural Resources (Chairman); Foreign Relations; Budget; Judiciary
 
 ## Top actions
 
-1. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 65_  
+1. **Mark up S. 5653 (Bipartisan American Affordability and Jobs Act of 2026) in Energy and Natural Resources.** _Speed up permits for energy and infrastructure · [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) · priority 90_  
+   You chair the committee holding it. It has 4 sponsors and cosponsors (2 R, 2 D, 0 PSC).
+2. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 65_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
-2. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Alex Padilla (D-CA).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
+3. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Alex Padilla (D-CA).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
-3. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Alex Padilla (D-CA).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
+4. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Alex Padilla (D-CA).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
-4. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Alex Padilla (D-CA).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 40_  
+5. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Alex Padilla (D-CA).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 40_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
-5. **Introduce a Senate companion to H.R. 2979 (BUILD Act for police and fire facilities) with Sen. Alex Padilla (D-CA).** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 40_  
+6. **Introduce a Senate companion to H.R. 2979 (BUILD Act for police and fire facilities) with Sen. Alex Padilla (D-CA).** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 40_  
    There is no Senate version yet, and you sit on Judiciary (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
-6. **Introduce a Senate companion to H.J.Res. 4 (Filibuster amendment) with Sen. Alex Padilla (D-CA).** _Protect the Senate filibuster · [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) · priority 40_  
+7. **Introduce a Senate companion to H.J.Res. 4 (Filibuster amendment) with Sen. Alex Padilla (D-CA).** _Protect the Senate filibuster · [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) · priority 40_  
    There is no Senate version yet, and you sit on Judiciary (likely committee of jurisdiction). The House bill is in committee with 5 sponsors and cosponsors (2 R, 3 D, 4 PSC).
-7. **Introduce a Senate companion to H.R. 10378 (TRUST Act) with Sen. Alex Padilla (D-CA).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 40_  
+8. **Introduce a Senate companion to H.R. 10378 (TRUST Act) with Sen. Alex Padilla (D-CA).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 40_  
    There is no Senate version yet, and you sit on Judiciary (likely committee of jurisdiction). The House bill is in committee with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
-8. **Introduce a Senate companion to H.R. 10379 (MAPS Act) with Sen. Alex Padilla (D-CA).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 40_  
-   There is no Senate version yet, and you sit on Judiciary (likely committee of jurisdiction). The House bill is in committee with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
+
+## Talking points
+
+**S. 5653, Bipartisan American Affordability and Jobs Act of 2026: Speed up permits for energy and infrastructure**
+- Speeds up federal permits for energy and infrastructure projects.
+- 4 members back it: 2 Republicans and 2 Democrats.
+- Your record: cosponsor.
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
+- Your record: voted yea.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
+
+**H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
+- Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
+- 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
+- 1 of your UT colleagues is on it: Blake D. Moore.
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
+- [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal
 
@@ -37,14 +60,15 @@ Senator for UT · 15.8 years in the Senate
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 0 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 40 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | cosponsor | 90 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 40 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 40 |
 
 ## Cross-party partners
 
 - [Sen. Alex Padilla (D-CA)](padilla-ca.md): shared committees: Budget, Energy and Natural Resources, Judiciary
+- [Sen. Sheldon Whitehouse (D-RI)](whitehouse-ri.md): shared committees: Budget, Judiciary
 - [Sen. Christopher A. Coons (D-DE)](coons-de.md): shared committees: Foreign Relations, Judiciary
-- [Sen. Jeff Merkley (D-OR)](merkley-or.md): shared committees: Budget, Foreign Relations
 
 ## Sources
 
@@ -52,4 +76,4 @@ Senator for UT · 15.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

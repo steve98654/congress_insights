@@ -1,11 +1,14 @@
 # Goal library
 
-One file per legislative goal taken from the House Problem Solvers Caucus (PSC) agenda. Each goal is the
+One file per legislative goal, mostly from the House Problem Solvers Caucus (PSC) agenda, plus bipartisan
+priorities from other groups (`group`). Each goal is the
 "play" that member briefs turn into action items.
 
 Keys:
 
 - `id`, `title`, `area`, `summary`: what the goal is.
+- `group`: who is pushing it. Defaults to `Problem Solvers Caucus`; other goals name their source, such as
+  `No Labels`.
 - `psc_ask`: what the caucus is asking Congress to do, in its own framing.
 - `endorsed`: date the caucus endorsed or introduced it (latest one if several).
 - `sources`: links the goal was built from. Every goal needs at least one.

@@ -23,7 +23,21 @@ Representative for OH-04 · 19.8 years in the House
 7. **Mark up H.R. 3562 or clear S. 1837 for the floor in Judiciary.** _Make AI safe and protect deepfake victims · [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) · priority 92_  
    The Senate already passed it. H.R. 3562 has 70 sponsors and cosponsors (34 R, 36 D, 17 PSC).
 8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. Michael A. Rulli (R-OH-06), Rep. Joyce Beatty (D-OH-03), Rep. Max L. Miller (R-OH-07), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Joyce Beatty (D-OH-03), Rep. Mike Carey (R-OH-15), Rep. Greg Landsman (D-OH-01), 2 more.
+
+## Talking points
+
+**H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
+- DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.
+- 8 members back it: 5 Republicans and 3 Democrats, including 5 Problem Solvers.
+
+**H.J.Res. 4, Filibuster amendment: Protect the Senate filibuster**
+- Proposes a constitutional amendment that debate on legislation in the Senate cannot close without three-fifths of senators.
+- 5 members back it: 2 Republicans and 3 Democrats, including 4 Problem Solvers.
+
+**H.R. 10378, TRUST Act: End partisan gerrymandering**
+- Limits states to one congressional redistricting after each census.
+- 11 members back it: 5 Republicans and 6 Democrats, including 11 Problem Solvers.
 
 ## Position on each goal
 
@@ -37,6 +51,7 @@ Representative for OH-04 · 19.8 years in the House
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 48 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 95 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 92 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 95 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 95 |
 
@@ -52,4 +67,4 @@ Representative for OH-04 · 19.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

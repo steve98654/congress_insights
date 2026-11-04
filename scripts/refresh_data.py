@@ -18,7 +18,7 @@ import xml.etree.ElementTree as ET
 
 import requests
 
-from common import (BILLS, SEED, SOURCES, VOTES, bill_chamber, govinfo_url, load_goals, load_json,
+from common import (BILLS, SEED, SOURCES, VOTES, bill_chamber, govinfo_url, load_goals, load_json, vote_key,
                     write_json)
 
 LEGISLATOR_FILES = [
@@ -75,6 +75,12 @@ def derive_status(texts, bill_id):
     return "in_committee"
 
 
+def strip_html(html):
+    text = re.sub(r"<[^>]+>", " ", html or "")
+    text = text.replace("&amp;", "&").replace("&quot;", '"').replace("&#39;", "'").replace("&lt;", "<").replace("&gt;", ">")
+    return re.sub(r"\s+", " ", text).strip()
+
+
 def _text(el, path, default=""):
     found = el.find(path)
     return (found.text or "").strip() if found is not None and found.text else default
@@ -117,6 +123,14 @@ def parse_billstatus(xml_bytes, bill_id):
             })
     latest = {"date": _text(bill, "latestAction/actionDate"), "text": _text(bill, "latestAction/text")}
     texts = [latest["text"]] + [a["text"] for a in actions]
+    # CRS summaries come oldest first; keep the newest. Their text is HTML.
+    summaries = sorted(bill.findall("summaries/summary"), key=lambda el: _text(el, "updateDate") or _text(el, "actionDate"))
+    summary = None
+    if summaries:
+        el = summaries[-1]
+        summary = {"text": strip_html(_text(el, "text")), "version": _text(el, "actionDesc"), "date": _text(el, "actionDate")}
+    cbo = [{"title": _text(c, "title"), "date": _text(c, "pubDate")[:10], "url": _text(c, "url"),
+            "description": strip_html(_text(c, "description"))} for c in bill.findall("cboCostEstimates/item")]
     return {
         "id": bill_id,
         "title": _text(bill, "title"),
@@ -128,6 +142,9 @@ def parse_billstatus(xml_bytes, bill_id):
         "actions": actions[:40],
         "cosponsors": cosponsors,
         "cosponsors_complete": True,
+        "summary": summary,
+        "cbo": cbo,
+        "policy_area": _text(bill, "policyArea/name"),
         "status": derive_status(texts, bill_id),
         "source_url": govinfo_url(bill_id),
         "fetched": TODAY,
@@ -195,6 +212,14 @@ def parse_senate_vote(xml_bytes, key):
     }
 
 
+def house_date(text):
+    """Clerk dates look like 16-Sep-2026."""
+    try:
+        return datetime.datetime.strptime(text.strip(), "%d-%b-%Y").date().isoformat()
+    except ValueError:
+        return text
+
+
 def parse_house_vote(xml_bytes, key):
     root = ET.fromstring(xml_bytes)
     meta = root.find("vote-metadata")
@@ -212,7 +237,7 @@ def parse_house_vote(xml_bytes, key):
         "key": key,
         "chamber": "house",
         "question": _text(meta, "vote-question"),
-        "date": _text(meta, "action-date"),
+        "date": house_date(_text(meta, "action-date")),
         "result": _text(meta, "vote-result"),
         "members": members,
         "source_url": vote_url(key),
@@ -221,12 +246,15 @@ def parse_house_vote(xml_bytes, key):
 
 
 def goal_vote_keys():
+    """Votes named in goals plus every roll call recorded on a goal bill."""
     keys = []
     for g in load_goals():
         for b in g["bills"]:
-            for k in ("senate_vote", "house_vote"):
-                if b.get(k) and b[k] not in keys:
-                    keys.append(b[k])
+            found = [b.get("senate_vote"), b.get("house_vote")]
+            found += [vote_key(v.get("url")) for v in (load_json(BILLS / f"{b['id']}.json", {}) or {}).get("votes", [])]
+            for k in found:
+                if k and k not in keys:
+                    keys.append(k)
     return keys
 
 

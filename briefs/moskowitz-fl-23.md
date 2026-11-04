@@ -21,22 +21,38 @@ Representative for FL-23 · 3.8 years in the House
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   5 colleagues from your state already cosponsor: Rep. John H. Rutherford (R-FL-05), Rep. Anna Paulina Luna (R-FL-13), Rep. Maria Elvira Salazar (R-FL-27), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Scott Franklin (R-FL-18), Rep. Anna Paulina Luna (R-FL-13), Rep. Cory Mills (R-FL-07), 2 more.
 8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   7 colleagues from your state already cosponsor: Rep. John H. Rutherford (R-FL-05), Rep. Maria Elvira Salazar (R-FL-27), Rep. Debbie Wasserman Schultz (D-FL-25), 4 more.
+   9 of your state colleagues are already cosponsoring: Rep. Gus M. Bilirakis (R-FL-12), Rep. Kat Cammack (R-FL-03), Rep. Kathy Castor (D-FL-14), 6 more.
+
+## Talking points
+
+**H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
+- DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.
+- 8 members back it: 5 Republicans and 3 Democrats, including 5 Problem Solvers.
+
+**H.J.Res. 4, Filibuster amendment: Protect the Senate filibuster**
+- Proposes a constitutional amendment that debate on legislation in the Senate cannot close without three-fifths of senators.
+- 5 members back it: 2 Republicans and 3 Democrats, including 4 Problem Solvers.
+
+**H.R. 10378, TRUST Act: End partisan gerrymandering**
+- Limits states to one congressional redistricting after each census.
+- 11 members back it: 5 Republicans and 6 Democrats, including 11 Problem Solvers.
+- 1 of your FL colleagues is on it: Darren Soto.
 
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 48 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 48 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | cosponsor | 35 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 48 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 68 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 68 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 68 |
 
@@ -52,4 +68,4 @@ Representative for FL-23 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,7 +2,7 @@
 
 Senator for VT · 19.8 years in the Senate · Senate Democratic Outreach Chair
 
-**Priority tier A** · leverage score 72 (rank 6 of 100 in the Senate) · supports 0 of 4 caucus bills in their chamber
+**Priority tier A** · leverage score 72 (rank 10 of 100 in the Senate) · supports 0 of 5 caucus bills in their chamber
 
 **Committees:** Environment and Public Works; Finance; Health, Education, Labor, and Pensions (Ranking Member); Veterans' Affairs; Budget
 
@@ -25,6 +25,25 @@ Senator for VT · 19.8 years in the Senate · Senate Democratic Outreach Chair
 8. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Bill Cassidy (R-LA).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 40_  
    There is no Senate version yet, and you sit on Veterans' Affairs (likely committee of jurisdiction). The House bill is in committee with 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 
+## Talking points
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
+- Your record: voted nay.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
+
+**S. 1929, SEPSIS Act: Protect access to care**
+- Senate companion to H.R. 7116.
+- 9 members back it: 4 Republicans and 5 Democrats.
+
+**S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
+- Senate companion to H.R. 2048.
+- 8 members back it: 4 Republicans and 4 Democrats.
+
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
@@ -37,6 +56,7 @@ Senator for VT · 19.8 years in the Senate · Senate Democratic Outreach Chair
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 72 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 50 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
@@ -52,4 +72,4 @@ Senator for VT · 19.8 years in the Senate · Senate Democratic Outreach Chair
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

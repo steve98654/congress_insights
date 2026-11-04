@@ -1,0 +1,61 @@
+{
+ "id": "s5653",
+ "title": "Bipartisan American Affordability and Jobs Act of 2026",
+ "sponsor": {
+  "bioguide": "C001047",
+  "name": "Sen. Capito, Shelley Moore [R-WV]",
+  "party": "R",
+  "state": "WV"
+ },
+ "introduced": "2026-09-30",
+ "committees": [
+  "SSEG"
+ ],
+ "latest": {
+  "date": "2026-09-30",
+  "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+ },
+ "votes": [],
+ "actions": [
+  {
+   "date": "2026-09-30",
+   "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Introduced in Senate"
+  }
+ ],
+ "cosponsors": [
+  {
+   "bioguide": "L000577",
+   "party": "R",
+   "state": "UT",
+   "date": "2026-09-30"
+  },
+  {
+   "bioguide": "W000802",
+   "party": "D",
+   "state": "RI",
+   "date": "2026-09-30"
+  },
+  {
+   "bioguide": "H001046",
+   "party": "D",
+   "state": "NM",
+   "date": "2026-09-30"
+  }
+ ],
+ "cosponsors_complete": true,
+ "summary": {
+  "text": "Bipartisan American Affordability and Jobs Act of 2026 This bill modifies federal permitting processes, including environmental reviews, to expedite a wide range of projects. The bill limits the scope of the National Environmental Policy Act and expedites environmental reviews, including by&nbsp; further limiting the&nbsp;types of federal actions that trigger environmental review, narrowing the range of alternatives that must be considered in environmental reviews, and exempting additional types of projects from environmental review. It also establishes deadlines&nbsp;for issuing permits once an environmental review is complete. The bill also limits permit obligations under&nbsp;the Clean Water Act, including by narrowing the scope of review for water quality certifications, extending the term for permits issued under the National Pollutant Discharge Elimination System, and limiting the time period for review of permits for discharges of dredged or fill materials. It also modifies requirements concerning threatened or endangered species to expedite the review of federal permits, including by shortening the timeline for certain consultations. Additionally, the bill addresses numerous aspects of energy infrastructure permitting, including by&nbsp; expanding the authority of the Federal Energy Regulatory Commission (FERC) to issue construction permits for certain interstate electricity transmission projects;&nbsp; directing&nbsp;FERC to establish ratepayer protections related to certain large computational loads (e.g. data centers);&nbsp; removing permit requirements for onshore oil and gas drilling on nonfederal land; and accelerating renewable energy, geothermal, hydropower, or offshore energy projects. It also limits the scope of the National Historic Preservation Act, including by limiting what types of projects trigger review.",
+  "version": "Introduced in Senate",
+  "date": "2026-09-30"
+ },
+ "cbo": [],
+ "policy_area": "Environmental Protection",
+ "status": "in_committee",
+ "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5653.xml",
+ "fetched": "2026-11-04",
+ "fetched_via": "govinfo BILLSTATUS XML"
+}

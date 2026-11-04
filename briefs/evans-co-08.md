@@ -15,15 +15,36 @@ Representative for CO-08 · 1.8 years in the House · Problem Solvers Caucus mem
 3. **Work the Senate on H.R. 9340: Sen. Michael F. Bennet (D-CO), Sen. John W. Hickenlooper (D-CO) voted no on cloture.** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 70_  
    It passed the House (417-3), but Cloture on the Motion to Proceed Rejected 57-43 (3/5 required) (Cloture on the motion to proceed to H.R. 9340, 2026-09-30)..
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 colleagues from your state already cosponsor: Rep. Jason Crow (D-CO-06), Rep. Brittany Pettersen (D-CO-07), Rep. Joe Neguse (D-CO-02).
+   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Jason Crow (D-CO-06), Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07).
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 4 colleagues from your state already cosponsor: Rep. Brittany Pettersen (D-CO-07), Rep. Diana DeGette (D-CO-01), Rep. Jason Crow (D-CO-06), 1 more.
+   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Jason Crow (D-CO-06), Rep. Diana DeGette (D-CO-01), Rep. Joe Neguse (D-CO-02), 1 more.
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Press for a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 60_  
    You already cosponsor it, and your committee is where it is stuck.
 8. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 51_  
-   It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Brittany Pettersen (D-CO-07).
+   It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Brittany Pettersen (D-CO-07).
+
+## Talking points
+
+**H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
+- Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
+- 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
+- 1 of your CO colleagues is on it: Brittany Pettersen.
+
+**H.R. 7116, SEPSIS Act: Protect access to care**
+- Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.
+- 8 members back it: 5 Republicans and 3 Democrats, including 6 Problem Solvers.
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- 3 of your CO colleagues are on it: Lauren Boebert, Jeff Crank, Jeff Hurd.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
+- Your record: sponsor.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 ## Position on each goal
 
@@ -37,6 +58,7 @@ Representative for CO-08 · 1.8 years in the House · Problem Solvers Caucus mem
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 73 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 50 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 51 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 45 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 51 |
 
@@ -52,4 +74,4 @@ Representative for CO-08 · 1.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

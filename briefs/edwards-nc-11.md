@@ -1,6 +1,6 @@
 # Rep. Chuck Edwards (R-NC-11)
 
-Representative for NC-11 · 3.8 years in the House
+Representative for NC-11 · 3.8 years in the House · Leaving Congress in January (retiring: Withdrew Aug 5, 2026 after winning the primary)
 
 **Priority tier B** · leverage score 60 (rank 211 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
 
@@ -15,28 +15,46 @@ Representative for NC-11 · 3.8 years in the House
 3. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Alma S. Adams (D-NC-12), Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02).
+   3 of your state colleagues are already cosponsoring: Rep. Alma S. Adams (D-NC-12), Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02).
 5. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Deborah K. Ross (D-NC-02), Rep. Donald G. Davis (D-NC-01).
-8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
-   It cleared committee (committee vote 62-2). 1 of your state colleagues are on it: Rep. David Rouzer (R-NC-07).
+   2 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Deborah K. Ross (D-NC-02).
+8. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
+   2 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Deborah K. Ross (D-NC-02).
+
+## Talking points
+
+**H.R. 222, Sustainable Budget Act: Stabilize the national debt**
+- Sets up a bipartisan panel to draft a plan to balance the budget within 10 years.
+- 8 members back it: 6 Republicans and 2 Democrats, including 5 Problem Solvers.
+
+**H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
+- Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
+- 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
+- 2 of your NC colleagues are on it: Donald G. Davis, David Rouzer.
+- Your record: cosponsor.
+
+**H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
+- Lets families complete WIC certification and receive benefits remotely.
+- 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
+- 3 of your NC colleagues are on it: Alma S. Adams, Valerie P. Foushee, Deborah K. Ross.
 
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 50 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 42 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 48 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | cosponsor | 68 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 45 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 40 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
@@ -52,4 +70,4 @@ Representative for NC-11 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

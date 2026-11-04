@@ -2,7 +2,7 @@
 
 Senator for MO · 3.8 years in the Senate
 
-**Priority tier C** · leverage score 50 (rank 87 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
+**Priority tier C** · leverage score 50 (rank 87 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Economic Committee (Vice Chairman); Armed Services; Commerce, Science, and Transportation; Judiciary
 
@@ -25,6 +25,29 @@ Senator for MO · 3.8 years in the Senate
 8. **Introduce a Senate companion to H.R. 10381 (COURTS Act) with Sen. Amy Klobuchar (D-MN).** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 40_  
    There is no Senate version yet, and you sit on Judiciary (likely committee of jurisdiction). The House bill is in committee with 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 
+## Talking points
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- 1 of your MO colleagues is on it: Robert F. Onder, Jr..
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
+- Your record: voted yea.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
+
+**H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
+- Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
+- 6 members back it: 4 Republicans and 2 Democrats.
+- 1 of your MO colleagues is on it: Sam Graves.
+- CBO published a cost estimate on 2026-09-30 (as ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026).
+- [CBO cost estimate](https://www.cbo.gov/publication/62817)
+
+**H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
+- DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.
+- 8 members back it: 5 Republicans and 3 Democrats, including 5 Problem Solvers.
+
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
@@ -37,6 +60,7 @@ Senator for MO · 3.8 years in the Senate
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 0 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 50 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 40 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 40 |
 
@@ -52,4 +76,4 @@ Senator for MO · 3.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

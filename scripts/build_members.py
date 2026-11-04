@@ -26,12 +26,26 @@ def district_key(state, district):
     return f"{state}-{int(district or 0):02d}"
 
 
+DEPARTING = {"retiring", "seeking_other_office", "lost_primary", "lost_general"}
+
+
+def election_entry(e, term, as_of):
+    """2026 cycle status: who is leaving, so lame-duck asks can be framed around legacy."""
+    up = term["end"][:4] == "2027"
+    status = e["status"] if e else ("up_for_reelection" if up else "not_up")
+    return {"status": status, "detail": (e or {}).get("detail", ""), "departing": status in DEPARTING,
+            "up_in_2026": up, "source": (e or {}).get("source"), "as_of": as_of}
+
+
 def main():
     legislators = load_yaml(SOURCES / "legislators-current.yaml")
     committees = load_yaml(SOURCES / "committees-current.yaml")
     membership = load_yaml(SOURCES / "committee-membership-current.yaml")
     social = {s["id"]["bioguide"]: s.get("social", {}) for s in load_yaml(SOURCES / "legislators-social-media.yaml")}
     roster = load_yaml(DATA / "psc_roster.yaml")
+    elections_file = SOURCES / "elections.yaml"
+    elections = load_yaml(elections_file) if elections_file.exists() else {"members": []}
+    election_by_bio = {e["bioguide"]: e for e in elections.get("members", [])}
 
     committee_names, parent_of = {}, {}
     for c in committees:
@@ -121,6 +135,7 @@ def main():
             "leadership": leadership,
             "floor_leader": any(r in FLOOR_LEADERSHIP for r in leadership),
             "psc": psc.get(bio),
+            "election": election_entry(election_by_bio.get(bio), t, elections.get("as_of")),
             "committees": sorted(full, key=lambda c: c["name"]),
             "subcommittees": sorted(subs, key=lambda c: c["name"]),
             "ids": {"lis": p["id"].get("lis"), "govtrack": p["id"].get("govtrack"),

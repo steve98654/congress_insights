@@ -326,8 +326,11 @@
   }
  ],
  "cosponsors_complete": true,
+ "summary": null,
+ "cbo": [],
+ "policy_area": "Energy",
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3876.xml",
- "fetched": "2026-10-29",
+ "fetched": "2026-11-04",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

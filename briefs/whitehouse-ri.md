@@ -2,7 +2,7 @@
 
 Senator for RI · 19.8 years in the Senate
 
-**Priority tier A** · leverage score 70 (rank 14 of 100 in the Senate) · supports 0 of 4 caucus bills in their chamber
+**Priority tier A** · leverage score 70 (rank 17 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Commission on Security and Cooperation in Europe; Environment and Public Works (Ranking Member); Finance; Budget; Judiciary; United States Senate Caucus on International Narcotics Control (Chairman)
 
@@ -19,11 +19,32 @@ Senator for RI · 19.8 years in the Senate
 5. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Chuck Grassley (R-IA).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
 6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Chuck Grassley (R-IA).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 7. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Chuck Grassley (R-IA).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
 8. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Chuck Grassley (R-IA).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 40_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
+
+## Talking points
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).
+- Your record: voted nay.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
+
+**H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
+- Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
+- 6 members back it: 4 Republicans and 2 Democrats.
+- CBO published a cost estimate on 2026-09-30 (as ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026).
+- [CBO cost estimate](https://www.cbo.gov/publication/62817)
+
+**S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
+- Senate companion to H.R. 2048.
+- 8 members back it: 4 Republicans and 4 Democrats.
 
 ## Position on each goal
 
@@ -37,6 +58,7 @@ Senator for RI · 19.8 years in the Senate
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 65 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | cosponsor | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 40 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 40 |
 
@@ -52,4 +74,4 @@ Senator for RI · 19.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

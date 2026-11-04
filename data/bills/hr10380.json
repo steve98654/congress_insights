@@ -75,8 +75,11 @@
   }
  ],
  "cosponsors_complete": true,
+ "summary": null,
+ "cbo": [],
+ "policy_area": "Government Operations and Politics",
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10380.xml",
- "fetched": "2026-10-29",
+ "fetched": "2026-11-04",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

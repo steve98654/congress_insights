@@ -21,10 +21,10 @@ const committees = (codes: string[]) => codes.map(committeeByCode).join(', ');
 
 <Base title={`${g.title} · Congress Insights`}>
   <section class="hero">
-    <div class="small muted">{g.area} · endorsed {formatDate(g.endorsed)}</div>
+    <div class="small muted">{g.area} · {g.group} · endorsed {formatDate(g.endorsed)}</div>
     <h1>{g.title}</h1>
     <p class="lede">{g.summary}</p>
-    <p><b>What the caucus is asking:</b> {g.psc_ask}</p>
+    <p><b>{g.group === 'Problem Solvers Caucus' ? 'What the caucus is asking' : `What ${g.group} is asking`}:</b> {g.psc_ask}</p>
   </section>
 
   <div class="two">
@@ -50,11 +50,22 @@ const committees = (codes: string[]) => codes.map(committeeByCode).join(', ');
                 {b.house_committees.length > 0 && (<><dt>House</dt><dd>{committees(b.house_committees)}</dd></>)}
                 {b.senate_committees.length > 0 && (<><dt>Senate</dt><dd>{committees(b.senate_committees)}{b.senate_committees_inferred && ' (likely)'}</dd></>)}
                 {b.committee_vote && (<><dt>Committee</dt><dd>{b.committee_vote}</dd></>)}
-                {b.house_vote && (<><dt>House vote</dt><dd>{b.house_vote}</dd></>)}
+                {b.house_vote && (<><dt>House vote</dt><dd>{b.house_result || b.house_vote}</dd></>)}
                 {b.senate_result && (<><dt>Senate</dt><dd>{b.senate_result}</dd></>)}
                 {b.latest?.text && (<><dt>Latest</dt><dd>{formatDate(b.latest.date)}: {b.latest.text}</dd></>)}
               </dl>
               {b.status_note && <p class="small">{b.status_note}</p>}
+              {b.summary && (
+                <details class="small">
+                  <summary>CRS summary ({b.summary.version}, {formatDate(b.summary.date)})</summary>
+                  <p>{b.summary.text}</p>
+                </details>
+              )}
+              {b.cbo?.length > 0 && (
+                <ul class="plain small">
+                  {b.cbo.map((c) => (<li><a href={c.url}>CBO: {c.title}</a> ({formatDate(c.date)}){c.description && <div class="muted">{c.description}</div>}</li>))}
+                </ul>
+              )}
             </div>
           );
         })

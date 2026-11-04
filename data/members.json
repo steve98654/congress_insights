@@ -21,6 +21,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -155,6 +163,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -282,6 +298,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JCSE",
@@ -443,6 +467,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of Alabama",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -569,6 +601,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JCSE",
@@ -750,6 +790,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSEC",
@@ -855,6 +903,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JCSE",
@@ -974,6 +1030,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSEC",
@@ -1086,6 +1150,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSLC",
@@ -1238,6 +1310,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -1365,6 +1445,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -1464,6 +1552,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSCM",
@@ -1591,6 +1687,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -1726,6 +1830,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -1854,6 +1966,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSBK",
@@ -2002,6 +2122,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -2171,6 +2299,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSEC",
@@ -2322,6 +2458,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -2448,6 +2592,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -2540,6 +2692,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -2667,6 +2827,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -2800,7 +2968,7 @@
   "title": "Sen.",
   "voting": true,
   "first_served": "2012-12-27",
-  "years_in_chamber": 13.8,
+  "years_in_chamber": 13.9,
   "term_end": "2029-01-03",
   "senate_class": 3,
   "leadership": [
@@ -2808,6 +2976,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -2969,6 +3145,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Announced Sep 2, 2025",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -3092,6 +3276,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSTX",
@@ -3210,6 +3402,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSTX",
@@ -3343,6 +3543,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSEG",
@@ -3495,6 +3703,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -3624,6 +3840,14 @@
   ],
   "floor_leader": true,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Announced Apr 23, 2025",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -3745,6 +3969,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -3871,6 +4103,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSCM",
@@ -3984,6 +4224,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -4097,6 +4345,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -4251,6 +4507,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Announced Feb 20, 2025",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSLC",
@@ -4387,6 +4651,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSFR",
@@ -4516,6 +4788,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Finished third in the Louisiana primary",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSEG",
@@ -4645,6 +4925,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -4800,6 +5088,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSCM",
@@ -4922,6 +5218,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -5076,6 +5380,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSBK",
@@ -5188,6 +5500,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -5329,6 +5649,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -5484,6 +5812,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -5590,6 +5926,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Announced Jan 28, 2025",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -5762,6 +6106,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -5877,6 +6229,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSLC",
@@ -6042,6 +6402,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Announced Feb 13, 2025",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -6169,6 +6537,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSHR",
@@ -6289,6 +6665,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSEC",
@@ -6437,6 +6821,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSLC",
@@ -6584,6 +6976,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JCSE",
@@ -6759,6 +7159,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Announced Mar 4, 2026",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSEG",
@@ -6886,6 +7294,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -6984,6 +7400,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSEC",
@@ -7102,6 +7526,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Announced Jun 29, 2025",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JCSE",
@@ -7242,6 +7674,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -7376,6 +7816,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -7518,6 +7966,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSLC",
@@ -7705,6 +8161,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSBK",
@@ -7832,6 +8296,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSEC",
@@ -7951,6 +8423,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Announced Mar 12, 2025",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JCSE",
@@ -8148,6 +8628,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -8283,6 +8771,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSBK",
@@ -8423,6 +8919,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSEC",
@@ -8554,6 +9058,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -8695,6 +9207,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSBK",
@@ -8822,6 +9342,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -8949,6 +9477,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -9071,6 +9607,14 @@
   ],
   "floor_leader": true,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSRA",
@@ -9121,6 +9665,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -9273,6 +9825,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSBK",
@@ -9404,6 +9964,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Appointed interim senator; not running for the seat",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSHR",
@@ -9470,6 +10038,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSFI",
@@ -9570,6 +10146,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSPR",
@@ -9731,6 +10315,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSTX",
@@ -9870,6 +10462,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JCSE",
@@ -9975,6 +10575,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSEC",
@@ -10101,6 +10709,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -10285,6 +10901,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JCSE",
@@ -10443,6 +11067,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [],
   "subcommittees": [],
   "ids": {
@@ -10481,6 +11113,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSBK",
@@ -10627,6 +11267,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JCSE",
@@ -10789,6 +11437,14 @@
   ],
   "floor_leader": true,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -10922,6 +11578,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSEC",
@@ -11062,6 +11726,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSPR",
@@ -11217,6 +11889,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost the Republican runoff to Ken Paxton",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSTX",
@@ -11370,6 +12050,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSCM",
@@ -11532,6 +12220,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSCM",
@@ -11659,6 +12355,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSEG",
@@ -11805,6 +12509,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAS",
@@ -11927,6 +12639,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSBK",
@@ -12041,6 +12761,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSEV",
@@ -12177,6 +12905,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -12304,6 +13040,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSTX",
@@ -12435,6 +13179,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -12605,6 +13357,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -12747,6 +13507,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSFI",
@@ -12849,6 +13617,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAP",
@@ -13015,6 +13791,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSAF",
@@ -13113,7 +13897,7 @@
   "title": "Sen.",
   "voting": true,
   "first_served": "2007-06-25",
-  "years_in_chamber": 19.3,
+  "years_in_chamber": 19.4,
   "term_end": "2031-01-03",
   "senate_class": 1,
   "leadership": [
@@ -13121,6 +13905,14 @@
   ],
   "floor_leader": true,
   "psc": null,
+  "election": {
+   "status": "not_up",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": false,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSEG",
@@ -13249,6 +14041,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Announced Dec 19, 2025",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "SSBK",
@@ -13370,6 +14170,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -13483,6 +14291,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -13576,6 +14392,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -13661,6 +14485,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -13705,6 +14537,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -13771,6 +14611,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -13858,6 +14706,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -13944,6 +14800,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHA",
@@ -14030,6 +14894,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -14109,6 +14981,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -14174,6 +15054,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -14240,6 +15128,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -14312,6 +15208,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -14410,6 +15314,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of Arizona",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -14476,6 +15388,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -14554,6 +15474,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -14640,6 +15568,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -14725,6 +15661,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of Arizona",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -14804,6 +15748,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -14890,6 +15842,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -14968,6 +15928,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -15053,6 +16021,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -15132,6 +16108,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -15187,6 +16171,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -15259,6 +16251,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -15344,6 +16344,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -15403,6 +16411,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -15488,6 +16504,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -15561,12 +16585,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2005-03-10",
-  "years_in_chamber": 21.6,
+  "years_in_chamber": 21.7,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -15626,6 +16658,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -15719,6 +16759,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -15777,6 +16825,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -15877,6 +16933,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [],
   "subcommittees": [],
   "ids": {
@@ -15913,6 +16977,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -15998,6 +17070,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -16076,6 +17156,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [],
   "subcommittees": [],
   "ids": {
@@ -16112,6 +17200,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -16177,6 +17273,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -16242,6 +17346,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -16328,6 +17440,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSY",
@@ -16400,6 +17520,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -16457,6 +17585,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -16555,6 +17691,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -16627,6 +17771,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -16719,6 +17871,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -16804,6 +17964,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -16896,6 +18064,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -16961,6 +18137,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -17053,6 +18237,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -17131,6 +18323,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -17202,6 +18402,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -17280,6 +18488,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSY",
@@ -17365,6 +18581,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -17444,6 +18668,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -17533,6 +18765,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -17591,6 +18831,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -17670,6 +18918,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -17744,6 +19000,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -17801,6 +19065,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -17880,6 +19152,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -17939,6 +19219,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -18011,6 +19299,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -18096,6 +19392,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -18155,6 +19459,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -18220,6 +19532,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -18264,6 +19584,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -18329,6 +19657,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -18408,6 +19744,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -18487,6 +19831,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -18564,6 +19916,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -18663,6 +20023,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -18721,6 +20089,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -18792,6 +20168,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -18871,6 +20255,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -18936,6 +20328,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost renomination to Melat Kiros",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -19004,6 +20404,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -19096,6 +20504,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -19202,6 +20618,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -19288,6 +20712,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -19373,6 +20805,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -19452,6 +20892,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -19510,6 +20958,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -19595,6 +21051,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost renomination to Luke Bronin",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -19654,6 +21118,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -19733,6 +21205,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -19786,6 +21266,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -19836,6 +21324,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -19915,6 +21411,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Delegate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -20001,6 +21505,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -20072,6 +21584,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSM",
@@ -20164,6 +21684,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -20236,6 +21764,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -20314,6 +21850,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -20379,6 +21923,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -20444,6 +21996,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -20529,6 +22089,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost renomination to Ryan Elijah",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -20615,6 +22183,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -20694,6 +22270,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -20772,6 +22356,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -20858,6 +22450,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -20964,6 +22564,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -21036,6 +22644,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -21128,6 +22744,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -21200,6 +22824,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -21300,6 +22932,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -21365,6 +23005,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -21450,6 +23098,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -21530,6 +23186,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of Florida",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -21608,6 +23272,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -21680,6 +23352,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -21739,6 +23419,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -21824,6 +23512,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -21910,6 +23606,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -21982,6 +23686,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -22042,6 +23754,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -22128,6 +23848,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -22213,6 +23941,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Ran for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -22284,6 +24020,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -22350,6 +24094,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -22449,6 +24201,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSPW",
@@ -22542,6 +24302,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -22600,6 +24368,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -22672,6 +24448,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -22764,6 +24548,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -22892,6 +24684,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -22956,6 +24756,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -23048,6 +24856,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -23127,6 +24943,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -23207,6 +25031,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [],
   "subcommittees": [],
   "ids": {
@@ -23237,12 +25069,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2026-04-14",
-  "years_in_chamber": 0.5,
+  "years_in_chamber": 0.6,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSM",
@@ -23307,6 +25147,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -23405,6 +25253,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -23463,6 +25319,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -23548,6 +25412,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -23627,6 +25499,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -23704,6 +25584,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -23796,6 +25684,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of Iowa",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -23881,6 +25777,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -23967,6 +25871,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -24033,6 +25945,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -24111,6 +26031,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Ran for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -24176,6 +26104,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -24256,6 +26192,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSPW",
@@ -24341,6 +26285,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -24427,6 +26379,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -24498,6 +26458,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -24557,6 +26525,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Ran for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -24636,6 +26612,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -24695,6 +26679,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -24760,12 +26752,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2008-03-08",
-  "years_in_chamber": 18.6,
+  "years_in_chamber": 18.7,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -24838,6 +26838,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -24923,6 +26931,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -25002,6 +27018,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -25060,6 +27084,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -25171,6 +27203,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -25265,6 +27305,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -25343,6 +27391,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -25401,6 +27457,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -25466,6 +27530,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -25530,6 +27602,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -25643,6 +27723,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "JSEC",
@@ -25686,6 +27774,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -25751,6 +27847,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSPW",
@@ -25822,6 +27926,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -25927,6 +28039,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -26011,6 +28131,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -26104,6 +28232,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -26216,6 +28352,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -26295,6 +28439,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -26366,6 +28518,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -26431,6 +28591,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -26475,6 +28643,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSM",
@@ -26560,6 +28736,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost renomination to Ed Gallrein",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSPW",
@@ -26645,6 +28829,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -26711,6 +28903,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -26791,6 +28991,14 @@
   ],
   "floor_leader": true,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [],
   "subcommittees": [],
   "ids": {
@@ -26827,6 +29035,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -26912,6 +29128,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -26999,6 +29223,14 @@
   ],
   "floor_leader": true,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [],
   "subcommittees": [],
   "ids": {
@@ -27029,12 +29261,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2021-04-14",
-  "years_in_chamber": 5.5,
+  "years_in_chamber": 5.6,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -27107,6 +29347,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for Louisiana State Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -27172,6 +29420,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -27222,6 +29478,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -27287,6 +29551,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -27352,6 +29624,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -27419,6 +29699,14 @@
   ],
   "floor_leader": true,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [],
   "subcommittees": [],
   "ids": {
@@ -27455,6 +29743,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Ran for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -27540,6 +29836,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -27604,6 +29908,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -27690,6 +30002,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -27769,6 +30089,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -27828,6 +30156,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -27906,6 +30242,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -27984,6 +30328,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -28048,6 +30400,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -28114,6 +30474,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -28185,6 +30553,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -28264,6 +30640,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSJU",
@@ -28308,6 +30692,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -28380,6 +30772,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -28465,6 +30865,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -28550,6 +30958,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -28622,6 +31038,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSM",
@@ -28715,6 +31139,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -28794,6 +31226,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -28859,6 +31299,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -28944,6 +31392,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSPW",
@@ -29030,6 +31486,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -29110,6 +31574,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -29188,6 +31660,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of Michigan",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -29253,6 +31733,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Ran for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -29331,6 +31819,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -29395,6 +31891,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost renomination to Donavan McKinney",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -29460,6 +31964,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -29573,6 +32085,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Ran for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -29617,6 +32137,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSM",
@@ -29696,6 +32224,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -29755,6 +32291,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -29822,6 +32366,14 @@
   ],
   "floor_leader": true,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -29874,6 +32426,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSRU",
@@ -29946,6 +32506,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -30045,6 +32613,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -30129,6 +32705,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -30209,6 +32793,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -30321,6 +32913,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -30415,6 +33015,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -30474,6 +33082,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -30532,6 +33148,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -30625,6 +33249,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -30676,6 +33308,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSM",
@@ -30781,6 +33421,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -30880,6 +33528,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -30924,6 +33580,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -31010,6 +33674,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -31090,6 +33762,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -31175,6 +33855,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -31260,6 +33948,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -31346,6 +34042,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSO",
@@ -31431,6 +34135,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHA",
@@ -31521,6 +34233,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSY",
@@ -31600,6 +34320,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -31671,6 +34399,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -31762,6 +34498,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -31869,6 +34613,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -31974,6 +34726,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -32026,6 +34786,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -32111,6 +34879,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "Withdrew Aug 5, 2026 after winning the primary",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -32176,6 +34952,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -32255,6 +35039,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSO",
@@ -32366,6 +35158,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -32438,6 +35238,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -32503,6 +35311,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -32562,6 +35378,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "National Security Working Group Co-Chair",
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -32641,6 +35465,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -32706,6 +35538,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSPW",
@@ -32792,6 +35632,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -32883,6 +35731,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "National Security Working Group Co-Chair",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -32969,6 +35825,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSPW",
@@ -33055,6 +35919,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -33133,6 +36005,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -33192,6 +36072,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -33278,6 +36166,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -33322,6 +36218,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -33407,6 +36311,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -33472,6 +36384,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -33550,6 +36470,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -33637,6 +36565,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -33694,6 +36630,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -33758,6 +36702,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -33830,6 +36782,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -33908,6 +36868,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -33981,6 +36949,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -34074,6 +37050,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -34160,6 +37144,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -34238,6 +37230,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -34296,6 +37296,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -34382,6 +37390,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSO",
@@ -34461,6 +37477,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Co-Chair",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -34525,6 +37549,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSY",
@@ -34610,6 +37642,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -34675,6 +37715,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -34734,6 +37782,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -34801,6 +37857,14 @@
   ],
   "floor_leader": true,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [],
   "subcommittees": [],
   "ids": {
@@ -34837,6 +37901,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -34903,6 +37975,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost renomination to Brad Lander",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -34974,6 +38054,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -35038,6 +38126,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSPW",
@@ -35117,6 +38213,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost renomination to Darializa Avila Chevalier",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -35176,6 +38280,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -35241,6 +38353,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -35312,6 +38432,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -35390,6 +38518,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -35469,6 +38605,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -35554,6 +38698,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -35625,6 +38777,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -35697,6 +38857,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -35795,6 +38963,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -35873,6 +39049,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -35958,6 +39142,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSY",
@@ -36049,6 +39241,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -36133,6 +39333,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -36212,6 +39420,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -36277,6 +39493,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -36362,6 +39586,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -36421,6 +39653,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -36471,6 +39711,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -36537,6 +39785,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -36622,6 +39878,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -36700,6 +39964,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -36786,6 +40058,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -36858,6 +40138,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -36929,6 +40217,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -37001,12 +40297,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2018-09-05",
-  "years_in_chamber": 8.1,
+  "years_in_chamber": 8.2,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -37073,6 +40377,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSY",
@@ -37152,6 +40464,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -37238,6 +40558,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHA",
@@ -37323,6 +40651,14 @@
   ],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -37381,6 +40717,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -37446,6 +40790,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -37532,6 +40884,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -37576,6 +40936,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -37656,6 +41024,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -37735,6 +41111,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -37820,6 +41204,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -37899,6 +41291,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -37985,6 +41385,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -38043,6 +41451,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -38122,6 +41538,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Co-Chair",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -38201,6 +41625,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -38266,6 +41698,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -38324,6 +41764,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -38395,6 +41843,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSRU",
@@ -38468,6 +41924,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -38548,6 +42012,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -38654,6 +42126,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -38759,6 +42239,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -38838,6 +42326,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -38957,6 +42453,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -39034,6 +42538,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -39112,6 +42624,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -39178,6 +42698,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -39243,6 +42771,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -39308,6 +42844,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -39367,6 +42911,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -39445,6 +42997,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -39523,6 +43083,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -39601,6 +43169,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -39680,6 +43256,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of South Carolina",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -39793,6 +43377,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -39891,6 +43483,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -39989,6 +43589,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -40069,12 +43677,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2017-06-26",
-  "years_in_chamber": 9.3,
+  "years_in_chamber": 9.4,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Ran for statewide office",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -40152,6 +43768,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -40218,6 +43842,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -40303,6 +43935,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of South Dakota",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -40395,6 +44035,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -40461,6 +44109,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -40567,6 +44223,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -40646,6 +44310,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -40725,6 +44397,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost renomination to Charlie Hatcher",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -40818,6 +44498,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of Tennessee",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -40911,6 +44599,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -40982,6 +44678,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -41040,6 +44744,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSJU",
@@ -41125,6 +44837,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSO",
@@ -41202,6 +44922,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost renomination to Steve Toth",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -41289,6 +45017,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -41381,6 +45117,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -41473,6 +45217,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -41552,12 +45304,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2021-07-30",
-  "years_in_chamber": 5.2,
+  "years_in_chamber": 5.3,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -41645,6 +45405,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -41710,6 +45478,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -41809,6 +45585,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost to fellow incumbent Christian Menefee after redistricting",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -41888,6 +45672,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -41953,6 +45745,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -42032,6 +45832,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -42097,6 +45905,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -42224,6 +46040,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -42304,6 +46128,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -42384,6 +46216,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -42448,6 +46288,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -42521,12 +46369,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2026-02-02",
-  "years_in_chamber": 0.7,
+  "years_in_chamber": 0.8,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -42591,6 +46447,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -42662,6 +46526,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -42749,6 +46621,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for Texas attorney general",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSRU",
@@ -42827,6 +46707,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSPW",
@@ -42919,6 +46807,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSM",
@@ -43012,6 +46908,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -43077,6 +46981,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -43175,6 +47087,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -43261,6 +47181,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -43327,6 +47255,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSO",
@@ -43391,6 +47327,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Ran for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSGO",
@@ -43469,6 +47413,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -43535,6 +47487,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "lost_primary",
+   "detail": "Lost renomination to Colin Allred",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -43632,6 +47592,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -43697,6 +47665,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -43755,6 +47731,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -43841,6 +47825,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSY",
@@ -43906,6 +47898,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -43984,6 +47984,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Ran for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -44062,6 +48070,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -44127,12 +48143,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2023-11-21",
-  "years_in_chamber": 2.9,
+  "years_in_chamber": 3.0,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -44219,6 +48243,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -44325,6 +48357,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -44418,6 +48458,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -44504,6 +48552,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -44610,6 +48666,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -44654,12 +48718,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2023-03-07",
-  "years_in_chamber": 3.6,
+  "years_in_chamber": 3.7,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -44718,6 +48790,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -44803,6 +48883,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -44907,6 +48995,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -44985,6 +49081,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -45049,6 +49153,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -45140,6 +49252,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSSO",
@@ -45232,6 +49352,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSHM",
@@ -45310,6 +49438,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of the Virgin Islands",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -45394,6 +49530,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBU",
@@ -45458,6 +49602,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -45523,6 +49675,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSPW",
@@ -45567,6 +49727,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -45625,6 +49793,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "retiring",
+   "detail": "",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -45717,6 +49893,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -45815,6 +49999,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -45893,6 +50085,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSFA",
@@ -45978,6 +50178,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSIF",
@@ -46043,6 +50251,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -46087,6 +50303,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAS",
@@ -46165,6 +50389,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": "Member",
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -46245,6 +50477,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -46309,6 +50549,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -46409,6 +50657,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -46480,6 +50736,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSBA",
@@ -46559,6 +50823,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSED",
@@ -46651,12 +50923,20 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2020-05-19",
-  "years_in_chamber": 6.4,
+  "years_in_chamber": 6.5,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for governor of Wisconsin",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",
@@ -46736,6 +51016,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAG",
@@ -46856,6 +51144,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSWM",
@@ -46914,6 +51210,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "up_for_reelection",
+   "detail": "",
+   "departing": false,
+   "up_in_2026": true,
+   "source": null,
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSAP",
@@ -46980,6 +51284,14 @@
   "leadership": [],
   "floor_leader": false,
   "psc": null,
+  "election": {
+   "status": "seeking_other_office",
+   "detail": "Running for U.S. Senate",
+   "departing": true,
+   "up_in_2026": true,
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "as_of": "2026-11-04"
+  },
   "committees": [
    {
     "code": "HSII",

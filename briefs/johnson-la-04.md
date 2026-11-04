@@ -15,13 +15,32 @@ Representative for LA-04 · 9.8 years in the House · Speaker of the House
 4. **Bring S. 1837 (DEFIANCE Act), already passed by the Senate, to the House floor.** _Make AI safe and protect deepfake victims · [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) · priority 90_  
    Passing the Senate text sends it straight to the President. The House version H.R. 3562 has 70 sponsors and cosponsors (34 R, 36 D, 17 PSC).
 5. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Cleo Fields (D-LA-06), Rep. Troy A. Carter (D-LA-02), Rep. Julia Letlow (R-LA-05).
+   It cleared committee (committee vote 42-0). 3 of your state colleagues are on it: Rep. Troy A. Carter (D-LA-02), Rep. Cleo Fields (D-LA-06), Rep. Julia Letlow (R-LA-05).
 6. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Cleo Fields (D-LA-06), Rep. Troy A. Carter (D-LA-02).
+   2 of your state colleagues are already cosponsoring: Rep. Troy A. Carter (D-LA-02), Rep. Cleo Fields (D-LA-06).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
    It cleared committee (committee vote 62-2).
+
+## Talking points
+
+**H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
+- Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
+- 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
+- [CBO cost estimate](https://www.cbo.gov/publication/62331)
+
+**H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
+- Modernizes Medicare Advantage prior authorization so seniors are not delayed.
+- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 3 of your LA colleagues are on it: Troy A. Carter, Cleo Fields, Julia Letlow.
+
+**H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
+- Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
+- 6 members back it: 4 Republicans and 2 Democrats.
+- CBO published a cost estimate on 2026-09-30 (as ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026).
+- [CBO cost estimate](https://www.cbo.gov/publication/62817)
 
 ## Position on each goal
 
@@ -35,13 +54,14 @@ Representative for LA-04 · 9.8 years in the House · Speaker of the House
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 95 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 95 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 90 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
 ## Cross-party partners
 
-- [Rep. Troy A. Carter (D-LA-02)](carter-la-02.md): same state
 - [Rep. Cleo Fields (D-LA-06)](fields-la-06.md): same state
+- [Rep. Troy A. Carter (D-LA-02)](carter-la-02.md): same state
 - [Rep. Thomas R. Suozzi (D-NY-03)](suozzi-ny-03.md): PSC member
 
 ## Sources
@@ -50,4 +70,4 @@ Representative for LA-04 · 9.8 years in the House · Speaker of the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
