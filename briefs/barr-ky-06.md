@@ -1,8 +1,8 @@
 # Rep. Andy Barr (R-KY-06)
 
-Representative for KY-06 · 13.8 years in the House
+Representative for KY-06 · 13.8 years in the House · Leaving Congress in January (seeking other office: Running for U.S. Senate)
 
-**Priority tier B** · leverage score 56 (rank 283 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 282 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; Foreign Affairs; Strategic Competition Between the United States and the Chinese Communist Party
 
@@ -17,6 +17,23 @@ Representative for KY-06 · 13.8 years in the House
 4. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
    It cleared committee (committee vote 62-2).
 
+## Talking points
+
+**H.R. 3694, VALID Act: Lower housing and home energy costs**
+- Improves veterans' access to and understanding of VA home loans.
+- 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
+
+**H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
+- Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
+- 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
+- Your record: cosponsor.
+
+**H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
+- Modernizes Medicare Advantage prior authorization so seniors are not delayed.
+- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 1 of your KY colleagues is on it: Morgan McGarvey.
+- Your record: cosponsor.
+
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
@@ -29,14 +46,15 @@ Representative for KY-06 · 13.8 years in the House
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 45 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 35 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
 ## Cross-party partners
 
 - [Rep. Thomas R. Suozzi (D-NY-03)](suozzi-ny-03.md): shared committees: Strategic Competition Between the United States and the Chinese Communist Party; PSC member
-- [Rep. Ritchie Torres (D-NY-15)](torres-ny-15.md): shared committees: Financial Services, Strategic Competition Between the United States and the Chinese Communist Party
 - [Rep. Josh Gottheimer (D-NJ-05)](gottheimer-nj-05.md): shared committees: Financial Services; PSC member
+- [Rep. Ritchie Torres (D-NY-15)](torres-ny-15.md): shared committees: Financial Services, Strategic Competition Between the United States and the Chinese Communist Party
 
 ## Sources
 
@@ -44,4 +62,6 @@ Representative for KY-06 · 13.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

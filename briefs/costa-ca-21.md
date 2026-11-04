@@ -9,21 +9,38 @@ Representative for CA-21 · 21.8 years in the House · Problem Solvers Caucus me
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 8 colleagues from your state already cosponsor: Rep. Josh Harder (D-CA-09), Rep. Norma J. Torres (D-CA-35), Rep. Salud O. Carbajal (D-CA-24), 5 more.
+   It is PSC-endorsed and you are a caucus member. 16 of your state colleagues are already cosponsoring: Rep. John Garamendi (D-CA-08), Rep. Mike Levin (D-CA-49), Rep. Josh Harder (D-CA-09), 13 more.
 2. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 24 colleagues from your state already cosponsor: Rep. Mark DeSaulnier (D-CA-10), Rep. Mike Levin (D-CA-49), Rep. Josh Harder (D-CA-09), 21 more.
+   It is PSC-endorsed and you are a caucus member. 24 of your state colleagues are already cosponsoring: Rep. Judy Chu (D-CA-28), Rep. Doris O. Matsui (D-CA-07), Rep. Mike Levin (D-CA-49), 21 more.
 3. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 colleagues from your state already cosponsor: Rep. Jay Obernolte (R-CA-23), Rep. Scott H. Peters (D-CA-50), Rep. Jimmy Panetta (D-CA-19), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Jay Obernolte (R-CA-23), Rep. Scott H. Peters (D-CA-50), Rep. Mike Thompson (D-CA-04), 3 more.
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 55_  
-   It cleared committee (committee vote 39-1). 1 of your state colleagues are on it: Rep. Scott H. Peters (D-CA-50).
+   It cleared committee (committee vote 39-1). 1 of your state colleagues is on it: Rep. Scott H. Peters (D-CA-50).
 6. **Cosponsor H.R. 222 (Sustainable Budget Act).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 51_  
-   It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Scott H. Peters (D-CA-50).
+   It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Scott H. Peters (D-CA-50).
 7. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities).** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 51_  
-   It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Jimmy Panetta (D-CA-19).
+   It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Jimmy Panetta (D-CA-19).
 8. **Cosponsor H.J.Res. 4 (Filibuster amendment).** _Protect the Senate filibuster · [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) · priority 51_  
-   It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Adam Gray (D-CA-13).
+   It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Adam Gray (D-CA-13).
+
+## Talking points
+
+**H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
+- A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
+- 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
+- 16 of your CA colleagues are on it: John Garamendi, Mike Levin, Josh Harder and others.
+
+**H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
+- Lets families complete WIC certification and receive benefits remotely.
+- 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
+- 24 of your CA colleagues are on it: Judy Chu, Doris O. Matsui, Mike Levin and others.
+
+**H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
+- Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
+- 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
+- 6 of your CA colleagues are on it: Jay Obernolte, Scott H. Peters, Mike Thompson and others.
 
 ## Position on each goal
 
@@ -37,6 +54,7 @@ Representative for CA-21 · 21.8 years in the House · Problem Solvers Caucus me
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 51 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 51 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 51 |
 
@@ -52,4 +70,6 @@ Representative for CA-21 · 21.8 years in the House · Problem Solvers Caucus me
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

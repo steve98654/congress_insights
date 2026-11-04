@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29",
+ "generated": "2026-11-04",
  "whip": [
   {
    "goal": "data-center-ratepayers",
@@ -30,9 +30,22 @@
      "label": "D-NH",
      "party": "D",
      "psc": false,
-     "score": 3,
+     "score": 5,
      "reasons": [
-      "home-state colleague Margaret Wood Hassan voted yes"
+      "home-state colleague Margaret Wood Hassan voted yes",
+      "leaving office in January, so free of reelection pressure"
+     ]
+    },
+    {
+     "slug": "smith-mn",
+     "name": "Tina Smith",
+     "label": "D-MN",
+     "party": "D",
+     "psc": false,
+     "score": 5,
+     "reasons": [
+      "home-state colleague Amy Klobuchar voted yes",
+      "leaving office in January, so free of reelection pressure"
      ]
     },
     {
@@ -59,6 +72,18 @@
      ]
     },
     {
+     "slug": "durbin-il",
+     "name": "Richard J. Durbin",
+     "label": "D-IL",
+     "party": "D",
+     "psc": false,
+     "score": 3,
+     "reasons": [
+      "backs 1 other caucus bill",
+      "leaving office in January, so free of reelection pressure"
+     ]
+    },
+    {
      "slug": "baldwin-wi",
      "name": "Tammy Baldwin",
      "label": "D-WI",
@@ -67,17 +92,6 @@
      "score": 3,
      "reasons": [
       "home-state colleague Ron Johnson voted yes"
-     ]
-    },
-    {
-     "slug": "smith-mn",
-     "name": "Tina Smith",
-     "label": "D-MN",
-     "party": "D",
-     "psc": false,
-     "score": 3,
-     "reasons": [
-      "home-state colleague Amy Klobuchar voted yes"
      ]
     },
     {
@@ -122,6 +136,17 @@
      "score": 2,
      "reasons": [
       "backs 2 other caucus bills"
+     ]
+    },
+    {
+     "slug": "peters-mi",
+     "name": "Gary C. Peters",
+     "label": "D-MI",
+     "party": "D",
+     "psc": false,
+     "score": 2,
+     "reasons": [
+      "leaving office in January, so free of reelection pressure"
      ]
     },
     {
@@ -246,17 +271,6 @@
      ]
     },
     {
-     "slug": "durbin-il",
-     "name": "Richard J. Durbin",
-     "label": "D-IL",
-     "party": "D",
-     "psc": false,
-     "score": 1,
-     "reasons": [
-      "backs 1 other caucus bill"
-     ]
-    },
-    {
      "slug": "schiff-ca",
      "name": "Adam B. Schiff",
      "label": "D-CA",
@@ -332,15 +346,6 @@
      "slug": "warren-ma",
      "name": "Elizabeth Warren",
      "label": "D-MA",
-     "party": "D",
-     "psc": false,
-     "score": 0,
-     "reasons": []
-    },
-    {
-     "slug": "peters-mi",
-     "name": "Gary C. Peters",
-     "label": "D-MI",
      "party": "D",
      "psc": false,
      "score": 0,
@@ -459,7 +464,7 @@
    "to_majority": 0,
    "to_suspension": 0,
    "bipartisan": true,
-   "days_since_intro": 527,
+   "days_since_intro": 533,
    "discharge_ready": false,
    "complete": true
   },
@@ -473,7 +478,21 @@
    "to_majority": 0,
    "to_suspension": 26,
    "bipartisan": true,
-   "days_since_intro": 597,
+   "days_since_intro": 603,
+   "discharge_ready": true,
+   "complete": true
+  },
+  {
+   "goal": "family-costs",
+   "bill": "hr2036",
+   "label": "H.R. 2036",
+   "short": "Credit for Caring Act",
+   "stage": "in_committee",
+   "supporters": 143,
+   "to_majority": 75,
+   "to_suspension": 147,
+   "bipartisan": true,
+   "days_since_intro": 603,
    "discharge_ready": true,
    "complete": true
   },
@@ -487,7 +506,7 @@
    "to_majority": 94,
    "to_suspension": 166,
    "bipartisan": true,
-   "days_since_intro": 414,
+   "days_since_intro": 420,
    "discharge_ready": true,
    "complete": true
   },
@@ -501,21 +520,7 @@
    "to_majority": 125,
    "to_suspension": 197,
    "bipartisan": true,
-   "days_since_intro": 513,
-   "discharge_ready": true,
-   "complete": true
-  },
-  {
-   "goal": "family-costs",
-   "bill": "hr2036",
-   "label": "H.R. 2036",
-   "short": "Credit for Caring Act",
-   "stage": "in_committee",
-   "supporters": 89,
-   "to_majority": 129,
-   "to_suspension": 201,
-   "bipartisan": true,
-   "days_since_intro": 597,
+   "days_since_intro": 519,
    "discharge_ready": true,
    "complete": true
   },
@@ -529,7 +534,7 @@
    "to_majority": 138,
    "to_suspension": 210,
    "bipartisan": true,
-   "days_since_intro": 615,
+   "days_since_intro": 621,
    "discharge_ready": true,
    "complete": true
   },
@@ -543,7 +548,7 @@
    "to_majority": 149,
    "to_suspension": 221,
    "bipartisan": true,
-   "days_since_intro": 526,
+   "days_since_intro": 532,
    "discharge_ready": true,
    "complete": true
   },
@@ -557,7 +562,7 @@
    "to_majority": 170,
    "to_suspension": 242,
    "bipartisan": true,
-   "days_since_intro": 506,
+   "days_since_intro": 512,
    "discharge_ready": true,
    "complete": true
   },
@@ -571,7 +576,7 @@
    "to_majority": 175,
    "to_suspension": 247,
    "bipartisan": true,
-   "days_since_intro": 133,
+   "days_since_intro": 139,
    "discharge_ready": false,
    "complete": true
   },
@@ -585,7 +590,7 @@
    "to_majority": 175,
    "to_suspension": 247,
    "bipartisan": true,
-   "days_since_intro": 539,
+   "days_since_intro": 545,
    "discharge_ready": true,
    "complete": true
   },
@@ -599,7 +604,7 @@
    "to_majority": 195,
    "to_suspension": 267,
    "bipartisan": true,
-   "days_since_intro": 463,
+   "days_since_intro": 469,
    "discharge_ready": false,
    "complete": true
   },
@@ -613,7 +618,7 @@
    "to_majority": 207,
    "to_suspension": 279,
    "bipartisan": true,
-   "days_since_intro": 44,
+   "days_since_intro": 50,
    "discharge_ready": false,
    "complete": true
   },
@@ -627,7 +632,7 @@
    "to_majority": 207,
    "to_suspension": 279,
    "bipartisan": true,
-   "days_since_intro": 44,
+   "days_since_intro": 50,
    "discharge_ready": false,
    "complete": true
   },
@@ -641,7 +646,7 @@
    "to_majority": 210,
    "to_suspension": 282,
    "bipartisan": true,
-   "days_since_intro": 660,
+   "days_since_intro": 666,
    "discharge_ready": true,
    "complete": true
   },
@@ -655,7 +660,7 @@
    "to_majority": 210,
    "to_suspension": 282,
    "bipartisan": true,
-   "days_since_intro": 556,
+   "days_since_intro": 562,
    "discharge_ready": true,
    "complete": true
   },
@@ -669,7 +674,7 @@
    "to_majority": 210,
    "to_suspension": 282,
    "bipartisan": true,
-   "days_since_intro": 44,
+   "days_since_intro": 50,
    "discharge_ready": false,
    "complete": true
   },
@@ -683,7 +688,7 @@
    "to_majority": 211,
    "to_suspension": 283,
    "bipartisan": true,
-   "days_since_intro": 287,
+   "days_since_intro": 293,
    "discharge_ready": true,
    "complete": true
   },
@@ -697,7 +702,7 @@
    "to_majority": 212,
    "to_suspension": 284,
    "bipartisan": false,
-   "days_since_intro": 44,
+   "days_since_intro": 50,
    "discharge_ready": false,
    "complete": true
   },
@@ -711,7 +716,7 @@
    "to_majority": 213,
    "to_suspension": 285,
    "bipartisan": true,
-   "days_since_intro": 163,
+   "days_since_intro": 169,
    "discharge_ready": false,
    "complete": true
   },
@@ -725,7 +730,7 @@
    "to_majority": 213,
    "to_suspension": 285,
    "bipartisan": true,
-   "days_since_intro": 664,
+   "days_since_intro": 670,
    "discharge_ready": true,
    "complete": true
   }
@@ -747,6 +752,7 @@
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -768,6 +774,7 @@
     "health-access": 3,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -826,6 +833,7 @@
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -870,6 +878,7 @@
     "health-access": 1,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -899,6 +908,7 @@
     "health-access": 4,
     "infrastructure": 0,
     "online-safety-ai": 2,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1009,11 +1019,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 1,
     "energy-housing-costs": 17,
-    "family-costs": 27,
+    "family-costs": 30,
     "fiscal-stability": 6,
     "health-access": 46,
     "infrastructure": 1,
     "online-safety-ai": 6,
+    "permitting-reform": 0,
     "protect-filibuster": 1,
     "redistricting-reform": 1
    },
@@ -1101,6 +1112,7 @@
     "health-access": 6,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 1
    },
@@ -1154,11 +1166,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 2,
-    "family-costs": 1,
+    "family-costs": 2,
     "fiscal-stability": 0,
     "health-access": 6,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1196,6 +1209,7 @@
     "health-access": 1,
     "infrastructure": 1,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1212,11 +1226,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 1,
-    "family-costs": 0,
+    "family-costs": 1,
     "fiscal-stability": 0,
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1248,11 +1263,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 2,
     "energy-housing-costs": 5,
-    "family-costs": 8,
+    "family-costs": 9,
     "fiscal-stability": 2,
     "health-access": 23,
     "infrastructure": 1,
     "online-safety-ai": 7,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 1
    },
@@ -1320,34 +1336,28 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 3,
     "energy-housing-costs": 2,
-    "family-costs": 5,
+    "family-costs": 6,
     "fiscal-stability": 2,
     "health-access": 8,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
    "closest_bill": {
-    "bill": "hr3514",
-    "label": "H.R. 3514",
-    "short": "Improving Seniors' Timely Access to Care Act",
+    "bill": "hr2036",
+    "label": "H.R. 2036",
+    "short": "Credit for Caring Act",
     "share": 0.43,
     "on": 6,
     "of": 14,
     "missing": [
      {
-      "slug": "jack-ga-03",
-      "name": "Brian Jack",
-      "label": "R-GA-03",
+      "slug": "carter-ga-01",
+      "name": "Earl L. \"Buddy\" Carter",
+      "label": "R-GA-01",
       "party": "R",
-      "psc": false
-     },
-     {
-      "slug": "johnson-ga-04",
-      "name": "Henry C. \"Hank\" Johnson, Jr.",
-      "label": "D-GA-04",
-      "party": "D",
       "psc": false
      },
      {
@@ -1358,9 +1368,9 @@
       "psc": false
      },
      {
-      "slug": "scott-ga-08",
-      "name": "Austin Scott",
-      "label": "R-GA-08",
+      "slug": "mccormick-ga-07",
+      "name": "Richard McCormick",
+      "label": "R-GA-07",
       "party": "R",
       "psc": false
      },
@@ -1375,6 +1385,13 @@
       "slug": "collins-ga-10",
       "name": "Mike Collins",
       "label": "R-GA-10",
+      "party": "R",
+      "psc": false
+     },
+     {
+      "slug": "loudermilk-ga-11",
+      "name": "Barry Loudermilk",
+      "label": "R-GA-11",
       "party": "R",
       "psc": false
      }
@@ -1405,6 +1422,7 @@
     "health-access": 1,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1434,6 +1452,7 @@
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 1
    },
@@ -1471,6 +1490,7 @@
     "health-access": 4,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1515,6 +1535,7 @@
     "health-access": 1,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1547,11 +1568,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 10,
-    "family-costs": 4,
+    "family-costs": 6,
     "fiscal-stability": 2,
     "health-access": 14,
     "infrastructure": 0,
     "online-safety-ai": 2,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1610,6 +1632,7 @@
     "health-access": 8,
     "infrastructure": 0,
     "online-safety-ai": 2,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1661,6 +1684,7 @@
     "health-access": 5,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1698,6 +1722,7 @@
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1751,11 +1776,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 1,
-    "family-costs": 1,
+    "family-costs": 2,
     "fiscal-stability": 0,
     "health-access": 3,
     "infrastructure": 1,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1802,11 +1828,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 5,
-    "family-costs": 4,
+    "family-costs": 5,
     "fiscal-stability": 0,
     "health-access": 7,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1846,11 +1873,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 2,
-    "family-costs": 1,
+    "family-costs": 2,
     "fiscal-stability": 0,
     "health-access": 8,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -1898,28 +1926,29 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 0,
-    "family-costs": 0,
+    "family-costs": 1,
     "fiscal-stability": 1,
     "health-access": 3,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 1,
     "redistricting-reform": 0
    },
    "closest_bill": {
-    "bill": "hr3289",
-    "label": "H.R. 3289",
-    "short": "Fiscal Commission Act",
+    "bill": "hr2036",
+    "label": "H.R. 2036",
+    "short": "Credit for Caring Act",
     "share": 0.5,
     "on": 1,
     "of": 2,
     "missing": [
      {
-      "slug": "pingree-me-01",
-      "name": "Chellie Pingree",
-      "label": "D-ME-01",
+      "slug": "golden-me-02",
+      "name": "Jared F. Golden",
+      "label": "D-ME-02",
       "party": "D",
-      "psc": false
+      "psc": true
      }
     ]
    }
@@ -1957,11 +1986,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 4,
     "energy-housing-costs": 4,
-    "family-costs": 3,
+    "family-costs": 5,
     "fiscal-stability": 5,
     "health-access": 12,
     "infrastructure": 0,
     "online-safety-ai": 2,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 1
    },
@@ -2009,11 +2039,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 1,
     "energy-housing-costs": 3,
-    "family-costs": 3,
+    "family-costs": 5,
     "fiscal-stability": 1,
     "health-access": 8,
     "infrastructure": 0,
     "online-safety-ai": 2,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2051,6 +2082,7 @@
     "health-access": 6,
     "infrastructure": 1,
     "online-safety-ai": 2,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2095,6 +2127,7 @@
     "health-access": 0,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2116,6 +2149,7 @@
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2160,6 +2194,7 @@
     "health-access": 1,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2200,11 +2235,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 3,
-    "family-costs": 3,
+    "family-costs": 4,
     "fiscal-stability": 3,
     "health-access": 13,
     "infrastructure": 1,
     "online-safety-ai": 4,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2242,6 +2278,7 @@
     "health-access": 1,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2271,6 +2308,7 @@
     "health-access": 3,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2311,11 +2349,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 1,
     "energy-housing-costs": 2,
-    "family-costs": 1,
+    "family-costs": 2,
     "fiscal-stability": 0,
     "health-access": 2,
     "infrastructure": 2,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2370,11 +2409,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 4,
     "energy-housing-costs": 3,
-    "family-costs": 6,
+    "family-costs": 8,
     "fiscal-stability": 1,
     "health-access": 12,
     "infrastructure": 1,
     "online-safety-ai": 4,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 1
    },
@@ -2421,29 +2461,23 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 0,
-    "family-costs": 1,
+    "family-costs": 2,
     "fiscal-stability": 0,
     "health-access": 3,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
    "closest_bill": {
-    "bill": "hr1464",
-    "label": "H.R. 1464",
-    "short": "MODERN WIC Act",
-    "share": 0.33,
-    "on": 1,
+    "bill": "hr2036",
+    "label": "H.R. 2036",
+    "short": "Credit for Caring Act",
+    "share": 0.67,
+    "on": 2,
     "of": 3,
     "missing": [
-     {
-      "slug": "stansbury-nm-01",
-      "name": "Melanie A. Stansbury",
-      "label": "D-NM-01",
-      "party": "D",
-      "psc": false
-     },
      {
       "slug": "leger-fernandez-nm-03",
       "name": "Teresa Leger Fernandez",
@@ -2480,11 +2514,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 2,
-    "family-costs": 2,
+    "family-costs": 4,
     "fiscal-stability": 0,
     "health-access": 4,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2546,11 +2581,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 1,
     "energy-housing-costs": 7,
-    "family-costs": 12,
+    "family-costs": 16,
     "fiscal-stability": 3,
     "health-access": 27,
     "infrastructure": 0,
     "online-safety-ai": 10,
+    "permitting-reform": 0,
     "protect-filibuster": 2,
     "redistricting-reform": 3
    },
@@ -2617,6 +2653,7 @@
     "health-access": 13,
     "infrastructure": 1,
     "online-safety-ai": 5,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2668,6 +2705,7 @@
     "health-access": 3,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2707,11 +2745,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 0,
     "energy-housing-costs": 2,
-    "family-costs": 2,
+    "family-costs": 3,
     "fiscal-stability": 0,
     "health-access": 7,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2773,11 +2812,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 3,
     "energy-housing-costs": 4,
-    "family-costs": 9,
+    "family-costs": 10,
     "fiscal-stability": 3,
     "health-access": 15,
     "infrastructure": 1,
     "online-safety-ai": 5,
+    "permitting-reform": 0,
     "protect-filibuster": 1,
     "redistricting-reform": 2
    },
@@ -2829,6 +2869,7 @@
     "health-access": 1,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2850,6 +2891,7 @@
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2887,6 +2929,7 @@
     "health-access": 6,
     "infrastructure": 0,
     "online-safety-ai": 2,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2931,6 +2974,7 @@
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2952,6 +2996,7 @@
     "health-access": 6,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3013,11 +3058,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 6,
     "energy-housing-costs": 8,
-    "family-costs": 4,
+    "family-costs": 7,
     "fiscal-stability": 2,
     "health-access": 26,
     "infrastructure": 0,
     "online-safety-ai": 4,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3098,6 +3144,7 @@
     "health-access": 3,
     "infrastructure": 0,
     "online-safety-ai": 2,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3138,11 +3185,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 6,
     "energy-housing-costs": 6,
-    "family-costs": 2,
+    "family-costs": 4,
     "fiscal-stability": 3,
     "health-access": 11,
     "infrastructure": 1,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3187,6 +3235,7 @@
     "health-access": 1,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3208,6 +3257,7 @@
     "health-access": 1,
     "infrastructure": 0,
     "online-safety-ai": 2,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3232,11 +3282,12 @@
     "appropriations-on-time": 0,
     "data-center-ratepayers": 1,
     "energy-housing-costs": 7,
-    "family-costs": 6,
+    "family-costs": 8,
     "fiscal-stability": 1,
     "health-access": 10,
     "infrastructure": 1,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3282,6 +3333,7 @@
     "health-access": 6,
     "infrastructure": 1,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3326,6 +3378,7 @@
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 1,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3363,6 +3416,7 @@
     "health-access": 0,
     "infrastructure": 0,
     "online-safety-ai": 0,
+    "permitting-reform": 0,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3370,6 +3424,70 @@
   }
  ],
  "committees": [
+  {
+   "code": "HSWM",
+   "name": "Ways and Means",
+   "chamber": "house",
+   "size": 45,
+   "chair": {
+    "slug": "smith-mo-08",
+    "name": "Jason Smith",
+    "label": "R-MO-08",
+    "party": "R",
+    "psc": false
+   },
+   "ranking": {
+    "slug": "neal-ma-01",
+    "name": "Richard E. Neal",
+    "label": "D-MA-01",
+    "party": "D",
+    "psc": false
+   },
+   "bills": [
+    {
+     "goal": "health-access",
+     "bill": "hr3514",
+     "label": "H.R. 3514",
+     "short": "Improving Seniors' Timely Access to Care Act",
+     "stage": "reported",
+     "supporters": 309,
+     "committee_supporters": 39,
+     "committee_share": 0.87
+    },
+    {
+     "goal": "health-access",
+     "bill": "hr2048",
+     "label": "H.R. 2048",
+     "short": "Metastatic Breast Cancer Access to Care Act",
+     "stage": "in_committee",
+     "supporters": 272,
+     "committee_supporters": 32,
+     "committee_share": 0.71
+    },
+    {
+     "goal": "family-costs",
+     "bill": "hr2036",
+     "label": "H.R. 2036",
+     "short": "Credit for Caring Act",
+     "stage": "in_committee",
+     "supporters": 146,
+     "committee_supporters": 14,
+     "committee_share": 0.31
+    },
+    {
+     "goal": "health-access",
+     "bill": "hr5269",
+     "label": "H.R. 5269",
+     "short": "RESULTS Act",
+     "stage": "in_committee",
+     "supporters": 126,
+     "committee_supporters": 24,
+     "committee_share": 0.53
+    }
+   ],
+   "waiting": 3,
+   "bottleneck": 8.44
+  },
   {
    "code": "HSJU",
    "name": "Judiciary",
@@ -3463,70 +3581,6 @@
    ],
    "waiting": 7,
    "bottleneck": 8.19
-  },
-  {
-   "code": "HSWM",
-   "name": "Ways and Means",
-   "chamber": "house",
-   "size": 45,
-   "chair": {
-    "slug": "smith-mo-08",
-    "name": "Jason Smith",
-    "label": "R-MO-08",
-    "party": "R",
-    "psc": false
-   },
-   "ranking": {
-    "slug": "neal-ma-01",
-    "name": "Richard E. Neal",
-    "label": "D-MA-01",
-    "party": "D",
-    "psc": false
-   },
-   "bills": [
-    {
-     "goal": "health-access",
-     "bill": "hr3514",
-     "label": "H.R. 3514",
-     "short": "Improving Seniors' Timely Access to Care Act",
-     "stage": "reported",
-     "supporters": 309,
-     "committee_supporters": 39,
-     "committee_share": 0.87
-    },
-    {
-     "goal": "health-access",
-     "bill": "hr2048",
-     "label": "H.R. 2048",
-     "short": "Metastatic Breast Cancer Access to Care Act",
-     "stage": "in_committee",
-     "supporters": 272,
-     "committee_supporters": 32,
-     "committee_share": 0.71
-    },
-    {
-     "goal": "health-access",
-     "bill": "hr5269",
-     "label": "H.R. 5269",
-     "short": "RESULTS Act",
-     "stage": "in_committee",
-     "supporters": 126,
-     "committee_supporters": 24,
-     "committee_share": 0.53
-    },
-    {
-     "goal": "family-costs",
-     "bill": "hr2036",
-     "label": "H.R. 2036",
-     "short": "Credit for Caring Act",
-     "stage": "in_committee",
-     "supporters": 92,
-     "committee_supporters": 14,
-     "committee_share": 0.31
-    }
-   ],
-   "waiting": 3,
-   "bottleneck": 7.9
   },
   {
    "code": "HSIF",
@@ -3905,6 +3959,40 @@
    "bottleneck": 1.08
   },
   {
+   "code": "SSEG",
+   "name": "Energy and Natural Resources",
+   "chamber": "senate",
+   "size": 20,
+   "chair": {
+    "slug": "lee-ut",
+    "name": "Mike Lee",
+    "label": "R-UT",
+    "party": "R",
+    "psc": false
+   },
+   "ranking": {
+    "slug": "heinrich-nm",
+    "name": "Martin Heinrich",
+    "label": "D-NM",
+    "party": "D",
+    "psc": false
+   },
+   "bills": [
+    {
+     "goal": "permitting-reform",
+     "bill": "s5653",
+     "label": "S. 5653",
+     "short": "Bipartisan American Affordability and Jobs Act of 2026",
+     "stage": "in_committee",
+     "supporters": 0,
+     "committee_supporters": 0,
+     "committee_share": 0.0
+    }
+   ],
+   "waiting": 1,
+   "bottleneck": 1.0
+  },
+  {
    "code": "HSGO",
    "name": "Oversight and Government Reform",
    "chamber": "house",
@@ -4005,6 +4093,15 @@
     "total": 8
    },
    {
+    "slug": "davis-nc-01",
+    "name": "Donald G. Davis",
+    "label": "D-NC-01",
+    "party": "D",
+    "psc": true,
+    "cross_party": 6,
+    "total": 8
+   },
+   {
     "slug": "vindman-va-07",
     "name": "Eugene Simon Vindman",
     "label": "D-VA-07",
@@ -4021,6 +4118,24 @@
     "psc": true,
     "cross_party": 6,
     "total": 7
+   },
+   {
+    "slug": "cuellar-tx-28",
+    "name": "Henry Cuellar",
+    "label": "D-TX-28",
+    "party": "D",
+    "psc": true,
+    "cross_party": 6,
+    "total": 6
+   },
+   {
+    "slug": "bishop-ga-02",
+    "name": "Sanford D. Bishop, Jr.",
+    "label": "D-GA-02",
+    "party": "D",
+    "psc": false,
+    "cross_party": 6,
+    "total": 6
    },
    {
     "slug": "davids-ks-03",
@@ -4059,6 +4174,15 @@
     "total": 8
    },
    {
+    "slug": "gottheimer-nj-05",
+    "name": "Josh Gottheimer",
+    "label": "D-NJ-05",
+    "party": "D",
+    "psc": true,
+    "cross_party": 5,
+    "total": 8
+   },
+   {
     "slug": "ross-nc-02",
     "name": "Deborah K. Ross",
     "label": "D-NC-02",
@@ -4068,11 +4192,11 @@
     "total": 7
    },
    {
-    "slug": "davis-nc-01",
-    "name": "Donald G. Davis",
-    "label": "D-NC-01",
+    "slug": "thanedar-mi-13",
+    "name": "Shri Thanedar",
+    "label": "D-MI-13",
     "party": "D",
-    "psc": true,
+    "psc": false,
     "cross_party": 5,
     "total": 7
    },
@@ -4084,6 +4208,15 @@
     "psc": false,
     "cross_party": 5,
     "total": 7
+   },
+   {
+    "slug": "soto-fl-09",
+    "name": "Darren Soto",
+    "label": "D-FL-09",
+    "party": "D",
+    "psc": true,
+    "cross_party": 5,
+    "total": 6
    },
    {
     "slug": "bynum-or-05",
@@ -4104,6 +4237,15 @@
     "total": 6
    },
    {
+    "slug": "tonko-ny-20",
+    "name": "Paul Tonko",
+    "label": "D-NY-20",
+    "party": "D",
+    "psc": false,
+    "cross_party": 5,
+    "total": 6
+   },
+   {
     "slug": "cohen-tn-09",
     "name": "Steve Cohen",
     "label": "D-TN-09",
@@ -4118,15 +4260,6 @@
     "label": "D-PA-06",
     "party": "D",
     "psc": false,
-    "cross_party": 5,
-    "total": 5
-   },
-   {
-    "slug": "cuellar-tx-28",
-    "name": "Henry Cuellar",
-    "label": "D-TX-28",
-    "party": "D",
-    "psc": true,
     "cross_party": 5,
     "total": 5
    },
@@ -4167,6 +4300,15 @@
     "total": 5
    },
    {
+    "slug": "levin-ca-49",
+    "name": "Mike Levin",
+    "label": "D-CA-49",
+    "party": "D",
+    "psc": false,
+    "cross_party": 5,
+    "total": 5
+   },
+   {
     "slug": "thompson-ca-04",
     "name": "Mike Thompson",
     "label": "D-CA-04",
@@ -4176,9 +4318,9 @@
     "total": 5
    },
    {
-    "slug": "bishop-ga-02",
-    "name": "Sanford D. Bishop, Jr.",
-    "label": "D-GA-02",
+    "slug": "barragan-ca-44",
+    "name": "Nanette Diaz Barragán",
+    "label": "D-CA-44",
     "party": "D",
     "psc": false,
     "cross_party": 5,
@@ -4212,94 +4354,40 @@
     "total": 7
    },
    {
-    "slug": "gottheimer-nj-05",
-    "name": "Josh Gottheimer",
-    "label": "D-NJ-05",
+    "slug": "goodlander-nh-02",
+    "name": "Maggie Goodlander",
+    "label": "D-NH-02",
     "party": "D",
-    "psc": true,
+    "psc": false,
     "cross_party": 4,
     "total": 7
    },
    {
-    "slug": "harder-ca-09",
-    "name": "Josh Harder",
-    "label": "D-CA-09",
+    "slug": "mcbride-de-00",
+    "name": "Sarah McBride",
+    "label": "D-DE-00",
     "party": "D",
-    "psc": true,
+    "psc": false,
     "cross_party": 4,
-    "total": 6
+    "total": 7
    },
    {
-    "slug": "thanedar-mi-13",
-    "name": "Shri Thanedar",
-    "label": "D-MI-13",
+    "slug": "carson-in-07",
+    "name": "André Carson",
+    "label": "D-IN-07",
     "party": "D",
     "psc": false,
     "cross_party": 4,
     "total": 6
    },
    {
-    "slug": "horsford-nv-04",
-    "name": "Steven Horsford",
-    "label": "D-NV-04",
+    "slug": "craig-mn-02",
+    "name": "Angie Craig",
+    "label": "D-MN-02",
     "party": "D",
     "psc": true,
     "cross_party": 4,
     "total": 6
-   },
-   {
-    "slug": "bera-ca-06",
-    "name": "Ami Bera",
-    "label": "D-CA-06",
-    "party": "D",
-    "psc": false,
-    "cross_party": 4,
-    "total": 5
-   },
-   {
-    "slug": "schneider-il-10",
-    "name": "Bradley Scott Schneider",
-    "label": "D-IL-10",
-    "party": "D",
-    "psc": false,
-    "cross_party": 4,
-    "total": 5
-   },
-   {
-    "slug": "soto-fl-09",
-    "name": "Darren Soto",
-    "label": "D-FL-09",
-    "party": "D",
-    "psc": true,
-    "cross_party": 4,
-    "total": 5
-   },
-   {
-    "slug": "mrvan-in-01",
-    "name": "Frank J. Mrvan",
-    "label": "D-IN-01",
-    "party": "D",
-    "psc": false,
-    "cross_party": 4,
-    "total": 5
-   },
-   {
-    "slug": "neguse-co-02",
-    "name": "Joe Neguse",
-    "label": "D-CO-02",
-    "party": "D",
-    "psc": false,
-    "cross_party": 4,
-    "total": 5
-   },
-   {
-    "slug": "trahan-ma-03",
-    "name": "Lori Trahan",
-    "label": "D-MA-03",
-    "party": "D",
-    "psc": false,
-    "cross_party": 4,
-    "total": 5
    }
   ],
   "senate": [
@@ -4414,6 +4502,41 @@
    ]
   },
   {
+   "goal": "family-costs",
+   "bill": "hr2036",
+   "label": "H.R. 2036",
+   "short": "Credit for Caring Act",
+   "stage": "in_committee",
+   "supporters": 146,
+   "committees": [
+    "Finance"
+   ],
+   "inferred": true,
+   "pair": [
+    {
+     "slug": "crapo-id",
+     "name": "Mike Crapo",
+     "label": "R-ID",
+     "party": "R",
+     "psc": false,
+     "reasons": [
+      "chair or ranking member of the committee"
+     ]
+    },
+    {
+     "slug": "wyden-or",
+     "name": "Ron Wyden",
+     "label": "D-OR",
+     "party": "D",
+     "psc": false,
+     "reasons": [
+      "chair or ranking member of the committee",
+      "2 House members from OR back it"
+     ]
+    }
+   ]
+  },
+  {
    "goal": "health-access",
    "bill": "hr5269",
    "label": "H.R. 5269",
@@ -4481,41 +4604,6 @@
      "reasons": [
       "chair or ranking member of the committee",
       "3 House members from MA back it"
-     ]
-    }
-   ]
-  },
-  {
-   "goal": "family-costs",
-   "bill": "hr2036",
-   "label": "H.R. 2036",
-   "short": "Credit for Caring Act",
-   "stage": "in_committee",
-   "supporters": 92,
-   "committees": [
-    "Finance"
-   ],
-   "inferred": true,
-   "pair": [
-    {
-     "slug": "crapo-id",
-     "name": "Mike Crapo",
-     "label": "R-ID",
-     "party": "R",
-     "psc": false,
-     "reasons": [
-      "chair or ranking member of the committee"
-     ]
-    },
-    {
-     "slug": "wyden-or",
-     "name": "Ron Wyden",
-     "label": "D-OR",
-     "party": "D",
-     "psc": false,
-     "reasons": [
-      "chair or ranking member of the committee",
-      "1 House members from OR back it"
      ]
     }
    ]
@@ -8349,206 +8437,6 @@
   },
   {
    "goal": "family-costs",
-   "bill": "hr2036",
-   "label": "H.R. 2036",
-   "short": "Credit for Caring Act",
-   "psc_on": 16,
-   "psc_total": 43,
-   "missing": [
-    {
-     "slug": "costa-ca-21",
-     "name": "Jim Costa",
-     "label": "D-CA-21",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "kim-ca-40",
-     "name": "Young Kim",
-     "label": "R-CA-40",
-     "party": "R",
-     "psc": true
-    },
-    {
-     "slug": "peters-ca-50",
-     "name": "Scott H. Peters",
-     "label": "D-CA-50",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "hurd-co-03",
-     "name": "Jeff Hurd",
-     "label": "R-CO-03",
-     "party": "R",
-     "psc": true
-    },
-    {
-     "slug": "evans-co-08",
-     "name": "Gabe Evans",
-     "label": "R-CO-08",
-     "party": "R",
-     "psc": true
-    },
-    {
-     "slug": "soto-fl-09",
-     "name": "Darren Soto",
-     "label": "D-FL-09",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "moylan-gu-00",
-     "name": "James C. Moylan",
-     "label": "R-GU-00",
-     "party": "R",
-     "psc": true
-    },
-    {
-     "slug": "case-hi-01",
-     "name": "Ed Case",
-     "label": "D-HI-01",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "golden-me-02",
-     "name": "Jared F. Golden",
-     "label": "D-ME-02",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "scholten-mi-03",
-     "name": "Hillary J. Scholten",
-     "label": "D-MI-03",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "stevens-mi-11",
-     "name": "Haley M. Stevens",
-     "label": "D-MI-11",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "craig-mn-02",
-     "name": "Angie Craig",
-     "label": "D-MN-02",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "davis-nc-01",
-     "name": "Donald G. Davis",
-     "label": "D-NC-01",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "pappas-nh-01",
-     "name": "Chris Pappas",
-     "label": "D-NH-01",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "norcross-nj-01",
-     "name": "Donald Norcross",
-     "label": "D-NJ-01",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "gottheimer-nj-05",
-     "name": "Josh Gottheimer",
-     "label": "D-NJ-05",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "lee-nv-03",
-     "name": "Susie Lee",
-     "label": "D-NV-03",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "lalota-ny-01",
-     "name": "Nick LaLota",
-     "label": "R-NY-01",
-     "party": "R",
-     "psc": true
-    },
-    {
-     "slug": "sykes-oh-13",
-     "name": "Emilia Strong Sykes",
-     "label": "D-OH-13",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "joyce-oh-14",
-     "name": "David P. Joyce",
-     "label": "R-OH-14",
-     "party": "R",
-     "psc": true
-    },
-    {
-     "slug": "mackenzie-pa-07",
-     "name": "Ryan Mackenzie",
-     "label": "R-PA-07",
-     "party": "R",
-     "psc": true
-    },
-    {
-     "slug": "bresnahan-pa-08",
-     "name": "Robert P. Bresnahan, Jr.",
-     "label": "R-PA-08",
-     "party": "R",
-     "psc": true
-    },
-    {
-     "slug": "meuser-pa-09",
-     "name": "Daniel Meuser",
-     "label": "R-PA-09",
-     "party": "R",
-     "psc": true
-    },
-    {
-     "slug": "cuellar-tx-28",
-     "name": "Henry Cuellar",
-     "label": "D-TX-28",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "moore-ut-01",
-     "name": "Blake D. Moore",
-     "label": "R-UT-01",
-     "party": "R",
-     "psc": true
-    },
-    {
-     "slug": "gluesenkamp-perez-wa-03",
-     "name": "Marie Gluesenkamp Perez",
-     "label": "D-WA-03",
-     "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "steil-wi-01",
-     "name": "Bryan Steil",
-     "label": "R-WI-01",
-     "party": "R",
-     "psc": true
-    }
-   ],
-   "complete": true
-  },
-  {
-   "goal": "family-costs",
    "bill": "hr1464",
    "label": "H.R. 1464",
    "short": "MODERN WIC Act",
@@ -9113,6 +9001,157 @@
    "complete": true
   },
   {
+   "goal": "family-costs",
+   "bill": "hr2036",
+   "label": "H.R. 2036",
+   "short": "Credit for Caring Act",
+   "psc_on": 23,
+   "psc_total": 43,
+   "missing": [
+    {
+     "slug": "costa-ca-21",
+     "name": "Jim Costa",
+     "label": "D-CA-21",
+     "party": "D",
+     "psc": true
+    },
+    {
+     "slug": "kim-ca-40",
+     "name": "Young Kim",
+     "label": "R-CA-40",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "peters-ca-50",
+     "name": "Scott H. Peters",
+     "label": "D-CA-50",
+     "party": "D",
+     "psc": true
+    },
+    {
+     "slug": "hurd-co-03",
+     "name": "Jeff Hurd",
+     "label": "R-CO-03",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "evans-co-08",
+     "name": "Gabe Evans",
+     "label": "R-CO-08",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "moylan-gu-00",
+     "name": "James C. Moylan",
+     "label": "R-GU-00",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "case-hi-01",
+     "name": "Ed Case",
+     "label": "D-HI-01",
+     "party": "D",
+     "psc": true
+    },
+    {
+     "slug": "golden-me-02",
+     "name": "Jared F. Golden",
+     "label": "D-ME-02",
+     "party": "D",
+     "psc": true
+    },
+    {
+     "slug": "stevens-mi-11",
+     "name": "Haley M. Stevens",
+     "label": "D-MI-11",
+     "party": "D",
+     "psc": true
+    },
+    {
+     "slug": "pappas-nh-01",
+     "name": "Chris Pappas",
+     "label": "D-NH-01",
+     "party": "D",
+     "psc": true
+    },
+    {
+     "slug": "norcross-nj-01",
+     "name": "Donald Norcross",
+     "label": "D-NJ-01",
+     "party": "D",
+     "psc": true
+    },
+    {
+     "slug": "lalota-ny-01",
+     "name": "Nick LaLota",
+     "label": "R-NY-01",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "sykes-oh-13",
+     "name": "Emilia Strong Sykes",
+     "label": "D-OH-13",
+     "party": "D",
+     "psc": true
+    },
+    {
+     "slug": "joyce-oh-14",
+     "name": "David P. Joyce",
+     "label": "R-OH-14",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "mackenzie-pa-07",
+     "name": "Ryan Mackenzie",
+     "label": "R-PA-07",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "bresnahan-pa-08",
+     "name": "Robert P. Bresnahan, Jr.",
+     "label": "R-PA-08",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "meuser-pa-09",
+     "name": "Daniel Meuser",
+     "label": "R-PA-09",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "moore-ut-01",
+     "name": "Blake D. Moore",
+     "label": "R-UT-01",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "gluesenkamp-perez-wa-03",
+     "name": "Marie Gluesenkamp Perez",
+     "label": "D-WA-03",
+     "party": "D",
+     "psc": true
+    },
+    {
+     "slug": "steil-wi-01",
+     "name": "Bryan Steil",
+     "label": "R-WI-01",
+     "party": "R",
+     "psc": true
+    }
+   ],
+   "complete": true
+  },
+  {
    "goal": "health-access",
    "bill": "hr5269",
    "label": "H.R. 5269",
@@ -9428,6 +9467,20 @@
      ]
     },
     {
+     "slug": "tonko-ny-20",
+     "name": "Paul Tonko",
+     "label": "D-NY-20",
+     "party": "D",
+     "psc": false,
+     "score": 8.0,
+     "reasons": [
+      "on the committee",
+      "5 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 5 other-party caucus bills"
+     ]
+    },
+    {
      "slug": "dingell-mi-06",
      "name": "Debbie Dingell",
      "label": "D-MI-06",
@@ -9439,20 +9492,6 @@
       "on the committee",
       "1 state colleagues on it",
       "backs 6 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "tonko-ny-20",
-     "name": "Paul Tonko",
-     "label": "D-NY-20",
-     "party": "D",
-     "psc": false,
-     "score": 7.6,
-     "reasons": [
-      "on the committee",
-      "5 state colleagues on it",
-      "backs a related caucus bill",
-      "backs 4 other-party caucus bills"
      ]
     }
    ]
@@ -9476,13 +9515,13 @@
      "label": "D-NJ-05",
      "party": "D",
      "psc": true,
-     "score": 9.1,
+     "score": 9.5,
      "reasons": [
       "PSC member",
       "on the committee",
       "2 state colleagues on it",
       "backs a related caucus bill",
-      "backs 4 other-party caucus bills"
+      "backs 5 other-party caucus bills"
      ]
     },
     {
@@ -9499,6 +9538,19 @@
      ]
     },
     {
+     "slug": "cuellar-tx-28",
+     "name": "Henry Cuellar",
+     "label": "D-TX-28",
+     "party": "D",
+     "psc": true,
+     "score": 8.4,
+     "reasons": [
+      "PSC member",
+      "6 state colleagues on it",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
      "slug": "peters-ca-50",
      "name": "Scott H. Peters",
      "label": "D-CA-50",
@@ -9512,9 +9564,9 @@
      ]
     },
     {
-     "slug": "cuellar-tx-28",
-     "name": "Henry Cuellar",
-     "label": "D-TX-28",
+     "slug": "gluesenkamp-perez-wa-03",
+     "name": "Marie Gluesenkamp Perez",
+     "label": "D-WA-03",
      "party": "D",
      "psc": true,
      "score": 8.0,
@@ -9525,15 +9577,15 @@
      ]
     },
     {
-     "slug": "gluesenkamp-perez-wa-03",
-     "name": "Marie Gluesenkamp Perez",
-     "label": "D-WA-03",
+     "slug": "soto-fl-09",
+     "name": "Darren Soto",
+     "label": "D-FL-09",
      "party": "D",
      "psc": true,
-     "score": 8.0,
+     "score": 7.5,
      "reasons": [
       "PSC member",
-      "6 state colleagues on it",
+      "5 state colleagues on it",
       "backs 5 other-party caucus bills"
      ]
     },
@@ -9565,15 +9617,15 @@
      ]
     },
     {
-     "slug": "soto-fl-09",
-     "name": "Darren Soto",
-     "label": "D-FL-09",
+     "slug": "scholten-mi-03",
+     "name": "Hillary J. Scholten",
+     "label": "D-MI-03",
      "party": "D",
      "psc": true,
-     "score": 7.1,
+     "score": 6.6,
      "reasons": [
       "PSC member",
-      "5 state colleagues on it",
+      "4 state colleagues on it",
       "backs 4 other-party caucus bills"
      ]
     },
@@ -9588,19 +9640,6 @@
       "PSC member",
       "on the committee",
       "3 state colleagues on it"
-     ]
-    },
-    {
-     "slug": "delbene-wa-01",
-     "name": "Suzan K. DelBene",
-     "label": "D-WA-01",
-     "party": "D",
-     "psc": false,
-     "score": 6.5,
-     "reasons": [
-      "6 state colleagues on it",
-      "backs a related caucus bill",
-      "backs 5 other-party caucus bills"
      ]
     }
    ]
@@ -9627,7 +9666,7 @@
      "score": 9.9,
      "reasons": [
       "PSC member",
-      "8 state colleagues on it",
+      "16 state colleagues on it",
       "backs a related caucus bill",
       "backs 6 other-party caucus bills"
      ]
@@ -9641,7 +9680,21 @@
      "score": 9.5,
      "reasons": [
       "PSC member",
-      "8 state colleagues on it",
+      "13 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 5 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "gluesenkamp-perez-wa-03",
+     "name": "Marie Gluesenkamp Perez",
+     "label": "D-WA-03",
+     "party": "D",
+     "psc": true,
+     "score": 9.0,
+     "reasons": [
+      "PSC member",
+      "5 state colleagues on it",
       "backs a related caucus bill",
       "backs 5 other-party caucus bills"
      ]
@@ -9655,9 +9708,23 @@
      "score": 8.5,
      "reasons": [
       "on the committee",
-      "8 state colleagues on it",
+      "16 state colleagues on it",
       "backs a related caucus bill",
       "backs 5 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "bresnahan-pa-08",
+     "name": "Robert P. Bresnahan, Jr.",
+     "label": "R-PA-08",
+     "party": "R",
+     "psc": true,
+     "score": 8.3,
+     "reasons": [
+      "PSC member",
+      "6 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 2 other-party caucus bills"
      ]
     },
     {
@@ -9675,31 +9742,31 @@
      ]
     },
     {
-     "slug": "gluesenkamp-perez-wa-03",
-     "name": "Marie Gluesenkamp Perez",
-     "label": "D-WA-03",
-     "party": "D",
+     "slug": "mackenzie-pa-07",
+     "name": "Ryan Mackenzie",
+     "label": "R-PA-07",
+     "party": "R",
      "psc": true,
-     "score": 8.0,
+     "score": 7.9,
      "reasons": [
       "PSC member",
-      "3 state colleagues on it",
+      "6 state colleagues on it",
       "backs a related caucus bill",
-      "backs 5 other-party caucus bills"
+      "backs 1 other-party caucus bills"
      ]
     },
     {
-     "slug": "bresnahan-pa-08",
-     "name": "Robert P. Bresnahan, Jr.",
-     "label": "R-PA-08",
-     "party": "R",
-     "psc": true,
-     "score": 7.8,
+     "slug": "evans-pa-03",
+     "name": "Dwight Evans",
+     "label": "D-PA-03",
+     "party": "D",
+     "psc": false,
+     "score": 7.7,
      "reasons": [
-      "PSC member",
-      "5 state colleagues on it",
+      "on the committee",
+      "6 state colleagues on it",
       "backs a related caucus bill",
-      "backs 2 other-party caucus bills"
+      "backs 3 other-party caucus bills"
      ]
     },
     {
@@ -9711,50 +9778,22 @@
      "score": 7.7,
      "reasons": [
       "on the committee",
-      "8 state colleagues on it",
+      "16 state colleagues on it",
       "backs a related caucus bill",
       "backs 3 other-party caucus bills"
      ]
     },
     {
-     "slug": "soto-fl-09",
-     "name": "Darren Soto",
-     "label": "D-FL-09",
+     "slug": "norcross-nj-01",
+     "name": "Donald Norcross",
+     "label": "D-NJ-01",
      "party": "D",
      "psc": true,
      "score": 7.6,
      "reasons": [
       "PSC member",
-      "7 state colleagues on it",
+      "6 state colleagues on it",
       "backs 4 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "mackenzie-pa-07",
-     "name": "Ryan Mackenzie",
-     "label": "R-PA-07",
-     "party": "R",
-     "psc": true,
-     "score": 7.4,
-     "reasons": [
-      "PSC member",
-      "5 state colleagues on it",
-      "backs a related caucus bill",
-      "backs 1 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "evans-pa-03",
-     "name": "Dwight Evans",
-     "label": "D-PA-03",
-     "party": "D",
-     "psc": false,
-     "score": 7.2,
-     "reasons": [
-      "on the committee",
-      "5 state colleagues on it",
-      "backs a related caucus bill",
-      "backs 3 other-party caucus bills"
      ]
     }
    ]
@@ -9801,6 +9840,48 @@
      ]
     },
     {
+     "slug": "davis-nc-01",
+     "name": "Donald G. Davis",
+     "label": "D-NC-01",
+     "party": "D",
+     "psc": true,
+     "score": 8.4,
+     "reasons": [
+      "PSC member",
+      "3 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "soto-fl-09",
+     "name": "Darren Soto",
+     "label": "D-FL-09",
+     "party": "D",
+     "psc": true,
+     "score": 8.0,
+     "reasons": [
+      "PSC member",
+      "3 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 5 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "cuellar-tx-28",
+     "name": "Henry Cuellar",
+     "label": "D-TX-28",
+     "party": "D",
+     "psc": true,
+     "score": 7.9,
+     "reasons": [
+      "PSC member",
+      "2 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
      "slug": "norcross-nj-01",
      "name": "Donald Norcross",
      "label": "D-NJ-01",
@@ -9812,6 +9893,20 @@
       "on the committee",
       "2 state colleagues on it",
       "backs 4 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "gottheimer-nj-05",
+     "name": "Josh Gottheimer",
+     "label": "D-NJ-05",
+     "party": "D",
+     "psc": true,
+     "score": 7.5,
+     "reasons": [
+      "PSC member",
+      "2 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 5 other-party caucus bills"
      ]
     },
     {
@@ -9853,59 +9948,6 @@
       "2 state colleagues on it",
       "backs a related caucus bill",
       "backs 4 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "stevens-mi-11",
-     "name": "Haley M. Stevens",
-     "label": "D-MI-11",
-     "party": "D",
-     "psc": true,
-     "score": 6.7,
-     "reasons": [
-      "PSC member",
-      "on the committee",
-      "1 state colleagues on it",
-      "backs 3 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "houlahan-pa-06",
-     "name": "Chrissy Houlahan",
-     "label": "D-PA-06",
-     "party": "D",
-     "psc": false,
-     "score": 6.5,
-     "reasons": [
-      "6 state colleagues on it",
-      "backs a related caucus bill",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "davis-nc-01",
-     "name": "Donald G. Davis",
-     "label": "D-NC-01",
-     "party": "D",
-     "psc": true,
-     "score": 6.5,
-     "reasons": [
-      "PSC member",
-      "3 state colleagues on it",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "kim-ca-40",
-     "name": "Young Kim",
-     "label": "R-CA-40",
-     "party": "R",
-     "psc": true,
-     "score": 6.4,
-     "reasons": [
-      "PSC member",
-      "24 state colleagues on it",
-      "backs 1 other-party caucus bills"
      ]
     }
    ]
@@ -10034,18 +10076,18 @@
      "label": "D-FL-09",
      "party": "D",
      "psc": true,
-     "score": 5.6,
+     "score": 6.0,
      "reasons": [
       "PSC member",
       "2 state colleagues on it",
-      "backs 4 other-party caucus bills"
+      "backs 5 other-party caucus bills"
      ]
     },
     {
-     "slug": "lawler-ny-17",
-     "name": "Michael Lawler",
-     "label": "R-NY-17",
-     "party": "R",
+     "slug": "gottheimer-nj-05",
+     "name": "Josh Gottheimer",
+     "label": "D-NJ-05",
+     "party": "D",
      "psc": true,
      "score": 5.5,
      "reasons": [
@@ -10112,6 +10154,32 @@
      ]
     },
     {
+     "slug": "davis-nc-01",
+     "name": "Donald G. Davis",
+     "label": "D-NC-01",
+     "party": "D",
+     "psc": true,
+     "score": 8.4,
+     "reasons": [
+      "PSC member",
+      "backs a related caucus bill",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "cuellar-tx-28",
+     "name": "Henry Cuellar",
+     "label": "D-TX-28",
+     "party": "D",
+     "psc": true,
+     "score": 8.4,
+     "reasons": [
+      "PSC member",
+      "backs a related caucus bill",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
      "slug": "suozzi-ny-03",
      "name": "Thomas R. Suozzi",
      "label": "D-NY-03",
@@ -10123,32 +10191,6 @@
       "1 state colleagues on it",
       "backs a related caucus bill",
       "backs 8 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "davis-nc-01",
-     "name": "Donald G. Davis",
-     "label": "D-NC-01",
-     "party": "D",
-     "psc": true,
-     "score": 8.0,
-     "reasons": [
-      "PSC member",
-      "backs a related caucus bill",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "cuellar-tx-28",
-     "name": "Henry Cuellar",
-     "label": "D-TX-28",
-     "party": "D",
-     "psc": true,
-     "score": 8.0,
-     "reasons": [
-      "PSC member",
-      "backs a related caucus bill",
-      "backs 5 other-party caucus bills"
      ]
     },
     {
@@ -10196,11 +10238,11 @@
      "label": "D-MI-03",
      "party": "D",
      "psc": true,
-     "score": 5.7,
+     "score": 6.1,
      "reasons": [
       "PSC member",
       "backs a related caucus bill",
-      "backs 3 other-party caucus bills"
+      "backs 4 other-party caucus bills"
      ]
     }
    ]
@@ -10233,6 +10275,20 @@
      ]
     },
     {
+     "slug": "scholten-mi-03",
+     "name": "Hillary J. Scholten",
+     "label": "D-MI-03",
+     "party": "D",
+     "psc": true,
+     "score": 7.1,
+     "reasons": [
+      "PSC member",
+      "2 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 4 other-party caucus bills"
+     ]
+    },
+    {
      "slug": "panetta-ca-19",
      "name": "Jimmy Panetta",
      "label": "D-CA-19",
@@ -10244,20 +10300,6 @@
       "1 state colleagues on it",
       "backs a related caucus bill",
       "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "scholten-mi-03",
-     "name": "Hillary J. Scholten",
-     "label": "D-MI-03",
-     "party": "D",
-     "psc": true,
-     "score": 6.7,
-     "reasons": [
-      "PSC member",
-      "2 state colleagues on it",
-      "backs a related caucus bill",
-      "backs 3 other-party caucus bills"
      ]
     },
     {
@@ -10387,11 +10429,11 @@
      "label": "D-IN-07",
      "party": "D",
      "psc": false,
-     "score": 7.2,
+     "score": 7.6,
      "reasons": [
       "6 state colleagues on it",
       "backs a related caucus bill",
-      "backs 3 other-party caucus bills"
+      "backs 4 other-party caucus bills"
      ]
     },
     {
@@ -10434,6 +10476,20 @@
       "20 state colleagues on it",
       "backs a related caucus bill",
       "backs 1 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "lee-nv-03",
+     "name": "Susie Lee",
+     "label": "D-NV-03",
+     "party": "D",
+     "psc": true,
+     "score": 6.8,
+     "reasons": [
+      "PSC member",
+      "3 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 2 other-party caucus bills"
      ]
     },
     {
@@ -10488,20 +10544,6 @@
       "11 state colleagues on it",
       "backs a related caucus bill"
      ]
-    },
-    {
-     "slug": "lee-nv-03",
-     "name": "Susie Lee",
-     "label": "D-NV-03",
-     "party": "D",
-     "psc": true,
-     "score": 6.4,
-     "reasons": [
-      "PSC member",
-      "3 state colleagues on it",
-      "backs a related caucus bill",
-      "backs 1 other-party caucus bills"
-     ]
     }
    ]
   },
@@ -10524,12 +10566,12 @@
      "label": "D-TX-28",
      "party": "D",
      "psc": true,
-     "score": 11.0,
+     "score": 11.4,
      "reasons": [
       "PSC member",
       "10 state colleagues on it",
       "backs a related caucus bill",
-      "backs 5 other-party caucus bills"
+      "backs 6 other-party caucus bills"
      ]
     },
     {
@@ -10558,6 +10600,20 @@
       "5 state colleagues on it",
       "backs a related caucus bill",
       "backs 3 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "scholten-mi-03",
+     "name": "Hillary J. Scholten",
+     "label": "D-MI-03",
+     "party": "D",
+     "psc": true,
+     "score": 9.6,
+     "reasons": [
+      "PSC member",
+      "4 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 4 other-party caucus bills"
      ]
     },
     {
@@ -10603,20 +10659,6 @@
      ]
     },
     {
-     "slug": "scholten-mi-03",
-     "name": "Hillary J. Scholten",
-     "label": "D-MI-03",
-     "party": "D",
-     "psc": true,
-     "score": 9.2,
-     "reasons": [
-      "PSC member",
-      "4 state colleagues on it",
-      "backs a related caucus bill",
-      "backs 3 other-party caucus bills"
-     ]
-    },
-    {
      "slug": "chu-ca-28",
      "name": "Judy Chu",
      "label": "D-CA-28",
@@ -10645,16 +10687,17 @@
      ]
     },
     {
-     "slug": "meuser-pa-09",
-     "name": "Daniel Meuser",
-     "label": "R-PA-09",
-     "party": "R",
-     "psc": true,
-     "score": 9.0,
+     "slug": "clarke-ny-09",
+     "name": "Yvette D. Clarke",
+     "label": "D-NY-09",
+     "party": "D",
+     "psc": false,
+     "score": 9.2,
      "reasons": [
-      "PSC member",
+      "on the committee",
       "8 state colleagues on it",
-      "backs a related caucus bill"
+      "backs a related caucus bill",
+      "backs 3 other-party caucus bills"
      ]
     }
    ]
@@ -10734,12 +10777,26 @@
      "label": "D-FL-09",
      "party": "D",
      "psc": true,
-     "score": 11.1,
+     "score": 11.5,
      "reasons": [
       "PSC member",
       "on the committee",
       "backs a related caucus bill",
-      "backs 4 other-party caucus bills"
+      "backs 5 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "davis-nc-01",
+     "name": "Donald G. Davis",
+     "label": "D-NC-01",
+     "party": "D",
+     "psc": true,
+     "score": 10.4,
+     "reasons": [
+      "PSC member",
+      "1 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 6 other-party caucus bills"
      ]
     },
     {
@@ -10753,20 +10810,6 @@
       "PSC member",
       "backs a related caucus bill",
       "backs 7 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "davis-nc-01",
-     "name": "Donald G. Davis",
-     "label": "D-NC-01",
-     "party": "D",
-     "psc": true,
-     "score": 10.0,
-     "reasons": [
-      "PSC member",
-      "1 state colleagues on it",
-      "backs a related caucus bill",
-      "backs 5 other-party caucus bills"
      ]
     },
     {
@@ -10788,18 +10831,18 @@
      "label": "D-NY-20",
      "party": "D",
      "psc": false,
-     "score": 9.1,
+     "score": 9.5,
      "reasons": [
       "on the committee",
       "2 state colleagues on it",
       "backs a related caucus bill",
-      "backs 4 other-party caucus bills"
+      "backs 5 other-party caucus bills"
      ]
     },
     {
-     "slug": "horsford-nv-04",
-     "name": "Steven Horsford",
-     "label": "D-NV-04",
+     "slug": "craig-mn-02",
+     "name": "Angie Craig",
+     "label": "D-MN-02",
      "party": "D",
      "psc": true,
      "score": 9.1,
@@ -11028,6 +11071,19 @@
      ]
     },
     {
+     "slug": "scholten-mi-03",
+     "name": "Hillary J. Scholten",
+     "label": "D-MI-03",
+     "party": "D",
+     "psc": true,
+     "score": 6.6,
+     "reasons": [
+      "PSC member",
+      "on the committee",
+      "backs 4 other-party caucus bills"
+     ]
+    },
+    {
      "slug": "panetta-ca-19",
      "name": "Jimmy Panetta",
      "label": "D-CA-19",
@@ -11051,19 +11107,6 @@
       "PSC member",
       "1 state colleagues on it",
       "backs 7 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "scholten-mi-03",
-     "name": "Hillary J. Scholten",
-     "label": "D-MI-03",
-     "party": "D",
-     "psc": true,
-     "score": 6.2,
-     "reasons": [
-      "PSC member",
-      "on the committee",
-      "backs 3 other-party caucus bills"
      ]
     },
     {
@@ -11092,15 +11135,16 @@
      ]
     },
     {
-     "slug": "case-hi-01",
-     "name": "Ed Case",
-     "label": "D-HI-01",
+     "slug": "davis-nc-01",
+     "name": "Donald G. Davis",
+     "label": "D-NC-01",
      "party": "D",
      "psc": true,
-     "score": 5.8,
+     "score": 5.9,
      "reasons": [
       "PSC member",
-      "backs 7 other-party caucus bills"
+      "1 state colleagues on it",
+      "backs 6 other-party caucus bills"
      ]
     }
    ]
@@ -11130,6 +11174,19 @@
       "on the committee",
       "1 state colleagues on it",
       "backs 7 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "scholten-mi-03",
+     "name": "Hillary J. Scholten",
+     "label": "D-MI-03",
+     "party": "D",
+     "psc": true,
+     "score": 6.6,
+     "reasons": [
+      "PSC member",
+      "on the committee",
+      "backs 4 other-party caucus bills"
      ]
     },
     {
@@ -11163,19 +11220,6 @@
      "slug": "stevens-mi-11",
      "name": "Haley M. Stevens",
      "label": "D-MI-11",
-     "party": "D",
-     "psc": true,
-     "score": 6.2,
-     "reasons": [
-      "PSC member",
-      "on the committee",
-      "backs 3 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "scholten-mi-03",
-     "name": "Hillary J. Scholten",
-     "label": "D-MI-03",
      "party": "D",
      "psc": true,
      "score": 6.2,
@@ -11235,15 +11279,16 @@
      ]
     },
     {
-     "slug": "dingell-mi-06",
-     "name": "Debbie Dingell",
-     "label": "D-MI-06",
+     "slug": "gottheimer-nj-05",
+     "name": "Josh Gottheimer",
+     "label": "D-NJ-05",
      "party": "D",
      "psc": true,
-     "score": 5.4,
+     "score": 5.5,
      "reasons": [
       "PSC member",
-      "backs 6 other-party caucus bills"
+      "1 state colleagues on it",
+      "backs 5 other-party caucus bills"
      ]
     }
    ]
@@ -11293,11 +11338,11 @@
      "label": "D-FL-09",
      "party": "D",
      "psc": true,
-     "score": 7.6,
+     "score": 8.0,
      "reasons": [
       "PSC member",
       "7 state colleagues on it",
-      "backs 4 other-party caucus bills"
+      "backs 5 other-party caucus bills"
      ]
     },
     {
@@ -11306,11 +11351,11 @@
      "label": "D-TX-28",
      "party": "D",
      "psc": true,
-     "score": 7.0,
+     "score": 7.4,
      "reasons": [
       "PSC member",
       "4 state colleagues on it",
-      "backs 5 other-party caucus bills"
+      "backs 6 other-party caucus bills"
      ]
     },
     {
@@ -11495,6 +11540,30 @@
      ]
     },
     {
+     "slug": "davis-nc-01",
+     "name": "Donald G. Davis",
+     "label": "D-NC-01",
+     "party": "D",
+     "psc": true,
+     "score": 5.4,
+     "reasons": [
+      "PSC member",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "cuellar-tx-28",
+     "name": "Henry Cuellar",
+     "label": "D-TX-28",
+     "party": "D",
+     "psc": true,
+     "score": 5.4,
+     "reasons": [
+      "PSC member",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
      "slug": "harder-ca-09",
      "name": "Josh Harder",
      "label": "D-CA-09",
@@ -11505,30 +11574,6 @@
       "PSC member",
       "1 state colleagues on it",
       "backs 4 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "davis-nc-01",
-     "name": "Donald G. Davis",
-     "label": "D-NC-01",
-     "party": "D",
-     "psc": true,
-     "score": 5.0,
-     "reasons": [
-      "PSC member",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "cuellar-tx-28",
-     "name": "Henry Cuellar",
-     "label": "D-TX-28",
-     "party": "D",
-     "psc": true,
-     "score": 5.0,
-     "reasons": [
-      "PSC member",
-      "backs 5 other-party caucus bills"
      ]
     }
    ]
@@ -11590,6 +11635,43 @@
      "label": "D-NJ-05",
      "party": "D",
      "psc": true,
+     "score": 5.5,
+     "reasons": [
+      "PSC member",
+      "1 state colleagues on it",
+      "backs 5 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "davis-nc-01",
+     "name": "Donald G. Davis",
+     "label": "D-NC-01",
+     "party": "D",
+     "psc": true,
+     "score": 5.4,
+     "reasons": [
+      "PSC member",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "cuellar-tx-28",
+     "name": "Henry Cuellar",
+     "label": "D-TX-28",
+     "party": "D",
+     "psc": true,
+     "score": 5.4,
+     "reasons": [
+      "PSC member",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "scholten-mi-03",
+     "name": "Hillary J. Scholten",
+     "label": "D-MI-03",
+     "party": "D",
+     "psc": true,
      "score": 5.1,
      "reasons": [
       "PSC member",
@@ -11624,30 +11706,6 @@
      ]
     },
     {
-     "slug": "davis-nc-01",
-     "name": "Donald G. Davis",
-     "label": "D-NC-01",
-     "party": "D",
-     "psc": true,
-     "score": 5.0,
-     "reasons": [
-      "PSC member",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "cuellar-tx-28",
-     "name": "Henry Cuellar",
-     "label": "D-TX-28",
-     "party": "D",
-     "psc": true,
-     "score": 5.0,
-     "reasons": [
-      "PSC member",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
      "slug": "gluesenkamp-perez-wa-03",
      "name": "Marie Gluesenkamp Perez",
      "label": "D-WA-03",
@@ -11657,19 +11715,6 @@
      "reasons": [
       "PSC member",
       "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "garbarino-ny-02",
-     "name": "Andrew R. Garbarino",
-     "label": "R-NY-02",
-     "party": "R",
-     "psc": true,
-     "score": 4.9,
-     "reasons": [
-      "PSC member",
-      "3 state colleagues on it",
-      "backs 1 other-party caucus bills"
      ]
     }
    ]
@@ -11731,6 +11776,43 @@
      "label": "D-NJ-05",
      "party": "D",
      "psc": true,
+     "score": 5.5,
+     "reasons": [
+      "PSC member",
+      "1 state colleagues on it",
+      "backs 5 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "davis-nc-01",
+     "name": "Donald G. Davis",
+     "label": "D-NC-01",
+     "party": "D",
+     "psc": true,
+     "score": 5.4,
+     "reasons": [
+      "PSC member",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "cuellar-tx-28",
+     "name": "Henry Cuellar",
+     "label": "D-TX-28",
+     "party": "D",
+     "psc": true,
+     "score": 5.4,
+     "reasons": [
+      "PSC member",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "scholten-mi-03",
+     "name": "Hillary J. Scholten",
+     "label": "D-MI-03",
+     "party": "D",
+     "psc": true,
      "score": 5.1,
      "reasons": [
       "PSC member",
@@ -11765,30 +11847,6 @@
      ]
     },
     {
-     "slug": "davis-nc-01",
-     "name": "Donald G. Davis",
-     "label": "D-NC-01",
-     "party": "D",
-     "psc": true,
-     "score": 5.0,
-     "reasons": [
-      "PSC member",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "cuellar-tx-28",
-     "name": "Henry Cuellar",
-     "label": "D-TX-28",
-     "party": "D",
-     "psc": true,
-     "score": 5.0,
-     "reasons": [
-      "PSC member",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
      "slug": "gluesenkamp-perez-wa-03",
      "name": "Marie Gluesenkamp Perez",
      "label": "D-WA-03",
@@ -11798,19 +11856,6 @@
      "reasons": [
       "PSC member",
       "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "garbarino-ny-02",
-     "name": "Andrew R. Garbarino",
-     "label": "R-NY-02",
-     "party": "R",
-     "psc": true,
-     "score": 4.9,
-     "reasons": [
-      "PSC member",
-      "3 state colleagues on it",
-      "backs 1 other-party caucus bills"
      ]
     }
    ]
@@ -11848,11 +11893,11 @@
      "label": "D-FL-09",
      "party": "D",
      "psc": true,
-     "score": 7.6,
+     "score": 8.0,
      "reasons": [
       "PSC member",
       "backs a related caucus bill",
-      "backs 4 other-party caucus bills"
+      "backs 5 other-party caucus bills"
      ]
     },
     {
@@ -11907,9 +11952,33 @@
      ]
     },
     {
-     "slug": "harder-ca-09",
-     "name": "Josh Harder",
-     "label": "D-CA-09",
+     "slug": "davis-nc-01",
+     "name": "Donald G. Davis",
+     "label": "D-NC-01",
+     "party": "D",
+     "psc": true,
+     "score": 5.4,
+     "reasons": [
+      "PSC member",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "cuellar-tx-28",
+     "name": "Henry Cuellar",
+     "label": "D-TX-28",
+     "party": "D",
+     "psc": true,
+     "score": 5.4,
+     "reasons": [
+      "PSC member",
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "scholten-mi-03",
+     "name": "Hillary J. Scholten",
+     "label": "D-MI-03",
      "party": "D",
      "psc": true,
      "score": 5.1,
@@ -11920,39 +11989,16 @@
      ]
     },
     {
-     "slug": "davis-nc-01",
-     "name": "Donald G. Davis",
-     "label": "D-NC-01",
+     "slug": "harder-ca-09",
+     "name": "Josh Harder",
+     "label": "D-CA-09",
      "party": "D",
      "psc": true,
-     "score": 5.0,
+     "score": 5.1,
      "reasons": [
       "PSC member",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "cuellar-tx-28",
-     "name": "Henry Cuellar",
-     "label": "D-TX-28",
-     "party": "D",
-     "psc": true,
-     "score": 5.0,
-     "reasons": [
-      "PSC member",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "gluesenkamp-perez-wa-03",
-     "name": "Marie Gluesenkamp Perez",
-     "label": "D-WA-03",
-     "party": "D",
-     "psc": true,
-     "score": 5.0,
-     "reasons": [
-      "PSC member",
-      "backs 5 other-party caucus bills"
+      "1 state colleagues on it",
+      "backs 4 other-party caucus bills"
      ]
     }
    ]
@@ -12016,11 +12062,11 @@
      "label": "D-FL-09",
      "party": "D",
      "psc": true,
-     "score": 7.6,
+     "score": 8.0,
      "reasons": [
       "PSC member",
       "backs a related caucus bill",
-      "backs 4 other-party caucus bills"
+      "backs 5 other-party caucus bills"
      ]
     },
     {
@@ -12049,9 +12095,9 @@
      ]
     },
     {
-     "slug": "peters-ca-50",
-     "name": "Scott H. Peters",
-     "label": "D-CA-50",
+     "slug": "davis-nc-01",
+     "name": "Donald G. Davis",
+     "label": "D-NC-01",
      "party": "D",
      "psc": true,
      "score": 5.4,
@@ -12061,27 +12107,27 @@
      ]
     },
     {
-     "slug": "davis-nc-01",
-     "name": "Donald G. Davis",
-     "label": "D-NC-01",
-     "party": "D",
-     "psc": true,
-     "score": 5.0,
-     "reasons": [
-      "PSC member",
-      "backs 5 other-party caucus bills"
-     ]
-    },
-    {
      "slug": "cuellar-tx-28",
      "name": "Henry Cuellar",
      "label": "D-TX-28",
      "party": "D",
      "psc": true,
-     "score": 5.0,
+     "score": 5.4,
      "reasons": [
       "PSC member",
-      "backs 5 other-party caucus bills"
+      "backs 6 other-party caucus bills"
+     ]
+    },
+    {
+     "slug": "peters-ca-50",
+     "name": "Scott H. Peters",
+     "label": "D-CA-50",
+     "party": "D",
+     "psc": true,
+     "score": 5.4,
+     "reasons": [
+      "PSC member",
+      "backs 6 other-party caucus bills"
      ]
     },
     {
@@ -12101,12 +12147,87 @@
  ],
  "momentum": [
   {
+   "goal": "family-costs",
+   "bill": "hr2036",
+   "label": "H.R. 2036",
+   "short": "Credit for Caring Act",
+   "dated": true,
+   "recent": 60,
+   "recent_members": [
+    {
+     "slug": "mcclain-delaney-md-06",
+     "name": "April McClain Delaney",
+     "label": "D-MD-06",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-29"
+    },
+    {
+     "slug": "garamendi-ca-08",
+     "name": "John Garamendi",
+     "label": "D-CA-08",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-29"
+    },
+    {
+     "slug": "tlaib-mi-12",
+     "name": "Rashida Tlaib",
+     "label": "D-MI-12",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-29"
+    },
+    {
+     "slug": "mcbride-de-00",
+     "name": "Sarah McBride",
+     "label": "D-DE-00",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-29"
+    },
+    {
+     "slug": "hayes-ct-05",
+     "name": "Jahana Hayes",
+     "label": "D-CT-05",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-29"
+    },
+    {
+     "slug": "goodlander-nh-02",
+     "name": "Maggie Goodlander",
+     "label": "D-NH-02",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-29"
+    },
+    {
+     "slug": "watson-coleman-nj-12",
+     "name": "Bonnie Watson Coleman",
+     "label": "D-NJ-12",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-29"
+    },
+    {
+     "slug": "bishop-ga-02",
+     "name": "Sanford D. Bishop, Jr.",
+     "label": "D-GA-02",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-29"
+    }
+   ],
+   "last_added": "2026-10-29"
+  },
+  {
    "goal": "data-center-ratepayers",
    "bill": "hr9340",
    "label": "H.R. 9340",
    "short": "Ratepayer Protection Act",
    "dated": true,
-   "recent": 27,
+   "recent": 25,
    "recent_members": [
     {
      "slug": "huizenga-mi-04",
@@ -12181,7 +12302,7 @@
    "label": "H.R. 5269",
    "short": "RESULTS Act",
    "dated": true,
-   "recent": 19,
+   "recent": 14,
    "recent_members": [
     {
      "slug": "tonko-ny-20",
@@ -12249,81 +12370,6 @@
     }
    ],
    "last_added": "2026-10-22"
-  },
-  {
-   "goal": "online-safety-ai",
-   "bill": "hr3562",
-   "label": "H.R. 3562",
-   "short": "DEFIANCE Act",
-   "dated": true,
-   "recent": 12,
-   "recent_members": [
-    {
-     "slug": "miller-wv-01",
-     "name": "Carol D. Miller",
-     "label": "R-WV-01",
-     "party": "R",
-     "psc": false,
-     "date": "2026-10-26"
-    },
-    {
-     "slug": "subramanyam-va-10",
-     "name": "Suhas Subramanyam",
-     "label": "D-VA-10",
-     "party": "D",
-     "psc": false,
-     "date": "2026-10-26"
-    },
-    {
-     "slug": "balint-vt-00",
-     "name": "Becca Balint",
-     "label": "D-VT-00",
-     "party": "D",
-     "psc": false,
-     "date": "2026-10-22"
-    },
-    {
-     "slug": "turner-oh-10",
-     "name": "Michael R. Turner",
-     "label": "R-OH-10",
-     "party": "R",
-     "psc": false,
-     "date": "2026-10-22"
-    },
-    {
-     "slug": "joyce-oh-14",
-     "name": "David P. Joyce",
-     "label": "R-OH-14",
-     "party": "R",
-     "psc": true,
-     "date": "2026-09-01"
-    },
-    {
-     "slug": "delbene-wa-01",
-     "name": "Suzan K. DelBene",
-     "label": "D-WA-01",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-01"
-    },
-    {
-     "slug": "baird-in-04",
-     "name": "James R. Baird",
-     "label": "R-IN-04",
-     "party": "R",
-     "psc": false,
-     "date": "2026-08-27"
-    },
-    {
-     "slug": "omar-mn-05",
-     "name": "Ilhan Omar",
-     "label": "D-MN-05",
-     "party": "D",
-     "psc": false,
-     "date": "2026-08-27"
-    }
-   ],
-   "last_added": "2026-10-26"
   },
   {
    "goal": "health-access",
@@ -12474,6 +12520,81 @@
     }
    ],
    "last_added": "2026-09-28"
+  },
+  {
+   "goal": "online-safety-ai",
+   "bill": "hr3562",
+   "label": "H.R. 3562",
+   "short": "DEFIANCE Act",
+   "dated": true,
+   "recent": 10,
+   "recent_members": [
+    {
+     "slug": "miller-wv-01",
+     "name": "Carol D. Miller",
+     "label": "R-WV-01",
+     "party": "R",
+     "psc": false,
+     "date": "2026-10-26"
+    },
+    {
+     "slug": "subramanyam-va-10",
+     "name": "Suhas Subramanyam",
+     "label": "D-VA-10",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-26"
+    },
+    {
+     "slug": "balint-vt-00",
+     "name": "Becca Balint",
+     "label": "D-VT-00",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-22"
+    },
+    {
+     "slug": "turner-oh-10",
+     "name": "Michael R. Turner",
+     "label": "R-OH-10",
+     "party": "R",
+     "psc": false,
+     "date": "2026-10-22"
+    },
+    {
+     "slug": "joyce-oh-14",
+     "name": "David P. Joyce",
+     "label": "R-OH-14",
+     "party": "R",
+     "psc": true,
+     "date": "2026-09-01"
+    },
+    {
+     "slug": "delbene-wa-01",
+     "name": "Suzan K. DelBene",
+     "label": "D-WA-01",
+     "party": "D",
+     "psc": false,
+     "date": "2026-09-01"
+    },
+    {
+     "slug": "baird-in-04",
+     "name": "James R. Baird",
+     "label": "R-IN-04",
+     "party": "R",
+     "psc": false,
+     "date": "2026-08-27"
+    },
+    {
+     "slug": "omar-mn-05",
+     "name": "Ilhan Omar",
+     "label": "D-MN-05",
+     "party": "D",
+     "psc": false,
+     "date": "2026-08-27"
+    }
+   ],
+   "last_added": "2026-10-26"
   },
   {
    "goal": "redistricting-reform",
@@ -12694,65 +12815,6 @@
   },
   {
    "goal": "family-costs",
-   "bill": "hr2036",
-   "label": "H.R. 2036",
-   "short": "Credit for Caring Act",
-   "dated": true,
-   "recent": 6,
-   "recent_members": [
-    {
-     "slug": "ciscomani-az-06",
-     "name": "Juan Ciscomani",
-     "label": "R-AZ-06",
-     "party": "R",
-     "psc": true,
-     "date": "2026-09-28"
-    },
-    {
-     "slug": "olszewski-md-02",
-     "name": "Johnny Olszewski, Jr.",
-     "label": "D-MD-02",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-28"
-    },
-    {
-     "slug": "finstad-mn-01",
-     "name": "Brad Finstad",
-     "label": "R-MN-01",
-     "party": "R",
-     "psc": false,
-     "date": "2026-09-28"
-    },
-    {
-     "slug": "mullin-ca-15",
-     "name": "Kevin Mullin",
-     "label": "D-CA-15",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-28"
-    },
-    {
-     "slug": "hinson-ia-02",
-     "name": "Ashley Hinson",
-     "label": "R-IA-02",
-     "party": "R",
-     "psc": false,
-     "date": "2026-08-10"
-    },
-    {
-     "slug": "landsman-oh-01",
-     "name": "Greg Landsman",
-     "label": "D-OH-01",
-     "party": "D",
-     "psc": true,
-     "date": "2026-08-10"
-    }
-   ],
-   "last_added": "2026-09-28"
-  },
-  {
-   "goal": "family-costs",
    "bill": "hr1464",
    "label": "H.R. 1464",
    "short": "MODERN WIC Act",
@@ -12854,25 +12916,6 @@
    "last_added": "2026-09-15"
   },
   {
-   "goal": "energy-housing-costs",
-   "bill": "hr3694",
-   "label": "H.R. 3694",
-   "short": "VALID Act",
-   "dated": true,
-   "recent": 1,
-   "recent_members": [
-    {
-     "slug": "mann-ks-01",
-     "name": "Tracey Mann",
-     "label": "R-KS-01",
-     "party": "R",
-     "psc": false,
-     "date": "2026-08-03"
-    }
-   ],
-   "last_added": "2026-08-03"
-  },
-  {
    "goal": "health-access",
    "bill": "s1929",
    "label": "S. 1929",
@@ -12900,6 +12943,16 @@
    "recent": 0,
    "recent_members": [],
    "last_added": "2026-06-30"
+  },
+  {
+   "goal": "energy-housing-costs",
+   "bill": "hr3694",
+   "label": "H.R. 3694",
+   "short": "VALID Act",
+   "dated": true,
+   "recent": 0,
+   "recent_members": [],
+   "last_added": "2026-08-03"
   },
   {
    "goal": "fiscal-stability",
@@ -12990,6 +13043,2816 @@
    "recent": 0,
    "recent_members": [],
    "last_added": "2025-11-07"
+  },
+  {
+   "goal": "permitting-reform",
+   "bill": "s5653",
+   "label": "S. 5653",
+   "short": "Bipartisan American Affordability and Jobs Act of 2026",
+   "dated": false,
+   "recent": null,
+   "recent_members": [],
+   "last_added": null
   }
- ]
+ ],
+ "lame_duck": {
+  "bills": [
+   {
+    "goal": "infrastructure",
+    "bill": "hr8870",
+    "label": "H.R. 8870",
+    "short": "BUILD America 250 Act",
+    "stage": "reported",
+    "supporters": 6,
+    "departing": 3,
+    "sponsor_departing": true,
+    "departing_members": [
+     {
+      "slug": "graves-mo-06",
+      "name": "Sam Graves",
+      "label": "R-MO-06",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "norton-dc-00",
+      "name": "Eleanor Holmes Norton",
+      "label": "D-DC-00",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "webster-fl-11",
+      "name": "Daniel Webster",
+      "label": "R-FL-11",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "infrastructure",
+    "bill": "hr2979",
+    "label": "H.R. 2979",
+    "short": "BUILD Act for police and fire facilities",
+    "stage": "in_committee",
+    "supporters": 8,
+    "departing": 2,
+    "sponsor_departing": true,
+    "departing_members": [
+     {
+      "slug": "letlow-la-05",
+      "name": "Julia Letlow",
+      "label": "R-LA-05",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "pappas-nh-01",
+      "name": "Chris Pappas",
+      "label": "D-NH-01",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     }
+    ]
+   },
+   {
+    "goal": "online-safety-ai",
+    "bill": "s1837",
+    "label": "S. 1837",
+    "short": "DEFIANCE Act",
+    "stage": "passed_senate",
+    "supporters": 9,
+    "departing": 1,
+    "sponsor_departing": true,
+    "departing_members": [
+     {
+      "slug": "durbin-il",
+      "name": "Richard J. Durbin",
+      "label": "D-IL",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "health-access",
+    "bill": "hr3514",
+    "label": "H.R. 3514",
+    "short": "Improving Seniors' Timely Access to Care Act",
+    "stage": "reported",
+    "supporters": 309,
+    "departing": 45,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "amodei-nv-02",
+      "name": "Mark E. Amodei",
+      "label": "R-NV-02",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "arrington-tx-19",
+      "name": "Jodey C. Arrington",
+      "label": "R-TX-19",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "bacon-ne-02",
+      "name": "Don Bacon",
+      "label": "R-NE-02",
+      "party": "R",
+      "psc": true,
+      "status": "retiring"
+     },
+     {
+      "slug": "barr-ky-06",
+      "name": "Andy Barr",
+      "label": "R-KY-06",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "brownley-ca-26",
+      "name": "Julia Brownley",
+      "label": "D-CA-26",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "carter-ga-01",
+      "name": "Earl L. \"Buddy\" Carter",
+      "label": "R-GA-01",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "cohen-tn-09",
+      "name": "Steve Cohen",
+      "label": "D-TN-09",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "craig-mn-02",
+      "name": "Angie Craig",
+      "label": "D-MN-02",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "crenshaw-tx-02",
+      "name": "Dan Crenshaw",
+      "label": "R-TX-02",
+      "party": "R",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "crockett-tx-30",
+      "name": "Jasmine Crockett",
+      "label": "D-TX-30",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "davis-il-07",
+      "name": "Danny K. Davis",
+      "label": "D-IL-07",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "dunn-fl-02",
+      "name": "Neal P. Dunn",
+      "label": "R-FL-02",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "edwards-nc-11",
+      "name": "Chuck Edwards",
+      "label": "R-NC-11",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "espaillat-ny-13",
+      "name": "Adriano Espaillat",
+      "label": "D-NY-13",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "evans-pa-03",
+      "name": "Dwight Evans",
+      "label": "D-PA-03",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "feenstra-ia-04",
+      "name": "Randy Feenstra",
+      "label": "R-IA-04",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "fields-la-06",
+      "name": "Cleo Fields",
+      "label": "D-LA-06",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "goldman-ny-10",
+      "name": "Daniel S. Goldman",
+      "label": "D-NY-10",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "graves-mo-06",
+      "name": "Sam Graves",
+      "label": "R-MO-06",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "green-tx-09",
+      "name": "Al Green",
+      "label": "D-TX-09",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "hern-ok-01",
+      "name": "Kevin Hern",
+      "label": "R-OK-01",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "hinson-ia-02",
+      "name": "Ashley Hinson",
+      "label": "R-IA-02",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "johnson-tx-32",
+      "name": "Julie Johnson",
+      "label": "D-TX-32",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "johnson-sd-00",
+      "name": "Dusty Johnson",
+      "label": "R-SD-00",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "kelly-il-02",
+      "name": "Robin L. Kelly",
+      "label": "D-IL-02",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "krishnamoorthi-il-08",
+      "name": "Raja Krishnamoorthi",
+      "label": "D-IL-08",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "larson-ct-01",
+      "name": "John B. Larson",
+      "label": "D-CT-01",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "letlow-la-05",
+      "name": "Julia Letlow",
+      "label": "R-LA-05",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "loudermilk-ga-11",
+      "name": "Barry Loudermilk",
+      "label": "R-GA-11",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "mace-sc-01",
+      "name": "Nancy Mace",
+      "label": "R-SC-01",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "mills-fl-07",
+      "name": "Cory Mills",
+      "label": "R-FL-07",
+      "party": "R",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "moulton-ma-06",
+      "name": "Seth Moulton",
+      "label": "D-MA-06",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "nadler-ny-12",
+      "name": "Jerrold Nadler",
+      "label": "D-NY-12",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "newhouse-wa-04",
+      "name": "Dan Newhouse",
+      "label": "R-WA-04",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "norton-dc-00",
+      "name": "Eleanor Holmes Norton",
+      "label": "D-DC-00",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "owens-ut-04",
+      "name": "Burgess Owens",
+      "label": "R-UT-04",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "pappas-nh-01",
+      "name": "Chris Pappas",
+      "label": "D-NH-01",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "rose-tn-06",
+      "name": "John W. Rose",
+      "label": "R-TN-06",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "schakowsky-il-09",
+      "name": "Janice D. Schakowsky",
+      "label": "D-IL-09",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "schweikert-az-01",
+      "name": "David Schweikert",
+      "label": "R-AZ-01",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "stevens-mi-11",
+      "name": "Haley M. Stevens",
+      "label": "D-MI-11",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "thanedar-mi-13",
+      "name": "Shri Thanedar",
+      "label": "D-MI-13",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "veasey-tx-33",
+      "name": "Marc A. Veasey",
+      "label": "D-TX-33",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "wilson-fl-24",
+      "name": "Frederica S. Wilson",
+      "label": "D-FL-24",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "zinke-mt-01",
+      "name": "Ryan K. Zinke",
+      "label": "R-MT-01",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "health-access",
+    "bill": "hr2048",
+    "label": "H.R. 2048",
+    "short": "Metastatic Breast Cancer Access to Care Act",
+    "stage": "in_committee",
+    "supporters": 272,
+    "departing": 42,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "bacon-ne-02",
+      "name": "Don Bacon",
+      "label": "R-NE-02",
+      "party": "R",
+      "psc": true,
+      "status": "retiring"
+     },
+     {
+      "slug": "brownley-ca-26",
+      "name": "Julia Brownley",
+      "label": "D-CA-26",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "buchanan-fl-16",
+      "name": "Vern Buchanan",
+      "label": "R-FL-16",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "carter-ga-01",
+      "name": "Earl L. \"Buddy\" Carter",
+      "label": "R-GA-01",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "cohen-tn-09",
+      "name": "Steve Cohen",
+      "label": "D-TN-09",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "craig-mn-02",
+      "name": "Angie Craig",
+      "label": "D-MN-02",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "crockett-tx-30",
+      "name": "Jasmine Crockett",
+      "label": "D-TX-30",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "davis-il-07",
+      "name": "Danny K. Davis",
+      "label": "D-IL-07",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "degette-co-01",
+      "name": "Diana DeGette",
+      "label": "D-CO-01",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "doggett-tx-37",
+      "name": "Lloyd Doggett",
+      "label": "D-TX-37",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "dunn-fl-02",
+      "name": "Neal P. Dunn",
+      "label": "R-FL-02",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "edwards-nc-11",
+      "name": "Chuck Edwards",
+      "label": "R-NC-11",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "espaillat-ny-13",
+      "name": "Adriano Espaillat",
+      "label": "D-NY-13",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "evans-pa-03",
+      "name": "Dwight Evans",
+      "label": "D-PA-03",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "feenstra-ia-04",
+      "name": "Randy Feenstra",
+      "label": "R-IA-04",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "fields-la-06",
+      "name": "Cleo Fields",
+      "label": "D-LA-06",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "golden-me-02",
+      "name": "Jared F. Golden",
+      "label": "D-ME-02",
+      "party": "D",
+      "psc": true,
+      "status": "retiring"
+     },
+     {
+      "slug": "goldman-ny-10",
+      "name": "Daniel S. Goldman",
+      "label": "D-NY-10",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "hinson-ia-02",
+      "name": "Ashley Hinson",
+      "label": "R-IA-02",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "james-mi-10",
+      "name": "John James",
+      "label": "R-MI-10",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "johnson-tx-32",
+      "name": "Julie Johnson",
+      "label": "D-TX-32",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "johnson-sd-00",
+      "name": "Dusty Johnson",
+      "label": "R-SD-00",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "kelly-il-02",
+      "name": "Robin L. Kelly",
+      "label": "D-IL-02",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "krishnamoorthi-il-08",
+      "name": "Raja Krishnamoorthi",
+      "label": "D-IL-08",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "larson-ct-01",
+      "name": "John B. Larson",
+      "label": "D-CT-01",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "mills-fl-07",
+      "name": "Cory Mills",
+      "label": "R-FL-07",
+      "party": "R",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "moulton-ma-06",
+      "name": "Seth Moulton",
+      "label": "D-MA-06",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "nadler-ny-12",
+      "name": "Jerrold Nadler",
+      "label": "D-NY-12",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "norman-sc-05",
+      "name": "Ralph Norman",
+      "label": "R-SC-05",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "norton-dc-00",
+      "name": "Eleanor Holmes Norton",
+      "label": "D-DC-00",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "owens-ut-04",
+      "name": "Burgess Owens",
+      "label": "R-UT-04",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "pappas-nh-01",
+      "name": "Chris Pappas",
+      "label": "D-NH-01",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "pelosi-ca-11",
+      "name": "Nancy Pelosi",
+      "label": "D-CA-11",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "plaskett-vi-00",
+      "name": "Stacey E. Plaskett",
+      "label": "D-VI-00",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "rose-tn-06",
+      "name": "John W. Rose",
+      "label": "R-TN-06",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "schakowsky-il-09",
+      "name": "Janice D. Schakowsky",
+      "label": "D-IL-09",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "stefanik-ny-21",
+      "name": "Elise M. Stefanik",
+      "label": "R-NY-21",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "stevens-mi-11",
+      "name": "Haley M. Stevens",
+      "label": "D-MI-11",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "thanedar-mi-13",
+      "name": "Shri Thanedar",
+      "label": "D-MI-13",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "veasey-tx-33",
+      "name": "Marc A. Veasey",
+      "label": "D-TX-33",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "velazquez-ny-07",
+      "name": "Nydia M. Velázquez",
+      "label": "D-NY-07",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "wilson-fl-24",
+      "name": "Frederica S. Wilson",
+      "label": "D-FL-24",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "energy-housing-costs",
+    "bill": "hr3694",
+    "label": "H.R. 3694",
+    "short": "VALID Act",
+    "stage": "in_committee",
+    "supporters": 95,
+    "departing": 18,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "cohen-tn-09",
+      "name": "Steve Cohen",
+      "label": "D-TN-09",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "craig-mn-02",
+      "name": "Angie Craig",
+      "label": "D-MN-02",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "davis-il-07",
+      "name": "Danny K. Davis",
+      "label": "D-IL-07",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "garcia-il-04",
+      "name": "Jesús G. \"Chuy\" García",
+      "label": "D-IL-04",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "hageman-wy-00",
+      "name": "Harriet M. Hageman",
+      "label": "R-WY-00",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "kelly-il-02",
+      "name": "Robin L. Kelly",
+      "label": "D-IL-02",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "krishnamoorthi-il-08",
+      "name": "Raja Krishnamoorthi",
+      "label": "D-IL-08",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "letlow-la-05",
+      "name": "Julia Letlow",
+      "label": "R-LA-05",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "loudermilk-ga-11",
+      "name": "Barry Loudermilk",
+      "label": "R-GA-11",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "luttrell-tx-08",
+      "name": "Morgan Luttrell",
+      "label": "R-TX-08",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "mills-fl-07",
+      "name": "Cory Mills",
+      "label": "R-FL-07",
+      "party": "R",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "moulton-ma-06",
+      "name": "Seth Moulton",
+      "label": "D-MA-06",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "nehls-tx-22",
+      "name": "Troy E. Nehls",
+      "label": "R-TX-22",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "newhouse-wa-04",
+      "name": "Dan Newhouse",
+      "label": "R-WA-04",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "norton-dc-00",
+      "name": "Eleanor Holmes Norton",
+      "label": "D-DC-00",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "pappas-nh-01",
+      "name": "Chris Pappas",
+      "label": "D-NH-01",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "schakowsky-il-09",
+      "name": "Janice D. Schakowsky",
+      "label": "D-IL-09",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "thanedar-mi-13",
+      "name": "Shri Thanedar",
+      "label": "D-MI-13",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     }
+    ]
+   },
+   {
+    "goal": "family-costs",
+    "bill": "hr2036",
+    "label": "H.R. 2036",
+    "short": "Credit for Caring Act",
+    "stage": "in_committee",
+    "supporters": 146,
+    "departing": 17,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "amodei-nv-02",
+      "name": "Mark E. Amodei",
+      "label": "R-NV-02",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "bacon-ne-02",
+      "name": "Don Bacon",
+      "label": "R-NE-02",
+      "party": "R",
+      "psc": true,
+      "status": "retiring"
+     },
+     {
+      "slug": "barr-ky-06",
+      "name": "Andy Barr",
+      "label": "R-KY-06",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "cohen-tn-09",
+      "name": "Steve Cohen",
+      "label": "D-TN-09",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "craig-mn-02",
+      "name": "Angie Craig",
+      "label": "D-MN-02",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "fields-la-06",
+      "name": "Cleo Fields",
+      "label": "D-LA-06",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "graves-mo-06",
+      "name": "Sam Graves",
+      "label": "R-MO-06",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "hinson-ia-02",
+      "name": "Ashley Hinson",
+      "label": "R-IA-02",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "johnson-tx-32",
+      "name": "Julie Johnson",
+      "label": "D-TX-32",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "kelly-il-02",
+      "name": "Robin L. Kelly",
+      "label": "D-IL-02",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "moulton-ma-06",
+      "name": "Seth Moulton",
+      "label": "D-MA-06",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "newhouse-wa-04",
+      "name": "Dan Newhouse",
+      "label": "R-WA-04",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "norton-dc-00",
+      "name": "Eleanor Holmes Norton",
+      "label": "D-DC-00",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "schakowsky-il-09",
+      "name": "Janice D. Schakowsky",
+      "label": "D-IL-09",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "thanedar-mi-13",
+      "name": "Shri Thanedar",
+      "label": "D-MI-13",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "watson-coleman-nj-12",
+      "name": "Bonnie Watson Coleman",
+      "label": "D-NJ-12",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "wilson-fl-24",
+      "name": "Frederica S. Wilson",
+      "label": "D-FL-24",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "health-access",
+    "bill": "hr5269",
+    "label": "H.R. 5269",
+    "short": "RESULTS Act",
+    "stage": "in_committee",
+    "supporters": 126,
+    "departing": 16,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "bacon-ne-02",
+      "name": "Don Bacon",
+      "label": "R-NE-02",
+      "party": "R",
+      "psc": true,
+      "status": "retiring"
+     },
+     {
+      "slug": "brownley-ca-26",
+      "name": "Julia Brownley",
+      "label": "D-CA-26",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "carter-ga-01",
+      "name": "Earl L. \"Buddy\" Carter",
+      "label": "R-GA-01",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "cohen-tn-09",
+      "name": "Steve Cohen",
+      "label": "D-TN-09",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "craig-mn-02",
+      "name": "Angie Craig",
+      "label": "D-MN-02",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "crenshaw-tx-02",
+      "name": "Dan Crenshaw",
+      "label": "R-TX-02",
+      "party": "R",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "davis-il-07",
+      "name": "Danny K. Davis",
+      "label": "D-IL-07",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "dunn-fl-02",
+      "name": "Neal P. Dunn",
+      "label": "R-FL-02",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "edwards-nc-11",
+      "name": "Chuck Edwards",
+      "label": "R-NC-11",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "krishnamoorthi-il-08",
+      "name": "Raja Krishnamoorthi",
+      "label": "D-IL-08",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "norton-dc-00",
+      "name": "Eleanor Holmes Norton",
+      "label": "D-DC-00",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "owens-ut-04",
+      "name": "Burgess Owens",
+      "label": "R-UT-04",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "stevens-mi-11",
+      "name": "Haley M. Stevens",
+      "label": "D-MI-11",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "thanedar-mi-13",
+      "name": "Shri Thanedar",
+      "label": "D-MI-13",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "veasey-tx-33",
+      "name": "Marc A. Veasey",
+      "label": "D-TX-33",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "watson-coleman-nj-12",
+      "name": "Bonnie Watson Coleman",
+      "label": "D-NJ-12",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "online-safety-ai",
+    "bill": "hr3562",
+    "label": "H.R. 3562",
+    "short": "DEFIANCE Act",
+    "stage": "in_committee",
+    "supporters": 70,
+    "departing": 9,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "buchanan-fl-16",
+      "name": "Vern Buchanan",
+      "label": "R-FL-16",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "crockett-tx-30",
+      "name": "Jasmine Crockett",
+      "label": "D-TX-30",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "edwards-nc-11",
+      "name": "Chuck Edwards",
+      "label": "R-NC-11",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "evans-pa-03",
+      "name": "Dwight Evans",
+      "label": "D-PA-03",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "letlow-la-05",
+      "name": "Julia Letlow",
+      "label": "R-LA-05",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "mace-sc-01",
+      "name": "Nancy Mace",
+      "label": "R-SC-01",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "norton-dc-00",
+      "name": "Eleanor Holmes Norton",
+      "label": "D-DC-00",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "velazquez-ny-07",
+      "name": "Nydia M. Velázquez",
+      "label": "D-NY-07",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "watson-coleman-nj-12",
+      "name": "Bonnie Watson Coleman",
+      "label": "D-NJ-12",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "energy-housing-costs",
+    "bill": "hr3876",
+    "label": "H.R. 3876",
+    "short": "LIHEAP Staffing Support Act",
+    "stage": "in_committee",
+    "supporters": 49,
+    "departing": 8,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "craig-mn-02",
+      "name": "Angie Craig",
+      "label": "D-MN-02",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "evans-pa-03",
+      "name": "Dwight Evans",
+      "label": "D-PA-03",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "garcia-il-04",
+      "name": "Jesús G. \"Chuy\" García",
+      "label": "D-IL-04",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "johnson-tx-32",
+      "name": "Julie Johnson",
+      "label": "D-TX-32",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "krishnamoorthi-il-08",
+      "name": "Raja Krishnamoorthi",
+      "label": "D-IL-08",
+      "party": "D",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "norton-dc-00",
+      "name": "Eleanor Holmes Norton",
+      "label": "D-DC-00",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "pappas-nh-01",
+      "name": "Chris Pappas",
+      "label": "D-NH-01",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "thanedar-mi-13",
+      "name": "Shri Thanedar",
+      "label": "D-MI-13",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     }
+    ]
+   },
+   {
+    "goal": "family-costs",
+    "bill": "hr1464",
+    "label": "H.R. 1464",
+    "short": "MODERN WIC Act",
+    "stage": "in_committee",
+    "supporters": 81,
+    "departing": 7,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "bacon-ne-02",
+      "name": "Don Bacon",
+      "label": "R-NE-02",
+      "party": "R",
+      "psc": true,
+      "status": "retiring"
+     },
+     {
+      "slug": "cohen-tn-09",
+      "name": "Steve Cohen",
+      "label": "D-TN-09",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "evans-pa-03",
+      "name": "Dwight Evans",
+      "label": "D-PA-03",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "norton-dc-00",
+      "name": "Eleanor Holmes Norton",
+      "label": "D-DC-00",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "pappas-nh-01",
+      "name": "Chris Pappas",
+      "label": "D-NH-01",
+      "party": "D",
+      "psc": true,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "thanedar-mi-13",
+      "name": "Shri Thanedar",
+      "label": "D-MI-13",
+      "party": "D",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "wilson-fl-24",
+      "name": "Frederica S. Wilson",
+      "label": "D-FL-24",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "fiscal-stability",
+    "bill": "hr3289",
+    "label": "H.R. 3289",
+    "short": "Fiscal Commission Act",
+    "stage": "in_committee",
+    "supporters": 43,
+    "departing": 7,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "barr-ky-06",
+      "name": "Andy Barr",
+      "label": "R-KY-06",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "edwards-nc-11",
+      "name": "Chuck Edwards",
+      "label": "R-NC-11",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "golden-me-02",
+      "name": "Jared F. Golden",
+      "label": "D-ME-02",
+      "party": "D",
+      "psc": true,
+      "status": "retiring"
+     },
+     {
+      "slug": "johnson-sd-00",
+      "name": "Dusty Johnson",
+      "label": "R-SD-00",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "mills-fl-07",
+      "name": "Cory Mills",
+      "label": "R-FL-07",
+      "party": "R",
+      "psc": false,
+      "status": "lost_primary"
+     },
+     {
+      "slug": "schweikert-az-01",
+      "name": "David Schweikert",
+      "label": "R-AZ-01",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "veasey-tx-33",
+      "name": "Marc A. Veasey",
+      "label": "D-TX-33",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "data-center-ratepayers",
+    "bill": "hr9340",
+    "label": "H.R. 9340",
+    "short": "Ratepayer Protection Act",
+    "stage": "passed_house",
+    "supporters": 43,
+    "departing": 3,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "carter-ga-01",
+      "name": "Earl L. \"Buddy\" Carter",
+      "label": "R-GA-01",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "hageman-wy-00",
+      "name": "Harriet M. Hageman",
+      "label": "R-WY-00",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "mccaul-tx-10",
+      "name": "Michael T. McCaul",
+      "label": "R-TX-10",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "fiscal-stability",
+    "bill": "hr4642",
+    "label": "H.R. 4642",
+    "short": "Fiscal Contingency Preparedness Act",
+    "stage": "reported",
+    "supporters": 23,
+    "departing": 3,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "barr-ky-06",
+      "name": "Andy Barr",
+      "label": "R-KY-06",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     },
+     {
+      "slug": "edwards-nc-11",
+      "name": "Chuck Edwards",
+      "label": "R-NC-11",
+      "party": "R",
+      "psc": false,
+      "status": "retiring"
+     },
+     {
+      "slug": "golden-me-02",
+      "name": "Jared F. Golden",
+      "label": "D-ME-02",
+      "party": "D",
+      "psc": true,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "fiscal-stability",
+    "bill": "hr222",
+    "label": "H.R. 222",
+    "short": "Sustainable Budget Act",
+    "stage": "in_committee",
+    "supporters": 8,
+    "departing": 2,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "bacon-ne-02",
+      "name": "Don Bacon",
+      "label": "R-NE-02",
+      "party": "R",
+      "psc": true,
+      "status": "retiring"
+     },
+     {
+      "slug": "carter-ga-01",
+      "name": "Earl L. \"Buddy\" Carter",
+      "label": "R-GA-01",
+      "party": "R",
+      "psc": false,
+      "status": "seeking_other_office"
+     }
+    ]
+   },
+   {
+    "goal": "health-access",
+    "bill": "hr7116",
+    "label": "H.R. 7116",
+    "short": "SEPSIS Act",
+    "stage": "in_committee",
+    "supporters": 8,
+    "departing": 1,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "norton-dc-00",
+      "name": "Eleanor Holmes Norton",
+      "label": "D-DC-00",
+      "party": "D",
+      "psc": false,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "protect-filibuster",
+    "bill": "hjres4",
+    "label": "H.J.Res. 4",
+    "short": "Filibuster amendment",
+    "stage": "in_committee",
+    "supporters": 5,
+    "departing": 1,
+    "sponsor_departing": false,
+    "departing_members": [
+     {
+      "slug": "golden-me-02",
+      "name": "Jared F. Golden",
+      "label": "D-ME-02",
+      "party": "D",
+      "psc": true,
+      "status": "retiring"
+     }
+    ]
+   },
+   {
+    "goal": "health-access",
+    "bill": "s1929",
+    "label": "S. 1929",
+    "short": "SEPSIS Act",
+    "stage": "in_committee",
+    "supporters": 9,
+    "departing": 0,
+    "sponsor_departing": false,
+    "departing_members": []
+   },
+   {
+    "goal": "health-access",
+    "bill": "s3442",
+    "label": "S. 3442",
+    "short": "Metastatic Breast Cancer Access to Care Act",
+    "stage": "in_committee",
+    "supporters": 8,
+    "departing": 0,
+    "sponsor_departing": false,
+    "departing_members": []
+   },
+   {
+    "goal": "permitting-reform",
+    "bill": "s5653",
+    "label": "S. 5653",
+    "short": "Bipartisan American Affordability and Jobs Act of 2026",
+    "stage": "in_committee",
+    "supporters": 0,
+    "departing": 0,
+    "sponsor_departing": false,
+    "departing_members": []
+   },
+   {
+    "goal": "redistricting-reform",
+    "bill": "hr10378",
+    "label": "H.R. 10378",
+    "short": "TRUST Act",
+    "stage": "in_committee",
+    "supporters": 11,
+    "departing": 0,
+    "sponsor_departing": false,
+    "departing_members": []
+   },
+   {
+    "goal": "redistricting-reform",
+    "bill": "hr10379",
+    "label": "H.R. 10379",
+    "short": "MAPS Act",
+    "stage": "in_committee",
+    "supporters": 11,
+    "departing": 0,
+    "sponsor_departing": false,
+    "departing_members": []
+   },
+   {
+    "goal": "redistricting-reform",
+    "bill": "hr10380",
+    "label": "H.R. 10380",
+    "short": "Independent Commissions Act",
+    "stage": "in_committee",
+    "supporters": 8,
+    "departing": 0,
+    "sponsor_departing": false,
+    "departing_members": []
+   },
+   {
+    "goal": "redistricting-reform",
+    "bill": "hr10381",
+    "label": "H.R. 10381",
+    "short": "COURTS Act",
+    "stage": "in_committee",
+    "supporters": 6,
+    "departing": 0,
+    "sponsor_departing": false,
+    "departing_members": []
+   }
+  ],
+  "members": [
+   {
+    "slug": "arrington-tx-19",
+    "name": "Jodey C. Arrington",
+    "label": "R-TX-19",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "A",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "bacon-ne-02",
+    "name": "Don Bacon",
+    "label": "R-NE-02",
+    "party": "R",
+    "psc": true,
+    "chamber": "house",
+    "tier": "A",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 6
+   },
+   {
+    "slug": "craig-mn-02",
+    "name": "Angie Craig",
+    "label": "D-MN-02",
+    "party": "D",
+    "psc": true,
+    "chamber": "house",
+    "tier": "A",
+    "status": "seeking_other_office",
+    "detail": "Ran for U.S. Senate",
+    "caucus_bills": 6
+   },
+   {
+    "slug": "dunn-fl-02",
+    "name": "Neal P. Dunn",
+    "label": "R-FL-02",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "A",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "golden-me-02",
+    "name": "Jared F. Golden",
+    "label": "D-ME-02",
+    "party": "D",
+    "psc": true,
+    "chamber": "house",
+    "tier": "A",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "graves-mo-06",
+    "name": "Sam Graves",
+    "label": "R-MO-06",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "A",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "pappas-nh-01",
+    "name": "Chris Pappas",
+    "label": "D-NH-01",
+    "party": "D",
+    "psc": true,
+    "chamber": "house",
+    "tier": "A",
+    "status": "seeking_other_office",
+    "detail": "Running for U.S. Senate",
+    "caucus_bills": 6
+   },
+   {
+    "slug": "stevens-mi-11",
+    "name": "Haley M. Stevens",
+    "label": "D-MI-11",
+    "party": "D",
+    "psc": true,
+    "chamber": "house",
+    "tier": "A",
+    "status": "seeking_other_office",
+    "detail": "Ran for U.S. Senate",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "cassidy-la",
+    "name": "Bill Cassidy",
+    "label": "R-LA",
+    "party": "R",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "A",
+    "status": "lost_primary",
+    "detail": "Finished third in the Louisiana primary",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "durbin-il",
+    "name": "Richard J. Durbin",
+    "label": "D-IL",
+    "party": "D",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "A",
+    "status": "retiring",
+    "detail": "Announced Apr 23, 2025",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "mcconnell-ky",
+    "name": "Mitch McConnell",
+    "label": "R-KY",
+    "party": "R",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "A",
+    "status": "retiring",
+    "detail": "Announced Feb 20, 2025",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "peters-mi",
+    "name": "Gary C. Peters",
+    "label": "D-MI",
+    "party": "D",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "A",
+    "status": "retiring",
+    "detail": "Announced Jan 28, 2025",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "barr-ky-06",
+    "name": "Andy Barr",
+    "label": "R-KY-06",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for U.S. Senate",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "biggs-az-05",
+    "name": "Andy Biggs",
+    "label": "R-AZ-05",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of Arizona",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "brownley-ca-26",
+    "name": "Julia Brownley",
+    "label": "D-CA-26",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "buchanan-fl-16",
+    "name": "Vern Buchanan",
+    "label": "R-FL-16",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "carter-ga-01",
+    "name": "Earl L. \"Buddy\" Carter",
+    "label": "R-GA-01",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Ran for U.S. Senate",
+    "caucus_bills": 5
+   },
+   {
+    "slug": "cohen-tn-09",
+    "name": "Steve Cohen",
+    "label": "D-TN-09",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 6
+   },
+   {
+    "slug": "collins-ga-10",
+    "name": "Mike Collins",
+    "label": "R-GA-10",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for U.S. Senate",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "crenshaw-tx-02",
+    "name": "Dan Crenshaw",
+    "label": "R-TX-02",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "lost_primary",
+    "detail": "Lost renomination to Steve Toth",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "crockett-tx-30",
+    "name": "Jasmine Crockett",
+    "label": "D-TX-30",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Ran for U.S. Senate",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "davis-il-07",
+    "name": "Danny K. Davis",
+    "label": "D-IL-07",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "degette-co-01",
+    "name": "Diana DeGette",
+    "label": "D-CO-01",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "lost_primary",
+    "detail": "Lost renomination to Melat Kiros",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "doggett-tx-37",
+    "name": "Lloyd Doggett",
+    "label": "D-TX-37",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "donalds-fl-19",
+    "name": "Byron Donalds",
+    "label": "R-FL-19",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of Florida",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "edwards-nc-11",
+    "name": "Chuck Edwards",
+    "label": "R-NC-11",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "Withdrew Aug 5, 2026 after winning the primary",
+    "caucus_bills": 6
+   },
+   {
+    "slug": "espaillat-ny-13",
+    "name": "Adriano Espaillat",
+    "label": "D-NY-13",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "lost_primary",
+    "detail": "Lost renomination to Darializa Avila Chevalier",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "evans-pa-03",
+    "name": "Dwight Evans",
+    "label": "D-PA-03",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 5
+   },
+   {
+    "slug": "feenstra-ia-04",
+    "name": "Randy Feenstra",
+    "label": "R-IA-04",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of Iowa",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "fields-la-06",
+    "name": "Cleo Fields",
+    "label": "D-LA-06",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for Louisiana State Senate",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "garcia-il-04",
+    "name": "Jesús G. \"Chuy\" García",
+    "label": "D-IL-04",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "goldman-ny-10",
+    "name": "Daniel S. Goldman",
+    "label": "D-NY-10",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "lost_primary",
+    "detail": "Lost renomination to Brad Lander",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "green-tx-09",
+    "name": "Al Green",
+    "label": "D-TX-09",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "lost_primary",
+    "detail": "Lost to fellow incumbent Christian Menefee after redistricting",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "hageman-wy-00",
+    "name": "Harriet M. Hageman",
+    "label": "R-WY-00",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for U.S. Senate",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "hern-ok-01",
+    "name": "Kevin Hern",
+    "label": "R-OK-01",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for U.S. Senate",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "hunt-tx-38",
+    "name": "Wesley Hunt",
+    "label": "R-TX-38",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Ran for U.S. Senate",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "issa-ca-48",
+    "name": "Darrell Issa",
+    "label": "R-CA-48",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "james-mi-10",
+    "name": "John James",
+    "label": "R-MI-10",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of Michigan",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "johnson-sd-00",
+    "name": "Dusty Johnson",
+    "label": "R-SD-00",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of South Dakota",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "kelly-il-02",
+    "name": "Robin L. Kelly",
+    "label": "D-IL-02",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Ran for U.S. Senate",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "larson-ct-01",
+    "name": "John B. Larson",
+    "label": "D-CT-01",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "lost_primary",
+    "detail": "Lost renomination to Luke Bronin",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "letlow-la-05",
+    "name": "Julia Letlow",
+    "label": "R-LA-05",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for U.S. Senate",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "massie-ky-04",
+    "name": "Thomas Massie",
+    "label": "R-KY-04",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "lost_primary",
+    "detail": "Lost renomination to Ed Gallrein",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "moore-al-01",
+    "name": "Barry Moore",
+    "label": "R-AL-01",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for U.S. Senate",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "moulton-ma-06",
+    "name": "Seth Moulton",
+    "label": "D-MA-06",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Ran for U.S. Senate",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "nadler-ny-12",
+    "name": "Jerrold Nadler",
+    "label": "D-NY-12",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "nehls-tx-22",
+    "name": "Troy E. Nehls",
+    "label": "R-TX-22",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "norman-sc-05",
+    "name": "Ralph Norman",
+    "label": "R-SC-05",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Ran for statewide office",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "norton-dc-00",
+    "name": "Eleanor Holmes Norton",
+    "label": "D-DC-00",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "Delegate",
+    "caucus_bills": 10
+   },
+   {
+    "slug": "ogles-tn-05",
+    "name": "Andrew Ogles",
+    "label": "R-TN-05",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "lost_primary",
+    "detail": "Lost renomination to Charlie Hatcher",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "owens-ut-04",
+    "name": "Burgess Owens",
+    "label": "R-UT-04",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "plaskett-vi-00",
+    "name": "Stacey E. Plaskett",
+    "label": "D-VI-00",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of the Virgin Islands",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "rose-tn-06",
+    "name": "John W. Rose",
+    "label": "R-TN-06",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of Tennessee",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "roy-tx-21",
+    "name": "Chip Roy",
+    "label": "R-TX-21",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for Texas attorney general",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "schakowsky-il-09",
+    "name": "Janice D. Schakowsky",
+    "label": "D-IL-09",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "schweikert-az-01",
+    "name": "David Schweikert",
+    "label": "R-AZ-01",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of Arizona",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "stefanik-ny-21",
+    "name": "Elise M. Stefanik",
+    "label": "R-NY-21",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "tiffany-wi-07",
+    "name": "Thomas P. Tiffany",
+    "label": "R-WI-07",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of Wisconsin",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "veasey-tx-33",
+    "name": "Marc A. Veasey",
+    "label": "D-TX-33",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "velazquez-ny-07",
+    "name": "Nydia M. Velázquez",
+    "label": "D-NY-07",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "watson-coleman-nj-12",
+    "name": "Bonnie Watson Coleman",
+    "label": "D-NJ-12",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "webster-fl-11",
+    "name": "Daniel Webster",
+    "label": "R-FL-11",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "wilson-fl-24",
+    "name": "Frederica S. Wilson",
+    "label": "D-FL-24",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "zinke-mt-01",
+    "name": "Ryan K. Zinke",
+    "label": "R-MT-01",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "armstrong-ok",
+    "name": "Alan Armstrong",
+    "label": "R-OK",
+    "party": "R",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "Appointed interim senator; not running for the seat",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "cornyn-tx",
+    "name": "John Cornyn",
+    "label": "R-TX",
+    "party": "R",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "B",
+    "status": "lost_primary",
+    "detail": "Lost the Republican runoff to Ken Paxton",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "daines-mt",
+    "name": "Steve Daines",
+    "label": "R-MT",
+    "party": "R",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "Announced Mar 4, 2026",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "shaheen-nh",
+    "name": "Jeanne Shaheen",
+    "label": "D-NH",
+    "party": "D",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "Announced Mar 12, 2025",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "smith-mn",
+    "name": "Tina Smith",
+    "label": "D-MN",
+    "party": "D",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "Announced Feb 13, 2025",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "tillis-nc",
+    "name": "Thom Tillis",
+    "label": "R-NC",
+    "party": "R",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "B",
+    "status": "retiring",
+    "detail": "Announced Jun 29, 2025",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "tuberville-al",
+    "name": "Tommy Tuberville",
+    "label": "R-AL",
+    "party": "R",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "B",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of Alabama",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "amodei-nv-02",
+    "name": "Mark E. Amodei",
+    "label": "R-NV-02",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "hinson-ia-02",
+    "name": "Ashley Hinson",
+    "label": "R-IA-02",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "seeking_other_office",
+    "detail": "Running for U.S. Senate",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "hoyer-md-05",
+    "name": "Steny H. Hoyer",
+    "label": "D-MD-05",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "johnson-tx-32",
+    "name": "Julie Johnson",
+    "label": "D-TX-32",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "lost_primary",
+    "detail": "Lost renomination to Colin Allred",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "krishnamoorthi-il-08",
+    "name": "Raja Krishnamoorthi",
+    "label": "D-IL-08",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "seeking_other_office",
+    "detail": "Ran for U.S. Senate",
+    "caucus_bills": 5
+   },
+   {
+    "slug": "loudermilk-ga-11",
+    "name": "Barry Loudermilk",
+    "label": "R-GA-11",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "luttrell-tx-08",
+    "name": "Morgan Luttrell",
+    "label": "R-TX-08",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "mace-sc-01",
+    "name": "Nancy Mace",
+    "label": "R-SC-01",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "seeking_other_office",
+    "detail": "Running for governor of South Carolina",
+    "caucus_bills": 2
+   },
+   {
+    "slug": "mccaul-tx-10",
+    "name": "Michael T. McCaul",
+    "label": "R-TX-10",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "mills-fl-07",
+    "name": "Cory Mills",
+    "label": "R-FL-07",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "lost_primary",
+    "detail": "Lost renomination to Ryan Elijah",
+    "caucus_bills": 4
+   },
+   {
+    "slug": "newhouse-wa-04",
+    "name": "Dan Newhouse",
+    "label": "R-WA-04",
+    "party": "R",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 3
+   },
+   {
+    "slug": "pelosi-ca-11",
+    "name": "Nancy Pelosi",
+    "label": "D-CA-11",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "retiring",
+    "detail": "",
+    "caucus_bills": 1
+   },
+   {
+    "slug": "thanedar-mi-13",
+    "name": "Shri Thanedar",
+    "label": "D-MI-13",
+    "party": "D",
+    "psc": false,
+    "chamber": "house",
+    "tier": "C",
+    "status": "lost_primary",
+    "detail": "Lost renomination to Donavan McKinney",
+    "caucus_bills": 7
+   },
+   {
+    "slug": "ernst-ia",
+    "name": "Joni Ernst",
+    "label": "R-IA",
+    "party": "R",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "C",
+    "status": "retiring",
+    "detail": "Announced Sep 2, 2025",
+    "caucus_bills": 0
+   },
+   {
+    "slug": "lummis-wy",
+    "name": "Cynthia M. Lummis",
+    "label": "R-WY",
+    "party": "R",
+    "psc": false,
+    "chamber": "senate",
+    "tier": "C",
+    "status": "retiring",
+    "detail": "Announced Dec 19, 2025",
+    "caucus_bills": 0
+   }
+  ],
+  "as_of": "2026-11-04"
+ }
 }

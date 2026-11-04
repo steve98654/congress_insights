@@ -1,8 +1,8 @@
 # Sen. Mitch McConnell (R-KY)
 
-Senator for KY · 41.8 years in the Senate
+Senator for KY · 41.8 years in the Senate · Leaving Congress in January (retiring: Announced Feb 20, 2025)
 
-**Priority tier A** · leverage score 55 (rank 66 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
+**Priority tier A** · leverage score 48 (rank 92 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Committee of Congress on the Library (Vice Chairman); Joint Committee on Printing (Chairman); Agriculture, Nutrition, and Forestry; Appropriations; Rules and Administration (Chairman)
 
@@ -10,16 +10,33 @@ Senator for KY · 41.8 years in the Senate
 
 1. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA), Sen. Michael F. Bennet (D-CO).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
-2. **Introduce a Senate companion to H.R. 10378 (TRUST Act) with Sen. Amy Klobuchar (D-MN).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 55_  
-   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
-3. **Introduce a Senate companion to H.R. 10379 (MAPS Act) with Sen. Amy Klobuchar (D-MN).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 55_  
-   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
-4. **Introduce a Senate companion to H.R. 10380 (Independent Commissions Act) with Sen. Amy Klobuchar (D-MN).** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 55_  
-   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (4 R, 4 D, 8 PSC).
-5. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
+2. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
-6. **Introduce a Senate companion to H.R. 1464 (MODERN WIC Act) with Sen. Amy Klobuchar (D-MN).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 40_  
-   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
+3. **Introduce a Senate companion to H.R. 10378 (TRUST Act) with Sen. Amy Klobuchar (D-MN).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 33_  
+   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+4. **Introduce a Senate companion to H.R. 10379 (MAPS Act) with Sen. Amy Klobuchar (D-MN).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 33_  
+   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+5. **Introduce a Senate companion to H.R. 10380 (Independent Commissions Act) with Sen. Amy Klobuchar (D-MN).** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 33_  
+   There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (4 R, 4 D, 8 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+6. **Introduce a Senate companion to H.R. 1464 (MODERN WIC Act) with Sen. Amy Klobuchar (D-MN).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 24_  
+   There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 81 sponsors and cosponsors (10 R, 71 D, 16 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+
+## Talking points
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- Your record: voted yea.
+
+**H.R. 10378, TRUST Act: End partisan gerrymandering**
+- Limits states to one congressional redistricting after each census.
+- 11 members back it: 5 Republicans and 6 Democrats, including 11 Problem Solvers.
+
+**H.R. 10379, MAPS Act: End partisan gerrymandering**
+- Sets national map-drawing criteria and bars maps drawn to favor a party, candidate or incumbent.
+- 11 members back it: 5 Republicans and 6 Democrats, including 11 Problem Solvers.
 
 ## Position on each goal
 
@@ -28,13 +45,14 @@ Senator for KY · 41.8 years in the Senate
 | Fund the government on time | committee work | - | 50 |
 | Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 55 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 0 |
-| Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 40 |
+| Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 24 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 0 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 0 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 0 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
-| End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 55 |
+| End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 33 |
 
 ## Cross-party partners
 
@@ -48,4 +66,6 @@ Senator for KY · 41.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

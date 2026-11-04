@@ -21,9 +21,23 @@ Representative for TX-05 · 7.8 years in the House
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Vicente Gonzalez (D-TX-34), Rep. Morgan Luttrell (R-TX-08), Rep. Sylvia R. Garcia (D-TX-29), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Sylvia R. Garcia (D-TX-29), Rep. John R. Carter (R-TX-31), Rep. Vicente Gonzalez (D-TX-34), 3 more.
 8. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   10 colleagues from your state already cosponsor: Rep. Ronny Jackson (R-TX-13), Rep. Lizzie Fletcher (D-TX-07), Rep. Craig A. Goldman (R-TX-12), 7 more.
+   10 of your state colleagues are already cosponsoring: Rep. Beth Van Duyne (R-TX-24), Rep. Ronny Jackson (R-TX-13), Rep. Craig A. Goldman (R-TX-12), 7 more.
+
+## Talking points
+
+**H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
+- DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.
+- 8 members back it: 5 Republicans and 3 Democrats, including 5 Problem Solvers.
+
+**H.J.Res. 4, Filibuster amendment: Protect the Senate filibuster**
+- Proposes a constitutional amendment that debate on legislation in the Senate cannot close without three-fifths of senators.
+- 5 members back it: 2 Republicans and 3 Democrats, including 4 Problem Solvers.
+
+**H.R. 10378, TRUST Act: End partisan gerrymandering**
+- Limits states to one congressional redistricting after each census.
+- 11 members back it: 5 Republicans and 6 Democrats, including 11 Problem Solvers.
 
 ## Position on each goal
 
@@ -37,14 +51,15 @@ Representative for TX-05 · 7.8 years in the House
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 48 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 68 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 68 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 68 |
 
 ## Cross-party partners
 
-- [Rep. Jasmine Crockett (D-TX-30)](crockett-tx-30.md): same state; shared committees: Judiciary
 - [Rep. Henry Cuellar (D-TX-28)](cuellar-tx-28.md): same state; PSC member
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services; PSC member
+- [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Armed Services; PSC member
+- [Rep. Jasmine Crockett (D-TX-30)](crockett-tx-30.md): same state; shared committees: Judiciary
 
 ## Sources
 
@@ -52,4 +67,6 @@ Representative for TX-05 · 7.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

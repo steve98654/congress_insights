@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
 // The site is built from site/, so the repo's data/ folder is one level up.
@@ -36,6 +36,38 @@ export interface Member {
   committees: Seat[];
   subcommittees: Seat[];
   contact: { url?: string; phone?: string; office?: string; x?: string };
+  election: { status: string; detail: string; departing: boolean; up_in_2026: boolean; source: string | null; as_of: string | null };
+}
+
+export const ELECTION_STATUS: Record<string, string> = {
+  retiring: 'Retiring',
+  seeking_other_office: 'Running for another office',
+  lost_primary: 'Lost primary',
+  lost_general: 'Lost general election',
+  won_general: 'Reelected',
+  up_for_reelection: 'On the 2026 ballot',
+  not_up: 'Not up in 2026',
+};
+
+export interface Outreach {
+  bioguide: string;
+  slug: string;
+  goal: string | null;
+  bill: string | null;
+  stage: string;
+  date: string;
+  owner: string;
+  notes: string;
+}
+
+export interface TalkingPoints {
+  goal: string;
+  bill: string;
+  label: string;
+  short: string;
+  headline: string;
+  points: string[];
+  cbo_url: string | null;
 }
 
 export interface Action {
@@ -60,6 +92,8 @@ export interface Insight {
   action_count: number;
   goals: Record<string, { position: string; leverage: number }>;
   partners: string[];
+  talking_points: TalkingPoints[];
+  outreach: Outreach[];
 }
 
 export interface Bill {
@@ -84,6 +118,11 @@ export interface Bill {
   senate_result: string;
   senate_votes: Record<string, string>;
   senate_votes_short: number | null;
+  house_votes: Record<string, string>;
+  house_result: string;
+  summary: { text: string; version: string; date: string } | null;
+  cbo: { title: string; date: string; url: string; description: string }[];
+  policy_area: string | null;
   cosponsors_complete: boolean;
   latest: { date?: string; text?: string };
   data_source: string;
@@ -94,6 +133,7 @@ export interface Goal {
   id: string;
   title: string;
   area: string;
+  group: string;
   summary: string;
   psc_ask: string;
   endorsed: string;
@@ -107,6 +147,8 @@ interface InsightsFile {
   generated: string;
   goals: Goal[];
   members: Insight[];
+  outreach: Outreach[];
+  outreach_stages: string[];
 }
 
 const insightsFile = read<InsightsFile>('insights.json');
@@ -114,6 +156,8 @@ export const generated = insightsFile.generated;
 export const goals = insightsFile.goals;
 export const members = read<Member[]>('members.json');
 export const insights = insightsFile.members;
+export const outreach = insightsFile.outreach;
+export const outreachStages = insightsFile.outreach_stages;
 
 export const memberBySlug = new Map(members.map((m) => [m.slug, m]));
 export const memberById = new Map(members.map((m) => [m.bioguide, m]));
@@ -196,7 +240,26 @@ export interface Analysis {
   companions: (BillRef & { stage: string; supporters: number; committees: string[]; inferred: boolean; pair: (Who & { reasons: string[] })[] })[];
   psc_gaps: (BillRef & { psc_on: number; psc_total: number; missing: Who[]; complete: boolean })[];
   targets: (BillRef & { sponsor: Who | null; targets: (Who & { score: number; reasons: string[] })[] })[];
+  lame_duck: {
+    as_of: string | null;
+    bills: (BillRef & { stage: string; supporters: number; departing: number; sponsor_departing: boolean; departing_members: (Who & { status: string })[] })[];
+    members: (Who & { chamber: string; tier: string; status: string; detail: string; caucus_bills: number })[];
+  };
   momentum: (BillRef & { dated: boolean; recent: number | null; recent_members: (Who & { date: string })[]; last_added: string | null })[];
 }
 
 export const analysis = read<Analysis>('analysis.json');
+
+export interface Digest {
+  since: string;
+  generated: string;
+  bills: (BillRef & { new_goal_bill?: boolean; added: Who[]; dropped: Who[]; notes: string[]; supporters?: number; was?: number })[];
+  tiers: (Who & { was: string; now: string; top: string })[];
+  elections: (Who & { was: string; now: string })[];
+  joined: Who[];
+  left: { name: string }[];
+  totals: { cosponsors_added: number; cosponsors_dropped: number; bills_changed: number; tier_changes: number };
+}
+
+// The digest exists once there are two snapshots in data/history/.
+export const digest: Digest | null = existsSync(resolve(DATA, 'digest.json')) ? read<Digest>('digest.json') : null;

@@ -66,7 +66,10 @@ def whip(ctx, goals):
                     reasons.append("sits on the committee of jurisdiction")
                 if caucus_bills:
                     reasons.append(f"backs {caucus_bills} other caucus bill{'s' if caucus_bills > 1 else ''}")
-                score = 3 * bool(home_yea) + 2 * bool(on_committee) + caucus_bills
+                leaving = (m.get("election") or {}).get("departing")
+                if leaving:
+                    reasons.append("leaving office in January, so free of reelection pressure")
+                score = 3 * bool(home_yea) + 2 * bool(on_committee) + caucus_bills + 2 * bool(leaving)
                 rows.append(dict(_brief(m), score=score, reasons=reasons))
             rows.sort(key=lambda r: (-r["score"], r["name"]))
             out.append({
@@ -284,6 +287,34 @@ def momentum(ctx, goals, data_by_bill, days=90):
     return out
 
 
+def lame_duck(ctx, goals, insights):
+    """Election-year view: which caucus bills lose their sponsor or backers in January."""
+    tier = {i["bioguide"]: i["tier"] for i in insights}
+    leaving = lambda x: x in ctx.members and (ctx.members[x].get("election") or {}).get("departing")
+    bills = []
+    for g in goals:
+        for b in g["resolved_bills"]:
+            if b["stage"] == "enacted":
+                continue
+            gone = sorted((ctx.members[x] for x in b["supporter_ids"] if leaving(x)), key=lambda m: m["last"])
+            bills.append({
+                "goal": g["id"], "bill": b["id"], "label": b["label"], "short": b["short"], "stage": b["stage"],
+                "supporters": len(b["supporter_ids"]), "departing": len(gone),
+                "sponsor_departing": leaving(b["sponsor_id"]) or False,
+                "departing_members": [dict(_brief(m), status=m["election"]["status"]) for m in gone],
+            })
+    bills.sort(key=lambda r: (not r["sponsor_departing"], -r["departing"]))
+    members = sorted((m for m in ctx.members.values() if (m.get("election") or {}).get("departing")),
+                     key=lambda m: (tier.get(m["bioguide"]) or "C", m["chamber"], m["last"]))
+    return {
+        "bills": bills,
+        "members": [dict(_brief(m), chamber=m["chamber"], tier=tier.get(m["bioguide"]), status=m["election"]["status"],
+                         detail=m["election"]["detail"], caucus_bills=len(ctx.supports.get(m["bioguide"], set())))
+                    for m in members],
+        "as_of": next((m["election"]["as_of"] for m in ctx.members.values() if m.get("election")), None),
+    }
+
+
 def build(ctx, goals, insights, data_by_bill):
     scores = bridge_scores(ctx, goals)
     return {
@@ -296,4 +327,5 @@ def build(ctx, goals, insights, data_by_bill):
         "psc_gaps": psc_gaps(ctx, goals),
         "targets": targets(ctx, goals, scores),
         "momentum": momentum(ctx, goals, data_by_bill),
+        "lame_duck": lame_duck(ctx, goals, insights),
     }

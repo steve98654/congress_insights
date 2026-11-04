@@ -1,0 +1,84 @@
+---
+import Base from '../../layouts/Base.astro';
+import BillRef from '../../components/BillRef.astro';
+import Who from '../../components/Who.astro';
+import { ELECTION_STATUS, digest, formatDate, memberUrl } from '../../lib/data';
+---
+
+<Base title="What changed · Congress Insights">
+  <section class="hero">
+    <h1>What changed</h1>
+    {
+      digest ? (
+        <p class="lede">
+          Changes from {formatDate(digest.since)} to {formatDate(digest.generated)}: new cosponsors, bill actions, votes, cost estimates,
+          election news and members whose tier moved. It updates with each weekly refresh.
+        </p>
+      ) : (
+        <p class="lede">The first digest appears after the second weekly refresh.</p>
+      )
+    }
+  </section>
+  {
+    digest && (
+      <>
+        <div class="stat-row">
+          <span><b>{digest.totals.bills_changed}</b> bills changed</span>
+          <span><b>{digest.totals.cosponsors_added}</b> cosponsors added</span>
+          <span><b>{digest.totals.cosponsors_dropped}</b> dropped</span>
+          <span><b>{digest.totals.tier_changes}</b> tier changes</span>
+        </div>
+
+        <h2>Bills</h2>
+        {digest.bills.length === 0 && <p class="muted">No bill changes.</p>}
+        {digest.bills.map((b) => (
+          <div class="card" style="margin-bottom:12px">
+            <div><BillRef bill={b.bill} />{b.was !== undefined && b.was !== b.supporters && <span class="small muted"> · {b.was} to {b.supporters} backers</span>}</div>
+            {b.notes.length > 0 && <ul class="small">{b.notes.map((n) => <li>{n}</li>)}</ul>}
+            {b.added.length > 0 && (
+              <p class="small"><b>Added:</b> {b.added.map((m, i) => (<>{i > 0 && ', '}<Who m={m} /></>))}</p>
+            )}
+            {b.dropped.length > 0 && (
+              <p class="small"><b>Dropped:</b> {b.dropped.map((m, i) => (<>{i > 0 && ', '}<Who m={m} /></>))}</p>
+            )}
+          </div>
+        ))}
+
+        {digest.elections.length > 0 && (
+          <>
+            <h2>Election status</h2>
+            <ul class="plain">
+              {digest.elections.map((e) => (<li><Who m={e} />: {ELECTION_STATUS[e.was] ?? e.was} to {ELECTION_STATUS[e.now] ?? e.now}</li>))}
+            </ul>
+          </>
+        )}
+
+        {digest.tiers.length > 0 && (
+          <>
+            <h2>Tier changes</h2>
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th>Member</th><th>Tier</th><th>Top action now</th></tr></thead>
+                <tbody>
+                  {digest.tiers.map((t) => (
+                    <tr><td><Who m={t} /></td><td class="nowrap">{t.was} to {t.now}</td><td class="small">{t.top}</td></tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </>
+        )}
+
+        {(digest.joined.length > 0 || digest.left.length > 0) && (
+          <>
+            <h2>Membership</h2>
+            <ul class="plain">
+              {digest.joined.map((m) => (<li>Joined: <a href={memberUrl(m.slug)}>{m.name}</a> ({m.label})</li>))}
+              {digest.left.map((m) => (<li>Left: {m.name}</li>))}
+            </ul>
+          </>
+        )}
+      </>
+    )
+  }
+</Base>

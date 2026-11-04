@@ -2,7 +2,7 @@
 
 Senator for WI · 15.8 years in the Senate
 
-**Priority tier A** · leverage score 57 (rank 53 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
+**Priority tier A** · leverage score 57 (rank 59 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Finance; Homeland Security and Governmental Affairs; Budget (Chairman); Aging
 
@@ -19,11 +19,29 @@ Senator for WI · 15.8 years in the Senate
 5. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Ben Ray Luján (D-NM).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
 6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Ben Ray Luján (D-NM).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 7. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Andy Kim (D-NJ).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
    There is no Senate version yet, and you sit on Homeland Security and Governmental Affairs (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
 8. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Ben Ray Luján (D-NM).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
+
+## Talking points
+
+**S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
+- Senate companion to H.R. 2048.
+- 8 members back it: 4 Republicans and 4 Democrats.
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- 1 of your WI colleagues is on it: Derrick Van Orden.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- Your record: voted yea.
+
+**H.R. 222, Sustainable Budget Act: Stabilize the national debt**
+- Sets up a bipartisan panel to draft a plan to balance the budget within 10 years.
+- 8 members back it: 6 Republicans and 2 Democrats, including 5 Problem Solvers.
 
 ## Position on each goal
 
@@ -37,6 +55,7 @@ Senator for WI · 15.8 years in the Senate
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 40 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
@@ -52,4 +71,6 @@ Senator for WI · 15.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -183,3 +183,10 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 ul.plain { list-style: none; padding: 0; margin: 0; }
 ul.plain li { padding: 4px 0; }
 .note { background: var(--warn-soft); color: var(--text); border-radius: 8px; padding: 10px 12px; font-size: 0.88rem; }
+
+.pill.departing { background: var(--warn-soft); color: var(--warn); }
+.pill.outreach-committed, .pill.outreach-done { background: var(--good-soft); color: var(--good); }
+.pill.outreach-meeting, .pill.outreach-contacted { background: var(--accent-soft); color: var(--accent-text); }
+.pill.outreach-declined { background: var(--rep-soft); color: var(--rep); }
+.stat-row { display: flex; flex-wrap: wrap; gap: 12px 24px; margin: 8px 0 16px; }
+.stat-row b { font-size: 1.4em; display: block; }

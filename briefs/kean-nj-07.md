@@ -17,13 +17,32 @@ Representative for NJ-07 · 3.8 years in the House · Problem Solvers Caucus mem
 4. **Press for a markup of H.R. 7116 (SEPSIS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 60_  
    You already cosponsor it, and your committee is where it is stuck.
 5. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. LaMonica McIver (D-NJ-10), Rep. Nellie Pou (D-NJ-09).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Nellie Pou (D-NJ-09), Rep. LaMonica McIver (D-NJ-10).
 6. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 51_  
-   It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Herbert C. Conaway, Jr. (D-NJ-03).
+   It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Herbert C. Conaway, Jr. (D-NJ-03).
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 51_  
-   It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Donald Norcross (D-NJ-01).
+   It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Donald Norcross (D-NJ-01).
 8. **Cosponsor H.R. 10379 (MAPS Act).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 51_  
-   It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Donald Norcross (D-NJ-01).
+   It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Donald Norcross (D-NJ-01).
+
+## Talking points
+
+**H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
+- Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
+- 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
+- 1 of your NJ colleagues is on it: Josh Gottheimer.
+
+**H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
+- Modernizes Medicare Advantage prior authorization so seniors are not delayed.
+- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 8 of your NJ colleagues are on it: Jefferson Van Drew, LaMonica McIver, Robert Menendez and others.
+- Your record: cosponsor.
+
+**H.R. 5269, RESULTS Act: Protect access to care**
+- Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
+- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
+- 6 of your NJ colleagues are on it: Nellie Pou, Donald Norcross, Herbert C. Conaway, Jr. and others.
+- Your record: cosponsor.
 
 ## Position on each goal
 
@@ -37,6 +56,7 @@ Representative for NJ-07 · 3.8 years in the House · Problem Solvers Caucus mem
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | cosponsor | 50 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 45 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 45 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 51 |
 
@@ -52,4 +72,6 @@ Representative for NJ-07 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -15,13 +15,32 @@ Representative for OH-07 · 3.8 years in the House
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Warren Davidson (R-OH-08), Rep. Greg Landsman (D-OH-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Greg Landsman (D-OH-01), Rep. Warren Davidson (R-OH-08).
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Emilia Strong Sykes (D-OH-13), Rep. Greg Landsman (D-OH-01).
+   2 of your state colleagues are already cosponsoring: Rep. Emilia Strong Sykes (D-OH-13), Rep. Greg Landsman (D-OH-01).
 7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
-   It cleared committee (committee vote 62-2). 1 of your state colleagues are on it: Rep. Michael A. Rulli (R-OH-06).
+   It cleared committee (committee vote 62-2). 1 of your state colleagues is on it: Rep. Michael A. Rulli (R-OH-06).
+
+## Talking points
+
+**H.R. 5269, RESULTS Act: Protect access to care**
+- Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
+- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
+- 5 of your OH colleagues are on it: Mike Carey, Troy Balderson, Michael A. Rulli and others.
+
+**H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
+- A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
+- 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
+- 4 of your OH colleagues are on it: Greg Landsman, Mike Carey, Michael A. Rulli and others.
+- Your record: cosponsor.
+
+**H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
+- Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
+- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 7 of your OH colleagues are on it: Shontel M. Brown, Michael R. Turner, David P. Joyce and others.
+- Your record: cosponsor.
 
 ## Position on each goal
 
@@ -35,6 +54,7 @@ Representative for OH-07 · 3.8 years in the House
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 68 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 40 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
@@ -50,4 +70,6 @@ Representative for OH-07 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

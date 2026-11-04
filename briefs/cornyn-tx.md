@@ -1,8 +1,8 @@
 # Sen. John Cornyn (R-TX)
 
-Senator for TX · 23.9 years in the Senate
+Senator for TX · 23.9 years in the Senate · Leaving Congress in January (lost primary: Lost the Republican runoff to Ken Paxton)
 
-**Priority tier B** · leverage score 56 (rank 63 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
+**Priority tier B** · leverage score 51 (rank 82 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Committee on Taxation; Finance; Foreign Relations; Budget; Judiciary; Intelligence; United States Senate Caucus on International Narcotics Control (Chairman)
 
@@ -12,18 +12,37 @@ Senator for TX · 23.9 years in the Senate
    It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
 2. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
-3. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Ron Wyden (D-OR).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
-   There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
-4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Ron Wyden (D-OR).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
-5. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Ron Wyden (D-OR).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
-6. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Ron Wyden (D-OR).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
-   There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
-7. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Ron Wyden (D-OR).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 40_  
-   There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
-8. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Ron Wyden (D-OR).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
+3. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Ron Wyden (D-OR).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 30_  
+   There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Ron Wyden (D-OR).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 30_  
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+5. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Ron Wyden (D-OR).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 24_  
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+6. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Ron Wyden (D-OR).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 24_  
+   There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+7. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Ron Wyden (D-OR).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 24_  
+   There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+8. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Ron Wyden (D-OR).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 24_  
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+
+## Talking points
+
+**S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
+- Senate companion to H.R. 2048.
+- 8 members back it: 4 Republicans and 4 Democrats.
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- 6 of your TX colleagues are on it: Pat Fallon, Beth Van Duyne, Michael T. McCaul and others.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- Your record: voted yea.
+
+**H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
+- Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
+- 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
+- 1 of your TX colleagues is on it: Henry Cuellar.
 
 ## Position on each goal
 
@@ -32,13 +51,14 @@ Senator for TX · 23.9 years in the Senate
 | Fund the government on time | committee work | - | 0 |
 | Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 55 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 0 |
-| Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 40 |
-| Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 50 |
+| Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 24 |
+| Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 30 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 60 |
-| Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 40 |
+| Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 24 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
-| Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 40 |
-| End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 40 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
+| Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 24 |
+| End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 24 |
 
 ## Cross-party partners
 
@@ -52,4 +72,6 @@ Senator for TX · 23.9 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,7 +2,7 @@
 
 Senator for TN · 7.8 years in the Senate
 
-**Priority tier B** · leverage score 56 (rank 62 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 66 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Economic Committee; Commerce, Science, and Transportation; Finance; Veterans' Affairs; Judiciary
 
@@ -19,11 +19,29 @@ Senator for TN · 7.8 years in the Senate
 5. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Margaret Wood Hassan (D-NH).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 40_  
    There is no Senate version yet, and you sit on Veterans' Affairs (likely committee of jurisdiction). The House bill is in committee with 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Margaret Wood Hassan (D-NH).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 7. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Margaret Wood Hassan (D-NH).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
 8. **Introduce a Senate companion to H.R. 2979 (BUILD Act for police and fire facilities) with Sen. Amy Klobuchar (D-MN).** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 40_  
    There is no Senate version yet, and you sit on Judiciary (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
+
+## Talking points
+
+**S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
+- Senate companion to H.R. 2048.
+- 8 members back it: 4 Republicans and 4 Democrats.
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- Your record: voted yea.
+
+**H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
+- Modernizes Medicare Advantage prior authorization so seniors are not delayed.
+- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 4 of your TN colleagues are on it: John W. Rose, Steve Cohen, Charles J. "Chuck" Fleischmann and others.
 
 ## Position on each goal
 
@@ -37,6 +55,7 @@ Senator for TN · 7.8 years in the Senate
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 50 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 40 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 40 |
 
@@ -52,4 +71,6 @@ Senator for TN · 7.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

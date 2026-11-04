@@ -1,0 +1,61 @@
+---
+import Base from '../../layouts/Base.astro';
+import BillRef from '../../components/BillRef.astro';
+import Who from '../../components/Who.astro';
+import { ELECTION_STATUS, analysis, formatDate } from '../../lib/data';
+
+const ld = analysis.lame_duck;
+const atRisk = ld.bills.filter((b) => b.departing > 0);
+---
+
+<Base title="Lame duck · Congress Insights">
+  <section class="hero">
+    <h1>Lame duck</h1>
+    <p class="lede">
+      The 119th Congress ends January 3, 2027. Bills not enacted by then die and must be reintroduced, and {ld.members.length} members
+      are leaving: retiring, running for another office or out after a primary. Departing sponsors should push for a vote now and
+      hand their bills to a returning colleague.
+    </p>
+    <p class="small muted">
+      Election status as of {formatDate(ld.as_of ?? undefined)}. November 3 general election results are added as races are called.
+    </p>
+  </section>
+
+  <h2>Caucus bills losing sponsors or backers</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Bill</th><th>Sponsor leaving</th><th class="num">Backers leaving</th><th>Who</th></tr></thead>
+      <tbody>
+        {
+          atRisk.map((b) => (
+            <tr>
+              <td><BillRef bill={b.bill} /></td>
+              <td>{b.sponsor_departing ? <b>Yes</b> : ''}</td>
+              <td class="num">{b.departing} of {b.supporters}</td>
+              <td class="small">{b.departing_members.slice(0, 8).map((m, i) => (<>{i > 0 && ', '}<Who m={m} /></>))}{b.departing_members.length > 8 && ` and ${b.departing_members.length - 8} more`}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Departing members</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Member</th><th>Tier</th><th>Status</th><th class="num">Caucus bills backed</th></tr></thead>
+      <tbody>
+        {
+          ld.members.map((m) => (
+            <tr>
+              <td><Who m={m} /></td>
+              <td>{m.tier}</td>
+              <td class="small">{ELECTION_STATUS[m.status]}{m.detail && `: ${m.detail}`}</td>
+              <td class="num">{m.caucus_bills}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</Base>

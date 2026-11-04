@@ -2,6 +2,7 @@
 
 import json
 import pathlib
+import re
 
 import yaml
 
@@ -59,6 +60,17 @@ def govinfo_url(bill_id, congress=CONGRESS):
     return f"https://www.govinfo.gov/bulkdata/BILLSTATUS/{congress}/{prefix}/BILLSTATUS-{congress}{bill_id}.xml"
 
 
+def vote_key(url):
+    """The inverse of vote_url, for roll call links found in bill actions."""
+    m = re.search(r"vote(\d{3})(\d)/vote_\d+_\d_(\d+)\.xml", url or "")
+    if m:
+        return f"senate_vote_{m.group(1)}_{m.group(2)}_{int(m.group(3))}"
+    m = re.search(r"clerk\.house\.gov/evs/(\d{4})/roll(\d+)\.xml", url or "")
+    if m:
+        return f"house_vote_{m.group(1)}_{int(m.group(2))}"
+    return None
+
+
 def load_yaml(path):
     with open(path, encoding="utf-8") as f:
         return yaml.safe_load(f)
@@ -87,5 +99,6 @@ def load_goals():
         g.setdefault("bills", [])
         g.setdefault("unnumbered", [])
         g.setdefault("committees", [])
+        g.setdefault("group", "Problem Solvers Caucus")
         goals.append(g)
     return goals

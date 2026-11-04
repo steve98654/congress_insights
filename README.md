@@ -15,19 +15,22 @@ state delegation. It writes concrete next steps such as "Schedule a markup of H.
 
 | Path | What |
 |---|---|
-| `goals/` | 10 goals from caucus endorsements and its affordability agenda, with the bills, committees and sources ([README](goals/README.md)) |
+| `goals/` | 11 goals from caucus endorsements, its affordability agenda and No Labels lame-duck priorities, with the bills, committees and sources ([README](goals/README.md)) |
 | `briefs/` | One markdown brief per member ([index](briefs/README.md)) |
 | `data/members.json` | 539 members with committees, leadership and PSC membership |
-| `data/bills/`, `data/votes/` | Sponsor, cosponsors, status and roll calls for the 23 goal bills |
+| `data/bills/`, `data/votes/` | Sponsor, cosponsors, status, CRS summaries, CBO estimates and House and Senate roll calls for the 24 goal bills |
+| `data/sources/elections.yaml` | 2026 cycle: members retiring, running for other office or out after a primary, with sources |
+| `data/outreach.yaml` | Outreach tracker: our asks of each office and their stage |
+| `data/history/`, `data/digest.json` | Weekly snapshots and the digest of what changed ([briefs/DIGEST.md](briefs/DIGEST.md)) |
 | `data/insights.json` | Everything the site reads: actions, scores, tiers, partners |
-| `data/analysis.json` | The ten cross-member insights below |
-| `scripts/` | `refresh_data.py` (fetch), `build_members.py`, `plays.py` (rules), `analysis.py`, `build_insights.py` |
-| `site/` | Astro site: overview, member pages, goal pages, insights, CSV call sheets |
+| `data/analysis.json` | The cross-member insights below |
+| `scripts/` | `refresh_data.py` (fetch), `build_members.py`, `plays.py` (rules), `analysis.py`, `build_insights.py`, `digest.py` |
+| `site/` | Astro site: overview, member pages with talking points, goal pages, insights, what changed, outreach, CSV call sheets |
 | `docs/` | [Hosting and refresh](docs/hosting.md), [weekly caucus research task](docs/weekly-research.md) |
 
 ## Insights
 
-Ten views across all of Congress, on the site under Insights:
+Views across all of Congress, on the site under Insights:
 
 1. **Senate whip count**: no votes on caucus bills, ranked by persuadability (home-state split, committee seat, other caucus support).
 2. **Floor math**: backers against 218 and 290 for each House bill, and which bills could be discharged.
@@ -38,7 +41,16 @@ Ten views across all of Congress, on the site under Insights:
 7. **State delegations**: support per goal by state, and the bill most of each delegation already backs.
 8. **Bridge builders**: members backing the most caucus bills led by the other party.
 9. **Momentum**: cosponsors added in the last 90 days.
-10. **Call sheets**: `actions.csv` and `members.csv` downloads with phones and offices.
+10. **Call sheets**: `actions.csv` and `members.csv` downloads with phones, offices, outreach stage and 2026 status.
+11. **Lame duck**: departing members and the caucus bills that lose their sponsor or backers on January 3, 2027.
+
+Each member page and brief also has **talking points** for the bills behind their top actions (what the bill does,
+who backs it, home-state colleagues, votes, CBO estimate, their own record). **What changed** lists new cosponsors,
+actions, votes, cost estimates and tier moves since the last weekly refresh. **Outreach** shows the pipeline from
+`data/outreach.yaml` and the highest-leverage offices nobody has called yet.
+
+Departing members get lame-duck actions: sponsors are asked to push for a vote and name a returning lead sponsor,
+and long-game moves such as new companions are discounted for them.
 
 Sponsors of bills with 150+ backers stuck in committee also get a discharge petition action.
 
@@ -56,6 +68,7 @@ pip install pyyaml requests
 python scripts/refresh_data.py all      # needs network access to GitHub, govinfo.gov and senate.gov
 python scripts/build_members.py
 python scripts/build_insights.py
+python scripts/digest.py
 cd site && npm ci && npm run build      # or npm run dev
 ```
 
@@ -64,6 +77,7 @@ without network access. The committed bill data comes from a live govinfo refres
 
 ## Caveats
 
+- 2026 general election results (November 3) are not in `elections.yaml` yet; add `lost_general` rows as races are called.
 - The PSC roster is the caucus's public list (43 members). Members who have not been listed publicly are
   not flagged.
 - Senate committees of jurisdiction for House-only bills are inferred and labeled "likely".

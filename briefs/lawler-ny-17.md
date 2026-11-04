@@ -2,7 +2,7 @@
 
 Representative for NY-17 · 3.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 80 (rank 20 of 439 in the House) · supports 15 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 80 (rank 21 of 439 in the House) · supports 15 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; Foreign Affairs
 
@@ -19,11 +19,30 @@ Representative for NY-17 · 3.8 years in the House · Problem Solvers Caucus mem
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 51_  
-   It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03).
+   It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Thomas R. Suozzi (D-NY-03).
 7. **Cosponsor H.R. 222 (Sustainable Budget Act).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 51_  
-   It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Nick LaLota (R-NY-01).
+   It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Nick LaLota (R-NY-01).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    It cleared committee (committee vote 62-2).
+
+## Talking points
+
+**H.R. 10379, MAPS Act: End partisan gerrymandering**
+- Sets national map-drawing criteria and bars maps drawn to favor a party, candidate or incumbent.
+- 11 members back it: 5 Republicans and 6 Democrats, including 11 Problem Solvers.
+- 2 of your NY colleagues are on it: Thomas R. Suozzi, Nick LaLota.
+- Your record: sponsor.
+
+**H.R. 3694, VALID Act: Lower housing and home energy costs**
+- Improves veterans' access to and understanding of VA home loans.
+- 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
+- 3 of your NY colleagues are on it: Nick LaLota, Paul Tonko, Thomas R. Suozzi.
+- Your record: cosponsor.
+
+**H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
+- Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
+- 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
+- 2 of your NY colleagues are on it: Joseph D. Morelle, Nick LaLota.
 
 ## Position on each goal
 
@@ -37,6 +56,7 @@ Representative for NY-17 · 3.8 years in the House · Problem Solvers Caucus mem
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 50 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | cosponsor | 30 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | cosponsor, sponsor | 90 |
 
@@ -52,4 +72,6 @@ Representative for NY-17 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

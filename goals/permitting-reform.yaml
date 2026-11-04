@@ -1,0 +1,16 @@
+id: permitting-reform
+title: Speed up permits for energy and infrastructure
+area: Energy
+group: No Labels
+summary: Shorten federal permitting for energy and infrastructure projects so new power and transmission reach families and businesses sooner and at lower cost.
+psc_ask: No Labels lists bipartisan permitting reform among the bills Congress still has to pass in the 2026 lame-duck session. Sens. Capito, Lee, Whitehouse and Heinrich introduced S. 5653 on 2026-09-30.
+endorsed: '2026-10-13'
+sources:
+- https://nolabels.org/the-latest/the-2026-lame-duck-session-what-congress-still-has-to-pass-after-the-midterms/
+- https://www.congress.gov/bill/119th-congress/senate-bill/5653
+- https://fastdemocracy.com/bill-search/us/119/bills/USB00108738/
+bills:
+- id: s5653
+  short: Bipartisan American Affordability and Jobs Act of 2026
+  senate_committees: [SSEG]
+  what: Speeds up federal permits for energy and infrastructure projects.

@@ -1,4 +1,4 @@
-// The ten cross-member analyses, in the order the Insights page lists them.
+// The cross-member analyses, in the order the Insights page lists them.
 export const INSIGHTS = [
   ['whip', 'Senate whip count', 'Senators who voted no on caucus bills, ranked by how persuadable they look.'],
   ['floor-math', 'Floor math', 'How many votes each House bill is short of a majority and of a two-thirds suspension vote, and which could be discharged.'],
@@ -8,6 +8,7 @@ export const INSIGHTS = [
   ['committees', 'Committee bottlenecks', 'The committees where caucus bills are stuck, with the chair and ranking member who control them.'],
   ['delegations', 'State delegations', 'Support for each goal by state, and the bill most of each delegation already backs.'],
   ['bridges', 'Bridge builders', 'Members who back the most caucus bills led by the other party.'],
+  ['lame-duck', 'Lame duck', 'Departing members and the caucus bills that lose their sponsor or backers when the 119th Congress ends.'],
   ['momentum', 'Momentum', 'Cosponsors added in the last 90 days.'],
   ['downloads', 'Call sheets', 'Every action item as a spreadsheet, with phone numbers and offices.'],
 ] as const;

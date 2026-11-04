@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ActionList from '../../components/ActionList.astro';
-import { committeeName, goalById, goalUrl, insightBySlug, memberBySlug, memberUrl, members, partyName } from '../../lib/data';
+import { ELECTION_STATUS, billById, committeeName, formatDate, goalById, goalUrl, insightBySlug, memberBySlug, memberUrl, members, partyName } from '../../lib/data';
 
 export function getStaticPaths() {
   return members.map((m) => ({ params: { slug: m.slug } }));
@@ -22,6 +22,7 @@ const mine = new Set(m.committees.map((c) => c.code));
       {m.psc && <span class="pill psc">Problem Solvers Caucus{m.psc !== 'Member' ? ` ${m.psc}` : ''}</span>}
       {m.leadership.map((l) => <span class="pill">{l}</span>)}
       <span class={`pill tier-${ins.tier}`}>Tier {ins.tier}</span>
+      {m.election.departing && <span class="pill departing" title={m.election.detail}>{ELECTION_STATUS[m.election.status]}: leaving in January</span>}
     </div>
     <div class="facts">
       <span>Leverage score <b>{ins.score}</b> (rank {ins.rank} of {ins.rank_of} in the {m.chamber === 'senate' ? 'Senate' : 'House'})</span>
@@ -44,6 +45,24 @@ const mine = new Set(m.committees.map((c) => c.code));
         )
       }
       {ins.action_count > ins.actions.length && <p class="small muted">{ins.action_count - ins.actions.length} lower-priority actions not shown.</p>}
+
+      {
+        ins.talking_points.length > 0 && (
+          <>
+            <h2>Talking points</h2>
+            {ins.talking_points.map((tp) => (
+              <div class="card" style="margin-bottom:12px">
+                <h3><a href={billById.get(tp.bill)?.url}>{tp.label}</a> {tp.short}</h3>
+                <div class="small muted"><a href={goalUrl(tp.goal)}>{goalById.get(tp.goal)?.title}</a></div>
+                <ul>
+                  {tp.points.map((p) => <li>{p}</li>)}
+                  {tp.cbo_url && <li><a href={tp.cbo_url}>CBO cost estimate</a></li>}
+                </ul>
+              </div>
+            ))}
+          </>
+        )
+      }
 
       <h2>Position on each goal</h2>
       <div class="table-wrap">
@@ -69,6 +88,30 @@ const mine = new Set(m.committees.map((c) => c.code));
     </section>
 
     <aside>
+      <h2>2026 election</h2>
+      <p class="small">
+        {ELECTION_STATUS[m.election.status]}{m.election.detail && `: ${m.election.detail}`}.
+        {m.election.departing && ' The 119th Congress ends January 3, 2027, so their asks are about the lame-duck session and handing off bills.'}
+        {m.election.source && <> <a href={m.election.source}>Source</a>{m.election.as_of && `, as of ${formatDate(m.election.as_of)}`}.</>}
+      </p>
+
+      <h2>Outreach</h2>
+      {
+        ins.outreach.length ? (
+          <ul class="plain small">
+            {ins.outreach.map((e) => (
+              <li>
+                <span class={`pill outreach-${e.stage}`}>{e.stage.replace('_', ' ')}</span> {formatDate(e.date)}
+                {e.bill && ` · ${billById.get(e.bill)?.label}`}{e.owner && ` · ${e.owner}`}
+                {e.notes && <div class="muted">{e.notes}</div>}
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="small muted">No outreach logged. Add an entry to <code>data/outreach.yaml</code>.</p>
+        )
+      }
+
       <h2>Committees</h2>
       <ul class="plain">
         {

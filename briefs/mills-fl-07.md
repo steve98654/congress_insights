@@ -1,6 +1,6 @@
 # Rep. Cory Mills (R-FL-07)
 
-Representative for FL-07 · 3.8 years in the House
+Representative for FL-07 · 3.8 years in the House · Leaving Congress in January (lost primary: Lost renomination to Ryan Elijah)
 
 **Priority tier C** · leverage score 48 (rank 364 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
@@ -9,19 +9,36 @@ Representative for FL-07 · 3.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   7 colleagues from your state already cosponsor: Rep. John H. Rutherford (R-FL-05), Rep. Maria Elvira Salazar (R-FL-27), Rep. Debbie Wasserman Schultz (D-FL-25), 4 more.
+   9 of your state colleagues are already cosponsoring: Rep. Kathy Castor (D-FL-14), Rep. Kat Cammack (R-FL-03), Rep. Maxwell Frost (D-FL-10), 6 more.
 2. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Maria Elvira Salazar (R-FL-27), Rep. Maxwell Frost (D-FL-10), Rep. Frederica S. Wilson (D-FL-24).
+   3 of your state colleagues are already cosponsoring: Rep. Maxwell Frost (D-FL-10), Rep. Maria Elvira Salazar (R-FL-27), Rep. Frederica S. Wilson (D-FL-24).
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   11 colleagues from your state already cosponsor: Rep. Aaron Bean (R-FL-04), Rep. John H. Rutherford (R-FL-05), Rep. Neal P. Dunn (R-FL-02), 8 more.
+   11 of your state colleagues are already cosponsoring: Rep. Aaron Bean (R-FL-04), Rep. Kathy Castor (D-FL-14), Rep. Kat Cammack (R-FL-03), 8 more.
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   7 colleagues from your state already cosponsor: Rep. Anna Paulina Luna (R-FL-13), Rep. W. Gregory Steube (R-FL-17), Rep. Maria Elvira Salazar (R-FL-27), 4 more.
+   7 of your state colleagues are already cosponsoring: Rep. Jared Moskowitz (D-FL-23), Rep. Kat Cammack (R-FL-03), Rep. Vern Buchanan (R-FL-16), 4 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
-   It cleared committee (committee vote 62-2). 1 of your state colleagues are on it: Rep. Daniel Webster (R-FL-11).
+   It cleared committee (committee vote 62-2). 1 of your state colleagues is on it: Rep. Daniel Webster (R-FL-11).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
+
+## Talking points
+
+**H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
+- A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
+- 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
+- 9 of your FL colleagues are on it: Kathy Castor, Kat Cammack, Maxwell Frost and others.
+
+**H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
+- Lets families complete WIC certification and receive benefits remotely.
+- 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
+- 3 of your FL colleagues are on it: Maxwell Frost, Maria Elvira Salazar, Frederica S. Wilson.
+
+**H.R. 5269, RESULTS Act: Protect access to care**
+- Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
+- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
+- 11 of your FL colleagues are on it: Aaron Bean, Kathy Castor, Kat Cammack and others.
 
 ## Position on each goal
 
@@ -35,6 +52,7 @@ Representative for FL-07 · 3.8 years in the House
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 48 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 40 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 48 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
@@ -50,4 +68,6 @@ Representative for FL-07 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

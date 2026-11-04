@@ -1,0 +1,409 @@
+# Statuses: retiring, seeking_other_office, lost_primary, lost_general, won_general.
+as_of: '2026-11-04'
+general_results: not_called
+note: Retirements, runs for other office and primary losses in the 2026 cycle. General election results from November 3, 2026
+  are not in yet; add lost_general rows as races are called (see docs/weekly-research.md).
+sources:
+- https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- https://ballotpedia.org/List_of_U.S._Congress_incumbents_who_are_not_running_for_re-election_in_2026
+members:
+- bioguide: T000278
+  name: Tommy Tuberville
+  status: seeking_other_office
+  detail: Running for governor of Alabama
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: A000383
+  name: Alan Armstrong
+  status: retiring
+  detail: Appointed interim senator; not running for the seat
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: D000618
+  name: Steve Daines
+  status: retiring
+  detail: Announced Mar 4, 2026
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: L000571
+  name: Cynthia Lummis
+  status: retiring
+  detail: Announced Dec 19, 2025
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: E000295
+  name: Joni Ernst
+  status: retiring
+  detail: Announced Sep 2, 2025
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: T000476
+  name: Thom Tillis
+  status: retiring
+  detail: Announced Jun 29, 2025
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: D000563
+  name: Dick Durbin
+  status: retiring
+  detail: Announced Apr 23, 2025
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: S001181
+  name: Jeanne Shaheen
+  status: retiring
+  detail: Announced Mar 12, 2025
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: M000355
+  name: Mitch McConnell
+  status: retiring
+  detail: Announced Feb 20, 2025
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: S001203
+  name: Tina Smith
+  status: retiring
+  detail: Announced Feb 13, 2025
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: P000595
+  name: Gary Peters
+  status: retiring
+  detail: Announced Jan 28, 2025
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: C001075
+  name: Bill Cassidy
+  status: lost_primary
+  detail: Finished third in the Louisiana primary
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: C001056
+  name: John Cornyn
+  status: lost_primary
+  detail: Lost the Republican runoff to Ken Paxton
+  source: https://en.wikipedia.org/wiki/2026_United_States_Senate_elections
+- bioguide: P000197
+  name: Nancy Pelosi
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: B001285
+  name: Julia Brownley
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: W000808
+  name: Frederica Wilson
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: K000385
+  name: Robin Kelly
+  status: seeking_other_office
+  detail: Ran for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: G000586
+  name: Jesus Garcia
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: D000096
+  name: Danny Davis
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: K000391
+  name: Raja Krishnamoorthi
+  status: seeking_other_office
+  detail: Ran for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: S001145
+  name: Jan Schakowsky
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: F000110
+  name: Cleo Fields
+  status: seeking_other_office
+  detail: Running for Louisiana State Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: G000592
+  name: Jared Golden
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: H000874
+  name: Steny Hoyer
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: M001196
+  name: Seth Moulton
+  status: seeking_other_office
+  detail: Ran for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: S001215
+  name: Haley Stevens
+  status: seeking_other_office
+  detail: Ran for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: C001119
+  name: Angie Craig
+  status: seeking_other_office
+  detail: Ran for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: P000614
+  name: Chris Pappas
+  status: seeking_other_office
+  detail: Running for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: W000822
+  name: Bonnie Watson Coleman
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: V000081
+  name: Nydia Velazquez
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: N000002
+  name: Jerrold Nadler
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: E000296
+  name: Dwight Evans
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: C001068
+  name: Steve Cohen
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: C001130
+  name: Jasmine Crockett
+  status: seeking_other_office
+  detail: Ran for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: V000131
+  name: Marc Veasey
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: D000399
+  name: Lloyd Doggett
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: N000147
+  name: Eleanor Holmes Norton
+  status: retiring
+  detail: Delegate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: P000610
+  name: Stacey Plaskett
+  status: seeking_other_office
+  detail: Running for governor of the Virgin Islands
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: D000197
+  name: Diana DeGette
+  status: lost_primary
+  detail: Lost renomination to Melat Kiros
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: L000557
+  name: John Larson
+  status: lost_primary
+  detail: Lost renomination to Luke Bronin
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: T000488
+  name: Shri Thanedar
+  status: lost_primary
+  detail: Lost renomination to Donavan McKinney
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: G000599
+  name: Dan Goldman
+  status: lost_primary
+  detail: Lost renomination to Brad Lander
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: E000297
+  name: Adriano Espaillat
+  status: lost_primary
+  detail: Lost renomination to Darializa Avila Chevalier
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: G000553
+  name: Al Green
+  status: lost_primary
+  detail: Lost to fellow incumbent Christian Menefee after redistricting
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: J000310
+  name: Julie Johnson
+  status: lost_primary
+  detail: Lost renomination to Colin Allred
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: E000246
+  name: Chuck Edwards
+  status: retiring
+  detail: Withdrew Aug 5, 2026 after winning the primary
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: W000806
+  name: Daniel Webster
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: B001260
+  name: Vern Buchanan
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: D000628
+  name: Neal Dunn
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: I000056
+  name: Darrell Issa
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: O000086
+  name: Burgess Owens
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: Z000018
+  name: Ryan Zinke
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: A000369
+  name: Mark Amodei
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: L000583
+  name: Barry Loudermilk
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: S001196
+  name: Elise Stefanik
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: N000189
+  name: Dan Newhouse
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: B001298
+  name: Don Bacon
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: G000546
+  name: Sam Graves
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: M001157
+  name: Michael McCaul
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: A000375
+  name: Jodey Arrington
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: N000026
+  name: Troy Nehls
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: L000603
+  name: Morgan Luttrell
+  status: retiring
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: B001302
+  name: Andy Biggs
+  status: seeking_other_office
+  detail: Running for governor of Arizona
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: S001183
+  name: David Schweikert
+  status: seeking_other_office
+  detail: Running for governor of Arizona
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: D000032
+  name: Byron Donalds
+  status: seeking_other_office
+  detail: Running for governor of Florida
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: F000446
+  name: Randy Feenstra
+  status: seeking_other_office
+  detail: Running for governor of Iowa
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: J000307
+  name: John James
+  status: seeking_other_office
+  detail: Running for governor of Michigan
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: R000612
+  name: John Rose
+  status: seeking_other_office
+  detail: Running for governor of Tennessee
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: T000165
+  name: Tom Tiffany
+  status: seeking_other_office
+  detail: Running for governor of Wisconsin
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: M000194
+  name: Nancy Mace
+  status: seeking_other_office
+  detail: Running for governor of South Carolina
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: N000190
+  name: Ralph Norman
+  status: seeking_other_office
+  detail: Ran for statewide office
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: J000301
+  name: Dusty Johnson
+  status: seeking_other_office
+  detail: Running for governor of South Dakota
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: R000614
+  name: Chip Roy
+  status: seeking_other_office
+  detail: Running for Texas attorney general
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: B001282
+  name: Andy Barr
+  status: seeking_other_office
+  detail: Running for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: M001212
+  name: Barry Moore
+  status: seeking_other_office
+  detail: Running for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: C001129
+  name: Mike Collins
+  status: seeking_other_office
+  detail: Running for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: C001103
+  name: Buddy Carter
+  status: seeking_other_office
+  detail: Ran for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: H001091
+  name: Ashley Hinson
+  status: seeking_other_office
+  detail: Running for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: H001096
+  name: Harriet Hageman
+  status: seeking_other_office
+  detail: Running for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: L000595
+  name: Julia Letlow
+  status: seeking_other_office
+  detail: Running for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: H001095
+  name: Wesley Hunt
+  status: seeking_other_office
+  detail: Ran for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: H001082
+  name: Kevin Hern
+  status: seeking_other_office
+  detail: Running for U.S. Senate
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: M001216
+  name: Cory Mills
+  status: lost_primary
+  detail: Lost renomination to Ryan Elijah
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: M001184
+  name: Thomas Massie
+  status: lost_primary
+  detail: Lost renomination to Ed Gallrein
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: O000175
+  name: Andy Ogles
+  status: lost_primary
+  detail: Lost renomination to Charlie Hatcher
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
+- bioguide: C001120
+  name: Dan Crenshaw
+  status: lost_primary
+  detail: Lost renomination to Steve Toth
+  source: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections

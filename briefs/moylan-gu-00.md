@@ -17,6 +17,21 @@ Representative for GU-00 · 3.8 years in the House · Problem Solvers Caucus mem
 4. **Bring a cross-party colleague onto H.R. 2048: Rep. Wesley Bell (D-MO-01) is the closest fit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 30_  
    You already cosponsor it. Partners are picked by shared state, committees and past support for caucus bills.
 
+## Talking points
+
+**H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
+- Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
+- 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
+
+**H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
+- Lets families complete WIC certification and receive benefits remotely.
+- 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
+
+**H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
+- Modernizes Medicare Advantage prior authorization so seniors are not delayed.
+- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- Your record: cosponsor.
+
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
@@ -29,14 +44,15 @@ Representative for GU-00 · 3.8 years in the House · Problem Solvers Caucus mem
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 0 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
 ## Cross-party partners
 
 - [Rep. Donald Norcross (D-NJ-01)](norcross-nj-01.md): shared committees: Armed Services, Education and Workforce; PSC member
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Armed Services; PSC member
+- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services; PSC member
 
 ## Sources
 
@@ -44,4 +60,6 @@ Representative for GU-00 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

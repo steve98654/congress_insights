@@ -2,7 +2,7 @@
 
 Representative for MO-01 · 1.8 years in the House
 
-**Priority tier C** · leverage score 42 (rank 426 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 42 (rank 427 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Foreign Affairs; Oversight and Government Reform
 
@@ -11,11 +11,29 @@ Representative for MO-01 · 1.8 years in the House
 1. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Sam Graves (R-MO-06), Rep. Ann Wagner (R-MO-02).
+   2 of your state colleagues are already cosponsoring: Rep. Ann Wagner (R-MO-02), Rep. Sam Graves (R-MO-06).
 3. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
-   It cleared committee (committee vote 62-2). 1 of your state colleagues are on it: Rep. Sam Graves (R-MO-06).
+   It cleared committee (committee vote 62-2). 1 of your state colleagues is on it: Rep. Sam Graves (R-MO-06).
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
+
+## Talking points
+
+**H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
+- Modernizes Medicare Advantage prior authorization so seniors are not delayed.
+- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 5 of your MO colleagues are on it: Robert F. Onder, Jr., Sam Graves, Emanuel Cleaver and others.
+- Your record: cosponsor.
+
+**H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
+- A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
+- 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
+- 2 of your MO colleagues are on it: Ann Wagner, Sam Graves.
+
+**H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
+- Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
+- 6 members back it: 4 Republicans and 2 Democrats.
+- 1 of your MO colleagues is on it: Sam Graves.
 
 ## Position on each goal
 
@@ -29,6 +47,7 @@ Representative for MO-01 · 1.8 years in the House
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 45 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 40 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
@@ -44,4 +63,6 @@ Representative for MO-01 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -9,7 +9,7 @@ Representative for PA-11 · 9.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 2. **Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Budget, where you sit.** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 3. **Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 68_  
@@ -19,11 +19,28 @@ Representative for PA-11 · 9.8 years in the House
 5. **Press for a markup of H.R. 3289 (Fiscal Commission Act) in Budget, where you sit.** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 6. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Dwight Evans (D-PA-03).
+   3 of your state colleagues are already cosponsoring: Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Dwight Evans (D-PA-03).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 colleagues from your state already cosponsor: Rep. Christopher R. Deluzio (D-PA-17), Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Brian K. Fitzpatrick (R-PA-01).
+   3 of your state colleagues are already cosponsoring: Rep. Christopher R. Deluzio (D-PA-17), Rep. Brian K. Fitzpatrick (R-PA-01), Rep. Robert P. Bresnahan, Jr. (R-PA-08).
 8. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   6 colleagues from your state already cosponsor: Rep. Ryan Mackenzie (R-PA-07), Rep. Summer L. Lee (D-PA-12), Rep. Dwight Evans (D-PA-03), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Madeleine Dean (D-PA-04), Rep. Ryan Mackenzie (R-PA-07), Rep. Summer L. Lee (D-PA-12), 3 more.
+
+## Talking points
+
+**H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
+- A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
+- 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
+- 6 of your PA colleagues are on it: Christopher R. Deluzio, Chrissy Houlahan, Brian K. Fitzpatrick and others.
+
+**H.R. 222, Sustainable Budget Act: Stabilize the national debt**
+- Sets up a bipartisan panel to draft a plan to balance the budget within 10 years.
+- 8 members back it: 6 Republicans and 2 Democrats, including 5 Problem Solvers.
+- 1 of your PA colleagues is on it: Brian K. Fitzpatrick.
+
+**H.R. 5269, RESULTS Act: Protect access to care**
+- Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
+- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
+- 8 of your PA colleagues are on it: Glenn Thompson, Madeleine Dean, Ryan Mackenzie and others.
 
 ## Position on each goal
 
@@ -37,6 +54,7 @@ Representative for PA-11 · 9.8 years in the House
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 68 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 35 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 48 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 42 |
 
@@ -52,4 +70,6 @@ Representative for PA-11 · 9.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

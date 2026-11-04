@@ -9,7 +9,7 @@ Representative for IN-02 · 4 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
@@ -17,13 +17,31 @@ Representative for IN-02 · 4 years in the House
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Frank J. Mrvan (D-IN-01), Rep. André Carson (D-IN-07).
+   2 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Frank J. Mrvan (D-IN-01).
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. James R. Baird (R-IN-04), Rep. André Carson (D-IN-07).
+   2 of your state colleagues are already cosponsoring: Rep. James R. Baird (R-IN-04), Rep. André Carson (D-IN-07).
 7. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. Frank J. Mrvan (D-IN-01), Rep. André Carson (D-IN-07).
+   2 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Frank J. Mrvan (D-IN-01).
 8. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
-   2 colleagues from your state already cosponsor: Rep. James R. Baird (R-IN-04), Rep. Erin Houchin (R-IN-09).
+   2 of your state colleagues are already cosponsoring: Rep. James R. Baird (R-IN-04), Rep. Erin Houchin (R-IN-09).
+
+## Talking points
+
+**H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
+- A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
+- 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
+- 3 of your IN colleagues are on it: André Carson, Jefferson Shreve, Frank J. Mrvan.
+
+**H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
+- Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
+- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 2 of your IN colleagues are on it: André Carson, Frank J. Mrvan.
+
+**H.R. 5269, RESULTS Act: Protect access to care**
+- Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
+- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
+- 3 of your IN colleagues are on it: André Carson, Erin Houchin, Jefferson Shreve.
+- Your record: cosponsor.
 
 ## Position on each goal
 
@@ -37,6 +55,7 @@ Representative for IN-02 · 4 years in the House
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 68 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 35 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 42 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
@@ -52,4 +71,6 @@ Representative for IN-02 · 4 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

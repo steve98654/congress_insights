@@ -2,7 +2,7 @@
 
 Senator for FL · 7.8 years in the Senate
 
-**Priority tier C** · leverage score 50 (rank 84 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
+**Priority tier C** · leverage score 50 (rank 85 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Armed Services; Foreign Relations; Homeland Security and Governmental Affairs; Budget; Aging (Chairman)
 
@@ -19,6 +19,25 @@ Senator for FL · 7.8 years in the Senate
 5. **Introduce a Senate companion to H.R. 2979 (BUILD Act for police and fire facilities) with Sen. Andy Kim (D-NJ).** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 40_  
    There is no Senate version yet, and you sit on Homeland Security and Governmental Affairs (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 
+## Talking points
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- 2 of your FL colleagues are on it: Kathy Castor, Laurel M. Lee.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- Your record: voted yea.
+
+**H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
+- Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
+- 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
+
+**H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
+- Creates a congressionally led bipartisan commission to propose ways to stabilize the debt.
+- 43 members back it: 22 Republicans and 21 Democrats, including 13 Problem Solvers.
+- 2 of your FL colleagues are on it: Jared Moskowitz, Cory Mills.
+
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
@@ -31,6 +50,7 @@ Senator for FL · 7.8 years in the Senate
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 0 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 40 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
@@ -46,4 +66,6 @@ Senator for FL · 7.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

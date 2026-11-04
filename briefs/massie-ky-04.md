@@ -1,6 +1,6 @@
 # Rep. Thomas Massie (R-KY-04)
 
-Representative for KY-04 · 14 years in the House
+Representative for KY-04 · 14 years in the House · Leaving Congress in January (lost primary: Lost renomination to Ed Gallrein)
 
 **Priority tier B** · leverage score 68 (rank 61 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
@@ -23,7 +23,21 @@ Representative for KY-04 · 14 years in the House
 7. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    It cleared committee (committee vote 42-0). 2 of your state colleagues are on it: Rep. Andy Barr (R-KY-06), Rep. Morgan McGarvey (D-KY-03).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
-   It cleared committee (committee vote 39-1). 1 of your state colleagues are on it: Rep. Andy Barr (R-KY-06).
+   It cleared committee (committee vote 39-1). 1 of your state colleagues is on it: Rep. Andy Barr (R-KY-06).
+
+## Talking points
+
+**H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
+- DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.
+- 8 members back it: 5 Republicans and 3 Democrats, including 5 Problem Solvers.
+
+**H.J.Res. 4, Filibuster amendment: Protect the Senate filibuster**
+- Proposes a constitutional amendment that debate on legislation in the Senate cannot close without three-fifths of senators.
+- 5 members back it: 2 Republicans and 3 Democrats, including 4 Problem Solvers.
+
+**H.R. 10378, TRUST Act: End partisan gerrymandering**
+- Limits states to one congressional redistricting after each census.
+- 11 members back it: 5 Republicans and 6 Democrats, including 11 Problem Solvers.
 
 ## Position on each goal
 
@@ -37,6 +51,7 @@ Representative for KY-04 · 14 years in the House
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 45 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 68 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 68 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 68 |
 
@@ -52,4 +67,6 @@ Representative for KY-04 · 14 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

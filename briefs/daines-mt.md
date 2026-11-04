@@ -1,8 +1,8 @@
 # Sen. Steve Daines (R-MT)
 
-Senator for MT · 11.8 years in the Senate
+Senator for MT · 11.8 years in the Senate · Leaving Congress in January (retiring: Announced Mar 4, 2026)
 
-**Priority tier B** · leverage score 59 (rank 47 of 100 in the Senate) · supports 1 of 4 caucus bills in their chamber
+**Priority tier B** · leverage score 60 (rank 50 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Energy and Natural Resources; Finance; Foreign Relations; Indian Affairs
 
@@ -12,12 +12,30 @@ Senator for MT · 11.8 years in the Senate
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 2. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
    It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
-3. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Catherine Cortez Masto (D-NV).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
-4. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Catherine Cortez Masto (D-NV).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 92 sponsors and cosponsors (46 R, 44 D, 16 PSC).
-5. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Catherine Cortez Masto (D-NV).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
+3. **Cosponsor S. 5653 (Bipartisan American Affordability and Jobs Act of 2026). It is waiting in Energy and Natural Resources, where you sit.** _Speed up permits for energy and infrastructure · [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) · priority 60_  
+   It has 0 sponsors and cosponsors (0 R, 0 D, 0 PSC).
+4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Catherine Cortez Masto (D-NV).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 30_  
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+5. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Catherine Cortez Masto (D-NV).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 24_  
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+6. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Catherine Cortez Masto (D-NV).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 24_  
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+
+## Talking points
+
+**H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
+- Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
+- 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
+- It passed the House 417-3.
+- It is 3 votes short of 60 in the Senate.
+- Your record: voted yea.
+
+**S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
+- Senate companion to H.R. 2048.
+- 8 members back it: 4 Republicans and 4 Democrats.
+
+**S. 5653, Bipartisan American Affordability and Jobs Act of 2026: Speed up permits for energy and infrastructure**
+- Speeds up federal permits for energy and infrastructure projects.
 
 ## Position on each goal
 
@@ -26,11 +44,12 @@ Senator for MT · 11.8 years in the Senate
 | Fund the government on time | committee work | - | 0 |
 | Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 65 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 0 |
-| Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 40 |
+| Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 24 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 0 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 0 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 60 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
 
@@ -46,4 +65,6 @@ Senator for MT · 11.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

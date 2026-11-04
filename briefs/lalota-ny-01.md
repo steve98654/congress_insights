@@ -9,9 +9,9 @@ Representative for NY-01 · 3.8 years in the House · Problem Solvers Caucus mem
 ## Top actions
 
 1. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 colleagues from your state already cosponsor: Rep. Josh Riley (D-NY-19), Rep. Thomas R. Suozzi (D-NY-03), Rep. John W. Mannion (D-NY-22), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. John W. Mannion (D-NY-22), Rep. Josh Riley (D-NY-19), Rep. Thomas R. Suozzi (D-NY-03), 2 more.
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 8 colleagues from your state already cosponsor: Rep. Nicholas A. Langworthy (R-NY-23), Rep. Nicole Malliotakis (R-NY-11), Rep. Thomas R. Suozzi (D-NY-03), 5 more.
+   It is PSC-endorsed and you are a caucus member. 13 of your state colleagues are already cosponsoring: Rep. George Latimer (D-NY-16), Rep. Ritchie Torres (D-NY-15), Rep. Thomas R. Suozzi (D-NY-03), 10 more.
 3. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
 4. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
@@ -19,11 +19,29 @@ Representative for NY-01 · 3.8 years in the House · Problem Solvers Caucus mem
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.J.Res. 4 (Filibuster amendment).** _Protect the Senate filibuster · [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 7. **Cosponsor H.R. 10380 (Independent Commissions Act).** _End partisan gerrymandering · [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03), Rep. Michael Lawler (R-NY-17).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Michael Lawler (R-NY-17), Rep. Thomas R. Suozzi (D-NY-03).
 8. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 51_  
-   It is PSC-endorsed and you are a caucus member. 1 colleagues from your state already cosponsor: Rep. Thomas R. Suozzi (D-NY-03).
+   It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Thomas R. Suozzi (D-NY-03).
+
+## Talking points
+
+**H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
+- Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
+- 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
+- 5 of your NY colleagues are on it: John W. Mannion, Josh Riley, Thomas R. Suozzi and others.
+
+**H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
+- A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
+- 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
+- 13 of your NY colleagues are on it: George Latimer, Ritchie Torres, Thomas R. Suozzi and others.
+
+**H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
+- Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
+- 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
+- 1 of your NY colleagues is on it: Joseph D. Morelle.
+- Your record: cosponsor.
 
 ## Position on each goal
 
@@ -37,6 +55,7 @@ Representative for NY-01 · 3.8 years in the House · Problem Solvers Caucus mem
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 50 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 0 |
+| Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 57 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | cosponsor | 57 |
 
@@ -52,4 +71,6 @@ Representative for NY-01 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-10-29 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
+
+_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
