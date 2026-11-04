@@ -21,9 +21,9 @@ Representative for WI-07 · 6.5 years in the House · Leaving Congress in Januar
 6. **Cosponsor H.R. 10381 (COURTS Act). It is waiting in Judiciary, where you sit.** _End partisan gerrymandering · [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Mark Pocan (D-WI-02), Rep. Gwen Moore (D-WI-04), Rep. Derrick Van Orden (R-WI-03).
+   3 of your state colleagues are already cosponsoring: Rep. Gwen Moore (D-WI-04), Rep. Derrick Van Orden (R-WI-03), Rep. Mark Pocan (D-WI-02).
 8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Gwen Moore (D-WI-04), Rep. Mark Pocan (D-WI-02), Rep. Bryan Steil (R-WI-01), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Bryan Steil (R-WI-01), Rep. Scott Fitzgerald (R-WI-05), Rep. Gwen Moore (D-WI-04), 3 more.
 
 ## Talking points
 
@@ -45,7 +45,7 @@ Representative for WI-07 · 6.5 years in the House · Leaving Congress in Januar
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted not voting | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 0 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 0 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 35 |
@@ -67,7 +67,5 @@ Representative for WI-07 · 6.5 years in the House · Leaving Congress in Januar
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

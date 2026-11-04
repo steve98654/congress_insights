@@ -11,7 +11,7 @@ Senator for AK · 23.8 years in the Senate
 1. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. John W. Hickenlooper (D-CO).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 65_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 2. **Cosponsor S. 5653 (Bipartisan American Affordability and Jobs Act of 2026). It is waiting in Energy and Natural Resources, where you sit.** _Speed up permits for energy and infrastructure · [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) · priority 60_  
-   It has 0 sponsors and cosponsors (0 R, 0 D, 0 PSC).
+   It has 4 sponsors and cosponsors (2 R, 2 D, 0 PSC).
 3. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
 4. **Press for a markup of S. 1929 in Health, Education, Labor, and Pensions.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 45_  
@@ -26,10 +26,13 @@ Senator for AK · 23.8 years in the Senate
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: voted yea.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **S. 5653, Bipartisan American Affordability and Jobs Act of 2026: Speed up permits for energy and infrastructure**
 - Speeds up federal permits for energy and infrastructure projects.
+- 4 members back it: 2 Republicans and 2 Democrats.
 
 **S. 1929, SEPSIS Act: Protect access to care**
 - Senate companion to H.R. 7116.
@@ -63,7 +66,5 @@ Senator for AK · 23.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

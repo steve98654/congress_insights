@@ -2,7 +2,7 @@
 
 Representative for NY-03 · 9.8 years in the House · Problem Solvers Caucus Co-Chair
 
-**Priority tier A** · leverage score 65 (rank 134 of 439 in the House) · supports 12 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 65 (rank 133 of 439 in the House) · supports 12 of 20 caucus bills in their chamber
 
 **Committees:** Ways and Means; Strategic Competition Between the United States and the Chinese Communist Party
 
@@ -30,7 +30,7 @@ Representative for NY-03 · 9.8 years in the House · Problem Solvers Caucus Co-
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 4 of your NY colleagues are on it: John W. Mannion, Josh Riley, Timothy M. Kennedy and others.
+- 4 of your NY colleagues are on it: Michael Lawler, Josh Riley, Timothy M. Kennedy and others.
 - Your record: cosponsor.
 
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
@@ -48,7 +48,7 @@ Representative for NY-03 · 9.8 years in the House · Problem Solvers Caucus Co-
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | cosponsor | 65 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | cosponsor | 63 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | cosponsor | 65 |
@@ -70,7 +70,5 @@ Representative for NY-03 · 9.8 years in the House · Problem Solvers Caucus Co-
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

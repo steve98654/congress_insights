@@ -13,7 +13,7 @@ Senator for CO · 5.8 years in the Senate
 2. **Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 60_  
    It has 9 sponsors and cosponsors (4 R, 5 D, 0 PSC).
 3. **Cosponsor S. 5653 (Bipartisan American Affordability and Jobs Act of 2026). It is waiting in Energy and Natural Resources, where you sit.** _Speed up permits for energy and infrastructure · [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) · priority 60_  
-   It has 0 sponsors and cosponsors (0 R, 0 D, 0 PSC).
+   It has 4 sponsors and cosponsors (2 R, 2 D, 0 PSC).
 4. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. John R. Curtis (R-UT).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    There is no Senate version yet, and you sit on Commerce, Science, and Transportation (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 5. **Introduce a Senate companion to H.R. 3876 (LIHEAP Staffing Support Act) with Sen. Lisa Murkowski (R-AK).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 40_  
@@ -24,10 +24,12 @@ Senator for CO · 5.8 years in the Senate
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
-- 4 of your CO colleagues are on it: Jeff Hurd, Jeff Crank, Gabe Evans and others.
+- 4 of your CO colleagues are on it: Jeff Hurd, Gabe Evans, Lauren Boebert and others.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: voted nay.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **S. 1929, SEPSIS Act: Protect access to care**
 - Senate companion to H.R. 7116.
@@ -35,6 +37,7 @@ Senator for CO · 5.8 years in the Senate
 
 **S. 5653, Bipartisan American Affordability and Jobs Act of 2026: Speed up permits for energy and infrastructure**
 - Speeds up federal permits for energy and infrastructure projects.
+- 4 members back it: 2 Republicans and 2 Democrats.
 
 ## Position on each goal
 
@@ -63,7 +66,5 @@ Senator for CO · 5.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

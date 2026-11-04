@@ -13,13 +13,13 @@ Senator for MT · 11.8 years in the Senate · Leaving Congress in January (retir
 2. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
    It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
 3. **Cosponsor S. 5653 (Bipartisan American Affordability and Jobs Act of 2026). It is waiting in Energy and Natural Resources, where you sit.** _Speed up permits for energy and infrastructure · [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) · priority 60_  
-   It has 0 sponsors and cosponsors (0 R, 0 D, 0 PSC).
+   It has 4 sponsors and cosponsors (2 R, 2 D, 0 PSC).
 4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Catherine Cortez Masto (D-NV).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 30_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 5. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Catherine Cortez Masto (D-NV).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 24_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 6. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Catherine Cortez Masto (D-NV).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 24_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 130 sponsors and cosponsors (65 R, 65 D, 29 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 
 ## Talking points
 
@@ -28,7 +28,9 @@ Senator for MT · 11.8 years in the Senate · Leaving Congress in January (retir
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: voted yea.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
@@ -36,6 +38,7 @@ Senator for MT · 11.8 years in the Senate · Leaving Congress in January (retir
 
 **S. 5653, Bipartisan American Affordability and Jobs Act of 2026: Speed up permits for energy and infrastructure**
 - Speeds up federal permits for energy and infrastructure projects.
+- 4 members back it: 2 Republicans and 2 Democrats.
 
 ## Position on each goal
 
@@ -64,7 +67,5 @@ Senator for MT · 11.8 years in the Senate · Leaving Congress in January (retir
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

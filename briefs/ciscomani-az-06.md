@@ -2,7 +2,7 @@
 
 Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 62 (rank 191 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 62 (rank 190 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations; Veterans' Affairs
 
@@ -13,11 +13,11 @@ Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus mem
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 3. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Yassamin Ansari (D-AZ-03), Rep. Greg Stanton (D-AZ-04).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Greg Stanton (D-AZ-04), Rep. Yassamin Ansari (D-AZ-03).
 4. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Adelita S. Grijalva (D-AZ-07), Rep. Yassamin Ansari (D-AZ-03).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Yassamin Ansari (D-AZ-03), Rep. Adelita S. Grijalva (D-AZ-07).
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Adelita S. Grijalva (D-AZ-07), Rep. Yassamin Ansari (D-AZ-03).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Yassamin Ansari (D-AZ-03), Rep. Adelita S. Grijalva (D-AZ-07).
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 51_  
    It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Paul A. Gosar (R-AZ-09).
 7. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 51_  
@@ -30,25 +30,25 @@ Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 3 of your AZ colleagues are on it: Greg Stanton, Adelita S. Grijalva, David Schweikert.
+- 3 of your AZ colleagues are on it: Adelita S. Grijalva, Greg Stanton, David Schweikert.
 - Your record: cosponsor.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 2 of your AZ colleagues are on it: Yassamin Ansari, Greg Stanton.
+- 2 of your AZ colleagues are on it: Greg Stanton, Yassamin Ansari.
 
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 2 of your AZ colleagues are on it: Adelita S. Grijalva, Yassamin Ansari.
+- 2 of your AZ colleagues are on it: Yassamin Ansari, Adelita S. Grijalva.
 
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 65 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 57 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | cosponsor | 57 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 51 |
@@ -70,7 +70,5 @@ Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus mem
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

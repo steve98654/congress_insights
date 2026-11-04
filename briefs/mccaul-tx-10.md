@@ -11,39 +11,41 @@ Representative for TX-10 · 21.8 years in the House · Leaving Congress in Janua
 1. **Use your remaining weeks to press for a vote on H.R. 9340 (Ratepayer Protection Act) before January 3, 2027.** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
    You are retiring, and the 119th Congress ends January 3, 2027. Bills not enacted by then die and have to be reintroduced. Departing members can speak freely on the floor and in conference.
 2. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Sylvia R. Garcia (D-TX-29), Rep. John R. Carter (R-TX-31), Rep. Vicente Gonzalez (D-TX-34), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Troy E. Nehls (R-TX-22), Rep. Vicente Gonzalez (D-TX-34), Rep. Sylvia R. Garcia (D-TX-29), 3 more.
 3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Lance Gooden (R-TX-05), Rep. Julie Johnson (D-TX-32), Rep. Henry Cuellar (D-TX-28), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), Rep. Henry Cuellar (D-TX-28), 3 more.
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   10 of your state colleagues are already cosponsoring: Rep. Beth Van Duyne (R-TX-24), Rep. Ronny Jackson (R-TX-13), Rep. Craig A. Goldman (R-TX-12), 7 more.
+   11 of your state colleagues are already cosponsoring: Rep. Randy K. Weber, Sr. (R-TX-14), Rep. August Pfluger (R-TX-11), Rep. Beth Van Duyne (R-TX-24), 8 more.
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   15 of your state colleagues are already cosponsoring: Rep. Pete Sessions (R-TX-17), Rep. Greg Casar (D-TX-35), Rep. Lizzie Fletcher (D-TX-07), 12 more.
+   15 of your state colleagues are already cosponsoring: Rep. Greg Casar (D-TX-35), Rep. Joaquin Castro (D-TX-20), Rep. Julie Johnson (D-TX-32), 12 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Lance Gooden (R-TX-05), Rep. Monica De La Cruz (R-TX-15), Rep. Nathaniel Moran (R-TX-01), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), Rep. Nathaniel Moran (R-TX-01), 1 more.
 7. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 22 of your state colleagues are on it: Rep. Pete Sessions (R-TX-17), Rep. Ronny Jackson (R-TX-13), Rep. Lizzie Fletcher (D-TX-07), 19 more.
+   It cleared committee (committee vote 42-0). 22 of your state colleagues are on it: Rep. August Pfluger (R-TX-11), Rep. Randy K. Weber, Sr. (R-TX-14), Rep. Lance Gooden (R-TX-05), 19 more.
 8. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Julie Johnson (D-TX-32), Rep. Lizzie Fletcher (D-TX-07).
+   2 of your state colleagues are already cosponsoring: Rep. Lizzie Fletcher (D-TX-07), Rep. Julie Johnson (D-TX-32).
 
 ## Talking points
 
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
-- 5 of your TX colleagues are on it: Pat Fallon, Beth Van Duyne, Henry Cuellar and others.
+- 5 of your TX colleagues are on it: Randy K. Weber, Sr., Henry Cuellar, Pat Fallon and others.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: cosponsor.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 6 of your TX colleagues are on it: Sylvia R. Garcia, John R. Carter, Vicente Gonzalez and others.
+- 6 of your TX colleagues are on it: Troy E. Nehls, Vicente Gonzalez, Sylvia R. Garcia and others.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 6 of your TX colleagues are on it: Lance Gooden, Julie Johnson, Henry Cuellar and others.
+- 6 of your TX colleagues are on it: Monica De La Cruz, Lance Gooden, Henry Cuellar and others.
 
 ## Position on each goal
 
@@ -72,7 +74,5 @@ Representative for TX-10 · 21.8 years in the House · Leaving Congress in Janua
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

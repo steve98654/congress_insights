@@ -57,8 +57,15 @@
   }
  ],
  "cosponsors_complete": true,
+ "summary": {
+  "text": "",
+  "version": "Introduced in House",
+  "date": "2025-01-03"
+ },
+ "cbo": [],
+ "policy_area": "Congress",
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres4.xml",
- "fetched": "2026-11-02",
+ "fetched": "2026-11-04",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

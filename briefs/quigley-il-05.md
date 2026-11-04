@@ -11,13 +11,13 @@ Representative for IL-05 · 17.6 years in the House
 1. **Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).** _Fund the government on time · priority 65_  
    Your THUD subcommittee seat decides this. The PSC letter flags about $10B in highway cuts, $5B for airports and $4B for transit.
 2. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Eric Sorensen (D-IL-17), Rep. Jesús G. "Chuy" García (D-IL-04), Rep. Nikki Budzinski (D-IL-13), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Eric Sorensen (D-IL-17), Rep. Raja Krishnamoorthi (D-IL-08), Rep. Nikki Budzinski (D-IL-13), 1 more.
 3. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   9 of your state colleagues are already cosponsoring: Rep. Bradley Scott Schneider (D-IL-10), Rep. Eric Sorensen (D-IL-17), Rep. Danny K. Davis (D-IL-07), 6 more.
+   9 of your state colleagues are already cosponsoring: Rep. Eric Sorensen (D-IL-17), Rep. Danny K. Davis (D-IL-07), Rep. Janice D. Schakowsky (D-IL-09), 6 more.
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Delia C. Ramirez (D-IL-03), Rep. Janice D. Schakowsky (D-IL-09), Rep. Nikki Budzinski (D-IL-13), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Janice D. Schakowsky (D-IL-09), Rep. Robin L. Kelly (D-IL-02), Rep. Sean Casten (D-IL-06), 3 more.
 5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Bradley Scott Schneider (D-IL-10), Rep. Darin LaHood (R-IL-16), Rep. Danny K. Davis (D-IL-07), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Raja Krishnamoorthi (D-IL-08), Rep. Darin LaHood (R-IL-16), Rep. Bradley Scott Schneider (D-IL-10), 1 more.
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -30,24 +30,24 @@ Representative for IL-05 · 17.6 years in the House
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
 - Sets a minimum adequate staffing level for running the Low-Income Home Energy Assistance Program.
 - 49 members back it: 2 Republicans and 47 Democrats, including 9 Problem Solvers.
-- 4 of your IL colleagues are on it: Eric Sorensen, Jesús G. "Chuy" García, Nikki Budzinski and others.
+- 4 of your IL colleagues are on it: Eric Sorensen, Raja Krishnamoorthi, Nikki Budzinski and others.
 
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 9 of your IL colleagues are on it: Bradley Scott Schneider, Eric Sorensen, Danny K. Davis and others.
+- 9 of your IL colleagues are on it: Eric Sorensen, Danny K. Davis, Janice D. Schakowsky and others.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 6 of your IL colleagues are on it: Delia C. Ramirez, Janice D. Schakowsky, Nikki Budzinski and others.
+- 6 of your IL colleagues are on it: Janice D. Schakowsky, Robin L. Kelly, Sean Casten and others.
 
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 65 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 48 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 48 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | cosponsor | 35 |
@@ -69,7 +69,5 @@ Representative for IL-05 · 17.6 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

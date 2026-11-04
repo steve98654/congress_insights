@@ -71,8 +71,15 @@
   }
  ],
  "cosponsors_complete": true,
+ "summary": {
+  "text": "Metastatic Breast Cancer Access to Care Act This bill expedites payment of Social Security Disability Insurance (SSDI) benefits and eligibility for Medicare coverage for those with metastatic breast cancer (i.e., breast cancer that has spread to other sites in the body). Specifically, the bill eliminates the 5-month waiting period for SSDI benefits and the subsequent 24-month waiting period for Medicare coverage for individuals with metastatic breast cancer. Under current law, individuals generally must wait 5 months after the onset of disability to begin receiving SSDI benefits and an additional 24 months to become eligible for Medicare.",
+  "version": "Introduced in Senate",
+  "date": "2025-12-11"
+ },
+ "cbo": [],
+ "policy_area": "Social Welfare",
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3442.xml",
- "fetched": "2026-11-02",
+ "fetched": "2026-11-04",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

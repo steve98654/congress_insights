@@ -26,10 +26,12 @@ Senator for VA · 13.8 years in the Senate
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
-- 6 of your VA colleagues are on it: Robert J. Wittman, Ben Cline, Jennifer L. McClellan and others.
+- 6 of your VA colleagues are on it: Robert J. Wittman, Jennifer A. Kiggans, Jennifer L. McClellan and others.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: voted nay.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **S. 1929, SEPSIS Act: Protect access to care**
 - Senate companion to H.R. 7116.
@@ -39,6 +41,8 @@ Senator for VA · 13.8 years in the Senate
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
 - 2 of your VA colleagues are on it: Ben Cline, Eugene Simon Vindman.
+- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal
 
@@ -59,15 +63,13 @@ Senator for VA · 13.8 years in the Senate
 ## Cross-party partners
 
 - [Sen. Rick Scott (R-FL)](scott-fl.md): shared committees: Armed Services, Budget, Foreign Relations
-- [Sen. Jim Banks (R-IN)](banks-in.md): shared committees: Armed Services, Health, Education, Labor, and Pensions
 - [Sen. Mike Lee (R-UT)](lee-ut.md): shared committees: Budget, Foreign Relations
+- [Sen. Jim Banks (R-IN)](banks-in.md): shared committees: Armed Services, Health, Education, Labor, and Pensions
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

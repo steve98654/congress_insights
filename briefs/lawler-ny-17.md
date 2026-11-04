@@ -15,7 +15,7 @@ Representative for NY-17 · 3.8 years in the House · Problem Solvers Caucus mem
 3. **Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 60_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
-   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Joseph D. Morelle (D-NY-25), Rep. Nick LaLota (R-NY-01).
+   It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Nick LaLota (R-NY-01), Rep. Joseph D. Morelle (D-NY-25).
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 51_  
@@ -36,13 +36,15 @@ Representative for NY-17 · 3.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 3 of your NY colleagues are on it: Nick LaLota, Paul Tonko, Thomas R. Suozzi.
+- 3 of your NY colleagues are on it: Nick LaLota, Thomas R. Suozzi, Paul Tonko.
 - Your record: cosponsor.
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
-- 2 of your NY colleagues are on it: Joseph D. Morelle, Nick LaLota.
+- 2 of your NY colleagues are on it: Nick LaLota, Joseph D. Morelle.
+- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal
 
@@ -71,7 +73,5 @@ Representative for NY-17 · 3.8 years in the House · Problem Solvers Caucus mem
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

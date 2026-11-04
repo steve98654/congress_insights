@@ -2,7 +2,7 @@
 
 Representative for CA-04 · 27.8 years in the House
 
-**Priority tier B** · leverage score 61 (rank 199 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 61 (rank 198 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Ways and Means
 
@@ -15,11 +15,11 @@ Representative for CA-04 · 27.8 years in the House
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. Laura Friedman (D-CA-30), Rep. Adam Gray (D-CA-13), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Ted Lieu (D-CA-36), Rep. Laura Friedman (D-CA-30), Rep. Jim Costa (D-CA-21), 2 more.
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   14 of your state colleagues are already cosponsoring: Rep. Jay Obernolte (R-CA-23), Rep. Jim Costa (D-CA-21), Rep. Norma J. Torres (D-CA-35), 11 more.
+   14 of your state colleagues are already cosponsoring: Rep. Ami Bera (D-CA-06), Rep. Lateefah Simon (D-CA-12), Rep. Ted Lieu (D-CA-36), 11 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. Ro Khanna (D-CA-17), Rep. Josh Harder (D-CA-09), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Ted Lieu (D-CA-36), Rep. Ro Khanna (D-CA-17), Rep. Josh Harder (D-CA-09), 3 more.
 7. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
@@ -30,18 +30,18 @@ Representative for CA-04 · 27.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 16 of your CA colleagues are on it: John Garamendi, Mike Levin, Josh Harder and others.
+- 16 of your CA colleagues are on it: Lateefah Simon, Mike Levin, Sara Jacobs and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
-- 13 of your CA colleagues are on it: Mike Levin, Scott H. Peters, Jim Costa and others.
+- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 14 of your CA colleagues are on it: Ami Bera, Mike Levin, Young Kim and others.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 44 of your CA colleagues are on it: John Garamendi, Mike Levin, Jared Huffman and others.
+- 44 of your CA colleagues are on it: Sara Jacobs, Young Kim, Kevin Kiley and others.
 - Your record: cosponsor.
 
 ## Position on each goal
@@ -49,7 +49,7 @@ Representative for CA-04 · 27.8 years in the House
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 48 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | cosponsor | 68 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | cosponsor | 40 |
@@ -71,7 +71,5 @@ Representative for CA-04 · 27.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -15,7 +15,7 @@ Representative for VA-09 · 15.8 years in the House
 3. **Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Rules, where you sit.** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 4. **Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
 5. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 6. **Move H.R. 4642 through Rules, or back taking it up under suspension.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
@@ -68,7 +68,5 @@ Representative for VA-09 · 15.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -9,15 +9,15 @@ Representative for CO-04 · 5.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Joe Neguse (D-CO-02), Rep. Gabe Evans (R-CO-08), Rep. Brittany Pettersen (D-CO-07).
+   3 of your state colleagues are already cosponsoring: Rep. Gabe Evans (R-CO-08), Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07).
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07), Rep. Jason Crow (D-CO-06).
+   3 of your state colleagues are already cosponsoring: Rep. Joe Neguse (D-CO-02), Rep. Jason Crow (D-CO-06), Rep. Brittany Pettersen (D-CO-07).
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Jason Crow (D-CO-06), Rep. Joe Neguse (D-CO-02), Rep. Gabe Evans (R-CO-08), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Joe Neguse (D-CO-02), Rep. Gabe Evans (R-CO-08), Rep. Jason Crow (D-CO-06), 1 more.
 4. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07), Rep. Jason Crow (D-CO-06), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Joe Neguse (D-CO-02), Rep. Diana DeGette (D-CO-01), Rep. Brittany Pettersen (D-CO-07), 1 more.
 5. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Joe Neguse (D-CO-02), Rep. Jeff Crank (R-CO-05), Rep. Jason Crow (D-CO-06), 1 more.
+   It cleared committee (committee vote 42-0). 4 of your state colleagues are on it: Rep. Jeff Crank (R-CO-05), Rep. Joe Neguse (D-CO-02), Rep. Gabe Evans (R-CO-08), 1 more.
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
 7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -28,17 +28,17 @@ Representative for CO-04 · 5.8 years in the House
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 3 of your CO colleagues are on it: Joe Neguse, Gabe Evans, Brittany Pettersen.
+- 3 of your CO colleagues are on it: Gabe Evans, Joe Neguse, Brittany Pettersen.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 3 of your CO colleagues are on it: Joe Neguse, Brittany Pettersen, Jason Crow.
+- 3 of your CO colleagues are on it: Joe Neguse, Jason Crow, Brittany Pettersen.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
-- 4 of your CO colleagues are on it: Jason Crow, Joe Neguse, Gabe Evans and others.
+- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 4 of your CO colleagues are on it: Joe Neguse, Gabe Evans, Jason Crow and others.
 
 ## Position on each goal
 
@@ -67,7 +67,5 @@ Representative for CO-04 · 5.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

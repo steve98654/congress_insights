@@ -30,7 +30,7 @@ Representative for PA-01 · 9.8 years in the House · Problem Solvers Caucus Co-
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 5 of your PA colleagues are on it: Madeleine Dean, Ryan Mackenzie, Summer L. Lee and others.
+- 5 of your PA colleagues are on it: Dwight Evans, Madeleine Dean, Ryan Mackenzie and others.
 - Your record: sponsor.
 
 **H.J.Res. 4, Filibuster amendment: Protect the Senate filibuster**
@@ -71,7 +71,5 @@ Representative for PA-01 · 9.8 years in the House · Problem Solvers Caucus Co-
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

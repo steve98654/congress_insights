@@ -26,7 +26,9 @@ Senator for DE · 1.8 years in the Senate
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: voted nay.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **S. 1929, SEPSIS Act: Protect access to care**
 - Senate companion to H.R. 7116.
@@ -36,6 +38,8 @@ Senator for DE · 1.8 years in the Senate
 **H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
 - Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
 - 6 members back it: 4 Republicans and 2 Democrats.
+- CBO (2026-09-30): As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026
+- [CBO cost estimate](https://www.cbo.gov/publication/62817)
 
 ## Position on each goal
 
@@ -56,15 +60,13 @@ Senator for DE · 1.8 years in the Senate
 ## Cross-party partners
 
 - [Sen. Cynthia M. Lummis (R-WY)](lummis-wy.md): shared committees: Banking, Housing, and Urban Affairs, Commerce, Science, and Transportation, Environment and Public Works
-- [Sen. Jim Banks (R-IN)](banks-in.md): shared committees: Banking, Housing, and Urban Affairs, Health, Education, Labor, and Pensions
 - [Sen. Shelley Moore Capito (R-WV)](capito-wv.md): shared committees: Commerce, Science, and Transportation, Environment and Public Works
+- [Sen. Jim Banks (R-IN)](banks-in.md): shared committees: Banking, Housing, and Urban Affairs, Health, Education, Labor, and Pensions
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -15,7 +15,7 @@ Representative for MI-04 · 15.8 years in the House
 3. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. Shri Thanedar (D-MI-13), Rep. Hillary J. Scholten (D-MI-03), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Jack Bergman (R-MI-01), Rep. Hillary J. Scholten (D-MI-03), 2 more.
 5. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 39-1).
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -36,12 +36,12 @@ Representative for MI-04 · 15.8 years in the House
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 4 of your MI colleagues are on it: Jack Bergman, Rashida Tlaib, John R. Moolenaar and others.
+- 4 of your MI colleagues are on it: John R. Moolenaar, Jack Bergman, Rashida Tlaib and others.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your MI colleagues are on it: Jack Bergman, Shri Thanedar, Hillary J. Scholten and others.
+- 5 of your MI colleagues are on it: Debbie Dingell, Jack Bergman, Hillary J. Scholten and others.
 
 ## Position on each goal
 
@@ -70,7 +70,5 @@ Representative for MI-04 · 15.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,7 +2,7 @@
 
 Representative for OH-05 · 18.9 years in the House
 
-**Priority tier B** · leverage score 66 (rank 126 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 66 (rank 125 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 **Committees:** Energy and Commerce
 
@@ -11,15 +11,15 @@ Representative for OH-05 · 18.9 years in the House
 1. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 49 sponsors and cosponsors (2 R, 47 D, 9 PSC).
 2. **Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
 3. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Greg Landsman (D-OH-01), Rep. Mike Carey (R-OH-15), Rep. Max L. Miller (R-OH-07), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Greg Landsman (D-OH-01), Rep. Max L. Miller (R-OH-07), Rep. Joyce Beatty (D-OH-03), 2 more.
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   8 of your state colleagues are already cosponsoring: Rep. Shontel M. Brown (D-OH-11), Rep. Michael R. Turner (R-OH-10), Rep. David P. Joyce (R-OH-14), 5 more.
+   8 of your state colleagues are already cosponsoring: Rep. Emilia Strong Sykes (D-OH-13), Rep. Marcy Kaptur (D-OH-09), Rep. David P. Joyce (R-OH-14), 5 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Mike Carey (R-OH-15), Rep. Max L. Miller (R-OH-07), Rep. Michael R. Turner (R-OH-10), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. David P. Joyce (R-OH-14), Rep. Greg Landsman (D-OH-01), Rep. Max L. Miller (R-OH-07), 2 more.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Greg Landsman (D-OH-01), Rep. Warren Davidson (R-OH-08).
 8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -34,8 +34,8 @@ Representative for OH-05 · 18.9 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
-- 5 of your OH colleagues are on it: Mike Carey, Troy Balderson, Michael A. Rulli and others.
+- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 5 of your OH colleagues are on it: Greg Landsman, Joyce Beatty, Michael A. Rulli and others.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
 - Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.
@@ -46,7 +46,7 @@ Representative for OH-05 · 18.9 years in the House
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 68 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 48 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 45 |
@@ -68,7 +68,5 @@ Representative for OH-05 · 18.9 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

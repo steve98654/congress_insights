@@ -9,7 +9,7 @@ Representative for NC-09 · 13.8 years in the House
 ## Top actions
 
 1. **Ask Rep. Brett Guthrie, chair of Energy and Commerce, to mark up H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 90_  
-   You lead the bill. It has 126 sponsors and cosponsors (64 R, 62 D, 28 PSC) and has not had a committee vote.
+   You lead the bill. It has 130 sponsors and cosponsors (65 R, 65 D, 29 PSC) and has not had a committee vote.
 2. **Recruit cosponsors on the committee of jurisdiction for H.R. 5269: Rep. Richard E. Neal (D-MA-01), Rep. Frank Pallone, Jr. (D-NJ-06), Rep. Diana DeGette (D-CO-01).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 80_  
    Committee members who cosponsor make a markup easier to get. These are the highest-ranked committee members not yet on the bill, other party and PSC first.
 3. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 68_  
@@ -17,20 +17,20 @@ Representative for NC-09 · 13.8 years in the House
 4. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 5. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Alma S. Adams (D-NC-12), Rep. Deborah K. Ross (D-NC-02), Rep. Valerie P. Foushee (D-NC-04).
+   3 of your state colleagues are already cosponsoring: Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02), Rep. Alma S. Adams (D-NC-12).
 6. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Chuck Edwards (R-NC-11), Rep. David Rouzer (R-NC-07), Rep. Donald G. Davis (D-NC-01).
+   3 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. David Rouzer (R-NC-07), Rep. Chuck Edwards (R-NC-11).
 7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   7 of your state colleagues are already cosponsoring: Rep. Gregory F. Murphy (R-NC-03), Rep. Chuck Edwards (R-NC-11), Rep. Alma S. Adams (D-NC-12), 4 more.
+   7 of your state colleagues are already cosponsoring: Rep. Tim Moore (R-NC-14), Rep. Addison P. McDowell (R-NC-06), Rep. Donald G. Davis (D-NC-01), 4 more.
 8. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Valerie P. Foushee (D-NC-04), Rep. Deborah K. Ross (D-NC-02), Rep. Chuck Edwards (R-NC-11), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Chuck Edwards (R-NC-11), Rep. Valerie P. Foushee (D-NC-04), Rep. Donald G. Davis (D-NC-01), 1 more.
 
 ## Talking points
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
-- 9 of your NC colleagues are on it: Brad Knott, Gregory F. Murphy, Deborah K. Ross and others.
+- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 9 of your NC colleagues are on it: Tim Moore, Addison P. McDowell, Pat Harrigan and others.
 - Your record: sponsor.
 
 **H.R. 3876, LIHEAP Staffing Support Act: Lower housing and home energy costs**
@@ -48,7 +48,7 @@ Representative for NC-09 · 13.8 years in the House
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 68 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 48 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 48 |
@@ -70,7 +70,5 @@ Representative for NC-09 · 13.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

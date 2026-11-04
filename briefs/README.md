@@ -11,7 +11,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Mike Crapo (R-ID)](crapo-id.md) | A | 75 | 1/5 | Mark up S. 3442 (Metastatic Breast Cancer Access to Care Act) in Finance. |
 | [Maria Cantwell (D-WA)](cantwell-wa.md) | A | 74 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
 | [Richard J. Durbin (D-IL)](durbin-il.md) | A | 74 | 1/5 | Ask leadership for a lame-duck vote on S. 1837 (DEFIANCE Act) as a legacy item, and name a returning lead sponsor for 2027: Sen. Martin Heinrich (D-NM), Sen. Angus S. King, Jr. (I-ME), 5 more. |
-| [Mike Lee (R-UT)](lee-ut.md) | A | 73 | 2/5 | Mark up S. 5653 (Bipartisan American Affordability and Jobs Act of 2026) in Energy and Natural Resources. |
+| [Mike Lee (R-UT)](lee-ut.md) | A | 73 | 3/5 | Mark up S. 5653 (Bipartisan American Affordability and Jobs Act of 2026) in Energy and Natural Resources. |
 | [Patty Murray (D-WA)](murray-wa.md) | A | 73 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
 | [Catherine Cortez Masto (D-NV)](cortez-masto-nv.md) | B | 72 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
 | [John W. Hickenlooper (D-CO)](hickenlooper-co.md) | B | 72 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
@@ -22,11 +22,11 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Susan M. Collins (R-ME)](collins-me.md) | A | 70 | 3/5 | Move all 12 FY2027 appropriations bills on regular order and on time. |
 | [Ruben Gallego (D-AZ)](gallego-az.md) | B | 70 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
 | [Jeff Merkley (D-OR)](merkley-or.md) | A | 70 | 1/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
-| [Sheldon Whitehouse (D-RI)](whitehouse-ri.md) | A | 70 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
+| [Sheldon Whitehouse (D-RI)](whitehouse-ri.md) | A | 70 | 1/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
 | [Cindy Hyde-Smith (R-MS)](hyde-smith-ms.md) | B | 69 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
 | [Chris Van Hollen (D-MD)](van-hollen-md.md) | B | 69 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
 | [Tammy Baldwin (D-WI)](baldwin-wi.md) | B | 68 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
-| [Martin Heinrich (D-NM)](heinrich-nm.md) | A | 68 | 1/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
+| [Martin Heinrich (D-NM)](heinrich-nm.md) | A | 68 | 2/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
 | [Mazie K. Hirono (D-HI)](hirono-hi.md) | B | 68 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
 | [Ben Ray Luján (D-NM)](lujan-nm.md) | B | 68 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
 | [Jack Reed (D-RI)](reed-ri.md) | B | 68 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
@@ -60,7 +60,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [John Kennedy (R-LA)](kennedy-la.md) | B | 59 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
 | [David McCormick (R-PA)](mccormick-pa.md) | B | 59 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. John Fetterman (D-PA). |
 | [Katie Boyd Britt (R-AL)](britt-al.md) | B | 58 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
-| [Shelley Moore Capito (R-WV)](capito-wv.md) | A | 58 | 2/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
+| [Shelley Moore Capito (R-WV)](capito-wv.md) | A | 58 | 3/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
 | [Tammy Duckworth (D-IL)](duckworth-il.md) | B | 58 | 0/5 | Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act). |
 | [Chuck Grassley (R-IA)](grassley-ia.md) | A | 58 | 1/5 | Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit. |
 | [Margaret Wood Hassan (D-NH)](hassan-nh.md) | B | 58 | 1/5 | Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit. |
@@ -101,9 +101,9 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Alan Armstrong (R-OK)](armstrong-ok.md) | B | 47 | 1/5 | Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit. |
 | [Kevin Cramer (R-ND)](cramer-nd.md) | C | 46 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA). |
 | [Tim Sheehy (R-MT)](sheehy-mt.md) | C | 46 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. John W. Hickenlooper (D-CO). |
+| [John R. Curtis (R-UT)](curtis-ut.md) | C | 45 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA). |
 | [Joni Ernst (R-IA)](ernst-ia.md) | C | 41 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA). |
 | [Ted Budd (R-NC)](budd-nc.md) | C | 40 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA), Sen. Michael F. Bennet (D-CO). |
-| [John R. Curtis (R-UT)](curtis-ut.md) | C | 40 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA). |
 | [Cynthia M. Lummis (R-WY)](lummis-wy.md) | C | 39 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA). |
 | [Darline Graham (R-SC)](graham-nordone-sc.md) | C | 0 | 1/5 |  |
 
@@ -121,7 +121,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Jodey C. Arrington (R-TX-19)](arrington-tx-19.md) | A | 88 | 1/20 | Schedule a markup of H.R. 3289 (Fiscal Commission Act) in Budget. |
 | [Ed Case (D-HI-01)](case-hi-01.md) | A | 88 | 10/20 | Ask Rep. Jodey C. Arrington, chair of Budget, to mark up H.R. 222 (Sustainable Budget Act). |
 | [Sam Graves (R-MO-06)](graves-mo-06.md) | A | 88 | 3/20 | Schedule a markup of H.R. 2979 (BUILD Act for police and fire facilities) in Transportation and Infrastructure. |
-| [Andrew R. Garbarino (R-NY-02)](garbarino-ny-02.md) | A | 84 | 4/20 | Ask Rep. Jason Smith, chair of Ways and Means, to mark up H.R. 2048 (Metastatic Breast Cancer Access to Care Act). |
+| [Andrew R. Garbarino (R-NY-02)](garbarino-ny-02.md) | A | 84 | 5/20 | Ask Rep. Jason Smith, chair of Ways and Means, to mark up H.R. 2048 (Metastatic Breast Cancer Access to Care Act). |
 | [Donald Norcross (D-NJ-01)](norcross-nj-01.md) | A | 83 | 7/20 | Ask Rep. Brett Guthrie, chair of Energy and Commerce, to mark up H.R. 7116 (SEPSIS Act). |
 | [Tim Walberg (R-MI-05)](walberg-mi-05.md) | A | 83 | 2/20 | Schedule a markup of H.R. 3876 (LIHEAP Staffing Support Act) in Education and Workforce. |
 | [Mike Carey (R-OH-15)](carey-oh-15.md) | B | 82 | 4/20 | Ask Rep. Jason Smith, chair of Ways and Means, to mark up H.R. 2036 (Credit for Caring Act). |
@@ -217,7 +217,6 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Randy K. Weber, Sr. (R-TX-14)](weber-tx-14.md) | B | 67 | 3/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
 | [Gabe Amo (D-RI-01)](amo-ri-01.md) | B | 66 | 3/20 | Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit. |
 | [Troy A. Carter (D-LA-02)](carter-la-02.md) | B | 66 | 3/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
-| [Yvette D. Clarke (D-NY-09)](clarke-ny-09.md) | B | 66 | 3/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
 | [Diana DeGette (D-CO-01)](degette-co-01.md) | B | 66 | 1/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
 | [Diana Harshbarger (R-TN-01)](harshbarger-tn-01.md) | B | 66 | 1/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
 | [Kevin Hern (R-OK-01)](hern-ok-01.md) | B | 66 | 1/20 | Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit. |
@@ -258,6 +257,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Vern Buchanan (R-FL-16)](buchanan-fl-16.md) | B | 64 | 2/20 | Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit. |
 | [Kat Cammack (R-FL-03)](cammack-fl-03.md) | B | 64 | 4/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
 | [Kathy Castor (D-FL-14)](castor-fl-14.md) | B | 64 | 5/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
+| [Yvette D. Clarke (D-NY-09)](clarke-ny-09.md) | B | 64 | 4/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
 | [Dan Crenshaw (R-TX-02)](crenshaw-tx-02.md) | B | 64 | 2/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
 | [Mark DeSaulnier (D-CA-10)](desaulnier-ca-10.md) | B | 64 | 5/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit. |
 | [Neal P. Dunn (R-FL-02)](dunn-fl-02.md) | A | 64 | 3/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
@@ -276,7 +276,6 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Nathaniel Moran (R-TX-01)](moran-tx-01.md) | B | 64 | 3/20 | Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit. |
 | [Kevin Mullin (D-CA-15)](mullin-ca-15.md) | B | 64 | 4/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
 | [August Pfluger (R-TX-11)](pfluger-tx-11.md) | B | 64 | 2/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
-| [Raul Ruiz (D-CA-25)](ruiz-ca-25.md) | B | 64 | 3/20 | Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Energy and Commerce, where you sit. |
 | [Marc A. Veasey (D-TX-33)](veasey-tx-33.md) | B | 64 | 4/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
 | [Maxine Waters (D-CA-43)](waters-ca-43.md) | A | 64 | 1/20 | Ask Rep. J. French Hill to schedule a markup of H.R. 3694, and cosponsor it. |
 | [Frederica S. Wilson (D-FL-24)](wilson-fl-24.md) | B | 64 | 4/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit. |
@@ -285,7 +284,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Andrew S. Clyde (R-GA-09)](clyde-ga-09.md) | B | 63 | 0/20 | Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit. |
 | [Jim Costa (D-CA-21)](costa-ca-21.md) | A | 63 | 6/20 | Cosponsor H.R. 2036 (Credit for Caring Act). |
 | [Henry Cuellar (D-TX-28)](cuellar-tx-28.md) | A | 63 | 6/20 | Cosponsor H.R. 3694 (VALID Act). |
-| [Veronica Escobar (D-TX-16)](escobar-tx-16.md) | B | 63 | 3/20 | Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit. |
+| [Veronica Escobar (D-TX-16)](escobar-tx-16.md) | B | 63 | 4/20 | Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit. |
 | [Julie Fedorchak (R-ND-00)](fedorchak-nd-00.md) | B | 63 | 1/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
 | [Randy Fine (R-FL-06)](fine-fl-06.md) | B | 63 | 1/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit. |
 | [Bill Foster (D-IL-11)](foster-il-11.md) | B | 63 | 1/20 | Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit. |
@@ -316,6 +315,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Jennifer A. Kiggans (R-VA-02)](kiggans-va-02.md) | A | 61 | 6/20 | Cosponsor H.R. 5269 (RESULTS Act). |
 | [Darin LaHood (R-IL-16)](lahood-il-16.md) | B | 61 | 3/20 | Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit. |
 | [Gregory F. Murphy (R-NC-03)](murphy-nc-03.md) | B | 61 | 3/20 | Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit. |
+| [Raul Ruiz (D-CA-25)](ruiz-ca-25.md) | B | 61 | 4/20 | Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit. |
 | [Bradley Scott Schneider (D-IL-10)](schneider-il-10.md) | B | 61 | 5/20 | Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit. |
 | [W. Gregory Steube (R-FL-17)](steube-fl-17.md) | B | 61 | 4/20 | Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit. |
 | [Mike Thompson (D-CA-04)](thompson-ca-04.md) | B | 61 | 5/20 | Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit. |

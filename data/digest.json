@@ -393,6 +393,45 @@
    "was": 92
   },
   {
+   "bill": "hr9340",
+   "label": "H.R. 9340",
+   "short": "Ratepayer Protection Act",
+   "goal": "data-center-ratepayers",
+   "added": [],
+   "dropped": [],
+   "notes": [
+    "New CBO cost estimate."
+   ],
+   "supporters": 43,
+   "was": 43
+  },
+  {
+   "bill": "hr4642",
+   "label": "H.R. 4642",
+   "short": "Fiscal Contingency Preparedness Act",
+   "goal": "fiscal-stability",
+   "added": [],
+   "dropped": [],
+   "notes": [
+    "New CBO cost estimate."
+   ],
+   "supporters": 23,
+   "was": 23
+  },
+  {
+   "bill": "hr8870",
+   "label": "H.R. 8870",
+   "short": "BUILD America 250 Act",
+   "goal": "infrastructure",
+   "added": [],
+   "dropped": [],
+   "notes": [
+    "New CBO cost estimate."
+   ],
+   "supporters": 6,
+   "was": 6
+  },
+  {
    "bill": "s5653",
    "label": "S. 5653",
    "short": "Bipartisan American Affordability and Jobs Act of 2026",
@@ -403,6 +442,46 @@
    "notes": [
     "Added to the caucus goals."
    ]
+  },
+  {
+   "bill": "hr5269",
+   "label": "H.R. 5269",
+   "short": "RESULTS Act",
+   "goal": "health-access",
+   "added": [
+    {
+     "slug": "garbarino-ny-02",
+     "name": "Andrew R. Garbarino",
+     "label": "R-NY-02",
+     "party": "R",
+     "psc": true
+    },
+    {
+     "slug": "ruiz-ca-25",
+     "name": "Raul Ruiz",
+     "label": "D-CA-25",
+     "party": "D",
+     "psc": false
+    },
+    {
+     "slug": "escobar-tx-16",
+     "name": "Veronica Escobar",
+     "label": "D-TX-16",
+     "party": "D",
+     "psc": false
+    },
+    {
+     "slug": "clarke-ny-09",
+     "name": "Yvette D. Clarke",
+     "label": "D-NY-09",
+     "party": "D",
+     "psc": false
+    }
+   ],
+   "dropped": [],
+   "notes": [],
+   "supporters": 130,
+   "was": 126
   }
  ],
  "tiers": [],
@@ -410,9 +489,9 @@
  "joined": [],
  "left": [],
  "totals": {
-  "cosponsors_added": 54,
+  "cosponsors_added": 58,
   "cosponsors_dropped": 0,
-  "bills_changed": 2,
+  "bills_changed": 6,
   "tier_changes": 0
  }
 }

@@ -26,20 +26,24 @@ Senator for MI · 1.8 years in the Senate
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
-- 4 of your MI colleagues are on it: Tom Barrett, Kristen McDonald Rivet, Bill Huizenga and others.
+- 4 of your MI colleagues are on it: Bill Huizenga, Tom Barrett, John R. Moolenaar and others.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: voted nay.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
 - 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
 - 2 of your MI colleagues are on it: Bill Huizenga, Jack Bergman.
+- CBO (2026-04-13): As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026
+- [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 4 of your MI colleagues are on it: Jack Bergman, Rashida Tlaib, John R. Moolenaar and others.
+- 4 of your MI colleagues are on it: John R. Moolenaar, Jack Bergman, Rashida Tlaib and others.
 
 ## Position on each goal
 
@@ -68,7 +72,5 @@ Senator for MI · 1.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

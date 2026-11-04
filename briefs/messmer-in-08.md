@@ -2,7 +2,7 @@
 
 Representative for IN-08 · 1.8 years in the House
 
-**Priority tier B** · leverage score 63 (rank 180 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 63 (rank 179 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Armed Services; Education and Workforce
 
@@ -13,11 +13,11 @@ Representative for IN-08 · 1.8 years in the House
 2. **Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Jefferson Shreve (R-IN-06), Rep. Frank J. Mrvan (D-IN-01).
+   3 of your state colleagues are already cosponsoring: Rep. Jefferson Shreve (R-IN-06), Rep. André Carson (D-IN-07), Rep. Frank J. Mrvan (D-IN-01).
 4. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Erin Houchin (R-IN-09), Rep. Victoria Spartz (R-IN-05), Rep. Rudy Yakym III (R-IN-02).
+   3 of your state colleagues are already cosponsoring: Rep. Victoria Spartz (R-IN-05), Rep. Erin Houchin (R-IN-09), Rep. Rudy Yakym III (R-IN-02).
 5. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. André Carson (D-IN-07), Rep. Erin Houchin (R-IN-09), Rep. Jefferson Shreve (R-IN-06), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Jefferson Shreve (R-IN-06), Rep. André Carson (D-IN-07), Rep. Erin Houchin (R-IN-09), 1 more.
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
@@ -40,14 +40,14 @@ Representative for IN-08 · 1.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 3 of your IN colleagues are on it: André Carson, Jefferson Shreve, Frank J. Mrvan.
+- 3 of your IN colleagues are on it: Jefferson Shreve, André Carson, Frank J. Mrvan.
 
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 68 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 68 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 48 |
@@ -69,7 +69,5 @@ Representative for IN-08 · 1.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

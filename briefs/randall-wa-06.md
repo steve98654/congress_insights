@@ -9,17 +9,17 @@ Representative for WA-06 · 1.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Dan Newhouse (R-WA-04), Rep. Marilyn Strickland (D-WA-10), Rep. Pramila Jayapal (D-WA-07), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Michael Baumgartner (R-WA-05), Rep. Dan Newhouse (R-WA-04), 2 more.
 2. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Kim Schrier (D-WA-08), Rep. Marie Gluesenkamp Perez (D-WA-03), Rep. Suzan K. DelBene (D-WA-01), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Adam Smith (D-WA-09), Rep. Michael Baumgartner (R-WA-05), Rep. Suzan K. DelBene (D-WA-01), 2 more.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Pramila Jayapal (D-WA-07), Rep. Suzan K. DelBene (D-WA-01).
+   3 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Suzan K. DelBene (D-WA-01), Rep. Pramila Jayapal (D-WA-07).
 4. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Rick Larsen (D-WA-02), Rep. Kim Schrier (D-WA-08), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Rick Larsen (D-WA-02), Rep. Kim Schrier (D-WA-08), Rep. Marilyn Strickland (D-WA-10), 2 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Suzan K. DelBene (D-WA-01), Rep. Adam Smith (D-WA-09).
+   2 of your state colleagues are already cosponsoring: Rep. Adam Smith (D-WA-09), Rep. Suzan K. DelBene (D-WA-01).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues is on it: Rep. Marie Gluesenkamp Perez (D-WA-03).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
@@ -30,24 +30,24 @@ Representative for WA-06 · 1.8 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your WA colleagues are on it: Dan Newhouse, Marilyn Strickland, Pramila Jayapal and others.
+- 5 of your WA colleagues are on it: Marilyn Strickland, Michael Baumgartner, Dan Newhouse and others.
 
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
 - 81 members back it: 10 Republicans and 71 Democrats, including 16 Problem Solvers.
-- 5 of your WA colleagues are on it: Kim Schrier, Marie Gluesenkamp Perez, Suzan K. DelBene and others.
+- 5 of your WA colleagues are on it: Adam Smith, Michael Baumgartner, Suzan K. DelBene and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
-- 3 of your WA colleagues are on it: Marilyn Strickland, Pramila Jayapal, Suzan K. DelBene.
+- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 3 of your WA colleagues are on it: Marilyn Strickland, Suzan K. DelBene, Pramila Jayapal.
 
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | cosponsor | 42 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 48 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 40 |
@@ -69,7 +69,5 @@ Representative for WA-06 · 1.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -9,13 +9,13 @@ Representative for NJ-10 · 2.1 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Jefferson Van Drew (R-NJ-02), Rep. Bonnie Watson Coleman (D-NJ-12), Rep. Josh Gottheimer (D-NJ-05), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Bonnie Watson Coleman (D-NJ-12), Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Jefferson Van Drew (R-NJ-02), 3 more.
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   7 of your state colleagues are already cosponsoring: Rep. Nellie Pou (D-NJ-09), Rep. Donald Norcross (D-NJ-01), Rep. Thomas H. Kean, Jr. (R-NJ-07), 4 more.
+   7 of your state colleagues are already cosponsoring: Rep. Analilia Mejia (D-NJ-11), Rep. Bonnie Watson Coleman (D-NJ-12), Rep. Herbert C. Conaway, Jr. (D-NJ-03), 4 more.
 3. **Cosponsor H.R. 7116 (SEPSIS Act).** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Donald Norcross (D-NJ-01), Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Josh Gottheimer (D-NJ-05).
+   3 of your state colleagues are already cosponsoring: Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Josh Gottheimer (D-NJ-05), Rep. Donald Norcross (D-NJ-01).
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Jefferson Van Drew (R-NJ-02), Rep. Bonnie Watson Coleman (D-NJ-12), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Jefferson Van Drew (R-NJ-02), Rep. Bonnie Watson Coleman (D-NJ-12), Rep. Thomas H. Kean, Jr. (R-NJ-07), 1 more.
 5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
@@ -30,24 +30,24 @@ Representative for NJ-10 · 2.1 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 6 of your NJ colleagues are on it: Jefferson Van Drew, Bonnie Watson Coleman, Josh Gottheimer and others.
+- 6 of your NJ colleagues are on it: Bonnie Watson Coleman, Herbert C. Conaway, Jr., Jefferson Van Drew and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
-- 7 of your NJ colleagues are on it: Nellie Pou, Donald Norcross, Thomas H. Kean, Jr. and others.
+- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 7 of your NJ colleagues are on it: Analilia Mejia, Bonnie Watson Coleman, Herbert C. Conaway, Jr. and others.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
 - Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.
 - 8 members back it: 5 Republicans and 3 Democrats, including 6 Problem Solvers.
-- 3 of your NJ colleagues are on it: Donald Norcross, Thomas H. Kean, Jr., Josh Gottheimer.
+- 3 of your NJ colleagues are on it: Thomas H. Kean, Jr., Josh Gottheimer, Donald Norcross.
 
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 42 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | cosponsor | 48 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 35 |
@@ -69,7 +69,5 @@ Representative for NJ-10 · 2.1 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

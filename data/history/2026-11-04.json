@@ -57,7 +57,7 @@
    },
    "house_vote": "417-3",
    "senate_result": "Cloture on the Motion to Proceed Rejected 57-43 (3/5 required) (Cloture on the motion to proceed to H.R. 9340, 2026-09-30).",
-   "cbo": 0
+   "cbo": 1
   },
   "hr3876": {
    "goal": "energy-housing-costs",
@@ -607,7 +607,7 @@
    },
    "house_vote": "",
    "senate_result": "",
-   "cbo": 0
+   "cbo": 1
   },
   "hr3514": {
    "goal": "health-access",
@@ -957,6 +957,7 @@
     "C001039",
     "C001059",
     "C001066",
+    "C001067",
     "C001068",
     "C001072",
     "C001103",
@@ -975,6 +976,7 @@
     "D000629",
     "D000631",
     "E000246",
+    "E000299",
     "E000300",
     "F000466",
     "F000468",
@@ -982,6 +984,7 @@
     "F000475",
     "F000482",
     "G000583",
+    "G000597",
     "G000601",
     "H001058",
     "H001066",
@@ -1033,6 +1036,7 @@
     "P000620",
     "P000621",
     "R000305",
+    "R000599",
     "R000603",
     "R000609",
     "R000619",
@@ -1450,7 +1454,7 @@
    },
    "house_vote": "",
    "senate_result": "",
-   "cbo": 0
+   "cbo": 2
   },
   "hr2979": {
    "goal": "infrastructure",
@@ -1589,8 +1593,16 @@
    "label": "S. 5653",
    "short": "Bipartisan American Affordability and Jobs Act of 2026",
    "stage": "in_committee",
-   "supporters": [],
-   "latest": {},
+   "supporters": [
+    "C001047",
+    "H001046",
+    "L000577",
+    "W000802"
+   ],
+   "latest": {
+    "date": "2026-09-30",
+    "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+   },
    "house_vote": "",
    "senate_result": "",
    "cbo": 0
@@ -2231,7 +2243,7 @@
   },
   "C001114": {
    "tier": "C",
-   "score": 40,
+   "score": 45,
    "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA).",
    "election": "not_up"
   },
@@ -2591,8 +2603,8 @@
   },
   "R000599": {
    "tier": "B",
-   "score": 64,
-   "top": "Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Energy and Commerce, where you sit.",
+   "score": 61,
+   "top": "Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.",
    "election": "up_for_reelection"
   },
   "B001285": {
@@ -4013,7 +4025,7 @@
   },
   "C001067": {
    "tier": "B",
-   "score": 66,
+   "score": 64,
    "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
    "election": "up_for_reelection"
   },

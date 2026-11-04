@@ -21,7 +21,7 @@ Senator for NC · 11.8 years in the Senate · Leaving Congress in January (retir
 6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Sheldon Whitehouse (D-RI).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 24_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 7. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Sheldon Whitehouse (D-RI).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 24_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 130 sponsors and cosponsors (65 R, 65 D, 29 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 8. **Introduce a Senate companion to H.R. 2979 (BUILD Act for police and fire facilities) with Sen. Sheldon Whitehouse (D-RI).** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 24_  
    There is no Senate version yet, and you sit on Judiciary (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (5 R, 3 D, 5 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 
@@ -36,12 +36,14 @@ Senator for NC · 11.8 years in the Senate · Leaving Congress in January (retir
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: voted yea.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 13 of your NC colleagues are on it: Brad Knott, Gregory F. Murphy, Chuck Edwards and others.
+- 13 of your NC colleagues are on it: Tim Moore, Addison P. McDowell, Donald G. Davis and others.
 
 ## Position on each goal
 
@@ -61,8 +63,8 @@ Senator for NC · 11.8 years in the Senate · Leaving Congress in January (retir
 
 ## Cross-party partners
 
-- [Sen. Ruben Gallego (D-AZ)](gallego-az.md): shared committees: Commission on Security and Cooperation in Europe, Banking, Housing, and Urban Affairs, Veterans' Affairs
 - [Sen. Sheldon Whitehouse (D-RI)](whitehouse-ri.md): shared committees: Commission on Security and Cooperation in Europe, Finance, Judiciary
+- [Sen. Ruben Gallego (D-AZ)](gallego-az.md): shared committees: Commission on Security and Cooperation in Europe, Banking, Housing, and Urban Affairs, Veterans' Affairs
 - [Sen. Peter Welch (D-VT)](welch-vt.md): shared committees: Finance, Judiciary
 
 ## Sources
@@ -70,7 +72,5 @@ Senator for NC · 11.8 years in the Senate · Leaving Congress in January (retir
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

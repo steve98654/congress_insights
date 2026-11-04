@@ -15,13 +15,13 @@ Representative for MI-09 · 5.8 years in the House · House Republican Conferenc
 3. **Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. Shri Thanedar (D-MI-13), Rep. Hillary J. Scholten (D-MI-03), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Jack Bergman (R-MI-01), Rep. Hillary J. Scholten (D-MI-03), 2 more.
 5. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Hillary J. Scholten (D-MI-03), Rep. John R. Moolenaar (R-MI-02), Rep. Jack Bergman (R-MI-01), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Bill Huizenga (R-MI-04), Rep. Hillary J. Scholten (D-MI-03), Rep. John R. Moolenaar (R-MI-02), 2 more.
 6. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Shri Thanedar (D-MI-13), Rep. Haley M. Stevens (D-MI-11), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. Bill Huizenga (R-MI-04), Rep. Shri Thanedar (D-MI-13), 1 more.
 7. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   10 of your state colleagues are already cosponsoring: Rep. John James (R-MI-10), Rep. Shri Thanedar (D-MI-13), Rep. Tim Walberg (R-MI-05), 7 more.
+   10 of your state colleagues are already cosponsoring: Rep. Kristen McDonald Rivet (D-MI-08), Rep. Shri Thanedar (D-MI-13), Rep. John James (R-MI-10), 7 more.
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Bill Huizenga (R-MI-04), Rep. Jack Bergman (R-MI-01).
 
@@ -35,7 +35,7 @@ Representative for MI-09 · 5.8 years in the House · House Republican Conferenc
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 4 of your MI colleagues are on it: Jack Bergman, Rashida Tlaib, John R. Moolenaar and others.
+- 4 of your MI colleagues are on it: John R. Moolenaar, Jack Bergman, Rashida Tlaib and others.
 
 **H.R. 1464, MODERN WIC Act: Cut costs for caregivers and young families**
 - Lets families complete WIC certification and receive benefits remotely.
@@ -47,7 +47,7 @@ Representative for MI-09 · 5.8 years in the House · House Republican Conferenc
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 68 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 68 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 48 |
@@ -69,7 +69,5 @@ Representative for MI-09 · 5.8 years in the House · House Republican Conferenc
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

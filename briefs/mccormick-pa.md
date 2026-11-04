@@ -11,7 +11,7 @@ Senator for PA · 1.8 years in the Senate
 1. **Help find the 3 votes H.R. 9340 still needs: start with Sen. John Fetterman (D-PA).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 65_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 2. **Cosponsor S. 5653 (Bipartisan American Affordability and Jobs Act of 2026). It is waiting in Energy and Natural Resources, where you sit.** _Speed up permits for energy and infrastructure · [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) · priority 60_  
-   It has 0 sponsors and cosponsors (0 R, 0 D, 0 PSC).
+   It has 4 sponsors and cosponsors (2 R, 2 D, 0 PSC).
 3. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Andy Kim (D-NJ).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    There is no Senate version yet, and you sit on Banking, Housing, and Urban Affairs (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 4. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Andy Kim (D-NJ).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 40_  
@@ -22,17 +22,22 @@ Senator for PA · 1.8 years in the Senate
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
-- 3 of your PA colleagues are on it: Ryan Mackenzie, John Joyce, Brian K. Fitzpatrick.
+- 3 of your PA colleagues are on it: Brian K. Fitzpatrick, John Joyce, Ryan Mackenzie.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: voted yea.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **S. 5653, Bipartisan American Affordability and Jobs Act of 2026: Speed up permits for energy and infrastructure**
 - Speeds up federal permits for energy and infrastructure projects.
+- 4 members back it: 2 Republicans and 2 Democrats.
 
 **H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
 - Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.
 - 6 members back it: 4 Republicans and 2 Democrats.
+- CBO (2026-09-30): As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026
+- [CBO cost estimate](https://www.cbo.gov/publication/62817)
 
 ## Position on each goal
 
@@ -52,16 +57,14 @@ Senator for PA · 1.8 years in the Senate
 
 ## Cross-party partners
 
+- [Sen. Martin Heinrich (D-NM)](heinrich-nm.md): shared committees: Joint Economic Committee, Energy and Natural Resources
 - [Sen. Andy Kim (D-NJ)](kim-nj.md): shared committees: Aging, Banking, Housing, and Urban Affairs
 - [Sen. Angela D. Alsobrooks (D-MD)](alsobrooks-md.md): shared committees: Aging, Banking, Housing, and Urban Affairs
-- [Sen. Martin Heinrich (D-NM)](heinrich-nm.md): shared committees: Joint Economic Committee, Energy and Natural Resources
 
 ## Sources
 
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -17,7 +17,7 @@ Representative for NJ-07 · 3.8 years in the House · Problem Solvers Caucus mem
 4. **Press for a markup of H.R. 7116 (SEPSIS Act) in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 60_  
    You already cosponsor it, and your committee is where it is stuck.
 5. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Nellie Pou (D-NJ-09), Rep. LaMonica McIver (D-NJ-10).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. LaMonica McIver (D-NJ-10), Rep. Nellie Pou (D-NJ-09).
 6. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 51_  
    It is PSC-endorsed and you are a caucus member. 1 of your state colleagues is already cosponsoring: Rep. Herbert C. Conaway, Jr. (D-NJ-03).
 7. **Cosponsor H.R. 10378 (TRUST Act).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 51_  
@@ -35,13 +35,13 @@ Representative for NJ-07 · 3.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 8 of your NJ colleagues are on it: Jefferson Van Drew, LaMonica McIver, Robert Menendez and others.
+- 8 of your NJ colleagues are on it: Herbert C. Conaway, Jr., LaMonica McIver, Donald Norcross and others.
 - Your record: cosponsor.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
-- 6 of your NJ colleagues are on it: Nellie Pou, Donald Norcross, Herbert C. Conaway, Jr. and others.
+- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 6 of your NJ colleagues are on it: Analilia Mejia, Bonnie Watson Coleman, Herbert C. Conaway, Jr. and others.
 - Your record: cosponsor.
 
 ## Position on each goal
@@ -71,7 +71,5 @@ Representative for NJ-07 · 3.8 years in the House · Problem Solvers Caucus mem
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -411,8 +411,22 @@
   }
  ],
  "cosponsors_complete": true,
+ "summary": {
+  "text": "Ratepayer Protection Act The bill requires state utility regulators and nonregulated utilities to consider implementing a&nbsp;standard to hold certain large-load customers responsible for the costs associated with any generation, transmission, or distribution upgrade of electric service necessary to serve such customers.&nbsp;A large-load customer means a non-residential electric consumer that enters, or requests to enter, an agreement concerning the sale of electric energy&nbsp;primarily to operate information technology infrastructure and related systems pertaining to data storage and computational applications and services (e.g., data centers) that have a peak electric demand of 100 megawatts or more at a single site or campus.&nbsp; Specifically, the bill requires states to consider implementing a federal standard for large-load customers. The standard must require rates charged by electric utilities for providing electric service to a large-load customer to be designed to recover from the large-load customer the full, incremental cost of any generation, transmission, or distribution upgrade necessary to serve such customer. This rate must include the costs that would be incurred if the large-load customer terminates an agreement with the electric utility pertaining to the sale of electric energy or otherwise ceases the purchase of energy from the electric utility. Under the standard, an electric utility must require the large-load customer to provide to the utility financial assurances or contributions to cover the cost of any generation, transmission, or distribution upgrade that is necessary to serve the load of a large-load customer before the utility makes any generation, transmission, or distribution upgrade.",
+  "version": "Reported to House",
+  "date": "2026-09-10"
+ },
+ "cbo": [
+  {
+   "title": "H.R. 9340, Ratepayer Protection Act",
+   "date": "2026-09-09",
+   "url": "https://www.cbo.gov/publication/62762",
+   "description": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026"
+  }
+ ],
+ "policy_area": "Energy",
  "status": "passed_house",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9340.xml",
- "fetched": "2026-11-02",
+ "fetched": "2026-11-04",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

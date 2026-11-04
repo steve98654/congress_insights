@@ -36,7 +36,9 @@ Senator for IA · 45.8 years in the Senate · President Pro Tempore of the Senat
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: voted yea.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
 - DOJ and FEMA grants of up to $4M for police and fire facilities in communities under 50,000.
@@ -60,8 +62,8 @@ Senator for IA · 45.8 years in the Senate · President Pro Tempore of the Senat
 
 ## Cross-party partners
 
-- [Sen. Ben Ray Luján (D-NM)](lujan-nm.md): shared committees: United States Senate Caucus on International Narcotics Control, Agriculture, Nutrition, and Forestry, Budget, Finance
 - [Sen. Sheldon Whitehouse (D-RI)](whitehouse-ri.md): shared committees: United States Senate Caucus on International Narcotics Control, Budget, Finance, Judiciary
+- [Sen. Ben Ray Luján (D-NM)](lujan-nm.md): shared committees: United States Senate Caucus on International Narcotics Control, Agriculture, Nutrition, and Forestry, Budget, Finance
 - [Sen. Peter Welch (D-VT)](welch-vt.md): shared committees: Agriculture, Nutrition, and Forestry, Finance, Judiciary
 
 ## Sources
@@ -69,7 +71,5 @@ Senator for IA · 45.8 years in the Senate · President Pro Tempore of the Senat
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

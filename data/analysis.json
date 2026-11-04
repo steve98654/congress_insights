@@ -49,6 +49,18 @@
      ]
     },
     {
+     "slug": "heinrich-nm",
+     "name": "Martin Heinrich",
+     "label": "D-NM",
+     "party": "D",
+     "psc": false,
+     "score": 4,
+     "reasons": [
+      "sits on the committee of jurisdiction",
+      "backs 2 other caucus bills"
+     ]
+    },
+    {
      "slug": "fetterman-pa",
      "name": "John Fetterman",
      "label": "D-PA",
@@ -57,18 +69,6 @@
      "score": 3,
      "reasons": [
       "home-state colleague David McCormick voted yes"
-     ]
-    },
-    {
-     "slug": "heinrich-nm",
-     "name": "Martin Heinrich",
-     "label": "D-NM",
-     "party": "D",
-     "psc": false,
-     "score": 3,
-     "reasons": [
-      "sits on the committee of jurisdiction",
-      "backs 1 other caucus bill"
      ]
     },
     {
@@ -271,6 +271,17 @@
      ]
     },
     {
+     "slug": "whitehouse-ri",
+     "name": "Sheldon Whitehouse",
+     "label": "D-RI",
+     "party": "D",
+     "psc": false,
+     "score": 1,
+     "reasons": [
+      "backs 1 other caucus bill"
+     ]
+    },
+    {
      "slug": "schiff-ca",
      "name": "Adam B. Schiff",
      "label": "D-CA",
@@ -424,15 +435,6 @@
      "reasons": []
     },
     {
-     "slug": "whitehouse-ri",
-     "name": "Sheldon Whitehouse",
-     "label": "D-RI",
-     "party": "D",
-     "psc": false,
-     "score": 0,
-     "reasons": []
-    },
-    {
      "slug": "duckworth-il",
      "name": "Tammy Duckworth",
      "label": "D-IL",
@@ -502,9 +504,9 @@
    "label": "H.R. 5269",
    "short": "RESULTS Act",
    "stage": "in_committee",
-   "supporters": 124,
-   "to_majority": 94,
-   "to_suspension": 166,
+   "supporters": 128,
+   "to_majority": 90,
+   "to_suspension": 162,
    "bipartisan": true,
    "days_since_intro": 420,
    "discharge_ready": true,
@@ -2466,7 +2468,7 @@
     "health-access": 3,
     "infrastructure": 0,
     "online-safety-ai": 1,
-    "permitting-reform": 0,
+    "permitting-reform": 1,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -2891,7 +2893,7 @@
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 0,
-    "permitting-reform": 0,
+    "permitting-reform": 1,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3144,7 +3146,7 @@
     "health-access": 3,
     "infrastructure": 0,
     "online-safety-ai": 2,
-    "permitting-reform": 0,
+    "permitting-reform": 1,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3378,7 +3380,7 @@
     "health-access": 2,
     "infrastructure": 0,
     "online-safety-ai": 1,
-    "permitting-reform": 0,
+    "permitting-reform": 1,
     "protect-filibuster": 0,
     "redistricting-reform": 0
    },
@@ -3480,13 +3482,13 @@
      "label": "H.R. 5269",
      "short": "RESULTS Act",
      "stage": "in_committee",
-     "supporters": 126,
+     "supporters": 130,
      "committee_supporters": 24,
      "committee_share": 0.53
     }
    ],
    "waiting": 3,
-   "bottleneck": 8.44
+   "bottleneck": 8.48
   },
   {
    "code": "HSJU",
@@ -3618,9 +3620,9 @@
      "label": "H.R. 5269",
      "short": "RESULTS Act",
      "stage": "in_committee",
-     "supporters": 126,
-     "committee_supporters": 34,
-     "committee_share": 0.63
+     "supporters": 130,
+     "committee_supporters": 36,
+     "committee_share": 0.67
     },
     {
      "goal": "energy-housing-costs",
@@ -3644,7 +3646,7 @@
     }
    ],
    "waiting": 3,
-   "bottleneck": 4.83
+   "bottleneck": 4.87
   },
   {
    "code": "HSED",
@@ -3984,13 +3986,13 @@
      "label": "S. 5653",
      "short": "Bipartisan American Affordability and Jobs Act of 2026",
      "stage": "in_committee",
-     "supporters": 0,
-     "committee_supporters": 0,
-     "committee_share": 0.0
+     "supporters": 4,
+     "committee_supporters": 2,
+     "committee_share": 0.1
     }
    ],
    "waiting": 1,
-   "bottleneck": 1.0
+   "bottleneck": 1.04
   },
   {
    "code": "HSGO",
@@ -4410,6 +4412,33 @@
     "total": 2
    },
    {
+    "slug": "heinrich-nm",
+    "name": "Martin Heinrich",
+    "label": "D-NM",
+    "party": "D",
+    "psc": false,
+    "cross_party": 1,
+    "total": 2
+   },
+   {
+    "slug": "lee-ut",
+    "name": "Mike Lee",
+    "label": "R-UT",
+    "party": "R",
+    "psc": false,
+    "cross_party": 1,
+    "total": 2
+   },
+   {
+    "slug": "capito-wv",
+    "name": "Shelley Moore Capito",
+    "label": "R-WV",
+    "party": "R",
+    "psc": false,
+    "cross_party": 1,
+    "total": 2
+   },
+   {
     "slug": "banks-in",
     "name": "Jim Banks",
     "label": "R-IN",
@@ -4422,15 +4451,6 @@
     "slug": "hawley-mo",
     "name": "Josh Hawley",
     "label": "R-MO",
-    "party": "R",
-    "psc": false,
-    "cross_party": 1,
-    "total": 1
-   },
-   {
-    "slug": "lee-ut",
-    "name": "Mike Lee",
-    "label": "R-UT",
     "party": "R",
     "psc": false,
     "cross_party": 1,
@@ -4455,10 +4475,10 @@
     "total": 1
    },
    {
-    "slug": "capito-wv",
-    "name": "Shelley Moore Capito",
-    "label": "R-WV",
-    "party": "R",
+    "slug": "whitehouse-ri",
+    "name": "Sheldon Whitehouse",
+    "label": "D-RI",
+    "party": "D",
     "psc": false,
     "cross_party": 1,
     "total": 1
@@ -4542,7 +4562,7 @@
    "label": "H.R. 5269",
    "short": "RESULTS Act",
    "stage": "in_committee",
-   "supporters": 126,
+   "supporters": 130,
    "committees": [
     "Finance"
    ],
@@ -4555,7 +4575,7 @@
      "party": "R",
      "psc": false,
      "reasons": [
-      "10 House members from TX back it"
+      "11 House members from TX back it"
      ]
     },
     {
@@ -4987,14 +5007,13 @@
      ]
     },
     {
-     "slug": "cantwell-wa",
-     "name": "Maria Cantwell",
-     "label": "D-WA",
+     "slug": "whitehouse-ri",
+     "name": "Sheldon Whitehouse",
+     "label": "D-RI",
      "party": "D",
      "psc": false,
      "reasons": [
-      "chair or ranking member of the committee",
-      "1 House members from WA back it"
+      "chair or ranking member of the committee"
      ]
     }
    ]
@@ -5022,9 +5041,9 @@
      ]
     },
     {
-     "slug": "klobuchar-mn",
-     "name": "Amy Klobuchar",
-     "label": "D-MN",
+     "slug": "whitehouse-ri",
+     "name": "Sheldon Whitehouse",
+     "label": "D-RI",
      "party": "D",
      "psc": false,
      "reasons": []
@@ -5054,9 +5073,9 @@
      ]
     },
     {
-     "slug": "klobuchar-mn",
-     "name": "Amy Klobuchar",
-     "label": "D-MN",
+     "slug": "whitehouse-ri",
+     "name": "Sheldon Whitehouse",
+     "label": "D-RI",
      "party": "D",
      "psc": false,
      "reasons": []
@@ -9156,7 +9175,7 @@
    "bill": "hr5269",
    "label": "H.R. 5269",
    "short": "RESULTS Act",
-   "psc_on": 28,
+   "psc_on": 29,
    "psc_total": 43,
    "missing": [
     {
@@ -9213,13 +9232,6 @@
      "name": "Susie Lee",
      "label": "D-NV-03",
      "party": "D",
-     "psc": true
-    },
-    {
-     "slug": "garbarino-ny-02",
-     "name": "Andrew R. Garbarino",
-     "label": "R-NY-02",
-     "party": "R",
      "psc": true
     },
     {
@@ -10415,7 +10427,7 @@
      "label": "R-NY-02",
      "party": "R",
      "psc": true,
-     "score": 7.9,
+     "score": 9.4,
      "reasons": [
       "PSC member",
       "20 state colleagues on it",
@@ -10569,7 +10581,7 @@
      "score": 11.4,
      "reasons": [
       "PSC member",
-      "10 state colleagues on it",
+      "11 state colleagues on it",
       "backs a related caucus bill",
       "backs 6 other-party caucus bills"
      ]
@@ -10583,7 +10595,7 @@
      "score": 10.6,
      "reasons": [
       "PSC member",
-      "14 state colleagues on it",
+      "15 state colleagues on it",
       "backs a related caucus bill",
       "backs 4 other-party caucus bills"
      ]
@@ -10639,7 +10651,7 @@
      "score": 9.2,
      "reasons": [
       "on the committee",
-      "14 state colleagues on it",
+      "15 state colleagues on it",
       "backs a related caucus bill",
       "backs 3 other-party caucus bills"
      ]
@@ -10667,7 +10679,7 @@
      "score": 9.2,
      "reasons": [
       "on the committee",
-      "14 state colleagues on it",
+      "15 state colleagues on it",
       "backs a related caucus bill",
       "backs 3 other-party caucus bills"
      ]
@@ -10687,17 +10699,16 @@
      ]
     },
     {
-     "slug": "clarke-ny-09",
-     "name": "Yvette D. Clarke",
-     "label": "D-NY-09",
-     "party": "D",
-     "psc": false,
-     "score": 9.2,
+     "slug": "meuser-pa-09",
+     "name": "Daniel Meuser",
+     "label": "R-PA-09",
+     "party": "R",
+     "psc": true,
+     "score": 9.0,
      "reasons": [
-      "on the committee",
+      "PSC member",
       "8 state colleagues on it",
-      "backs a related caucus bill",
-      "backs 3 other-party caucus bills"
+      "backs a related caucus bill"
      ]
     }
    ]
@@ -12302,8 +12313,40 @@
    "label": "H.R. 5269",
    "short": "RESULTS Act",
    "dated": true,
-   "recent": 14,
+   "recent": 18,
    "recent_members": [
+    {
+     "slug": "ruiz-ca-25",
+     "name": "Raul Ruiz",
+     "label": "D-CA-25",
+     "party": "D",
+     "psc": false,
+     "date": "2026-11-02"
+    },
+    {
+     "slug": "garbarino-ny-02",
+     "name": "Andrew R. Garbarino",
+     "label": "R-NY-02",
+     "party": "R",
+     "psc": true,
+     "date": "2026-11-02"
+    },
+    {
+     "slug": "escobar-tx-16",
+     "name": "Veronica Escobar",
+     "label": "D-TX-16",
+     "party": "D",
+     "psc": false,
+     "date": "2026-11-02"
+    },
+    {
+     "slug": "clarke-ny-09",
+     "name": "Yvette D. Clarke",
+     "label": "D-NY-09",
+     "party": "D",
+     "psc": false,
+     "date": "2026-11-02"
+    },
     {
      "slug": "tonko-ny-20",
      "name": "Paul Tonko",
@@ -12335,41 +12378,9 @@
      "party": "R",
      "psc": false,
      "date": "2026-10-15"
-    },
-    {
-     "slug": "strickland-wa-10",
-     "name": "Marilyn Strickland",
-     "label": "D-WA-10",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-16"
-    },
-    {
-     "slug": "norcross-nj-01",
-     "name": "Donald Norcross",
-     "label": "D-NJ-01",
-     "party": "D",
-     "psc": true,
-     "date": "2026-09-15"
-    },
-    {
-     "slug": "jackson-tx-13",
-     "name": "Ronny Jackson",
-     "label": "R-TX-13",
-     "party": "R",
-     "psc": false,
-     "date": "2026-09-04"
-    },
-    {
-     "slug": "conaway-nj-03",
-     "name": "Herbert C. Conaway, Jr.",
-     "label": "D-NJ-03",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-04"
     }
    ],
-   "last_added": "2026-10-22"
+   "last_added": "2026-11-02"
   },
   {
    "goal": "health-access",
@@ -12916,6 +12927,41 @@
    "last_added": "2026-09-15"
   },
   {
+   "goal": "permitting-reform",
+   "bill": "s5653",
+   "label": "S. 5653",
+   "short": "Bipartisan American Affordability and Jobs Act of 2026",
+   "dated": true,
+   "recent": 3,
+   "recent_members": [
+    {
+     "slug": "lee-ut",
+     "name": "Mike Lee",
+     "label": "R-UT",
+     "party": "R",
+     "psc": false,
+     "date": "2026-09-30"
+    },
+    {
+     "slug": "whitehouse-ri",
+     "name": "Sheldon Whitehouse",
+     "label": "D-RI",
+     "party": "D",
+     "psc": false,
+     "date": "2026-09-30"
+    },
+    {
+     "slug": "heinrich-nm",
+     "name": "Martin Heinrich",
+     "label": "D-NM",
+     "party": "D",
+     "psc": false,
+     "date": "2026-09-30"
+    }
+   ],
+   "last_added": "2026-09-30"
+  },
+  {
    "goal": "health-access",
    "bill": "s1929",
    "label": "S. 1929",
@@ -13043,16 +13089,6 @@
    "recent": 0,
    "recent_members": [],
    "last_added": "2025-11-07"
-  },
-  {
-   "goal": "permitting-reform",
-   "bill": "s5653",
-   "label": "S. 5653",
-   "short": "Bipartisan American Affordability and Jobs Act of 2026",
-   "dated": false,
-   "recent": null,
-   "recent_members": [],
-   "last_added": null
   }
  ],
  "lame_duck": {
@@ -14171,7 +14207,7 @@
     "label": "H.R. 5269",
     "short": "RESULTS Act",
     "stage": "in_committee",
-    "supporters": 126,
+    "supporters": 130,
     "departing": 16,
     "sponsor_departing": false,
     "departing_members": [
@@ -14769,7 +14805,7 @@
     "label": "S. 5653",
     "short": "Bipartisan American Affordability and Jobs Act of 2026",
     "stage": "in_committee",
-    "supporters": 0,
+    "supporters": 4,
     "departing": 0,
     "sponsor_departing": false,
     "departing_members": []

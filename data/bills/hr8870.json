@@ -87,8 +87,28 @@
   }
  ],
  "cosponsors_complete": true,
+ "summary": {
+  "text": "Building Unrivaled Infrastructure and Long-term Development for America's 250th Act or the BUILD America 250 Act This bill authorizes federal surface transportation (highway, public transportation, and rail) programs and activities through FY2031. The bill also establishes or modifies Department of&nbsp;Transportation (DOT)&nbsp;programs and policies that are a part of the federal-aid highway, transit, highway safety, motor carrier, research, hazardous materials, and rail programs.&nbsp; For example, the bill authorizes appropriations through FY2031 out of the Highway Trust Fund for the federal-aid highway program, the Transportation Infrastructure Finance and Innovation Act (TIFIA) program, highway safety programs, and bridge programs. The bill also authorizes funding through FY2031&nbsp;for Amtrak. Current authorization for these programs expires on September 30, 2026. Among other provisions, the bill establishes&nbsp;a Surface Transportation Accelerator Grant (STAG) discretionary program to fund surface transportation projects in rural, urban, local, and regional communities; requires the&nbsp;Federal Highway Administration to impose a new annual electric vehicle (EV) registration fee, starting at $130 for a covered&nbsp;EV and $35 for a covered plug-in hybrid vehicle; exempts automated driving system technology and equipment from vehicle width requirements; establishes a consolidated state block grant program that allows DOT to allocate a lump sum to participating states to fund public transportation services in rural and urbanized areas; allows state rail safety inspectors to conduct railroad bridge inspections; and establishes a system for state, local, and tribal governments to report safety concerns about the condition of railroad bridges.",
+  "version": "Introduced in House",
+  "date": "2026-05-19"
+ },
+ "cbo": [
+  {
+   "title": "Estimated Effects of Selected Provisions of H.R. 8870, the BUILD America 250 Act",
+   "date": "2026-07-09",
+   "url": "https://www.cbo.gov/publication/62562",
+   "description": "As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026"
+  },
+  {
+   "title": "H.R. 8870, BUILD America 250 Act",
+   "date": "2026-09-30",
+   "url": "https://www.cbo.gov/publication/62817",
+   "description": "As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026"
+  }
+ ],
+ "policy_area": "Transportation and Public Works",
  "status": "reported",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8870.xml",
- "fetched": "2026-11-02",
+ "fetched": "2026-11-04",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

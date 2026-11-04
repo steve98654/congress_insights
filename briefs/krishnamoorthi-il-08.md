@@ -9,7 +9,7 @@ Representative for IL-08 · 9.8 years in the House · Leaving Congress in Januar
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Delia C. Ramirez (D-IL-03), Rep. Janice D. Schakowsky (D-IL-09), Rep. Nikki Budzinski (D-IL-13), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Janice D. Schakowsky (D-IL-09), Rep. Robin L. Kelly (D-IL-02), Rep. Sean Casten (D-IL-06), 3 more.
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 3. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 42_  
@@ -24,12 +24,12 @@ Representative for IL-08 · 9.8 years in the House · Leaving Congress in Januar
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 6 of your IL colleagues are on it: Delia C. Ramirez, Janice D. Schakowsky, Nikki Budzinski and others.
+- 6 of your IL colleagues are on it: Janice D. Schakowsky, Robin L. Kelly, Sean Casten and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 12 of your IL colleagues are on it: Bradley Scott Schneider, Bill Foster, Nikki Budzinski and others.
+- 12 of your IL colleagues are on it: Bill Foster, Janice D. Schakowsky, Mike Bost and others.
 - Your record: cosponsor.
 
 **H.R. 3289, Fiscal Commission Act: Stabilize the national debt**
@@ -42,7 +42,7 @@ Representative for IL-08 · 9.8 years in the House · Leaving Congress in Januar
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | cosponsor | 0 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 48 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 42 |
@@ -64,7 +64,5 @@ Representative for IL-08 · 9.8 years in the House · Leaving Congress in Januar
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

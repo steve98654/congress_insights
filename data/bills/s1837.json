@@ -105,8 +105,15 @@
   }
  ],
  "cosponsors_complete": true,
+ "summary": {
+  "text": "Disrupt Explicit Forged Images And Non-Consensual Edits Act of 2025 or the DEFIANCE Act of 2025 This bill expands civil remedies for the nonconsensual disclosure of intimate images (i.e., nonconsensual pornography). The bill also establishes a new federal civil action for nonconsensual conduct involving intimate digital forgeries (i.e.,&nbsp;deepfakes).&nbsp;The term intimate digital forgery means any intimate visual depiction of an identifiable individual created using software, machine learning, artificial intelligence, or other computer-generated or technological means that looks authentic. With respect to the nonconsensual disclosure of intimate images, current law allows an identifiable individual to recover civil remedies, including litigation costs, damages, and injunctive relief. This bill increases the available damages by allowing the individual to recover punitive damages and by including, as part of actual damages, profits of the defendant that are attributable to the conduct at issue. The bill also allows an identifiable individual who is the subject of an intimate digital forgery to file a federal civil action against anyone who knowingly discloses, produces&nbsp;or possesses with intent to disclose, or solicits and receives the intimate digital forgery without the individual's consent. Under the bill, the identifiable individual may recover the same expanded civil remedies that are available for the nonconsensual disclosure of intimate images. Finally, the bill establishes a 10-year statute of limitations for filing civil actions involving nonconsensual intimate digital forgeries or nonconsensual disclosure of intimate images. The statute begins to run when the individual discovers the violation or turns 18, whichever is later.",
+  "version": "Passed Senate",
+  "date": "2026-01-13"
+ },
+ "cbo": [],
+ "policy_area": "Crime and Law Enforcement",
  "status": "passed_senate",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1837.xml",
- "fetched": "2026-11-02",
+ "fetched": "2026-11-04",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

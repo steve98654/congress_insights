@@ -7,15 +7,15 @@ Representative for GA-13 · 0.2 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), Rep. Brian Jack (R-GA-03), Rep. Lucy McBath (D-GA-06), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Austin Scott (R-GA-08), Rep. Lucy McBath (D-GA-06), Rep. Rick W. Allen (R-GA-12), 3 more.
 2. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Richard McCormick (R-GA-07), Rep. Rick W. Allen (R-GA-12), Rep. Earl L. "Buddy" Carter (R-GA-01).
+   3 of your state colleagues are already cosponsoring: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Richard McCormick (R-GA-07), Rep. Rick W. Allen (R-GA-12).
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   6 of your state colleagues are already cosponsoring: Rep. Richard McCormick (R-GA-07), Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), Rep. Nikema Williams (D-GA-05), 3 more.
+   6 of your state colleagues are already cosponsoring: Rep. Lucy McBath (D-GA-06), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Nikema Williams (D-GA-05), 3 more.
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Richard McCormick (R-GA-07), Rep. Lucy McBath (D-GA-06), 3 more.
+   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Barry Loudermilk (R-GA-11), Rep. Lucy McBath (D-GA-06), Rep. Rick W. Allen (R-GA-12), 3 more.
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
-   2 of your state colleagues are already cosponsoring: Rep. Barry Loudermilk (R-GA-11), Rep. Nikema Williams (D-GA-05).
+   2 of your state colleagues are already cosponsoring: Rep. Nikema Williams (D-GA-05), Rep. Barry Loudermilk (R-GA-11).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Lucy McBath (D-GA-06).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
@@ -28,24 +28,24 @@ Representative for GA-13 · 0.2 years in the House
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 6 of your GA colleagues are on it: Henry C. "Hank" Johnson, Jr., Brian Jack, Lucy McBath and others.
+- 6 of your GA colleagues are on it: Austin Scott, Lucy McBath, Rick W. Allen and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
-- 3 of your GA colleagues are on it: Richard McCormick, Rick W. Allen, Earl L. "Buddy" Carter.
+- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 3 of your GA colleagues are on it: Earl L. "Buddy" Carter, Richard McCormick, Rick W. Allen.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 6 of your GA colleagues are on it: Richard McCormick, Henry C. "Hank" Johnson, Jr., Nikema Williams and others.
+- 6 of your GA colleagues are on it: Lucy McBath, Earl L. "Buddy" Carter, Nikema Williams and others.
 
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 42 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 48 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 35 |
@@ -67,7 +67,5 @@ Representative for GA-13 · 0.2 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

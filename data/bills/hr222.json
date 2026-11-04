@@ -80,8 +80,15 @@
   }
  ],
  "cosponsors_complete": true,
+ "summary": {
+  "text": "Sustainable Budget Act of 2025 This bill establishes the National Commission on Fiscal Responsibility and Reform within the legislative branch to identify policies to improve the fiscal situation in the medium term and achieve fiscal sustainability over the long term. The commission must propose recommendations that (1) are designed to balance the budget, excluding interest payments on the debt, within 10 years; and (2) meaningfully improve the long-term fiscal outlook, including changes to address the growth of entitlement spending and the gap between projected federal revenues and expenditures. Congress must consider the commission's recommendations using specified expedited legislative procedures.",
+  "version": "Introduced in House",
+  "date": "2025-01-07"
+ },
+ "cbo": [],
+ "policy_area": "Economics and Public Finance",
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr222.xml",
- "fetched": "2026-11-02",
+ "fetched": "2026-11-04",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

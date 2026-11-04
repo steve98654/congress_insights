@@ -11,11 +11,11 @@ Representative for MN-06 · 11.8 years in the House · House Majority Whip
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Pete Stauber (R-MN-08), Rep. Kelly Morrison (D-MN-03), Rep. Brad Finstad (R-MN-01), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Kelly Morrison (D-MN-03), Rep. Ilhan Omar (D-MN-05), 2 more.
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   7 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02), Rep. Pete Stauber (R-MN-08), 4 more.
+   7 of your state colleagues are already cosponsoring: Rep. Brad Finstad (R-MN-01), Rep. Kelly Morrison (D-MN-03), Rep. Ilhan Omar (D-MN-05), 4 more.
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 7 of your state colleagues are on it: Rep. Brad Finstad (R-MN-01), Rep. Angie Craig (D-MN-02), Rep. Pete Stauber (R-MN-08), 4 more.
+   It cleared committee (committee vote 42-0). 7 of your state colleagues are on it: Rep. Brad Finstad (R-MN-01), Rep. Kelly Morrison (D-MN-03), Rep. Ilhan Omar (D-MN-05), 4 more.
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Betty McCollum (D-MN-04), Rep. Angie Craig (D-MN-02).
 6. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
@@ -35,19 +35,19 @@ Representative for MN-06 · 11.8 years in the House · House Majority Whip
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your MN colleagues are on it: Pete Stauber, Kelly Morrison, Brad Finstad and others.
+- 5 of your MN colleagues are on it: Brad Finstad, Kelly Morrison, Ilhan Omar and others.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
 - 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 7 of your MN colleagues are on it: Brad Finstad, Angie Craig, Pete Stauber and others.
+- 7 of your MN colleagues are on it: Brad Finstad, Kelly Morrison, Ilhan Omar and others.
 
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 68 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 48 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 35 |
@@ -69,7 +69,5 @@ Representative for MN-06 · 11.8 years in the House · House Majority Whip
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

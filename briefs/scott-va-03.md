@@ -17,11 +17,11 @@ Representative for VA-03 · 33.8 years in the House
 4. **Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Budget, where you sit.** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Robert J. Wittman (R-VA-01), Rep. Ben Cline (R-VA-06), Rep. Jennifer A. Kiggans (R-VA-02), 2 more.
+   5 of your state colleagues are already cosponsoring: Rep. Robert J. Wittman (R-VA-01), Rep. John J. McGuire III (R-VA-05), Rep. Suhas Subramanyam (D-VA-10), 2 more.
 6. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. James R. Walkinshaw (D-VA-11), Rep. Eugene Simon Vindman (D-VA-07), Rep. Jennifer A. Kiggans (R-VA-02), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Eugene Simon Vindman (D-VA-07), Rep. James R. Walkinshaw (D-VA-11), Rep. Suhas Subramanyam (D-VA-10), 1 more.
 7. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   4 of your state colleagues are already cosponsoring: Rep. Jennifer L. McClellan (D-VA-04), Rep. James R. Walkinshaw (D-VA-11), Rep. Eugene Simon Vindman (D-VA-07), 1 more.
+   4 of your state colleagues are already cosponsoring: Rep. Robert J. Wittman (R-VA-01), Rep. Jennifer L. McClellan (D-VA-04), Rep. Eugene Simon Vindman (D-VA-07), 1 more.
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Ben Cline (R-VA-06), Rep. Eugene Simon Vindman (D-VA-07).
 
@@ -47,7 +47,7 @@ Representative for VA-03 · 33.8 years in the House
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 0 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 80 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 80 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 68 |
@@ -69,7 +69,5 @@ Representative for VA-03 · 33.8 years in the House
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

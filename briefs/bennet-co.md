@@ -19,7 +19,7 @@ Senator for CO · 17.8 years in the Senate
 5. **Introduce a Senate companion to H.R. 1464 (MODERN WIC Act) with Sen. John Thune (R-SD).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 40_  
    There is no Senate version yet, and you sit on Agriculture, Nutrition, and Forestry (likely committee of jurisdiction). The House bill is in committee with 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 6. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. John Thune (R-SD).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 126 sponsors and cosponsors (64 R, 62 D, 28 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
 7. **Introduce a Senate companion to H.R. 10378 (TRUST Act) with Sen. Cindy Hyde-Smith (R-MS).** _End partisan gerrymandering · [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378) · priority 40_  
    There is no Senate version yet, and you sit on Rules and Administration (likely committee of jurisdiction). The House bill is in committee with 11 sponsors and cosponsors (5 R, 6 D, 11 PSC).
 8. **Introduce a Senate companion to H.R. 10379 (MAPS Act) with Sen. Cindy Hyde-Smith (R-MS).** _End partisan gerrymandering · [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379) · priority 40_  
@@ -30,10 +30,12 @@ Senator for CO · 17.8 years in the Senate
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
 - 43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.
-- 4 of your CO colleagues are on it: Jeff Hurd, Jeff Crank, Gabe Evans and others.
+- 4 of your CO colleagues are on it: Jeff Hurd, Gabe Evans, Lauren Boebert and others.
 - It passed the House 417-3.
 - It is 3 votes short of 60 in the Senate.
+- CBO (2026-09-09): As ordered reported by the House Committee on Energy and Commerce on July 21, 2026
 - Your record: voted nay.
+- [CBO cost estimate](https://www.cbo.gov/publication/62762)
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
@@ -42,7 +44,7 @@ Senator for CO · 17.8 years in the Senate
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
 - 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 4 of your CO colleagues are on it: Joe Neguse, Jeff Crank, Jason Crow and others.
+- 4 of your CO colleagues are on it: Jeff Crank, Joe Neguse, Gabe Evans and others.
 
 ## Position on each goal
 
@@ -71,7 +73,5 @@ Senator for CO · 17.8 years in the Senate
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

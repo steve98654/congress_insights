@@ -2,18 +2,18 @@
 
 Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 63 (rank 189 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 63 (rank 188 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations
 
 ## Top actions
 
 1. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Dan Newhouse (R-WA-04), Rep. Kim Schrier (D-WA-08), Rep. Marilyn Strickland (D-WA-10), 3 more.
+   It is PSC-endorsed and you are a caucus member. 6 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Adam Smith (D-WA-09), Rep. Dan Newhouse (R-WA-04), 3 more.
 2. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Dan Newhouse (R-WA-04), Rep. Marilyn Strickland (D-WA-10), Rep. Pramila Jayapal (D-WA-07), 2 more.
+   It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Michael Baumgartner (R-WA-05), Rep. Dan Newhouse (R-WA-04), 2 more.
 3. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Pramila Jayapal (D-WA-07), Rep. Suzan K. DelBene (D-WA-01).
+   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Marilyn Strickland (D-WA-10), Rep. Suzan K. DelBene (D-WA-01), Rep. Pramila Jayapal (D-WA-07).
 4. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 60_  
    You sit on Appropriations, where this goal is decided.
 5. **Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
@@ -21,7 +21,7 @@ Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus mem
 6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 57_  
-   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Suzan K. DelBene (D-WA-01), Rep. Adam Smith (D-WA-09).
+   It is PSC-endorsed and you are a caucus member. 2 of your state colleagues are already cosponsoring: Rep. Adam Smith (D-WA-09), Rep. Suzan K. DelBene (D-WA-01).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 55_  
    It cleared committee (committee vote 62-2). 1 of your state colleagues is on it: Rep. Rick Larsen (D-WA-02).
 
@@ -30,24 +30,24 @@ Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus mem
 **H.R. 3694, VALID Act: Lower housing and home energy costs**
 - Improves veterans' access to and understanding of VA home loans.
 - 95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.
-- 6 of your WA colleagues are on it: Dan Newhouse, Kim Schrier, Marilyn Strickland and others.
+- 6 of your WA colleagues are on it: Marilyn Strickland, Adam Smith, Dan Newhouse and others.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
 - A tax credit of up to $5,000 a year for working family caregivers' costs such as home care, adult day care and respite care.
 - 146 members back it: 46 Republicans and 98 Democrats, including 23 Problem Solvers.
-- 5 of your WA colleagues are on it: Dan Newhouse, Marilyn Strickland, Pramila Jayapal and others.
+- 5 of your WA colleagues are on it: Marilyn Strickland, Michael Baumgartner, Dan Newhouse and others.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 126 members back it: 64 Republicans and 62 Democrats, including 28 Problem Solvers.
-- 3 of your WA colleagues are on it: Marilyn Strickland, Pramila Jayapal, Suzan K. DelBene.
+- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 3 of your WA colleagues are on it: Marilyn Strickland, Suzan K. DelBene, Pramila Jayapal.
 
 ## Position on each goal
 
 | Goal | Bills | Position | Leverage |
 |---|---|---|---|
 | Fund the government on time | committee work | - | 60 |
-| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | - | 0 |
+| Keep data center power costs off household bills | [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) | voted yea | 0 |
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 63 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | cosponsor | 63 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | cosponsor | 60 |
@@ -69,7 +69,5 @@ Representative for WA-03 · 3.8 years in the House · Problem Solvers Caucus mem
 - Member, committee and leadership data: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
-
-Cosponsor lists for S. 5653 are incomplete until the next data refresh, so a member shown as not cosponsoring them may already be on.
 
 _Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
