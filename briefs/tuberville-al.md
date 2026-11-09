@@ -2,7 +2,7 @@
 
 Senator for AL · 5.8 years in the Senate · Leaving Congress in January (seeking other office: Running for governor of Alabama)
 
-**Priority tier B** · leverage score 50 (rank 84 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 50 (rank 85 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Agriculture, Nutrition, and Forestry; Armed Services; Health, Education, Labor, and Pensions; Veterans' Affairs; Aging
 
@@ -66,4 +66,4 @@ Senator for AL · 5.8 years in the Senate · Leaving Congress in January (seekin
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

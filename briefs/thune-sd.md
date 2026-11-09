@@ -9,7 +9,7 @@ Senator for SD · 21.8 years in the Senate · Senate Majority Leader
 ## Top actions
 
 1. **Bring H.R. 9340 (Ratepayer Protection Act) back to the floor.** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 95_  
-   It passed the House (417-3). Cloture on the Motion to Proceed Rejected 57-43 (3/5 required) (Cloture on the motion to proceed to H.R. 9340, 2026-09-30).
+   It passed the House (417-3). Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required) (On Cloture on the Motion to Proceed H.R. 9340, September ).
 2. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
    It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
 3. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA), Sen. Michael F. Bennet (D-CO).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
@@ -59,4 +59,4 @@ Senator for SD · 21.8 years in the Senate · Senate Majority Leader
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

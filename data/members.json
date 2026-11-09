@@ -5719,7 +5719,7 @@
    {
     "code": "SSAP18",
     "name": "Senate Committee on Appropriations: Departments of Labor, Health and Human Services, and Education, and Related Agencies",
-    "rank": 9,
+    "rank": 10,
     "side": "majority",
     "title": "Ex Officio",
     "parent": "SSAP"
@@ -5727,7 +5727,7 @@
    {
     "code": "SSAP22",
     "name": "Senate Committee on Appropriations: Energy and Water Development",
-    "rank": 9,
+    "rank": 10,
     "side": "majority",
     "title": "Ex Officio",
     "parent": "SSAP"
@@ -5735,7 +5735,7 @@
    {
     "code": "SSAP23",
     "name": "Senate Committee on Appropriations: Financial Services and General Government",
-    "rank": 5,
+    "rank": 6,
     "side": "majority",
     "title": "Ex Officio",
     "parent": "SSAP"
@@ -6970,7 +6970,7 @@
   "title": "Sen.",
   "voting": true,
   "first_served": "2007-12-31",
-  "years_in_chamber": 18.8,
+  "years_in_chamber": 18.9,
   "term_end": "2031-01-03",
   "senate_class": 1,
   "leadership": [],
@@ -10309,7 +10309,7 @@
   "title": "Sen.",
   "voting": true,
   "first_served": "1996-02-05",
-  "years_in_chamber": 30.7,
+  "years_in_chamber": 30.8,
   "term_end": "2029-01-03",
   "senate_class": 3,
   "leadership": [],
@@ -11075,8 +11075,125 @@
    "source": null,
    "as_of": "2026-11-04"
   },
-  "committees": [],
-  "subcommittees": [],
+  "committees": [
+   {
+    "code": "SSAP",
+    "name": "Senate Committee on Appropriations",
+    "rank": 15,
+    "side": "majority"
+   },
+   {
+    "code": "SSEV",
+    "name": "Senate Committee on Environment and Public Works",
+    "rank": 10,
+    "side": "majority"
+   },
+   {
+    "code": "SSBU",
+    "name": "Senate Committee on the Budget",
+    "rank": 11,
+    "side": "majority"
+   },
+   {
+    "code": "SSJU",
+    "name": "Senate Committee on the Judiciary",
+    "rank": 12,
+    "side": "majority"
+   }
+  ],
+  "subcommittees": [
+   {
+    "code": "SSAP16",
+    "name": "Senate Committee on Appropriations: Commerce, Justice, Science, and Related Agencies",
+    "rank": 9,
+    "side": "majority",
+    "parent": "SSAP"
+   },
+   {
+    "code": "SSAP18",
+    "name": "Senate Committee on Appropriations: Departments of Labor, Health and Human Services, and Education, and Related Agencies",
+    "rank": 9,
+    "side": "majority",
+    "parent": "SSAP"
+   },
+   {
+    "code": "SSAP22",
+    "name": "Senate Committee on Appropriations: Energy and Water Development",
+    "rank": 9,
+    "side": "majority",
+    "parent": "SSAP"
+   },
+   {
+    "code": "SSAP23",
+    "name": "Senate Committee on Appropriations: Financial Services and General Government",
+    "rank": 5,
+    "side": "majority",
+    "parent": "SSAP"
+   },
+   {
+    "code": "SSAP19",
+    "name": "Senate Committee on Appropriations: Military Construction, Veterans Affairs, and Related Agencies",
+    "rank": 9,
+    "side": "majority",
+    "parent": "SSAP"
+   },
+   {
+    "code": "SSAP24",
+    "name": "Senate Committee on Appropriations: Transportation, Housing and Urban Development, and Related Agencies",
+    "rank": 9,
+    "side": "majority",
+    "parent": "SSAP"
+   },
+   {
+    "code": "SSEV09",
+    "name": "Senate Committee on Environment and Public Works: Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",
+    "rank": 5,
+    "side": "majority",
+    "parent": "SSEV"
+   },
+   {
+    "code": "SSEV10",
+    "name": "Senate Committee on Environment and Public Works: Clean Air, Climate, and Nuclear Innovation and Safety",
+    "rank": 8,
+    "side": "majority",
+    "parent": "SSEV"
+   },
+   {
+    "code": "SSEV08",
+    "name": "Senate Committee on Environment and Public Works: Transportation and Infrastructure",
+    "rank": 8,
+    "side": "majority",
+    "parent": "SSEV"
+   },
+   {
+    "code": "SSJU04",
+    "name": "Senate Committee on the Judiciary: Border Security and Immigration",
+    "rank": 7,
+    "side": "majority",
+    "parent": "SSJU"
+   },
+   {
+    "code": "SSJU22",
+    "name": "Senate Committee on the Judiciary: Crime and Counterterrorism",
+    "rank": 6,
+    "side": "majority",
+    "parent": "SSJU"
+   },
+   {
+    "code": "SSJU25",
+    "name": "Senate Committee on the Judiciary: Federal Courts, Oversight, Agency Action, and Federal Rights",
+    "rank": 6,
+    "side": "majority",
+    "parent": "SSJU"
+   },
+   {
+    "code": "SSJU28",
+    "name": "Senate Committee on the Judiciary: Privacy, Technology, and the Law",
+    "rank": 6,
+    "side": "majority",
+    "parent": "SSJU"
+   }
+  ],
   "ids": {
    "lis": "S441",
    "govtrack": 457044,
@@ -13727,7 +13844,7 @@
    {
     "code": "SSEV09",
     "name": "Senate Committee on Environment and Public Works: Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",
-    "rank": 5,
+    "rank": 6,
     "side": "majority",
     "title": "Ex Officio",
     "parent": "SSEV"
@@ -13735,7 +13852,7 @@
    {
     "code": "SSEV10",
     "name": "Senate Committee on Environment and Public Works: Clean Air, Climate, and Nuclear Innovation and Safety",
-    "rank": 8,
+    "rank": 9,
     "side": "majority",
     "title": "Ex Officio",
     "parent": "SSEV"
@@ -13751,7 +13868,7 @@
    {
     "code": "SSEV08",
     "name": "Senate Committee on Environment and Public Works: Transportation and Infrastructure",
-    "rank": 8,
+    "rank": 9,
     "side": "majority",
     "title": "Ex Officio",
     "parent": "SSEV"
@@ -15600,7 +15717,7 @@
    {
     "code": "HSFA07",
     "name": "House Committee on Foreign Affairs: Western Hemisphere",
-    "rank": 4,
+    "rank": 2,
     "side": "minority",
     "parent": "HSFA"
    },
@@ -18723,9 +18840,8 @@
    {
     "code": "HSFA13",
     "name": "House Committee on Foreign Affairs: Middle East and North Africa",
-    "rank": 1,
+    "rank": 2,
     "side": "minority",
-    "title": "Ranking Member",
     "parent": "HSFA"
    }
   ],
@@ -20216,7 +20332,7 @@
    {
     "code": "HSFA07",
     "name": "House Committee on Foreign Affairs: Western Hemisphere",
-    "rank": 3,
+    "rank": 4,
     "side": "minority",
     "parent": "HSFA"
    }
@@ -23456,8 +23572,8 @@
     "parent": "HSFA"
    },
    {
-    "code": "HSFA17",
-    "name": "House Committee on Foreign Affairs: Oversight and Intelligence",
+    "code": "HSFA13",
+    "name": "House Committee on Foreign Affairs: Middle East and North Africa",
     "rank": 1,
     "side": "minority",
     "title": "Ranking Member",
@@ -23650,6 +23766,13 @@
     "side": "minority",
     "title": "Ranking Member",
     "parent": "HSAP"
+   },
+   {
+    "code": "HSFA17",
+    "name": "House Committee on Foreign Affairs: Oversight and Intelligence",
+    "rank": 4,
+    "side": "minority",
+    "parent": "HSFA"
    }
   ],
   "ids": {
@@ -25039,7 +25162,14 @@
    "source": null,
    "as_of": "2026-11-04"
   },
-  "committees": [],
+  "committees": [
+   {
+    "code": "HSBA",
+    "name": "House Committee on Financial Services",
+    "rank": 24,
+    "side": "minority"
+   }
+  ],
   "subcommittees": [],
   "ids": {
    "lis": null,
@@ -25990,6 +26120,14 @@
     "parent": "HSFA"
    },
    {
+    "code": "HSFA17",
+    "name": "House Committee on Foreign Affairs: Oversight and Intelligence",
+    "rank": 1,
+    "side": "minority",
+    "title": "Ranking Member",
+    "parent": "HSFA"
+   },
+   {
     "code": "HSFA07",
     "name": "House Committee on Foreign Affairs: Western Hemisphere",
     "rank": 5,
@@ -26703,9 +26841,9 @@
   ],
   "subcommittees": [
    {
-    "code": "HSFA17",
-    "name": "House Committee on Foreign Affairs: Oversight and Intelligence",
-    "rank": 3,
+    "code": "HSFA13",
+    "name": "House Committee on Foreign Affairs: Middle East and North Africa",
+    "rank": 6,
     "side": "minority",
     "parent": "HSFA"
    },
@@ -27841,7 +27979,7 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2008-03-13",
-  "years_in_chamber": 18.6,
+  "years_in_chamber": 18.7,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
@@ -30050,7 +30188,7 @@
    {
     "code": "HSFA13",
     "name": "House Committee on Foreign Affairs: Middle East and North Africa",
-    "rank": 2,
+    "rank": 5,
     "side": "minority",
     "parent": "HSFA"
    }
@@ -32657,6 +32795,13 @@
     "parent": "HSAS"
    },
    {
+    "code": "HSFA07",
+    "name": "House Committee on Foreign Affairs: Western Hemisphere",
+    "rank": 7,
+    "side": "minority",
+    "parent": "HSFA"
+   },
+   {
     "code": "HSGO33",
     "name": "House Committee on Oversight and Government Reform: Federal Law Enforcement",
     "rank": 3,
@@ -33522,7 +33667,7 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "1993-04-20",
-  "years_in_chamber": 33.5,
+  "years_in_chamber": 33.6,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
@@ -35695,6 +35840,20 @@
     "rank": 3,
     "side": "minority",
     "parent": "HSSM"
+   },
+   {
+    "code": "HSVR03",
+    "name": "House Committee on Veterans' Affairs: Health",
+    "rank": 5,
+    "side": "minority",
+    "parent": "HSVR"
+   },
+   {
+    "code": "HSVR11",
+    "name": "House Committee on Veterans' Affairs: Technology Modernization",
+    "rank": 2,
+    "side": "minority",
+    "parent": "HSVR"
    }
   ],
   "ids": {
@@ -36559,7 +36718,7 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2026-04-20",
-  "years_in_chamber": 0.5,
+  "years_in_chamber": 0.6,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
@@ -36982,7 +37141,7 @@
    {
     "code": "HSFA07",
     "name": "House Committee on Foreign Affairs: Western Hemisphere",
-    "rank": 2,
+    "rank": 3,
     "side": "minority",
     "parent": "HSFA"
    },
@@ -37044,7 +37203,7 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2011-09-13",
-  "years_in_chamber": 15.1,
+  "years_in_chamber": 15.2,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
@@ -37636,7 +37795,7 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "1998-02-05",
-  "years_in_chamber": 28.7,
+  "years_in_chamber": 28.8,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
@@ -38599,7 +38758,7 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2022-09-13",
-  "years_in_chamber": 4.1,
+  "years_in_chamber": 4.2,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
@@ -41018,7 +41177,7 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2012-02-07",
-  "years_in_chamber": 14.7,
+  "years_in_chamber": 14.8,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
@@ -41804,7 +41963,7 @@
    {
     "code": "HSFA17",
     "name": "House Committee on Foreign Affairs: Oversight and Intelligence",
-    "rank": 4,
+    "rank": 3,
     "side": "minority",
     "parent": "HSFA"
    }
@@ -49346,7 +49505,7 @@
   "title": "Rep.",
   "voting": true,
   "first_served": "2025-09-10",
-  "years_in_chamber": 1.1,
+  "years_in_chamber": 1.2,
   "term_end": "2027-01-03",
   "senate_class": null,
   "leadership": [],
@@ -50513,6 +50672,13 @@
     "rank": 3,
     "side": "minority",
     "parent": "HSAP"
+   },
+   {
+    "code": "HSFA16",
+    "name": "House Committee on Foreign Affairs: Africa",
+    "rank": 5,
+    "side": "minority",
+    "parent": "HSFA"
    }
   ],
   "ids": {

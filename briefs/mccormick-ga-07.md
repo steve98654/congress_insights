@@ -2,7 +2,7 @@
 
 Representative for GA-07 · 3.8 years in the House
 
-**Priority tier B** · leverage score 57 (rank 265 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 57 (rank 266 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Oversight and Government Reform; Science, Space, and Technology
 
@@ -68,4 +68,4 @@ Representative for GA-07 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

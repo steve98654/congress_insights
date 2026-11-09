@@ -1,9 +1,9 @@
 {
  "key": "senate_vote_119_2_254",
  "chamber": "senate",
- "question": "Cloture on the motion to proceed to H.R. 9340",
- "date": "2026-09-30",
- "result": "Cloture on the Motion to Proceed Rejected 57-43 (3/5 required)",
+ "question": "On Cloture on the Motion to Proceed H.R. 9340",
+ "date": "September 30, 2026,  12:51 PM",
+ "result": "Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required)",
  "members": [
   {
    "lis": "S428",
@@ -707,5 +707,5 @@
   }
  ],
  "source_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.xml",
- "fetched": "2026-10-29"
+ "fetched": "2026-11-09"
 }

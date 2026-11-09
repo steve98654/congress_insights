@@ -10,7 +10,7 @@ Senator for RI · 19.8 years in the Senate
 
 1. **Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 80_  
    You voted no on cloture. It passed the House 417-3 and needs 3 more votes in the Senate.
-2. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. John Boozman (R-AR).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 65_  
+2. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Darline Graham (R-SC).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 65_  
    There is no Senate version yet, and you sit on Environment and Public Works (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 3. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
    It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
@@ -66,7 +66,7 @@ Senator for RI · 19.8 years in the Senate
 
 - [Sen. Chuck Grassley (R-IA)](grassley-ia.md): shared committees: United States Senate Caucus on International Narcotics Control, Budget, Finance, Judiciary
 - [Sen. John Cornyn (R-TX)](cornyn-tx.md): shared committees: United States Senate Caucus on International Narcotics Control, Budget, Finance, Judiciary
-- [Sen. Thom Tillis (R-NC)](tillis-nc.md): shared committees: Commission on Security and Cooperation in Europe, Finance, Judiciary
+- [Sen. Darline Graham (R-SC)](graham-nordone-sc.md): shared committees: Budget, Environment and Public Works, Judiciary
 
 ## Sources
 
@@ -74,4 +74,4 @@ Senator for RI · 19.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

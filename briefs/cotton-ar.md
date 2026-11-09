@@ -2,7 +2,7 @@
 
 Senator for AR · 11.8 years in the Senate · Senate Republican Conference Chair
 
-**Priority tier B** · leverage score 48 (rank 90 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 48 (rank 91 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Economic Committee; Armed Services; Energy and Natural Resources; Intelligence (Chairman)
 
@@ -56,4 +56,4 @@ Senator for AR · 11.8 years in the Senate · Senate Republican Conference Chair
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

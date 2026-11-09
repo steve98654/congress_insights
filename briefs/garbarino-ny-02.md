@@ -13,7 +13,7 @@ Representative for NY-02 · 5.8 years in the House · Problem Solvers Caucus mem
 2. **Recruit cosponsors on the committee of jurisdiction for H.R. 2048: Rep. Richard E. Neal (D-MA-01), Rep. Jason Smith (R-MO-08), Rep. Adrian Smith (R-NE-03).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 80_  
    Committee members who cosponsor make a markup easier to get. These are the highest-ranked committee members not yet on the bill, other party and PSC first.
 3. **Consider a discharge petition for H.R. 2048: 264 members already back it and 218 signatures force a floor vote.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 78_  
-   It has sat in committee for 603 days without a markup. Its backers alone are enough to reach 218 signatures if the chair will not act.
+   It has sat in committee for 608 days without a markup. Its backers alone are enough to reach 218 signatures if the chair will not act.
 4. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 63_  
@@ -71,4 +71,4 @@ Representative for NY-02 · 5.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

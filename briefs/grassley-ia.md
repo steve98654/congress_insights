@@ -2,7 +2,7 @@
 
 Senator for IA · 45.8 years in the Senate · President Pro Tempore of the Senate
 
-**Priority tier A** · leverage score 58 (rank 55 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier A** · leverage score 58 (rank 56 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Committee on Taxation; Agriculture, Nutrition, and Forestry; Finance; Budget; Judiciary (Chairman); United States Senate Caucus on International Narcotics Control
 
@@ -72,4 +72,4 @@ Senator for IA · 45.8 years in the Senate · President Pro Tempore of the Senat
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -51,7 +51,7 @@ Senator for IL · 29.8 years in the Senate · Senate Minority Whip · Leaving Co
 
 - [Sen. Chuck Grassley (R-IA)](grassley-ia.md): shared committees: Agriculture, Nutrition, and Forestry, Judiciary
 - [Sen. Cindy Hyde-Smith (R-MS)](hyde-smith-ms.md): shared committees: Agriculture, Nutrition, and Forestry, Appropriations
-- [Sen. Deb Fischer (R-NE)](fischer-ne.md): shared committees: Agriculture, Nutrition, and Forestry, Appropriations
+- [Sen. Darline Graham (R-SC)](graham-nordone-sc.md): shared committees: Appropriations, Judiciary
 
 ## Sources
 
@@ -59,4 +59,4 @@ Senator for IL · 29.8 years in the Senate · Senate Minority Whip · Leaving Co
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

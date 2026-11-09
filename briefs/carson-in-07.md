@@ -1,8 +1,8 @@
 # Rep. André Carson (D-IN-07)
 
-Representative for IN-07 · 18.6 years in the House
+Representative for IN-07 · 18.7 years in the House
 
-**Priority tier B** · leverage score 57 (rank 266 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 57 (rank 267 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
 
 **Committees:** Transportation and Infrastructure; Intelligence; Strategic Competition Between the United States and the Chinese Communist Party
 
@@ -65,4 +65,4 @@ Representative for IN-07 · 18.6 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

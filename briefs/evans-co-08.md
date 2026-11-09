@@ -13,7 +13,7 @@ Representative for CO-08 · 1.8 years in the House · Problem Solvers Caucus mem
 2. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 3. **Work the Senate on H.R. 9340: Sen. Michael F. Bennet (D-CO), Sen. John W. Hickenlooper (D-CO) voted no on cloture.** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 70_  
-   It passed the House (417-3), but Cloture on the Motion to Proceed Rejected 57-43 (3/5 required) (Cloture on the motion to proceed to H.R. 9340, 2026-09-30)..
+   It passed the House (417-3), but Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required) (On Cloture on the Motion to Proceed H.R. 9340, September )..
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 63_  
    It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Jason Crow (D-CO-06), Rep. Joe Neguse (D-CO-02), Rep. Brittany Pettersen (D-CO-07).
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 63_  
@@ -74,4 +74,4 @@ Representative for CO-08 · 1.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

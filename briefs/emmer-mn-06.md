@@ -2,7 +2,7 @@
 
 Representative for MN-06 · 11.8 years in the House · House Majority Whip
 
-**Priority tier A** · leverage score 58 (rank 245 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 58 (rank 246 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services
 
@@ -70,4 +70,4 @@ Representative for MN-06 · 11.8 years in the House · House Majority Whip
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

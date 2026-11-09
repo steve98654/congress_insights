@@ -2,7 +2,7 @@
 
 Senator for IN · 9.8 years in the Senate
 
-**Priority tier B** · leverage score 56 (rank 62 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 63 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Commerce, Science, and Transportation; Finance; Small Business and Entrepreneurship; Intelligence
 
@@ -71,4 +71,4 @@ Senator for IN · 9.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

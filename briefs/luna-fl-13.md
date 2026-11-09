@@ -2,7 +2,7 @@
 
 Representative for FL-13 · 3.8 years in the House
 
-**Priority tier C** · leverage score 48 (rank 365 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 48 (rank 366 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Foreign Affairs; Oversight and Government Reform
 
@@ -70,4 +70,4 @@ Representative for FL-13 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

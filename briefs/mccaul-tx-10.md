@@ -2,7 +2,7 @@
 
 Representative for TX-10 · 21.8 years in the House · Leaving Congress in January (retiring)
 
-**Priority tier C** · leverage score 52 (rank 327 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 52 (rank 328 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 **Committees:** Foreign Affairs; Homeland Security (Vice Chair)
 
@@ -75,4 +75,4 @@ Representative for TX-10 · 21.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

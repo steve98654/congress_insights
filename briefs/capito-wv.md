@@ -2,7 +2,7 @@
 
 Senator for WV · 11.8 years in the Senate · Senate Republican Policy Committee Chair
 
-**Priority tier A** · leverage score 58 (rank 58 of 100 in the Senate) · supports 3 of 5 caucus bills in their chamber
+**Priority tier A** · leverage score 58 (rank 59 of 100 in the Senate) · supports 3 of 5 caucus bills in their chamber
 
 **Committees:** Appropriations; Commerce, Science, and Transportation; Environment and Public Works (Chairman); Rules and Administration
 
@@ -71,4 +71,4 @@ Senator for WV · 11.8 years in the Senate · Senate Republican Policy Committee
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -2,7 +2,7 @@
 
 Representative for NE-01 · 4.3 years in the House
 
-**Priority tier B** · leverage score 54 (rank 311 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 54 (rank 312 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services
 
@@ -63,4 +63,4 @@ Representative for NE-01 · 4.3 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,6 +1,6 @@
 # Sen. Ron Wyden (D-OR)
 
-Senator for OR · 30.7 years in the Senate
+Senator for OR · 30.8 years in the Senate
 
 **Priority tier A** · leverage score 76 (rank 2 of 100 in the Senate) · supports 0 of 5 caucus bills in their chamber
 
@@ -74,4 +74,4 @@ Senator for OR · 30.7 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

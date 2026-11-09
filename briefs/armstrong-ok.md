@@ -2,7 +2,7 @@
 
 Senator for OK · 0.6 years in the Senate · Leaving Congress in January (retiring: Appointed interim senator; not running for the seat)
 
-**Priority tier B** · leverage score 47 (rank 93 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 47 (rank 94 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Health, Education, Labor, and Pensions; Indian Affairs
 
@@ -62,4 +62,4 @@ Senator for OK · 0.6 years in the Senate · Leaving Congress in January (retiri
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

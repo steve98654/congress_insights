@@ -57,6 +57,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Steve Daines (R-MT)](daines-mt.md) | B | 60 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Michael F. Bennet (D-CO). |
 | [Jerry Moran (R-KS)](moran-ks.md) | A | 60 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
 | [Lisa Murkowski (R-AK)](murkowski-ak.md) | B | 60 | 3/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. John W. Hickenlooper (D-CO). |
+| [Darline Graham (R-SC)](graham-nordone-sc.md) | B | 59 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
 | [John Kennedy (R-LA)](kennedy-la.md) | B | 59 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
 | [David McCormick (R-PA)](mccormick-pa.md) | B | 59 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. John Fetterman (D-PA). |
 | [Katie Boyd Britt (R-AL)](britt-al.md) | B | 58 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
@@ -105,7 +106,6 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Joni Ernst (R-IA)](ernst-ia.md) | C | 41 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA). |
 | [Ted Budd (R-NC)](budd-nc.md) | C | 40 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA), Sen. Michael F. Bennet (D-CO). |
 | [Cynthia M. Lummis (R-WY)](lummis-wy.md) | C | 39 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA). |
-| [Darline Graham (R-SC)](graham-nordone-sc.md) | C | 0 | 1/5 |  |
 
 ## House
 
@@ -331,6 +331,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Maria Elvira Salazar (R-FL-27)](salazar-fl-27.md) | A | 59 | 7/20 | Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit. |
 | [James R. Baird (R-IN-04)](baird-in-04.md) | B | 58 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit. |
 | [Tom Barrett (R-MI-07)](barrett-mi-07.md) | B | 58 | 2/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
+| [Everton Blair Jr. (D-GA-13)](blair-ga-13.md) | B | 58 | 0/20 | Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit. |
 | [Mike Bost (R-IL-12)](bost-il-12.md) | B | 58 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
 | [Julia Brownley (D-CA-26)](brownley-ca-26.md) | B | 58 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
 | [Mike Collins (R-GA-10)](collins-ga-10.md) | B | 58 | 0/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit. |
@@ -465,7 +466,6 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Mark E. Amodei (R-NV-02)](amodei-nv-02.md) | C | 48 | 2/20 | Back on-time passage of all 12 appropriations bills in committee. |
 | [Ami Bera (D-CA-06)](bera-ca-06.md) | C | 48 | 5/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). |
 | [Sanford D. Bishop, Jr. (D-GA-02)](bishop-ga-02.md) | C | 48 | 6/20 | Back on-time passage of all 12 appropriations bills in committee. |
-| [Everton Blair Jr. (D-GA-13)](blair-ga-13.md) | C | 48 | 0/20 | Cosponsor H.R. 2036 (Credit for Caring Act). |
 | [Lauren Boebert (R-CO-04)](boebert-co-04.md) | C | 48 | 1/20 | Cosponsor H.R. 3694 (VALID Act). |
 | [Shontel M. Brown (D-OH-11)](brown-oh-11.md) | C | 48 | 2/20 | Cosponsor H.R. 2036 (Credit for Caring Act). |
 | [Gilbert Ray Cisneros, Jr. (D-CA-31)](cisneros-ca-31.md) | C | 48 | 3/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). |

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04",
+ "generated": "2026-11-09",
  "whip": [
   {
    "goal": "data-center-ratepayers",
@@ -9,7 +9,7 @@
    "yeas": 57,
    "needed": 60,
    "short_by": 3,
-   "result": "Cloture on the Motion to Proceed Rejected 57-43 (3/5 required) (Cloture on the motion to proceed to H.R. 9340, 2026-09-30).",
+   "result": "Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required) (On Cloture on the Motion to Proceed H.R. 9340, September ).",
    "nays": [
     {
      "slug": "king-me",
@@ -466,7 +466,7 @@
    "to_majority": 0,
    "to_suspension": 0,
    "bipartisan": true,
-   "days_since_intro": 533,
+   "days_since_intro": 538,
    "discharge_ready": false,
    "complete": true
   },
@@ -480,7 +480,7 @@
    "to_majority": 0,
    "to_suspension": 26,
    "bipartisan": true,
-   "days_since_intro": 603,
+   "days_since_intro": 608,
    "discharge_ready": true,
    "complete": true
   },
@@ -494,7 +494,7 @@
    "to_majority": 75,
    "to_suspension": 147,
    "bipartisan": true,
-   "days_since_intro": 603,
+   "days_since_intro": 608,
    "discharge_ready": true,
    "complete": true
   },
@@ -508,7 +508,7 @@
    "to_majority": 90,
    "to_suspension": 162,
    "bipartisan": true,
-   "days_since_intro": 420,
+   "days_since_intro": 425,
    "discharge_ready": true,
    "complete": true
   },
@@ -522,7 +522,7 @@
    "to_majority": 125,
    "to_suspension": 197,
    "bipartisan": true,
-   "days_since_intro": 519,
+   "days_since_intro": 524,
    "discharge_ready": true,
    "complete": true
   },
@@ -536,7 +536,7 @@
    "to_majority": 138,
    "to_suspension": 210,
    "bipartisan": true,
-   "days_since_intro": 621,
+   "days_since_intro": 626,
    "discharge_ready": true,
    "complete": true
   },
@@ -550,7 +550,7 @@
    "to_majority": 149,
    "to_suspension": 221,
    "bipartisan": true,
-   "days_since_intro": 532,
+   "days_since_intro": 537,
    "discharge_ready": true,
    "complete": true
   },
@@ -564,7 +564,7 @@
    "to_majority": 170,
    "to_suspension": 242,
    "bipartisan": true,
-   "days_since_intro": 512,
+   "days_since_intro": 517,
    "discharge_ready": true,
    "complete": true
   },
@@ -578,7 +578,7 @@
    "to_majority": 175,
    "to_suspension": 247,
    "bipartisan": true,
-   "days_since_intro": 139,
+   "days_since_intro": 144,
    "discharge_ready": false,
    "complete": true
   },
@@ -592,7 +592,7 @@
    "to_majority": 175,
    "to_suspension": 247,
    "bipartisan": true,
-   "days_since_intro": 545,
+   "days_since_intro": 550,
    "discharge_ready": true,
    "complete": true
   },
@@ -606,7 +606,7 @@
    "to_majority": 195,
    "to_suspension": 267,
    "bipartisan": true,
-   "days_since_intro": 469,
+   "days_since_intro": 474,
    "discharge_ready": false,
    "complete": true
   },
@@ -620,7 +620,7 @@
    "to_majority": 207,
    "to_suspension": 279,
    "bipartisan": true,
-   "days_since_intro": 50,
+   "days_since_intro": 55,
    "discharge_ready": false,
    "complete": true
   },
@@ -634,7 +634,7 @@
    "to_majority": 207,
    "to_suspension": 279,
    "bipartisan": true,
-   "days_since_intro": 50,
+   "days_since_intro": 55,
    "discharge_ready": false,
    "complete": true
   },
@@ -648,7 +648,7 @@
    "to_majority": 210,
    "to_suspension": 282,
    "bipartisan": true,
-   "days_since_intro": 666,
+   "days_since_intro": 671,
    "discharge_ready": true,
    "complete": true
   },
@@ -662,7 +662,7 @@
    "to_majority": 210,
    "to_suspension": 282,
    "bipartisan": true,
-   "days_since_intro": 562,
+   "days_since_intro": 567,
    "discharge_ready": true,
    "complete": true
   },
@@ -676,7 +676,7 @@
    "to_majority": 210,
    "to_suspension": 282,
    "bipartisan": true,
-   "days_since_intro": 50,
+   "days_since_intro": 55,
    "discharge_ready": false,
    "complete": true
   },
@@ -690,7 +690,7 @@
    "to_majority": 211,
    "to_suspension": 283,
    "bipartisan": true,
-   "days_since_intro": 293,
+   "days_since_intro": 298,
    "discharge_ready": true,
    "complete": true
   },
@@ -704,7 +704,7 @@
    "to_majority": 212,
    "to_suspension": 284,
    "bipartisan": false,
-   "days_since_intro": 50,
+   "days_since_intro": 55,
    "discharge_ready": false,
    "complete": true
   },
@@ -718,7 +718,7 @@
    "to_majority": 213,
    "to_suspension": 285,
    "bipartisan": true,
-   "days_since_intro": 169,
+   "days_since_intro": 174,
    "discharge_ready": false,
    "complete": true
   },
@@ -732,7 +732,7 @@
    "to_majority": 213,
    "to_suspension": 285,
    "bipartisan": true,
-   "days_since_intro": 670,
+   "days_since_intro": 675,
    "discharge_ready": true,
    "complete": true
   }
@@ -3784,7 +3784,7 @@
    "code": "HSBA",
    "name": "Financial Services",
    "chamber": "house",
-   "size": 53,
+   "size": 54,
    "chair": {
     "slug": "hill-ar-02",
     "name": "J. French Hill",
@@ -3808,7 +3808,7 @@
      "stage": "in_committee",
      "supporters": 95,
      "committee_supporters": 13,
-     "committee_share": 0.25
+     "committee_share": 0.24
     }
    ],
    "waiting": 1,
@@ -12163,7 +12163,7 @@
    "label": "H.R. 2036",
    "short": "Credit for Caring Act",
    "dated": true,
-   "recent": 60,
+   "recent": 58,
    "recent_members": [
     {
      "slug": "mcclain-delaney-md-06",
@@ -12458,81 +12458,6 @@
    "last_added": "2026-10-19"
   },
   {
-   "goal": "health-access",
-   "bill": "hr2048",
-   "label": "H.R. 2048",
-   "short": "Metastatic Breast Cancer Access to Care Act",
-   "dated": true,
-   "recent": 10,
-   "recent_members": [
-    {
-     "slug": "davis-il-07",
-     "name": "Danny K. Davis",
-     "label": "D-IL-07",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-28"
-    },
-    {
-     "slug": "crockett-tx-30",
-     "name": "Jasmine Crockett",
-     "label": "D-TX-30",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-28"
-    },
-    {
-     "slug": "menefee-tx-18",
-     "name": "Christian D. Menefee",
-     "label": "D-TX-18",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-24"
-    },
-    {
-     "slug": "mcdowell-nc-06",
-     "name": "Addison P. McDowell",
-     "label": "R-NC-06",
-     "party": "R",
-     "psc": false,
-     "date": "2026-09-15"
-    },
-    {
-     "slug": "cleaver-mo-05",
-     "name": "Emanuel Cleaver",
-     "label": "D-MO-05",
-     "party": "D",
-     "psc": false,
-     "date": "2026-08-31"
-    },
-    {
-     "slug": "norman-sc-05",
-     "name": "Ralph Norman",
-     "label": "R-SC-05",
-     "party": "R",
-     "psc": false,
-     "date": "2026-08-31"
-    },
-    {
-     "slug": "kustoff-tn-08",
-     "name": "David Kustoff",
-     "label": "R-TN-08",
-     "party": "R",
-     "psc": false,
-     "date": "2026-08-27"
-    },
-    {
-     "slug": "degette-co-01",
-     "name": "Diana DeGette",
-     "label": "D-CO-01",
-     "party": "D",
-     "psc": false,
-     "date": "2026-08-20"
-    }
-   ],
-   "last_added": "2026-09-28"
-  },
-  {
    "goal": "online-safety-ai",
    "bill": "hr3562",
    "label": "H.R. 3562",
@@ -12756,6 +12681,81 @@
     }
    ],
    "last_added": "2026-09-15"
+  },
+  {
+   "goal": "health-access",
+   "bill": "hr2048",
+   "label": "H.R. 2048",
+   "short": "Metastatic Breast Cancer Access to Care Act",
+   "dated": true,
+   "recent": 9,
+   "recent_members": [
+    {
+     "slug": "davis-il-07",
+     "name": "Danny K. Davis",
+     "label": "D-IL-07",
+     "party": "D",
+     "psc": false,
+     "date": "2026-09-28"
+    },
+    {
+     "slug": "crockett-tx-30",
+     "name": "Jasmine Crockett",
+     "label": "D-TX-30",
+     "party": "D",
+     "psc": false,
+     "date": "2026-09-28"
+    },
+    {
+     "slug": "menefee-tx-18",
+     "name": "Christian D. Menefee",
+     "label": "D-TX-18",
+     "party": "D",
+     "psc": false,
+     "date": "2026-09-24"
+    },
+    {
+     "slug": "mcdowell-nc-06",
+     "name": "Addison P. McDowell",
+     "label": "R-NC-06",
+     "party": "R",
+     "psc": false,
+     "date": "2026-09-15"
+    },
+    {
+     "slug": "cleaver-mo-05",
+     "name": "Emanuel Cleaver",
+     "label": "D-MO-05",
+     "party": "D",
+     "psc": false,
+     "date": "2026-08-31"
+    },
+    {
+     "slug": "norman-sc-05",
+     "name": "Ralph Norman",
+     "label": "R-SC-05",
+     "party": "R",
+     "psc": false,
+     "date": "2026-08-31"
+    },
+    {
+     "slug": "kustoff-tn-08",
+     "name": "David Kustoff",
+     "label": "R-TN-08",
+     "party": "R",
+     "psc": false,
+     "date": "2026-08-27"
+    },
+    {
+     "slug": "degette-co-01",
+     "name": "Diana DeGette",
+     "label": "D-CO-01",
+     "party": "D",
+     "psc": false,
+     "date": "2026-08-20"
+    }
+   ],
+   "last_added": "2026-09-28"
   },
   {
    "goal": "redistricting-reform",

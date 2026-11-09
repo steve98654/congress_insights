@@ -10,11 +10,11 @@ Senator for OR · 17.8 years in the Senate
 
 1. **Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 80_  
    You voted no on cloture. It passed the House 417-3 and needs 3 more votes in the Senate.
-2. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Pete Ricketts (R-NE).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 65_  
+2. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Darline Graham (R-SC).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 65_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
-3. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Pete Ricketts (R-NE).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 55_  
+3. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Darline Graham (R-SC).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 55_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
-4. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Pete Ricketts (R-NE).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 55_  
+4. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Darline Graham (R-SC).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 55_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 5. **Back on-time passage of all 12 appropriations bills in committee.** _Fund the government on time · priority 50_  
    You sit on Appropriations, where this goal is decided.
@@ -66,7 +66,7 @@ Senator for OR · 17.8 years in the Senate
 
 - [Sen. Bill Hagerty (R-TN)](hagerty-tn.md): shared committees: Joint Committee on Printing, Appropriations, Foreign Relations, Rules and Administration
 - [Sen. Shelley Moore Capito (R-WV)](capito-wv.md): shared committees: Appropriations, Environment and Public Works, Rules and Administration
-- [Sen. Deb Fischer (R-NE)](fischer-ne.md): shared committees: Joint Committee on Printing, Appropriations, Rules and Administration
+- [Sen. Darline Graham (R-SC)](graham-nordone-sc.md): shared committees: Appropriations, Budget, Environment and Public Works
 
 ## Sources
 
@@ -74,4 +74,4 @@ Senator for OR · 17.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

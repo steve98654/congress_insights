@@ -427,6 +427,6 @@
  "policy_area": "Energy",
  "status": "passed_house",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9340.xml",
- "fetched": "2026-11-04",
+ "fetched": "2026-11-09",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

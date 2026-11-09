@@ -1,6 +1,6 @@
 # Rep. Bennie G. Thompson (D-MS-02)
 
-Representative for MS-02 · 33.5 years in the House
+Representative for MS-02 · 33.6 years in the House
 
 **Priority tier C** · leverage score 36 (rank 432 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
@@ -63,4 +63,4 @@ Representative for MS-02 · 33.5 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

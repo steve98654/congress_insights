@@ -2,7 +2,7 @@
 
 Representative for TN-05 · 3.8 years in the House · Leaving Congress in January (lost primary: Lost renomination to Charlie Hatcher)
 
-**Priority tier B** · leverage score 57 (rank 270 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 57 (rank 271 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; Homeland Security
 
@@ -66,4 +66,4 @@ Representative for TN-05 · 3.8 years in the House · Leaving Congress in Januar
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

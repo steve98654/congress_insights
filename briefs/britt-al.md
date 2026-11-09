@@ -2,7 +2,7 @@
 
 Senator for AL · 3.8 years in the Senate
 
-**Priority tier B** · leverage score 58 (rank 54 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 55 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Commission on Security and Cooperation in Europe; Appropriations; Banking, Housing, and Urban Affairs; Rules and Administration; Judiciary
 
@@ -75,4 +75,4 @@ Senator for AL · 3.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-09 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04",
+ "generated": "2026-11-09",
  "goals": [
   {
    "id": "appropriations-on-time",
@@ -83,11 +83,11 @@
      ],
      "policy_area": "Energy",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "417-3",
      "senate_vote_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.xml",
-     "senate_result": "Cloture on the Motion to Proceed Rejected 57-43 (3/5 required) (Cloture on the motion to proceed to H.R. 9340, 2026-09-30).",
+     "senate_result": "Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required) (On Cloture on the Motion to Proceed H.R. 9340, September ).",
      "house_vote_url": "https://clerk.house.gov/evs/2026/roll312.xml",
      "house_result": "Passed (On Motion to Suspend the Rules and Pass, as Amended, 2026-09-16).",
      "senate_votes_short": 3,
@@ -753,7 +753,7 @@
      "cbo": [],
      "policy_area": "Energy",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -860,7 +860,7 @@
      "cbo": [],
      "policy_area": "Housing and Community Development",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -1038,7 +1038,7 @@
      "cbo": [],
      "policy_area": "Taxation",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -1245,7 +1245,7 @@
      "cbo": [],
      "policy_area": "Agriculture and Food",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -1403,7 +1403,7 @@
      "cbo": [],
      "policy_area": "Congress",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -1509,7 +1509,7 @@
      "cbo": [],
      "policy_area": "Economics and Public Finance",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -1582,7 +1582,7 @@
      ],
      "policy_area": "Government Operations and Politics",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "committee vote 39-1",
      "house_vote": "",
      "senate_vote_url": null,
@@ -1687,7 +1687,7 @@
      "cbo": [],
      "policy_area": "Health",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "committee vote 42-0",
      "house_vote": "",
      "senate_vote_url": null,
@@ -2059,7 +2059,7 @@
      "cbo": [],
      "policy_area": "Health",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -2246,7 +2246,7 @@
      "cbo": [],
      "policy_area": "Health",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -2309,7 +2309,7 @@
      "cbo": [],
      "policy_area": "Health",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -2379,7 +2379,7 @@
      "cbo": [],
      "policy_area": "Social Welfare",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -2710,7 +2710,7 @@
      "cbo": [],
      "policy_area": "Social Welfare",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -2811,7 +2811,7 @@
      ],
      "policy_area": "Transportation and Public Works",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "committee vote 62-2",
      "house_vote": "",
      "senate_vote_url": null,
@@ -2879,7 +2879,7 @@
      "cbo": [],
      "policy_area": "Crime and Law Enforcement",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -2970,7 +2970,7 @@
      "cbo": [],
      "policy_area": "Crime and Law Enforcement",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -3101,7 +3101,7 @@
      "cbo": [],
      "policy_area": "Crime and Law Enforcement",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -3186,7 +3186,7 @@
      "cbo": [],
      "policy_area": "Environmental Protection",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -3268,7 +3268,7 @@
      "cbo": [],
      "policy_area": "Congress",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -3348,7 +3348,7 @@
      "cbo": [],
      "policy_area": "Government Operations and Politics",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -3417,7 +3417,7 @@
      "cbo": [],
      "policy_area": "Government Operations and Politics",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -3486,7 +3486,7 @@
      "cbo": [],
      "policy_area": "Government Operations and Politics",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -3551,7 +3551,7 @@
      "cbo": [],
      "policy_area": "Law",
      "data_source": "govinfo BILLSTATUS XML",
-     "data_fetched": "2026-11-04",
+     "data_fetched": "2026-11-09",
      "committee_vote": "",
      "house_vote": "",
      "senate_vote_url": null,
@@ -3908,7 +3908,7 @@
     }
    ],
    "outreach": [],
-   "rank": 83,
+   "rank": 84,
    "rank_of": 100
   },
   {
@@ -4107,7 +4107,7 @@
     }
    ],
    "outreach": [],
-   "rank": 54,
+   "rank": 55,
    "rank_of": 100
   },
   {
@@ -4271,7 +4271,7 @@
     }
    ],
    "outreach": [],
-   "rank": 84,
+   "rank": 85,
    "rank_of": 100
   },
   {
@@ -4588,7 +4588,7 @@
     }
    ],
    "outreach": [],
-   "rank": 90,
+   "rank": 91,
    "rank_of": 100
   },
   {
@@ -4889,7 +4889,7 @@
     }
    ],
    "outreach": [],
-   "rank": 72,
+   "rank": 73,
    "rank_of": 100
   },
   {
@@ -4969,10 +4969,10 @@
      "bill": "hr8870",
      "priority": 50,
      "kind": "companion",
-     "text": "Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Shelley Moore Capito (R-WV).",
+     "text": "Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Darline Graham (R-SC).",
      "why": "There is no Senate version yet, and you sit on Environment and Public Works (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).",
      "partners": [
-      "capito-wv"
+      "graham-nordone-sc"
      ]
     },
     {
@@ -5037,7 +5037,7 @@
    "partners": [
     "lee-ut",
     "hyde-smith-ms",
-    "fischer-ne"
+    "graham-nordone-sc"
    ],
    "talking_points": [
     {
@@ -5111,10 +5111,10 @@
      "bill": "hr8870",
      "priority": 50,
      "kind": "companion",
-     "text": "Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. John Boozman (R-AR).",
+     "text": "Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Darline Graham (R-SC).",
      "why": "There is no Senate version yet, and you sit on Environment and Public Works (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).",
      "partners": [
-      "boozman-ar"
+      "graham-nordone-sc"
      ]
     },
     {
@@ -5234,7 +5234,7 @@
    "partners": [
     "hawley-mo",
     "grassley-ia",
-    "justice-wv"
+    "graham-nordone-sc"
    ],
    "talking_points": [
     {
@@ -6536,7 +6536,7 @@
     }
    ],
    "outreach": [],
-   "rank": 69,
+   "rank": 70,
    "rank_of": 100
   },
   {
@@ -6705,7 +6705,7 @@
     }
    ],
    "outreach": [],
-   "rank": 85,
+   "rank": 86,
    "rank_of": 100
   },
   {
@@ -6870,7 +6870,7 @@
     }
    ],
    "outreach": [],
-   "rank": 86,
+   "rank": 87,
    "rank_of": 100
   },
   {
@@ -7069,7 +7069,7 @@
     }
    ],
    "outreach": [],
-   "rank": 61,
+   "rank": 62,
    "rank_of": 100
   },
   {
@@ -7557,7 +7557,7 @@
     }
    ],
    "outreach": [],
-   "rank": 97,
+   "rank": 98,
    "rank_of": 100
   },
   {
@@ -7754,7 +7754,7 @@
     }
    ],
    "outreach": [],
-   "rank": 55,
+   "rank": 56,
    "rank_of": 100
   },
   {
@@ -8071,7 +8071,7 @@
     }
    ],
    "outreach": [],
-   "rank": 91,
+   "rank": 92,
    "rank_of": 100
   },
   {
@@ -8213,7 +8213,7 @@
     }
    ],
    "outreach": [],
-   "rank": 56,
+   "rank": 57,
    "rank_of": 100
   },
   {
@@ -8307,7 +8307,7 @@
    "partners": [
     "grassley-ia",
     "hyde-smith-ms",
-    "fischer-ne"
+    "graham-nordone-sc"
    ],
    "talking_points": [
     {
@@ -8507,7 +8507,7 @@
     }
    ],
    "outreach": [],
-   "rank": 80,
+   "rank": 81,
    "rank_of": 100
   },
   {
@@ -8694,7 +8694,7 @@
     }
    ],
    "outreach": [],
-   "rank": 62,
+   "rank": 63,
    "rank_of": 100
   },
   {
@@ -8891,7 +8891,7 @@
     }
    ],
    "outreach": [],
-   "rank": 63,
+   "rank": 64,
    "rank_of": 100
   },
   {
@@ -9243,7 +9243,7 @@
     }
    ],
    "outreach": [],
-   "rank": 92,
+   "rank": 93,
    "rank_of": 100
   },
   {
@@ -11362,7 +11362,7 @@
     }
    ],
    "outreach": [],
-   "rank": 71,
+   "rank": 72,
    "rank_of": 100
   },
   {
@@ -11756,7 +11756,7 @@
     }
    ],
    "outreach": [],
-   "rank": 70,
+   "rank": 71,
    "rank_of": 100
   },
   {
@@ -11958,7 +11958,7 @@
     }
    ],
    "outreach": [],
-   "rank": 87,
+   "rank": 88,
    "rank_of": 100
   },
   {
@@ -12309,7 +12309,7 @@
     }
    ],
    "outreach": [],
-   "rank": 88,
+   "rank": 89,
    "rank_of": 100
   },
   {
@@ -12627,7 +12627,7 @@
     }
    ],
    "outreach": [],
-   "rank": 94,
+   "rank": 95,
    "rank_of": 100
   },
   {
@@ -12750,7 +12750,7 @@
     }
    ],
    "outreach": [],
-   "rank": 98,
+   "rank": 99,
    "rank_of": 100
   },
   {
@@ -12948,7 +12948,7 @@
     }
    ],
    "outreach": [],
-   "rank": 81,
+   "rank": 82,
    "rank_of": 100
   },
   {
@@ -13093,7 +13093,7 @@
     }
    ],
    "outreach": [],
-   "rank": 95,
+   "rank": 96,
    "rank_of": 100
   },
   {
@@ -13433,7 +13433,7 @@
     }
    ],
    "outreach": [],
-   "rank": 73,
+   "rank": 74,
    "rank_of": 100
   },
   {
@@ -13613,7 +13613,7 @@
     }
    ],
    "outreach": [],
-   "rank": 74,
+   "rank": 75,
    "rank_of": 100
   },
   {
@@ -13807,7 +13807,7 @@
     }
    ],
    "outreach": [],
-   "rank": 57,
+   "rank": 58,
    "rank_of": 100
   },
   {
@@ -13911,7 +13911,7 @@
     }
    ],
    "outreach": [],
-   "rank": 75,
+   "rank": 76,
    "rank_of": 100
   },
   {
@@ -14935,7 +14935,7 @@
     }
    ],
    "outreach": [],
-   "rank": 76,
+   "rank": 77,
    "rank_of": 100
   },
   {
@@ -15182,7 +15182,7 @@
     }
    ],
    "outreach": [],
-   "rank": 89,
+   "rank": 90,
    "rank_of": 100
   },
   {
@@ -15347,7 +15347,7 @@
     }
    ],
    "outreach": [],
-   "rank": 64,
+   "rank": 65,
    "rank_of": 100
   },
   {
@@ -15540,7 +15540,7 @@
     }
    ],
    "outreach": [],
-   "rank": 77,
+   "rank": 78,
    "rank_of": 100
   },
   {
@@ -15682,7 +15682,7 @@
     }
    ],
    "outreach": [],
-   "rank": 93,
+   "rank": 94,
    "rank_of": 100
   },
   {
@@ -15880,7 +15880,7 @@
     }
    ],
    "outreach": [],
-   "rank": 65,
+   "rank": 66,
    "rank_of": 100
   },
   {
@@ -15907,10 +15907,10 @@
      "bill": "hr4642",
      "priority": 65,
      "kind": "companion",
-     "text": "Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Pete Ricketts (R-NE).",
+     "text": "Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Darline Graham (R-SC).",
      "why": "There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).",
      "partners": [
-      "ricketts-ne"
+      "graham-nordone-sc"
      ]
     },
     {
@@ -15918,10 +15918,10 @@
      "bill": "hr3289",
      "priority": 55,
      "kind": "companion",
-     "text": "Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Pete Ricketts (R-NE).",
+     "text": "Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Darline Graham (R-SC).",
      "why": "There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).",
      "partners": [
-      "ricketts-ne"
+      "graham-nordone-sc"
      ]
     },
     {
@@ -15929,10 +15929,10 @@
      "bill": "hr222",
      "priority": 55,
      "kind": "companion",
-     "text": "Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Pete Ricketts (R-NE).",
+     "text": "Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Darline Graham (R-SC).",
      "why": "There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).",
      "partners": [
-      "ricketts-ne"
+      "graham-nordone-sc"
      ]
     },
     {
@@ -16028,7 +16028,7 @@
    "partners": [
     "hagerty-tn",
     "capito-wv",
-    "fischer-ne"
+    "graham-nordone-sc"
    ],
    "talking_points": [
     {
@@ -16787,10 +16787,10 @@
      "bill": "hr8870",
      "priority": 65,
      "kind": "companion",
-     "text": "Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. John Boozman (R-AR).",
+     "text": "Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Darline Graham (R-SC).",
      "why": "There is no Senate version yet, and you sit on Environment and Public Works (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).",
      "partners": [
-      "boozman-ar"
+      "graham-nordone-sc"
      ]
     },
     {
@@ -16908,7 +16908,7 @@
    "partners": [
     "grassley-ia",
     "cornyn-tx",
-    "tillis-nc"
+    "graham-nordone-sc"
    ],
    "talking_points": [
     {
@@ -16960,22 +16960,111 @@
   {
    "bioguide": "G000608",
    "slug": "graham-nordone-sc",
-   "score": 0,
-   "tier": "C",
+   "score": 59,
+   "tier": "B",
    "support": {
     "count": 1,
     "total": 5
    },
-   "actions": [],
-   "action_count": 0,
+   "actions": [
+    {
+     "goal": "appropriations-on-time",
+     "bill": null,
+     "priority": 65,
+     "kind": "appropriations",
+     "text": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+     "why": "Your THUD subcommittee seat decides this. The PSC letter flags about $10B in highway cuts, $5B for airports and $4B for transit.",
+     "partners": []
+    },
+    {
+     "goal": "data-center-ratepayers",
+     "bill": "hr9340",
+     "priority": 55,
+     "kind": "whip",
+     "text": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA).",
+     "why": "You voted yes on cloture. These no votes are your home-state or committee colleagues.",
+     "partners": [
+      "kelly-az",
+      "padilla-ca",
+      "schiff-ca"
+     ]
+    },
+    {
+     "goal": "fiscal-stability",
+     "bill": "hr4642",
+     "priority": 50,
+     "kind": "companion",
+     "text": "Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Jeff Merkley (D-OR).",
+     "why": "There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).",
+     "partners": [
+      "merkley-or"
+     ]
+    },
+    {
+     "goal": "infrastructure",
+     "bill": "hr8870",
+     "priority": 50,
+     "kind": "companion",
+     "text": "Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Jeff Merkley (D-OR).",
+     "why": "There is no Senate version yet, and you sit on Environment and Public Works (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).",
+     "partners": [
+      "merkley-or"
+     ]
+    },
+    {
+     "goal": "fiscal-stability",
+     "bill": "hr3289",
+     "priority": 40,
+     "kind": "companion",
+     "text": "Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Jeff Merkley (D-OR).",
+     "why": "There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).",
+     "partners": [
+      "merkley-or"
+     ]
+    },
+    {
+     "goal": "fiscal-stability",
+     "bill": "hr222",
+     "priority": 40,
+     "kind": "companion",
+     "text": "Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Jeff Merkley (D-OR).",
+     "why": "There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).",
+     "partners": [
+      "merkley-or"
+     ]
+    },
+    {
+     "goal": "infrastructure",
+     "bill": "hr2979",
+     "priority": 40,
+     "kind": "companion",
+     "text": "Introduce a Senate companion to H.R. 2979 (BUILD Act for police and fire facilities) with Sen. Sheldon Whitehouse (D-RI).",
+     "why": "There is no Senate version yet, and you sit on Judiciary (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).",
+     "partners": [
+      "whitehouse-ri"
+     ]
+    },
+    {
+     "goal": "protect-filibuster",
+     "bill": "hjres4",
+     "priority": 40,
+     "kind": "companion",
+     "text": "Introduce a Senate companion to H.J.Res. 4 (Filibuster amendment) with Sen. Sheldon Whitehouse (D-RI).",
+     "why": "There is no Senate version yet, and you sit on Judiciary (likely committee of jurisdiction). The House bill is in committee with 5 sponsors and cosponsors (2 R, 3 D, 4 PSC).",
+     "partners": [
+      "whitehouse-ri"
+     ]
+    }
+   ],
+   "action_count": 12,
    "goals": {
     "appropriations-on-time": {
      "position": "",
-     "leverage": 0
+     "leverage": 65
     },
     "data-center-ratepayers": {
      "position": "voted yea",
-     "leverage": 0
+     "leverage": 55
     },
     "energy-housing-costs": {
      "position": "",
@@ -16987,7 +17076,7 @@
     },
     "fiscal-stability": {
      "position": "",
-     "leverage": 0
+     "leverage": 50
     },
     "health-access": {
      "position": "",
@@ -16995,7 +17084,7 @@
     },
     "infrastructure": {
      "position": "",
-     "leverage": 0
+     "leverage": 50
     },
     "online-safety-ai": {
      "position": "",
@@ -17007,21 +17096,64 @@
     },
     "protect-filibuster": {
      "position": "",
-     "leverage": 0
+     "leverage": 40
     },
     "redistricting-reform": {
      "position": "",
-     "leverage": 0
+     "leverage": 40
     }
    },
    "partners": [
-    "klobuchar-mn",
-    "schumer-ny",
-    "murphy-ct"
+    "merkley-or",
+    "whitehouse-ri",
+    "padilla-ca"
    ],
-   "talking_points": [],
+   "talking_points": [
+    {
+     "goal": "data-center-ratepayers",
+     "bill": "hr9340",
+     "label": "H.R. 9340",
+     "short": "Ratepayer Protection Act",
+     "headline": "H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills",
+     "points": [
+      "Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.",
+      "43 members back it: 36 Republicans and 7 Democrats, including 10 Problem Solvers.",
+      "It passed the House 417-3.",
+      "It is 3 votes short of 60 in the Senate.",
+      "CBO published a cost estimate on 2026-09-09 (as ordered reported by the House Committee on Energy and Commerce on July 21, 2026).",
+      "Your record: voted yea."
+     ],
+     "cbo_url": "https://www.cbo.gov/publication/62762"
+    },
+    {
+     "goal": "fiscal-stability",
+     "bill": "hr4642",
+     "label": "H.R. 4642",
+     "short": "Fiscal Contingency Preparedness Act",
+     "headline": "H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt",
+     "points": [
+      "Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.",
+      "23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.",
+      "CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026)."
+     ],
+     "cbo_url": "https://www.cbo.gov/publication/62331"
+    },
+    {
+     "goal": "infrastructure",
+     "bill": "hr8870",
+     "label": "H.R. 8870",
+     "short": "BUILD America 250 Act",
+     "headline": "H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities",
+     "points": [
+      "Multi-year surface transportation reauthorization with faster project approvals and more state flexibility.",
+      "6 members back it: 4 Republicans and 2 Democrats.",
+      "CBO published a cost estimate on 2026-09-30 (as ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026)."
+     ],
+     "cbo_url": "https://www.cbo.gov/publication/62817"
+    }
+   ],
    "outreach": [],
-   "rank": 100,
+   "rank": 54,
    "rank_of": 100
   },
   {
@@ -17367,7 +17499,7 @@
     }
    ],
    "outreach": [],
-   "rank": 78,
+   "rank": 79,
    "rank_of": 100
   },
   {
@@ -17386,7 +17518,7 @@
      "priority": 95,
      "kind": "floor",
      "text": "Bring H.R. 9340 (Ratepayer Protection Act) back to the floor.",
-     "why": "It passed the House (417-3). Cloture on the Motion to Proceed Rejected 57-43 (3/5 required) (Cloture on the motion to proceed to H.R. 9340, 2026-09-30).",
+     "why": "It passed the House (417-3). Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required) (On Cloture on the Motion to Proceed H.R. 9340, September ).",
      "partners": []
     },
     {
@@ -17694,7 +17826,7 @@
     }
    ],
    "outreach": [],
-   "rank": 66,
+   "rank": 67,
    "rank_of": 100
   },
   {
@@ -17882,7 +18014,7 @@
     }
    ],
    "outreach": [],
-   "rank": 79,
+   "rank": 80,
    "rank_of": 100
   },
   {
@@ -18082,7 +18214,7 @@
     }
    ],
    "outreach": [],
-   "rank": 82,
+   "rank": 83,
    "rank_of": 100
   },
   {
@@ -18281,7 +18413,7 @@
     }
    ],
    "outreach": [],
-   "rank": 67,
+   "rank": 68,
    "rank_of": 100
   },
   {
@@ -18427,7 +18559,7 @@
     }
    ],
    "outreach": [],
-   "rank": 96,
+   "rank": 97,
    "rank_of": 100
   },
   {
@@ -20126,7 +20258,7 @@
     }
    ],
    "outreach": [],
-   "rank": 59,
+   "rank": 60,
    "rank_of": 100
   },
   {
@@ -20303,7 +20435,7 @@
     }
    ],
    "outreach": [],
-   "rank": 58,
+   "rank": 59,
    "rank_of": 100
   },
   {
@@ -20458,7 +20590,7 @@
     }
    ],
    "outreach": [],
-   "rank": 60,
+   "rank": 61,
    "rank_of": 100
   },
   {
@@ -20599,7 +20731,7 @@
     }
    ],
    "outreach": [],
-   "rank": 68,
+   "rank": 69,
    "rank_of": 100
   },
   {
@@ -20746,7 +20878,7 @@
     }
    ],
    "outreach": [],
-   "rank": 99,
+   "rank": 100,
    "rank_of": 100
   },
   {
@@ -20888,7 +21020,7 @@
     }
    ],
    "outreach": [],
-   "rank": 321,
+   "rank": 322,
    "rank_of": 439
   },
   {
@@ -21215,7 +21347,7 @@
     }
    ],
    "outreach": [],
-   "rank": 303,
+   "rank": 304,
    "rank_of": 439
   },
   {
@@ -21681,7 +21813,7 @@
     }
    ],
    "outreach": [],
-   "rank": 304,
+   "rank": 305,
    "rank_of": 439
   },
   {
@@ -22019,7 +22151,7 @@
     }
    ],
    "outreach": [],
-   "rank": 305,
+   "rank": 306,
    "rank_of": 439
   },
   {
@@ -22168,7 +22300,7 @@
     }
    ],
    "outreach": [],
-   "rank": 293,
+   "rank": 294,
    "rank_of": 439
   },
   {
@@ -22611,7 +22743,7 @@
     }
    ],
    "outreach": [],
-   "rank": 294,
+   "rank": 295,
    "rank_of": 439
   },
   {
@@ -23371,7 +23503,7 @@
     }
    ],
    "outreach": [],
-   "rank": 276,
+   "rank": 277,
    "rank_of": 439
   },
   {
@@ -25415,7 +25547,7 @@
     }
    ],
    "outreach": [],
-   "rank": 352,
+   "rank": 353,
    "rank_of": 439
   },
   {
@@ -26395,7 +26527,7 @@
     }
    ],
    "outreach": [],
-   "rank": 353,
+   "rank": 354,
    "rank_of": 439
   },
   {
@@ -26580,7 +26712,7 @@
     }
    ],
    "outreach": [],
-   "rank": 354,
+   "rank": 355,
    "rank_of": 439
   },
   {
@@ -26780,7 +26912,7 @@
     }
    ],
    "outreach": [],
-   "rank": 355,
+   "rank": 356,
    "rank_of": 439
   },
   {
@@ -26984,7 +27116,7 @@
     }
    ],
    "outreach": [],
-   "rank": 356,
+   "rank": 357,
    "rank_of": 439
   },
   {
@@ -27562,7 +27694,7 @@
     }
    ],
    "outreach": [],
-   "rank": 357,
+   "rank": 358,
    "rank_of": 439
   },
   {
@@ -30292,7 +30424,7 @@
     }
    ],
    "outreach": [],
-   "rank": 358,
+   "rank": 359,
    "rank_of": 439
   },
   {
@@ -30691,7 +30823,7 @@
     }
    ],
    "outreach": [],
-   "rank": 277,
+   "rank": 278,
    "rank_of": 439
   },
   {
@@ -31084,7 +31216,7 @@
     }
    ],
    "outreach": [],
-   "rank": 278,
+   "rank": 279,
    "rank_of": 439
   },
   {
@@ -31651,7 +31783,7 @@
     }
    ],
    "outreach": [],
-   "rank": 306,
+   "rank": 307,
    "rank_of": 439
   },
   {
@@ -32247,7 +32379,7 @@
     }
    ],
    "outreach": [],
-   "rank": 333,
+   "rank": 334,
    "rank_of": 439
   },
   {
@@ -33045,7 +33177,7 @@
     }
    ],
    "outreach": [],
-   "rank": 359,
+   "rank": 360,
    "rank_of": 439
   },
   {
@@ -33434,7 +33566,7 @@
     }
    ],
    "outreach": [],
-   "rank": 360,
+   "rank": 361,
    "rank_of": 439
   },
   {
@@ -33814,7 +33946,7 @@
     }
    ],
    "outreach": [],
-   "rank": 334,
+   "rank": 335,
    "rank_of": 439
   },
   {
@@ -34205,7 +34337,7 @@
     }
    ],
    "outreach": [],
-   "rank": 361,
+   "rank": 362,
    "rank_of": 439
   },
   {
@@ -35155,7 +35287,7 @@
     }
    ],
    "outreach": [],
-   "rank": 362,
+   "rank": 363,
    "rank_of": 439
   },
   {
@@ -35338,7 +35470,7 @@
     }
    ],
    "outreach": [],
-   "rank": 363,
+   "rank": 364,
    "rank_of": 439
   },
   {
@@ -35686,7 +35818,7 @@
      "priority": 70,
      "kind": "senate",
      "text": "Work the Senate on H.R. 9340: Sen. Michael F. Bennet (D-CO), Sen. John W. Hickenlooper (D-CO) voted no on cloture.",
-     "why": "It passed the House (417-3), but Cloture on the Motion to Proceed Rejected 57-43 (3/5 required) (Cloture on the motion to proceed to H.R. 9340, 2026-09-30)..",
+     "why": "It passed the House (417-3), but Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required) (On Cloture on the Motion to Proceed H.R. 9340, September )..",
      "partners": [
       "bennet-co",
       "hickenlooper-co"
@@ -36159,7 +36291,7 @@
     }
    ],
    "outreach": [],
-   "rank": 322,
+   "rank": 323,
    "rank_of": 439
   },
   {
@@ -36475,7 +36607,7 @@
     }
    ],
    "outreach": [],
-   "rank": 295,
+   "rank": 296,
    "rank_of": 439
   },
   {
@@ -36764,7 +36896,7 @@
     }
    ],
    "outreach": [],
-   "rank": 323,
+   "rank": 324,
    "rank_of": 439
   },
   {
@@ -36907,7 +37039,7 @@
     }
    ],
    "outreach": [],
-   "rank": 307,
+   "rank": 308,
    "rank_of": 439
   },
   {
@@ -37862,7 +37994,7 @@
     }
    ],
    "outreach": [],
-   "rank": 279,
+   "rank": 280,
    "rank_of": 439
   },
   {
@@ -38244,7 +38376,7 @@
     }
    ],
    "outreach": [],
-   "rank": 364,
+   "rank": 365,
    "rank_of": 439
   },
   {
@@ -39412,7 +39544,7 @@
     }
    ],
    "outreach": [],
-   "rank": 365,
+   "rank": 366,
    "rank_of": 439
   },
   {
@@ -40961,7 +41093,7 @@
     }
    ],
    "outreach": [],
-   "rank": 335,
+   "rank": 336,
    "rank_of": 439
   },
   {
@@ -41530,7 +41662,7 @@
     }
    ],
    "outreach": [],
-   "rank": 336,
+   "rank": 337,
    "rank_of": 439
   },
   {
@@ -41728,7 +41860,7 @@
     }
    ],
    "outreach": [],
-   "rank": 337,
+   "rank": 338,
    "rank_of": 439
   },
   {
@@ -42123,7 +42255,7 @@
     }
    ],
    "outreach": [],
-   "rank": 366,
+   "rank": 367,
    "rank_of": 439
   },
   {
@@ -42475,7 +42607,7 @@
     }
    ],
    "outreach": [],
-   "rank": 367,
+   "rank": 368,
    "rank_of": 439
   },
   {
@@ -43031,7 +43163,7 @@
     }
    ],
    "outreach": [],
-   "rank": 329,
+   "rank": 330,
    "rank_of": 439
   },
   {
@@ -43388,7 +43520,7 @@
     }
    ],
    "outreach": [],
-   "rank": 265,
+   "rank": 266,
    "rank_of": 439
   },
   {
@@ -44117,7 +44249,7 @@
    "partners": [
     "williams-ga-05",
     "gottheimer-nj-05",
-    "suozzi-ny-03"
+    "blair-ga-13"
    ],
    "talking_points": [
     {
@@ -44162,7 +44294,7 @@
     }
    ],
    "outreach": [],
-   "rank": 324,
+   "rank": 325,
    "rank_of": 439
   },
   {
@@ -44352,13 +44484,22 @@
   {
    "bioguide": "B001328",
    "slug": "blair-ga-13",
-   "score": 48,
-   "tier": "C",
+   "score": 58,
+   "tier": "B",
    "support": {
     "count": 0,
     "total": 20
    },
    "actions": [
+    {
+     "goal": "energy-housing-costs",
+     "bill": "hr3694",
+     "priority": 68,
+     "kind": "cosponsor",
+     "text": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+     "why": "Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).",
+     "partners": []
+    },
     {
      "goal": "family-costs",
      "bill": "hr2036",
@@ -44408,18 +44549,6 @@
      ]
     },
     {
-     "goal": "energy-housing-costs",
-     "bill": "hr3694",
-     "priority": 42,
-     "kind": "cosponsor",
-     "text": "Cosponsor H.R. 3694 (VALID Act).",
-     "why": "2 of your state colleagues are already cosponsoring: Rep. Barry Loudermilk (R-GA-11), Rep. Nikema Williams (D-GA-05).",
-     "partners": [
-      "loudermilk-ga-11",
-      "williams-ga-05"
-     ]
-    },
-    {
      "goal": "family-costs",
      "bill": "hr1464",
      "priority": 42,
@@ -44462,7 +44591,7 @@
     },
     "energy-housing-costs": {
      "position": "",
-     "leverage": 42
+     "leverage": 68
     },
     "family-costs": {
      "position": "",
@@ -44498,11 +44627,24 @@
     }
    },
    "partners": [
-    "fitzpatrick-pa-01",
-    "carter-ga-01",
-    "lawler-ny-17"
+    "lawler-ny-17",
+    "loudermilk-ga-11",
+    "salazar-fl-27"
    ],
    "talking_points": [
+    {
+     "goal": "energy-housing-costs",
+     "bill": "hr3694",
+     "label": "H.R. 3694",
+     "short": "VALID Act",
+     "headline": "H.R. 3694, VALID Act: Lower housing and home energy costs",
+     "points": [
+      "Improves veterans' access to and understanding of VA home loans.",
+      "95 members back it: 37 Republicans and 58 Democrats, including 20 Problem Solvers.",
+      "2 of your GA colleagues are on it: Barry Loudermilk, Nikema Williams."
+     ],
+     "cbo_url": null
+    },
     {
      "goal": "family-costs",
      "bill": "hr2036",
@@ -44528,23 +44670,10 @@
       "3 of your GA colleagues are on it: Rick W. Allen, Earl L. \"Buddy\" Carter, Richard McCormick."
      ],
      "cbo_url": null
-    },
-    {
-     "goal": "health-access",
-     "bill": "hr2048",
-     "label": "H.R. 2048",
-     "short": "Metastatic Breast Cancer Access to Care Act",
-     "headline": "H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care",
-     "points": [
-      "Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.",
-      "272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.",
-      "6 of your GA colleagues are on it: Sanford D. Bishop, Jr., Earl L. \"Buddy\" Carter, Henry C. \"Hank\" Johnson, Jr. and others."
-     ],
-     "cbo_url": null
     }
    ],
    "outreach": [],
-   "rank": 368,
+   "rank": 239,
    "rank_of": 439
   },
   {
@@ -44741,7 +44870,7 @@
     }
    ],
    "outreach": [],
-   "rank": 239,
+   "rank": 240,
    "rank_of": 439
   },
   {
@@ -47078,7 +47207,7 @@
     }
    ],
    "outreach": [],
-   "rank": 280,
+   "rank": 281,
    "rank_of": 439
   },
   {
@@ -47262,7 +47391,7 @@
     }
    ],
    "outreach": [],
-   "rank": 330,
+   "rank": 331,
    "rank_of": 439
   },
   {
@@ -48347,7 +48476,7 @@
     }
    ],
    "outreach": [],
-   "rank": 240,
+   "rank": 241,
    "rank_of": 439
   },
   {
@@ -48714,7 +48843,7 @@
     }
    ],
    "outreach": [],
-   "rank": 338,
+   "rank": 339,
    "rank_of": 439
   },
   {
@@ -49470,7 +49599,7 @@
     }
    ],
    "outreach": [],
-   "rank": 339,
+   "rank": 340,
    "rank_of": 439
   },
   {
@@ -50054,7 +50183,7 @@
     }
    ],
    "outreach": [],
-   "rank": 241,
+   "rank": 242,
    "rank_of": 439
   },
   {
@@ -50457,7 +50586,7 @@
     }
    ],
    "outreach": [],
-   "rank": 296,
+   "rank": 297,
    "rank_of": 439
   },
   {
@@ -50629,7 +50758,7 @@
     }
    ],
    "outreach": [],
-   "rank": 266,
+   "rank": 267,
    "rank_of": 439
   },
   {
@@ -51149,7 +51278,7 @@
     }
    ],
    "outreach": [],
-   "rank": 297,
+   "rank": 298,
    "rank_of": 439
   },
   {
@@ -51473,7 +51602,7 @@
     }
    ],
    "outreach": [],
-   "rank": 281,
+   "rank": 282,
    "rank_of": 439
   },
   {
@@ -52469,7 +52598,7 @@
     }
    ],
    "outreach": [],
-   "rank": 318,
+   "rank": 319,
    "rank_of": 439
   },
   {
@@ -52614,7 +52743,7 @@
     }
    ],
    "outreach": [],
-   "rank": 282,
+   "rank": 283,
    "rank_of": 439
   },
   {
@@ -53614,7 +53743,7 @@
     }
    ],
    "outreach": [],
-   "rank": 308,
+   "rank": 309,
    "rank_of": 439
   },
   {
@@ -54757,7 +54886,7 @@
     }
    ],
    "outreach": [],
-   "rank": 267,
+   "rank": 268,
    "rank_of": 439
   },
   {
@@ -54949,7 +55078,7 @@
     }
    ],
    "outreach": [],
-   "rank": 242,
+   "rank": 243,
    "rank_of": 439
   },
   {
@@ -55119,7 +55248,7 @@
     }
    ],
    "outreach": [],
-   "rank": 340,
+   "rank": 341,
    "rank_of": 439
   },
   {
@@ -56266,7 +56395,7 @@
     }
    ],
    "outreach": [],
-   "rank": 309,
+   "rank": 310,
    "rank_of": 439
   },
   {
@@ -56940,7 +57069,7 @@
     }
    ],
    "outreach": [],
-   "rank": 283,
+   "rank": 284,
    "rank_of": 439
   },
   {
@@ -57312,7 +57441,7 @@
     }
    ],
    "outreach": [],
-   "rank": 341,
+   "rank": 342,
    "rank_of": 439
   },
   {
@@ -58282,7 +58411,7 @@
     }
    ],
    "outreach": [],
-   "rank": 243,
+   "rank": 244,
    "rank_of": 439
   },
   {
@@ -58476,7 +58605,7 @@
     }
    ],
    "outreach": [],
-   "rank": 244,
+   "rank": 245,
    "rank_of": 439
   },
   {
@@ -59228,7 +59357,7 @@
     }
    ],
    "outreach": [],
-   "rank": 331,
+   "rank": 332,
    "rank_of": 439
   },
   {
@@ -59725,7 +59854,7 @@
     }
    ],
    "outreach": [],
-   "rank": 298,
+   "rank": 299,
    "rank_of": 439
   },
   {
@@ -60458,7 +60587,7 @@
     }
    ],
    "outreach": [],
-   "rank": 245,
+   "rank": 246,
    "rank_of": 439
   },
   {
@@ -60817,7 +60946,7 @@
     }
    ],
    "outreach": [],
-   "rank": 284,
+   "rank": 285,
    "rank_of": 439
   },
   {
@@ -61115,7 +61244,7 @@
     }
    ],
    "outreach": [],
-   "rank": 299,
+   "rank": 300,
    "rank_of": 439
   },
   {
@@ -61611,7 +61740,7 @@
     }
    ],
    "outreach": [],
-   "rank": 285,
+   "rank": 286,
    "rank_of": 439
   },
   {
@@ -61932,7 +62061,7 @@
     }
    ],
    "outreach": [],
-   "rank": 286,
+   "rank": 287,
    "rank_of": 439
   },
   {
@@ -62753,7 +62882,7 @@
     }
    ],
    "outreach": [],
-   "rank": 310,
+   "rank": 311,
    "rank_of": 439
   },
   {
@@ -62897,7 +63026,7 @@
     }
    ],
    "outreach": [],
-   "rank": 325,
+   "rank": 326,
    "rank_of": 439
   },
   {
@@ -63042,7 +63171,7 @@
     }
    ],
    "outreach": [],
-   "rank": 319,
+   "rank": 320,
    "rank_of": 439
   },
   {
@@ -63808,7 +63937,7 @@
     }
    ],
    "outreach": [],
-   "rank": 246,
+   "rank": 247,
    "rank_of": 439
   },
   {
@@ -64375,7 +64504,7 @@
     }
    ],
    "outreach": [],
-   "rank": 247,
+   "rank": 248,
    "rank_of": 439
   },
   {
@@ -64950,7 +65079,7 @@
     }
    ],
    "outreach": [],
-   "rank": 248,
+   "rank": 249,
    "rank_of": 439
   },
   {
@@ -65335,7 +65464,7 @@
     }
    ],
    "outreach": [],
-   "rank": 320,
+   "rank": 321,
    "rank_of": 439
   },
   {
@@ -66013,7 +66142,7 @@
     }
    ],
    "outreach": [],
-   "rank": 311,
+   "rank": 312,
    "rank_of": 439
   },
   {
@@ -66196,7 +66325,7 @@
     }
    ],
    "outreach": [],
-   "rank": 300,
+   "rank": 301,
    "rank_of": 439
   },
   {
@@ -68421,7 +68550,7 @@
     }
    ],
    "outreach": [],
-   "rank": 249,
+   "rank": 250,
    "rank_of": 439
   },
   {
@@ -69608,7 +69737,7 @@
     }
    ],
    "outreach": [],
-   "rank": 312,
+   "rank": 313,
    "rank_of": 439
   },
   {
@@ -70406,7 +70535,7 @@
      "priority": 78,
      "kind": "discharge",
      "text": "Consider a discharge petition for H.R. 2048: 264 members already back it and 218 signatures force a floor vote.",
-     "why": "It has sat in committee for 603 days without a markup. Its backers alone are enough to reach 218 signatures if the chair will not act.",
+     "why": "It has sat in committee for 608 days without a markup. Its backers alone are enough to reach 218 signatures if the chair will not act.",
      "partners": []
     },
     {
@@ -70975,7 +71104,7 @@
     }
    ],
    "outreach": [],
-   "rank": 250,
+   "rank": 251,
    "rank_of": 439
   },
   {
@@ -71176,7 +71305,7 @@
     }
    ],
    "outreach": [],
-   "rank": 251,
+   "rank": 252,
    "rank_of": 439
   },
   {
@@ -71377,7 +71506,7 @@
     }
    ],
    "outreach": [],
-   "rank": 342,
+   "rank": 343,
    "rank_of": 439
   },
   {
@@ -71578,7 +71707,7 @@
     }
    ],
    "outreach": [],
-   "rank": 252,
+   "rank": 253,
    "rank_of": 439
   },
   {
@@ -72361,7 +72490,7 @@
     }
    ],
    "outreach": [],
-   "rank": 313,
+   "rank": 314,
    "rank_of": 439
   },
   {
@@ -72747,7 +72876,7 @@
     }
    ],
    "outreach": [],
-   "rank": 287,
+   "rank": 288,
    "rank_of": 439
   },
   {
@@ -73140,7 +73269,7 @@
     }
    ],
    "outreach": [],
-   "rank": 253,
+   "rank": 254,
    "rank_of": 439
   },
   {
@@ -73740,7 +73869,7 @@
     }
    ],
    "outreach": [],
-   "rank": 254,
+   "rank": 255,
    "rank_of": 439
   },
   {
@@ -73940,7 +74069,7 @@
     }
    ],
    "outreach": [],
-   "rank": 255,
+   "rank": 256,
    "rank_of": 439
   },
   {
@@ -75099,7 +75228,7 @@
     }
    ],
    "outreach": [],
-   "rank": 343,
+   "rank": 344,
    "rank_of": 439
   },
   {
@@ -75682,7 +75811,7 @@
     }
    ],
    "outreach": [],
-   "rank": 256,
+   "rank": 257,
    "rank_of": 439
   },
   {
@@ -75856,7 +75985,7 @@
     }
    ],
    "outreach": [],
-   "rank": 268,
+   "rank": 269,
    "rank_of": 439
   },
   {
@@ -76794,7 +76923,7 @@
     }
    ],
    "outreach": [],
-   "rank": 257,
+   "rank": 258,
    "rank_of": 439
   },
   {
@@ -78611,7 +78740,7 @@
     }
    ],
    "outreach": [],
-   "rank": 301,
+   "rank": 302,
    "rank_of": 439
   },
   {
@@ -78901,7 +79030,7 @@
     }
    ],
    "outreach": [],
-   "rank": 326,
+   "rank": 327,
    "rank_of": 439
   },
   {
@@ -79637,7 +79766,7 @@
     }
    ],
    "outreach": [],
-   "rank": 288,
+   "rank": 289,
    "rank_of": 439
   },
   {
@@ -79782,7 +79911,7 @@
     }
    ],
    "outreach": [],
-   "rank": 314,
+   "rank": 315,
    "rank_of": 439
   },
   {
@@ -79950,7 +80079,7 @@
     }
    ],
    "outreach": [],
-   "rank": 289,
+   "rank": 290,
    "rank_of": 439
   },
   {
@@ -80743,7 +80872,7 @@
     }
    ],
    "outreach": [],
-   "rank": 344,
+   "rank": 345,
    "rank_of": 439
   },
   {
@@ -81920,7 +82049,7 @@
     }
    ],
    "outreach": [],
-   "rank": 258,
+   "rank": 259,
    "rank_of": 439
   },
   {
@@ -82686,7 +82815,7 @@
     }
    ],
    "outreach": [],
-   "rank": 345,
+   "rank": 346,
    "rank_of": 439
   },
   {
@@ -83278,7 +83407,7 @@
     }
    ],
    "outreach": [],
-   "rank": 259,
+   "rank": 260,
    "rank_of": 439
   },
   {
@@ -84144,7 +84273,7 @@
     }
    ],
    "outreach": [],
-   "rank": 290,
+   "rank": 291,
    "rank_of": 439
   },
   {
@@ -84301,7 +84430,7 @@
     }
    ],
    "outreach": [],
-   "rank": 346,
+   "rank": 347,
    "rank_of": 439
   },
   {
@@ -84978,7 +85107,7 @@
     }
    ],
    "outreach": [],
-   "rank": 315,
+   "rank": 316,
    "rank_of": 439
   },
   {
@@ -85327,7 +85456,7 @@
     }
    ],
    "outreach": [],
-   "rank": 291,
+   "rank": 292,
    "rank_of": 439
   },
   {
@@ -85494,7 +85623,7 @@
     }
    ],
    "outreach": [],
-   "rank": 269,
+   "rank": 270,
    "rank_of": 439
   },
   {
@@ -85843,7 +85972,7 @@
     }
    ],
    "outreach": [],
-   "rank": 270,
+   "rank": 271,
    "rank_of": 439
   },
   {
@@ -86002,7 +86131,7 @@
     }
    ],
    "outreach": [],
-   "rank": 292,
+   "rank": 293,
    "rank_of": 439
   },
   {
@@ -86185,7 +86314,7 @@
     }
    ],
    "outreach": [],
-   "rank": 271,
+   "rank": 272,
    "rank_of": 439
   },
   {
@@ -87129,7 +87258,7 @@
     }
    ],
    "outreach": [],
-   "rank": 260,
+   "rank": 261,
    "rank_of": 439
   },
   {
@@ -87714,7 +87843,7 @@
     }
    ],
    "outreach": [],
-   "rank": 347,
+   "rank": 348,
    "rank_of": 439
   },
   {
@@ -88309,7 +88438,7 @@
     }
    ],
    "outreach": [],
-   "rank": 261,
+   "rank": 262,
    "rank_of": 439
   },
   {
@@ -88516,7 +88645,7 @@
     }
    ],
    "outreach": [],
-   "rank": 327,
+   "rank": 328,
    "rank_of": 439
   },
   {
@@ -89486,7 +89615,7 @@
     }
    ],
    "outreach": [],
-   "rank": 272,
+   "rank": 273,
    "rank_of": 439
   },
   {
@@ -89875,7 +90004,7 @@
     }
    ],
    "outreach": [],
-   "rank": 262,
+   "rank": 263,
    "rank_of": 439
   },
   {
@@ -90075,7 +90204,7 @@
     }
    ],
    "outreach": [],
-   "rank": 263,
+   "rank": 264,
    "rank_of": 439
   },
   {
@@ -91214,7 +91343,7 @@
     }
    ],
    "outreach": [],
-   "rank": 264,
+   "rank": 265,
    "rank_of": 439
   },
   {
@@ -91593,7 +91722,7 @@
     }
    ],
    "outreach": [],
-   "rank": 348,
+   "rank": 349,
    "rank_of": 439
   },
   {
@@ -91990,7 +92119,7 @@
     }
    ],
    "outreach": [],
-   "rank": 328,
+   "rank": 329,
    "rank_of": 439
   },
   {
@@ -92374,7 +92503,7 @@
     }
    ],
    "outreach": [],
-   "rank": 349,
+   "rank": 350,
    "rank_of": 439
   },
   {
@@ -92958,7 +93087,7 @@
     }
    ],
    "outreach": [],
-   "rank": 332,
+   "rank": 333,
    "rank_of": 439
   },
   {
@@ -94075,7 +94204,7 @@
     }
    ],
    "outreach": [],
-   "rank": 350,
+   "rank": 351,
    "rank_of": 439
   },
   {
@@ -94222,7 +94351,7 @@
     }
    ],
    "outreach": [],
-   "rank": 302,
+   "rank": 303,
    "rank_of": 439
   },
   {
@@ -96131,7 +96260,7 @@
     }
    ],
    "outreach": [],
-   "rank": 273,
+   "rank": 274,
    "rank_of": 439
   },
   {
@@ -96791,7 +96920,7 @@
     }
    ],
    "outreach": [],
-   "rank": 316,
+   "rank": 317,
    "rank_of": 439
   },
   {
@@ -97376,7 +97505,7 @@
     }
    ],
    "outreach": [],
-   "rank": 351,
+   "rank": 352,
    "rank_of": 439
   },
   {
@@ -98455,7 +98584,7 @@
     }
    ],
    "outreach": [],
-   "rank": 274,
+   "rank": 275,
    "rank_of": 439
   },
   {
@@ -99816,7 +99945,7 @@
     }
    ],
    "outreach": [],
-   "rank": 275,
+   "rank": 276,
    "rank_of": 439
   },
   {
@@ -99979,7 +100108,7 @@
     }
    ],
    "outreach": [],
-   "rank": 317,
+   "rank": 318,
    "rank_of": 439
   },
   {

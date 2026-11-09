@@ -1,0 +1,4963 @@
+{
+ "generated": "2026-11-09",
+ "bills": {
+  "hr9340": {
+   "goal": "data-center-ratepayers",
+   "label": "H.R. 9340",
+   "short": "Ratepayer Protection Act",
+   "stage": "passed_house",
+   "supporters": [
+    "B000490",
+    "B000825",
+    "B001321",
+    "B001322",
+    "C001063",
+    "C001066",
+    "C001103",
+    "C001118",
+    "C001137",
+    "D000594",
+    "E000300",
+    "F000246",
+    "F000466",
+    "F000474",
+    "F000475",
+    "F000485",
+    "G000568",
+    "G000583",
+    "G000604",
+    "H001058",
+    "H001096",
+    "H001100",
+    "J000289",
+    "J000302",
+    "K000398",
+    "K000399",
+    "L000597",
+    "L000599",
+    "M001157",
+    "M001194",
+    "M001227",
+    "M001230",
+    "M001235",
+    "M001237",
+    "M001239",
+    "O000177",
+    "S000522",
+    "V000129",
+    "V000133",
+    "V000134",
+    "V000135",
+    "W000804",
+    "W000814"
+   ],
+   "latest": {
+    "date": "2026-09-30",
+    "text": "Motion to proceed to consideration of measure withdrawn in Senate. (CR S5199)"
+   },
+   "house_vote": "417-3",
+   "senate_result": "Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required) (On Cloture on the Motion to Proceed H.R. 9340, September ).",
+   "cbo": 1
+  },
+  "hr3876": {
+   "goal": "energy-housing-costs",
+   "label": "H.R. 3876",
+   "short": "LIHEAP Staffing Support Act",
+   "stage": "in_committee",
+   "supporters": [
+    "A000370",
+    "A000381",
+    "B001315",
+    "B001318",
+    "B001324",
+    "B001326",
+    "C001059",
+    "C001069",
+    "C001072",
+    "C001119",
+    "D000530",
+    "D000617",
+    "E000296",
+    "F000466",
+    "F000468",
+    "F000483",
+    "G000583",
+    "G000586",
+    "G000604",
+    "G000605",
+    "H001066",
+    "J000310",
+    "K000375",
+    "K000391",
+    "K000402",
+    "L000562",
+    "L000582",
+    "L000599",
+    "M000687",
+    "M001143",
+    "M001214",
+    "M001223",
+    "M001231",
+    "M001232",
+    "M001238",
+    "N000147",
+    "P000614",
+    "P000620",
+    "R000599",
+    "R000622",
+    "S000510",
+    "S001201",
+    "S001211",
+    "S001223",
+    "S001225",
+    "T000193",
+    "T000482",
+    "T000488",
+    "V000138"
+   ],
+   "latest": {
+    "date": "2025-06-10",
+    "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr3694": {
+   "goal": "energy-housing-costs",
+   "label": "H.R. 3694",
+   "short": "VALID Act",
+   "stage": "in_committee",
+   "supporters": [
+    "A000148",
+    "B001287",
+    "B001301",
+    "B001307",
+    "B001323",
+    "B001327",
+    "C001051",
+    "C001055",
+    "C001059",
+    "C001068",
+    "C001072",
+    "C001091",
+    "C001110",
+    "C001117",
+    "C001118",
+    "C001119",
+    "D000096",
+    "D000230",
+    "D000530",
+    "D000623",
+    "E000300",
+    "F000459",
+    "F000466",
+    "F000472",
+    "F000475",
+    "G000565",
+    "G000581",
+    "G000586",
+    "G000587",
+    "G000604",
+    "H001066",
+    "H001081",
+    "H001090",
+    "H001096",
+    "H001103",
+    "J000309",
+    "K000385",
+    "K000389",
+    "K000391",
+    "K000397",
+    "K000398",
+    "K000399",
+    "L000397",
+    "L000560",
+    "L000562",
+    "L000582",
+    "L000583",
+    "L000595",
+    "L000596",
+    "L000598",
+    "L000599",
+    "L000603",
+    "M000871",
+    "M001194",
+    "M001196",
+    "M001216",
+    "M001238",
+    "M001239",
+    "N000026",
+    "N000147",
+    "N000188",
+    "N000189",
+    "N000191",
+    "N000193",
+    "O000019",
+    "P000613",
+    "P000614",
+    "P000620",
+    "R000305",
+    "R000609",
+    "R000621",
+    "S000168",
+    "S000510",
+    "S001145",
+    "S001159",
+    "S001185",
+    "S001190",
+    "S001201",
+    "S001216",
+    "S001225",
+    "S001226",
+    "S001230",
+    "S001231",
+    "T000193",
+    "T000463",
+    "T000468",
+    "T000469",
+    "T000474",
+    "T000480",
+    "T000481",
+    "T000488",
+    "V000129",
+    "W000788",
+    "W000804",
+    "W000809"
+   ],
+   "latest": {
+    "date": "2025-06-03",
+    "text": "Referred to the House Committee on Financial Services."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr2036": {
+   "goal": "family-costs",
+   "label": "H.R. 2036",
+   "short": "Credit for Caring Act",
+   "stage": "in_committee",
+   "supporters": [
+    "A000369",
+    "A000372",
+    "A000380",
+    "B000490",
+    "B001257",
+    "B001281",
+    "B001282",
+    "B001296",
+    "B001298",
+    "B001300",
+    "B001301",
+    "B001309",
+    "B001315",
+    "B001318",
+    "B001322",
+    "B001326",
+    "C001039",
+    "C001053",
+    "C001063",
+    "C001066",
+    "C001067",
+    "C001068",
+    "C001069",
+    "C001072",
+    "C001078",
+    "C001091",
+    "C001110",
+    "C001112",
+    "C001117",
+    "C001119",
+    "C001121",
+    "C001126",
+    "C001133",
+    "C001136",
+    "D000230",
+    "D000530",
+    "D000594",
+    "D000617",
+    "D000623",
+    "D000624",
+    "D000629",
+    "D000631",
+    "F000110",
+    "F000466",
+    "F000474",
+    "F000475",
+    "F000476",
+    "G000546",
+    "G000559",
+    "G000581",
+    "G000583",
+    "G000589",
+    "G000591",
+    "G000597",
+    "G000602",
+    "G000604",
+    "H001066",
+    "H001081",
+    "H001085",
+    "H001090",
+    "H001091",
+    "J000288",
+    "J000298",
+    "J000305",
+    "J000310",
+    "J000311",
+    "K000375",
+    "K000376",
+    "K000385",
+    "K000398",
+    "K000399",
+    "K000402",
+    "L000562",
+    "L000590",
+    "L000593",
+    "L000599",
+    "L000600",
+    "L000601",
+    "L000606",
+    "M000317",
+    "M000871",
+    "M001196",
+    "M001205",
+    "M001208",
+    "M001214",
+    "M001222",
+    "M001223",
+    "M001225",
+    "M001226",
+    "M001232",
+    "M001234",
+    "M001235",
+    "M001238",
+    "N000147",
+    "N000189",
+    "N000191",
+    "N000193",
+    "O000173",
+    "O000176",
+    "P000597",
+    "P000607",
+    "P000613",
+    "P000620",
+    "R000305",
+    "R000609",
+    "R000617",
+    "R000619",
+    "R000620",
+    "R000622",
+    "S000168",
+    "S001145",
+    "S001156",
+    "S001159",
+    "S001185",
+    "S001189",
+    "S001200",
+    "S001201",
+    "S001207",
+    "S001212",
+    "S001218",
+    "S001221",
+    "S001226",
+    "S001228",
+    "S001229",
+    "S001230",
+    "S001231",
+    "T000468",
+    "T000469",
+    "T000474",
+    "T000478",
+    "T000481",
+    "T000482",
+    "T000486",
+    "T000488",
+    "U000040",
+    "V000129",
+    "V000133",
+    "V000136",
+    "V000138",
+    "W000795",
+    "W000797",
+    "W000808",
+    "W000812",
+    "W000822",
+    "W000830",
+    "W000831"
+   ],
+   "latest": {
+    "date": "2025-03-11",
+    "text": "Referred to the House Committee on Ways and Means."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr1464": {
+   "goal": "family-costs",
+   "label": "H.R. 1464",
+   "short": "MODERN WIC Act",
+   "stage": "in_committee",
+   "supporters": [
+    "A000370",
+    "A000381",
+    "B000490",
+    "B001278",
+    "B001287",
+    "B001298",
+    "B001300",
+    "B001318",
+    "B001322",
+    "B001326",
+    "B001327",
+    "C001068",
+    "C001069",
+    "C001072",
+    "C001080",
+    "C001112",
+    "C001123",
+    "C001125",
+    "D000617",
+    "D000623",
+    "D000629",
+    "D000631",
+    "E000296",
+    "E000299",
+    "F000466",
+    "F000476",
+    "F000477",
+    "F000483",
+    "G000581",
+    "G000597",
+    "G000598",
+    "G000600",
+    "G000602",
+    "G000606",
+    "H001090",
+    "K000375",
+    "K000389",
+    "K000400",
+    "L000397",
+    "L000582",
+    "L000593",
+    "L000598",
+    "L000599",
+    "L000601",
+    "L000602",
+    "M000312",
+    "M001160",
+    "M001163",
+    "M001188",
+    "M001206",
+    "M001208",
+    "M001214",
+    "M001223",
+    "M001229",
+    "M001230",
+    "M001241",
+    "N000147",
+    "P000608",
+    "P000614",
+    "P000620",
+    "P000621",
+    "R000305",
+    "S000168",
+    "S000510",
+    "S001156",
+    "S001216",
+    "S001223",
+    "S001231",
+    "T000460",
+    "T000469",
+    "T000474",
+    "T000486",
+    "T000487",
+    "T000488",
+    "T000491",
+    "U000040",
+    "V000129",
+    "V000136",
+    "V000138",
+    "W000808",
+    "W000830"
+   ],
+   "latest": {
+    "date": "2025-02-21",
+    "text": "Referred to the House Committee on Education and Workforce."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr3289": {
+   "goal": "fiscal-stability",
+   "label": "H.R. 3289",
+   "short": "Fiscal Commission Act",
+   "stage": "in_committee",
+   "supporters": [
+    "B000490",
+    "B001282",
+    "B001292",
+    "B001301",
+    "C001055",
+    "C001063",
+    "C001136",
+    "D000230",
+    "E000246",
+    "F000466",
+    "F000475",
+    "G000576",
+    "G000592",
+    "G000600",
+    "G000605",
+    "H001058",
+    "H001072",
+    "H001085",
+    "H001093",
+    "J000301",
+    "L000601",
+    "M001194",
+    "M001213",
+    "M001216",
+    "M001217",
+    "M001237",
+    "O000019",
+    "P000608",
+    "P000613",
+    "Q000023",
+    "R000603",
+    "S000929",
+    "S001172",
+    "S001183",
+    "S001190",
+    "S001199",
+    "S001201",
+    "S001221",
+    "T000460",
+    "T000480",
+    "V000129",
+    "V000131",
+    "Y000067"
+   ],
+   "latest": {
+    "date": "2025-05-08",
+    "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr222": {
+   "goal": "fiscal-stability",
+   "label": "H.R. 222",
+   "short": "Sustainable Budget Act",
+   "stage": "in_committee",
+   "supporters": [
+    "B001298",
+    "C001055",
+    "C001103",
+    "F000466",
+    "L000598",
+    "N000193",
+    "P000608",
+    "W000809"
+   ],
+   "latest": {
+    "date": "2025-01-07",
+    "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr4642": {
+   "goal": "fiscal-stability",
+   "label": "H.R. 4642",
+   "short": "Fiscal Contingency Preparedness Act",
+   "stage": "reported",
+   "supporters": [
+    "B001282",
+    "B001301",
+    "C001055",
+    "C001063",
+    "C001118",
+    "D000230",
+    "D000626",
+    "D000629",
+    "E000246",
+    "F000466",
+    "G000592",
+    "G000600",
+    "H001058",
+    "H001085",
+    "H001093",
+    "L000598",
+    "L000601",
+    "M001206",
+    "M001213",
+    "P000608",
+    "V000138",
+    "V000139",
+    "W000809"
+   ],
+   "latest": {
+    "date": "2026-03-18",
+    "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 39 - 1."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 1
+  },
+  "hr3514": {
+   "goal": "health-access",
+   "label": "H.R. 3514",
+   "short": "Improving Seniors' Timely Access to Care Act",
+   "stage": "reported",
+   "supporters": [
+    "A000055",
+    "A000148",
+    "A000369",
+    "A000370",
+    "A000371",
+    "A000372",
+    "A000375",
+    "A000379",
+    "A000380",
+    "B000490",
+    "B000668",
+    "B000740",
+    "B001257",
+    "B001278",
+    "B001281",
+    "B001282",
+    "B001285",
+    "B001287",
+    "B001291",
+    "B001292",
+    "B001295",
+    "B001296",
+    "B001298",
+    "B001300",
+    "B001301",
+    "B001306",
+    "B001307",
+    "B001313",
+    "B001314",
+    "B001315",
+    "B001318",
+    "B001321",
+    "B001322",
+    "B001324",
+    "B001325",
+    "B001326",
+    "B001327",
+    "C000059",
+    "C001039",
+    "C001053",
+    "C001055",
+    "C001059",
+    "C001061",
+    "C001063",
+    "C001066",
+    "C001067",
+    "C001068",
+    "C001069",
+    "C001080",
+    "C001091",
+    "C001103",
+    "C001110",
+    "C001112",
+    "C001118",
+    "C001119",
+    "C001120",
+    "C001121",
+    "C001123",
+    "C001125",
+    "C001126",
+    "C001127",
+    "C001130",
+    "C001133",
+    "C001136",
+    "C001137",
+    "D000096",
+    "D000230",
+    "D000530",
+    "D000594",
+    "D000600",
+    "D000617",
+    "D000623",
+    "D000624",
+    "D000628",
+    "D000629",
+    "D000631",
+    "D000635",
+    "E000071",
+    "E000246",
+    "E000296",
+    "E000297",
+    "E000298",
+    "E000299",
+    "E000300",
+    "F000110",
+    "F000446",
+    "F000450",
+    "F000454",
+    "F000459",
+    "F000462",
+    "F000466",
+    "F000468",
+    "F000470",
+    "F000471",
+    "F000472",
+    "F000474",
+    "F000475",
+    "F000476",
+    "F000477",
+    "F000478",
+    "F000481",
+    "G000546",
+    "G000553",
+    "G000559",
+    "G000576",
+    "G000581",
+    "G000583",
+    "G000585",
+    "G000589",
+    "G000591",
+    "G000594",
+    "G000599",
+    "G000600",
+    "G000601",
+    "G000602",
+    "G000604",
+    "G000605",
+    "G000606",
+    "H001047",
+    "H001052",
+    "H001058",
+    "H001066",
+    "H001067",
+    "H001072",
+    "H001081",
+    "H001082",
+    "H001085",
+    "H001086",
+    "H001090",
+    "H001091",
+    "H001093",
+    "H001094",
+    "H001101",
+    "H001103",
+    "I000058",
+    "J000295",
+    "J000301",
+    "J000302",
+    "J000304",
+    "J000309",
+    "J000310",
+    "K000375",
+    "K000376",
+    "K000385",
+    "K000389",
+    "K000391",
+    "K000397",
+    "K000398",
+    "K000399",
+    "K000402",
+    "K000403",
+    "K000405",
+    "L000273",
+    "L000397",
+    "L000557",
+    "L000560",
+    "L000562",
+    "L000566",
+    "L000582",
+    "L000583",
+    "L000585",
+    "L000593",
+    "L000595",
+    "L000596",
+    "L000597",
+    "L000598",
+    "L000599",
+    "L000600",
+    "L000601",
+    "L000606",
+    "M000194",
+    "M000312",
+    "M000317",
+    "M000687",
+    "M000871",
+    "M001143",
+    "M001160",
+    "M001163",
+    "M001188",
+    "M001194",
+    "M001196",
+    "M001204",
+    "M001205",
+    "M001206",
+    "M001208",
+    "M001210",
+    "M001213",
+    "M001214",
+    "M001215",
+    "M001216",
+    "M001217",
+    "M001218",
+    "M001219",
+    "M001220",
+    "M001222",
+    "M001223",
+    "M001224",
+    "M001225",
+    "M001226",
+    "M001227",
+    "M001229",
+    "M001230",
+    "M001231",
+    "M001232",
+    "M001233",
+    "M001234",
+    "M001236",
+    "M001237",
+    "M001238",
+    "M001239",
+    "M001240",
+    "N000002",
+    "N000147",
+    "N000188",
+    "N000189",
+    "N000191",
+    "N000193",
+    "O000019",
+    "O000086",
+    "O000173",
+    "O000176",
+    "O000177",
+    "P000048",
+    "P000597",
+    "P000607",
+    "P000608",
+    "P000613",
+    "P000614",
+    "P000617",
+    "P000621",
+    "P000622",
+    "Q000023",
+    "R000305",
+    "R000579",
+    "R000599",
+    "R000603",
+    "R000606",
+    "R000609",
+    "R000612",
+    "R000619",
+    "R000621",
+    "R000622",
+    "S000168",
+    "S000250",
+    "S000344",
+    "S000510",
+    "S000522",
+    "S001145",
+    "S001148",
+    "S001156",
+    "S001157",
+    "S001159",
+    "S001172",
+    "S001183",
+    "S001185",
+    "S001190",
+    "S001199",
+    "S001200",
+    "S001201",
+    "S001205",
+    "S001211",
+    "S001212",
+    "S001213",
+    "S001214",
+    "S001215",
+    "S001216",
+    "S001218",
+    "S001221",
+    "S001223",
+    "S001225",
+    "S001226",
+    "S001228",
+    "S001229",
+    "S001230",
+    "S001231",
+    "T000193",
+    "T000460",
+    "T000463",
+    "T000467",
+    "T000468",
+    "T000469",
+    "T000478",
+    "T000480",
+    "T000481",
+    "T000482",
+    "T000486",
+    "T000487",
+    "T000488",
+    "T000490",
+    "U000040",
+    "V000129",
+    "V000131",
+    "V000133",
+    "V000134",
+    "V000135",
+    "V000136",
+    "V000138",
+    "W000795",
+    "W000797",
+    "W000798",
+    "W000804",
+    "W000808",
+    "W000809",
+    "W000812",
+    "W000814",
+    "W000830",
+    "W000831",
+    "Y000067",
+    "Z000018"
+   ],
+   "latest": {
+    "date": "2026-07-15",
+    "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 0."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr5269": {
+   "goal": "health-access",
+   "label": "H.R. 5269",
+   "short": "RESULTS Act",
+   "stage": "in_committee",
+   "supporters": [
+    "A000148",
+    "A000372",
+    "B000668",
+    "B001257",
+    "B001281",
+    "B001285",
+    "B001287",
+    "B001291",
+    "B001296",
+    "B001298",
+    "B001300",
+    "B001306",
+    "B001314",
+    "B001326",
+    "B001327",
+    "C001039",
+    "C001059",
+    "C001066",
+    "C001067",
+    "C001068",
+    "C001072",
+    "C001103",
+    "C001112",
+    "C001119",
+    "C001120",
+    "C001121",
+    "C001126",
+    "C001133",
+    "C001136",
+    "D000096",
+    "D000230",
+    "D000617",
+    "D000624",
+    "D000628",
+    "D000629",
+    "D000631",
+    "E000246",
+    "E000299",
+    "E000300",
+    "F000466",
+    "F000468",
+    "F000474",
+    "F000475",
+    "F000482",
+    "G000583",
+    "G000597",
+    "G000601",
+    "H001058",
+    "H001066",
+    "H001067",
+    "H001093",
+    "H001101",
+    "H001103",
+    "J000298",
+    "J000302",
+    "J000304",
+    "K000376",
+    "K000391",
+    "K000397",
+    "K000398",
+    "K000402",
+    "K000403",
+    "K000405",
+    "L000397",
+    "L000585",
+    "L000593",
+    "L000597",
+    "L000598",
+    "L000599",
+    "L000600",
+    "L000601",
+    "M000317",
+    "M001205",
+    "M001210",
+    "M001213",
+    "M001215",
+    "M001218",
+    "M001224",
+    "M001225",
+    "M001227",
+    "M001230",
+    "M001236",
+    "M001238",
+    "M001240",
+    "M001246",
+    "N000147",
+    "N000188",
+    "N000191",
+    "O000086",
+    "P000048",
+    "P000597",
+    "P000607",
+    "P000608",
+    "P000613",
+    "P000620",
+    "P000621",
+    "R000305",
+    "R000599",
+    "R000603",
+    "R000609",
+    "R000619",
+    "S000168",
+    "S001156",
+    "S001159",
+    "S001185",
+    "S001190",
+    "S001200",
+    "S001201",
+    "S001213",
+    "S001214",
+    "S001215",
+    "S001229",
+    "T000460",
+    "T000467",
+    "T000468",
+    "T000469",
+    "T000478",
+    "T000482",
+    "T000488",
+    "V000129",
+    "V000131",
+    "V000134",
+    "V000138",
+    "W000795",
+    "W000797",
+    "W000804",
+    "W000814",
+    "W000822",
+    "W000831",
+    "Y000067"
+   ],
+   "latest": {
+    "date": "2025-09-10",
+    "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr7116": {
+   "goal": "health-access",
+   "label": "H.R. 7116",
+   "short": "SEPSIS Act",
+   "stage": "in_committee",
+   "supporters": [
+    "F000466",
+    "G000583",
+    "K000398",
+    "L000598",
+    "L000599",
+    "N000147",
+    "N000188",
+    "R000603"
+   ],
+   "latest": {
+    "date": "2026-01-15",
+    "text": "Referred to the House Committee on Energy and Commerce."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "s1929": {
+   "goal": "health-access",
+   "label": "S. 1929",
+   "short": "SEPSIS Act",
+   "stage": "in_committee",
+   "supporters": [
+    "B001299",
+    "C001035",
+    "C001088",
+    "K000367",
+    "K000394",
+    "M001153",
+    "M001169",
+    "M001198",
+    "S000148"
+   ],
+   "latest": {
+    "date": "2025-06-03",
+    "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S3207-3208)"
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr2048": {
+   "goal": "health-access",
+   "label": "H.R. 2048",
+   "short": "Metastatic Breast Cancer Access to Care Act",
+   "stage": "in_committee",
+   "supporters": [
+    "A000148",
+    "A000370",
+    "A000371",
+    "A000380",
+    "B000490",
+    "B000668",
+    "B000740",
+    "B001260",
+    "B001278",
+    "B001281",
+    "B001285",
+    "B001287",
+    "B001292",
+    "B001295",
+    "B001296",
+    "B001298",
+    "B001300",
+    "B001301",
+    "B001309",
+    "B001313",
+    "B001315",
+    "B001318",
+    "B001323",
+    "B001326",
+    "B001327",
+    "C000059",
+    "C001053",
+    "C001055",
+    "C001059",
+    "C001061",
+    "C001063",
+    "C001066",
+    "C001067",
+    "C001068",
+    "C001069",
+    "C001072",
+    "C001080",
+    "C001091",
+    "C001103",
+    "C001110",
+    "C001112",
+    "C001117",
+    "C001118",
+    "C001119",
+    "C001121",
+    "C001123",
+    "C001125",
+    "C001127",
+    "C001130",
+    "C001131",
+    "C001133",
+    "C001136",
+    "D000096",
+    "D000197",
+    "D000216",
+    "D000230",
+    "D000399",
+    "D000530",
+    "D000594",
+    "D000617",
+    "D000623",
+    "D000624",
+    "D000628",
+    "D000629",
+    "D000631",
+    "E000246",
+    "E000296",
+    "E000297",
+    "E000299",
+    "E000301",
+    "F000110",
+    "F000446",
+    "F000459",
+    "F000462",
+    "F000466",
+    "F000468",
+    "F000470",
+    "F000474",
+    "F000475",
+    "F000476",
+    "F000481",
+    "F000483",
+    "F000484",
+    "G000559",
+    "G000568",
+    "G000581",
+    "G000583",
+    "G000585",
+    "G000587",
+    "G000592",
+    "G000594",
+    "G000597",
+    "G000598",
+    "G000599",
+    "G000600",
+    "G000602",
+    "G000604",
+    "G000606",
+    "H001047",
+    "H001058",
+    "H001066",
+    "H001068",
+    "H001081",
+    "H001085",
+    "H001090",
+    "H001091",
+    "H001094",
+    "I000058",
+    "J000288",
+    "J000295",
+    "J000301",
+    "J000305",
+    "J000307",
+    "J000309",
+    "J000310",
+    "K000009",
+    "K000375",
+    "K000376",
+    "K000385",
+    "K000389",
+    "K000391",
+    "K000392",
+    "K000397",
+    "K000398",
+    "K000399",
+    "K000400",
+    "K000401",
+    "K000402",
+    "K000403",
+    "L000273",
+    "L000397",
+    "L000557",
+    "L000560",
+    "L000562",
+    "L000582",
+    "L000585",
+    "L000590",
+    "L000593",
+    "L000598",
+    "L000599",
+    "L000600",
+    "L000601",
+    "L000602",
+    "L000606",
+    "M000312",
+    "M000317",
+    "M000687",
+    "M001137",
+    "M001143",
+    "M001160",
+    "M001163",
+    "M001188",
+    "M001196",
+    "M001199",
+    "M001204",
+    "M001205",
+    "M001206",
+    "M001208",
+    "M001210",
+    "M001213",
+    "M001214",
+    "M001215",
+    "M001216",
+    "M001217",
+    "M001218",
+    "M001219",
+    "M001220",
+    "M001222",
+    "M001223",
+    "M001225",
+    "M001226",
+    "M001227",
+    "M001229",
+    "M001230",
+    "M001231",
+    "M001232",
+    "M001234",
+    "M001236",
+    "M001237",
+    "M001238",
+    "M001239",
+    "M001240",
+    "M001241",
+    "M001245",
+    "N000002",
+    "N000147",
+    "N000188",
+    "N000190",
+    "N000191",
+    "N000193",
+    "O000019",
+    "O000086",
+    "O000172",
+    "O000173",
+    "O000176",
+    "P000197",
+    "P000597",
+    "P000607",
+    "P000608",
+    "P000610",
+    "P000613",
+    "P000614",
+    "P000617",
+    "P000620",
+    "Q000023",
+    "R000305",
+    "R000579",
+    "R000599",
+    "R000600",
+    "R000606",
+    "R000609",
+    "R000612",
+    "R000620",
+    "R000622",
+    "S000168",
+    "S000185",
+    "S000250",
+    "S000344",
+    "S000522",
+    "S001145",
+    "S001156",
+    "S001159",
+    "S001185",
+    "S001190",
+    "S001193",
+    "S001196",
+    "S001200",
+    "S001201",
+    "S001205",
+    "S001207",
+    "S001211",
+    "S001212",
+    "S001214",
+    "S001215",
+    "S001216",
+    "S001218",
+    "S001221",
+    "S001223",
+    "S001225",
+    "S001226",
+    "S001230",
+    "S001231",
+    "T000460",
+    "T000463",
+    "T000467",
+    "T000468",
+    "T000469",
+    "T000472",
+    "T000474",
+    "T000481",
+    "T000482",
+    "T000486",
+    "T000488",
+    "T000491",
+    "V000081",
+    "V000129",
+    "V000130",
+    "V000131",
+    "V000133",
+    "V000134",
+    "V000135",
+    "V000136",
+    "V000138",
+    "W000187",
+    "W000788",
+    "W000795",
+    "W000797",
+    "W000798",
+    "W000804",
+    "W000808",
+    "W000830",
+    "W000831"
+   ],
+   "latest": {
+    "date": "2025-03-11",
+    "text": "Referred to the House Committee on Ways and Means."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "s3442": {
+   "goal": "health-access",
+   "label": "S. 3442",
+   "short": "Metastatic Breast Cancer Access to Care Act",
+   "stage": "in_committee",
+   "supporters": [
+    "A000382",
+    "C001035",
+    "C001047",
+    "G000555",
+    "M001153",
+    "M001169",
+    "M001176",
+    "R000605"
+   ],
+   "latest": {
+    "date": "2025-12-11",
+    "text": "Read twice and referred to the Committee on Finance."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr8870": {
+   "goal": "infrastructure",
+   "label": "H.R. 8870",
+   "short": "BUILD America 250 Act",
+   "stage": "reported",
+   "supporters": [
+    "G000546",
+    "L000560",
+    "N000147",
+    "R000603",
+    "R000619",
+    "W000806"
+   ],
+   "latest": {
+    "date": "2026-05-22",
+    "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 62 - 2."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 2
+  },
+  "hr2979": {
+   "goal": "infrastructure",
+   "label": "H.R. 2979",
+   "short": "BUILD Act for police and fire facilities",
+   "stage": "in_committee",
+   "supporters": [
+    "F000466",
+    "G000604",
+    "K000398",
+    "K000399",
+    "L000595",
+    "P000613",
+    "P000614",
+    "V000135"
+   ],
+   "latest": {
+    "date": "2025-04-22",
+    "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr3562": {
+   "goal": "online-safety-ai",
+   "label": "H.R. 3562",
+   "short": "DEFIANCE Act",
+   "stage": "in_committee",
+   "supporters": [
+    "A000148",
+    "A000381",
+    "B001260",
+    "B001295",
+    "B001307",
+    "B001318",
+    "B001327",
+    "C001039",
+    "C001059",
+    "C001110",
+    "C001126",
+    "C001130",
+    "D000230",
+    "D000530",
+    "D000594",
+    "D000617",
+    "D000624",
+    "D000631",
+    "E000246",
+    "E000296",
+    "F000466",
+    "F000477",
+    "F000485",
+    "G000583",
+    "G000589",
+    "G000597",
+    "G000606",
+    "H001090",
+    "H001093",
+    "J000295",
+    "K000389",
+    "K000398",
+    "L000582",
+    "L000595",
+    "L000596",
+    "L000597",
+    "L000598",
+    "L000599",
+    "L000601",
+    "M000194",
+    "M000317",
+    "M001188",
+    "M001205",
+    "M001213",
+    "M001215",
+    "M001217",
+    "M001220",
+    "M001222",
+    "M001224",
+    "M001238",
+    "N000147",
+    "O000172",
+    "O000173",
+    "P000613",
+    "P000620",
+    "R000305",
+    "R000606",
+    "S000168",
+    "S001201",
+    "S001214",
+    "S001230",
+    "T000463",
+    "T000468",
+    "T000478",
+    "T000480",
+    "T000481",
+    "V000081",
+    "V000133",
+    "W000812",
+    "W000822"
+   ],
+   "latest": {
+    "date": "2025-05-21",
+    "text": "Referred to the House Committee on the Judiciary."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "s1837": {
+   "goal": "online-safety-ai",
+   "label": "S. 1837",
+   "short": "DEFIANCE Act",
+   "stage": "passed_senate",
+   "supporters": [
+    "D000563",
+    "G000359",
+    "H001046",
+    "H001089",
+    "K000367",
+    "K000383",
+    "L000577",
+    "S000148",
+    "W000800"
+   ],
+   "latest": {
+    "date": "2026-01-13",
+    "text": "Held at the desk."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "s5653": {
+   "goal": "permitting-reform",
+   "label": "S. 5653",
+   "short": "Bipartisan American Affordability and Jobs Act of 2026",
+   "stage": "in_committee",
+   "supporters": [
+    "C001047",
+    "H001046",
+    "L000577",
+    "W000802"
+   ],
+   "latest": {
+    "date": "2026-09-30",
+    "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hjres4": {
+   "goal": "protect-filibuster",
+   "label": "H.J.Res. 4",
+   "short": "Filibuster amendment",
+   "stage": "in_committee",
+   "supporters": [
+    "F000466",
+    "G000592",
+    "G000605",
+    "L000599",
+    "S001201"
+   ],
+   "latest": {
+    "date": "2025-01-03",
+    "text": "Referred to the House Committee on the Judiciary."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr10378": {
+   "goal": "redistricting-reform",
+   "label": "H.R. 10378",
+   "short": "TRUST Act",
+   "stage": "in_committee",
+   "supporters": [
+    "C001055",
+    "C001112",
+    "D000624",
+    "F000466",
+    "H001100",
+    "L000598",
+    "L000599",
+    "M001230",
+    "N000188",
+    "S001200",
+    "S001201"
+   ],
+   "latest": {
+    "date": "2026-09-15",
+    "text": "Referred to the House Committee on the Judiciary."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr10379": {
+   "goal": "redistricting-reform",
+   "label": "H.R. 10379",
+   "short": "MAPS Act",
+   "stage": "in_committee",
+   "supporters": [
+    "C001055",
+    "C001112",
+    "D000624",
+    "F000466",
+    "H001100",
+    "L000598",
+    "L000599",
+    "M001230",
+    "N000188",
+    "S001200",
+    "S001201"
+   ],
+   "latest": {
+    "date": "2026-09-15",
+    "text": "Referred to the House Committee on the Judiciary."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr10380": {
+   "goal": "redistricting-reform",
+   "label": "H.R. 10380",
+   "short": "Independent Commissions Act",
+   "stage": "in_committee",
+   "supporters": [
+    "C001055",
+    "C001112",
+    "D000624",
+    "F000466",
+    "H001100",
+    "L000599",
+    "M001230",
+    "S001201"
+   ],
+   "latest": {
+    "date": "2026-09-15",
+    "text": "Referred to the House Committee on the Judiciary."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  },
+  "hr10381": {
+   "goal": "redistricting-reform",
+   "label": "H.R. 10381",
+   "short": "COURTS Act",
+   "stage": "in_committee",
+   "supporters": [
+    "C001055",
+    "F000466",
+    "H001100",
+    "L000598",
+    "L000599",
+    "M001230"
+   ],
+   "latest": {
+    "date": "2026-09-15",
+    "text": "Referred to the House Committee on the Judiciary."
+   },
+   "house_vote": "",
+   "senate_result": "",
+   "cbo": 0
+  }
+ },
+ "members": {
+  "M001153": {
+   "tier": "B",
+   "score": 60,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. John W. Hickenlooper (D-CO).",
+   "election": "not_up"
+  },
+  "S001198": {
+   "tier": "C",
+   "score": 50,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA).",
+   "election": "up_for_reelection"
+  },
+  "B001319": {
+   "tier": "B",
+   "score": 58,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "not_up"
+  },
+  "T000278": {
+   "tier": "B",
+   "score": 50,
+   "top": "Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "B001236": {
+   "tier": "A",
+   "score": 60,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "not_up"
+  },
+  "C001095": {
+   "tier": "B",
+   "score": 48,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA).",
+   "election": "up_for_reelection"
+  },
+  "G000574": {
+   "tier": "B",
+   "score": 70,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "K000377": {
+   "tier": "B",
+   "score": 52,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "P000145": {
+   "tier": "A",
+   "score": 71,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "S001150": {
+   "tier": "B",
+   "score": 62,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "B001267": {
+   "tier": "B",
+   "score": 66,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "H000273": {
+   "tier": "B",
+   "score": 72,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "up_for_reelection"
+  },
+  "B001277": {
+   "tier": "A",
+   "score": 65,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "M001169": {
+   "tier": "B",
+   "score": 67,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "B001303": {
+   "tier": "B",
+   "score": 66,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "C001088": {
+   "tier": "B",
+   "score": 66,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "up_for_reelection"
+  },
+  "M001244": {
+   "tier": "B",
+   "score": 55,
+   "top": "Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.",
+   "election": "not_up"
+  },
+  "S001217": {
+   "tier": "C",
+   "score": 50,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA).",
+   "election": "not_up"
+  },
+  "O000174": {
+   "tier": "C",
+   "score": 50,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA), Sen. Michael F. Bennet (D-CO).",
+   "election": "up_for_reelection"
+  },
+  "W000790": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.",
+   "election": "not_up"
+  },
+  "H001042": {
+   "tier": "B",
+   "score": 68,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "S001194": {
+   "tier": "B",
+   "score": 64,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "E000295": {
+   "tier": "C",
+   "score": 41,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA).",
+   "election": "retiring"
+  },
+  "G000386": {
+   "tier": "A",
+   "score": 58,
+   "top": "Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.",
+   "election": "not_up"
+  },
+  "C000880": {
+   "tier": "A",
+   "score": 75,
+   "top": "Mark up S. 3442 (Metastatic Breast Cancer Access to Care Act) in Finance.",
+   "election": "not_up"
+  },
+  "R000584": {
+   "tier": "B",
+   "score": 48,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA).",
+   "election": "up_for_reelection"
+  },
+  "D000622": {
+   "tier": "B",
+   "score": 58,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "D000563": {
+   "tier": "A",
+   "score": 74,
+   "top": "Ask leadership for a lame-duck vote on S. 1837 (DEFIANCE Act) as a legacy item, and name a returning lead sponsor for 2027: Sen. Martin Heinrich (D-NM), Sen. Angus S. King, Jr. (I-ME), 5 more.",
+   "election": "retiring"
+  },
+  "B001299": {
+   "tier": "C",
+   "score": 51,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. John W. Hickenlooper (D-CO).",
+   "election": "not_up"
+  },
+  "Y000064": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.",
+   "election": "not_up"
+  },
+  "M001198": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M000934": {
+   "tier": "A",
+   "score": 60,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "not_up"
+  },
+  "M000355": {
+   "tier": "A",
+   "score": 48,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA), Sen. Michael F. Bennet (D-CO).",
+   "election": "retiring"
+  },
+  "P000603": {
+   "tier": "A",
+   "score": 61,
+   "top": "Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Andy Kim (D-NJ).",
+   "election": "not_up"
+  },
+  "C001075": {
+   "tier": "A",
+   "score": 76,
+   "top": "Mark up S. 1929 (SEPSIS Act) in Health, Education, Labor, and Pensions.",
+   "election": "lost_primary"
+  },
+  "K000393": {
+   "tier": "B",
+   "score": 59,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "not_up"
+  },
+  "M000133": {
+   "tier": "B",
+   "score": 66,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "up_for_reelection"
+  },
+  "W000817": {
+   "tier": "A",
+   "score": 71,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "A000382": {
+   "tier": "B",
+   "score": 66,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "V000128": {
+   "tier": "B",
+   "score": 69,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "C001035": {
+   "tier": "A",
+   "score": 70,
+   "top": "Move all 12 FY2027 appropriations bills on regular order and on time.",
+   "election": "up_for_reelection"
+  },
+  "K000383": {
+   "tier": "B",
+   "score": 67,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "P000595": {
+   "tier": "A",
+   "score": 62,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "retiring"
+  },
+  "S001208": {
+   "tier": "B",
+   "score": 62,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "K000367": {
+   "tier": "A",
+   "score": 53,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Tina Smith (D-MN).",
+   "election": "not_up"
+  },
+  "S001203": {
+   "tier": "B",
+   "score": 63,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "retiring"
+  },
+  "H001089": {
+   "tier": "B",
+   "score": 55,
+   "top": "Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.",
+   "election": "not_up"
+  },
+  "S001227": {
+   "tier": "C",
+   "score": 50,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA).",
+   "election": "not_up"
+  },
+  "H001079": {
+   "tier": "B",
+   "score": 69,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "W000437": {
+   "tier": "C",
+   "score": 50,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA).",
+   "election": "not_up"
+  },
+  "D000618": {
+   "tier": "B",
+   "score": 60,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Michael F. Bennet (D-CO).",
+   "election": "retiring"
+  },
+  "S001232": {
+   "tier": "C",
+   "score": 46,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. John W. Hickenlooper (D-CO).",
+   "election": "not_up"
+  },
+  "B001305": {
+   "tier": "C",
+   "score": 40,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA), Sen. Michael F. Bennet (D-CO).",
+   "election": "not_up"
+  },
+  "T000476": {
+   "tier": "B",
+   "score": 51,
+   "top": "Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.",
+   "election": "retiring"
+  },
+  "C001096": {
+   "tier": "C",
+   "score": 46,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA).",
+   "election": "not_up"
+  },
+  "H001061": {
+   "tier": "B",
+   "score": 62,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "not_up"
+  },
+  "F000463": {
+   "tier": "C",
+   "score": 52,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA).",
+   "election": "not_up"
+  },
+  "R000618": {
+   "tier": "C",
+   "score": 52,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA).",
+   "election": "up_for_reelection"
+  },
+  "H001076": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.",
+   "election": "not_up"
+  },
+  "S001181": {
+   "tier": "B",
+   "score": 52,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "retiring"
+  },
+  "B001288": {
+   "tier": "B",
+   "score": 60,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "up_for_reelection"
+  },
+  "K000394": {
+   "tier": "B",
+   "score": 64,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "H001046": {
+   "tier": "A",
+   "score": 68,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "L000570": {
+   "tier": "B",
+   "score": 68,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "up_for_reelection"
+  },
+  "C001113": {
+   "tier": "B",
+   "score": 72,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "R000608": {
+   "tier": "B",
+   "score": 52,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "G000555": {
+   "tier": "B",
+   "score": 65,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "not_up"
+  },
+  "S000148": {
+   "tier": "A",
+   "score": 49,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "H001104": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.",
+   "election": "not_up"
+  },
+  "M001242": {
+   "tier": "C",
+   "score": 52,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. John W. Hickenlooper (D-CO).",
+   "election": "not_up"
+  },
+  "A000383": {
+   "tier": "B",
+   "score": 47,
+   "top": "Cosponsor S. 1929 (SEPSIS Act). It is waiting in Health, Education, Labor, and Pensions, where you sit.",
+   "election": "retiring"
+  },
+  "L000575": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.",
+   "election": "not_up"
+  },
+  "M001176": {
+   "tier": "A",
+   "score": 70,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "up_for_reelection"
+  },
+  "W000779": {
+   "tier": "A",
+   "score": 76,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "F000479": {
+   "tier": "B",
+   "score": 64,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "M001243": {
+   "tier": "B",
+   "score": 59,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. John Fetterman (D-PA).",
+   "election": "not_up"
+  },
+  "R000122": {
+   "tier": "B",
+   "score": 68,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "up_for_reelection"
+  },
+  "W000802": {
+   "tier": "A",
+   "score": 70,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "G000608": {
+   "tier": "B",
+   "score": 59,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "S001184": {
+   "tier": "A",
+   "score": 62,
+   "top": "Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Andy Kim (D-NJ).",
+   "election": "not_up"
+  },
+  "R000605": {
+   "tier": "C",
+   "score": 52,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Michael F. Bennet (D-CO).",
+   "election": "up_for_reelection"
+  },
+  "T000250": {
+   "tier": "A",
+   "score": 71,
+   "top": "Bring H.R. 9340 (Ratepayer Protection Act) back to the floor.",
+   "election": "not_up"
+  },
+  "B001243": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.",
+   "election": "not_up"
+  },
+  "H000601": {
+   "tier": "C",
+   "score": 52,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Michael F. Bennet (D-CO).",
+   "election": "up_for_reelection"
+  },
+  "C001056": {
+   "tier": "B",
+   "score": 51,
+   "top": "Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.",
+   "election": "lost_primary"
+  },
+  "C001098": {
+   "tier": "A",
+   "score": 56,
+   "top": "Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Amy Klobuchar (D-MN).",
+   "election": "not_up"
+  },
+  "C001114": {
+   "tier": "C",
+   "score": 45,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA).",
+   "election": "not_up"
+  },
+  "L000577": {
+   "tier": "A",
+   "score": 73,
+   "top": "Mark up S. 5653 (Bipartisan American Affordability and Jobs Act of 2026) in Energy and Natural Resources.",
+   "election": "not_up"
+  },
+  "K000384": {
+   "tier": "B",
+   "score": 66,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "W000805": {
+   "tier": "B",
+   "score": 68,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "up_for_reelection"
+  },
+  "S000033": {
+   "tier": "A",
+   "score": 72,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "W000800": {
+   "tier": "B",
+   "score": 66,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "C000127": {
+   "tier": "A",
+   "score": 74,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "M001111": {
+   "tier": "A",
+   "score": 73,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "B001230": {
+   "tier": "B",
+   "score": 68,
+   "top": "Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).",
+   "election": "not_up"
+  },
+  "J000293": {
+   "tier": "A",
+   "score": 57,
+   "top": "Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.",
+   "election": "not_up"
+  },
+  "C001047": {
+   "tier": "A",
+   "score": 58,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "J000312": {
+   "tier": "B",
+   "score": 57,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA).",
+   "election": "not_up"
+  },
+  "B001261": {
+   "tier": "A",
+   "score": 56,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Michael F. Bennet (D-CO).",
+   "election": "not_up"
+  },
+  "L000571": {
+   "tier": "C",
+   "score": 39,
+   "top": "Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA).",
+   "election": "retiring"
+  },
+  "B001323": {
+   "tier": "B",
+   "score": 52,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001212": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "F000481": {
+   "tier": "B",
+   "score": 54,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "R000575": {
+   "tier": "C",
+   "score": 42,
+   "top": "Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.",
+   "election": "up_for_reelection"
+  },
+  "A000055": {
+   "tier": "C",
+   "score": 46,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "S001220": {
+   "tier": "B",
+   "score": 54,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "P000609": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001185": {
+   "tier": "C",
+   "score": 54,
+   "top": "Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001087": {
+   "tier": "A",
+   "score": 55,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001072": {
+   "tier": "A",
+   "score": 68,
+   "top": "Schedule a markup of H.R. 3694 (VALID Act) in Financial Services.",
+   "election": "up_for_reelection"
+  },
+  "W000809": {
+   "tier": "B",
+   "score": 62,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "W000821": {
+   "tier": "B",
+   "score": 55,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "R000600": {
+   "tier": "C",
+   "score": 0,
+   "top": "",
+   "election": "up_for_reelection"
+  },
+  "S001183": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "C001132": {
+   "tier": "C",
+   "score": 46,
+   "top": "Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).",
+   "election": "up_for_reelection"
+  },
+  "A000381": {
+   "tier": "C",
+   "score": 44,
+   "top": "Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).",
+   "election": "up_for_reelection"
+  },
+  "S001211": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001302": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "C001133": {
+   "tier": "A",
+   "score": 62,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "G000606": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001098": {
+   "tier": "C",
+   "score": 46,
+   "top": "Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).",
+   "election": "up_for_reelection"
+  },
+  "G000565": {
+   "tier": "C",
+   "score": 46,
+   "top": "Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).",
+   "election": "up_for_reelection"
+  },
+  "G000607": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001068": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "K000401": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000460": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001177": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001287": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "M001163": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "G000559": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001090": {
+   "tier": "A",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "D000623": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "P000197": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "retiring"
+  },
+  "S001231": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "G000605": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "W000832": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "M001225": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000607": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "K000389": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "L000397": {
+   "tier": "A",
+   "score": 74,
+   "top": "Ask Rep. Brian Babin to schedule a markup of H.R. 2979, and cosponsor it.",
+   "election": "up_for_reelection"
+  },
+  "P000613": {
+   "tier": "A",
+   "score": 68,
+   "top": "Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000480": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001059": {
+   "tier": "A",
+   "score": 63,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "V000129": {
+   "tier": "A",
+   "score": 62,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "O000019": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001112": {
+   "tier": "A",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "R000599": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001285": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "retiring"
+  },
+  "W000830": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001080": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "R000620": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000483": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001123": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "S000344": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "A000371": {
+   "tier": "B",
+   "score": 56,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "G000585": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000474": {
+   "tier": "B",
+   "score": 56,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "L000582": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "K000400": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001156": {
+   "tier": "C",
+   "score": 54,
+   "top": "Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000472": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "K000397": {
+   "tier": "A",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "C000059": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "G000598": {
+   "tier": "A",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "W000187": {
+   "tier": "A",
+   "score": 64,
+   "top": "Ask Rep. J. French Hill to schedule a markup of H.R. 3694, and cosponsor it.",
+   "election": "up_for_reelection"
+  },
+  "B001300": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000491": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "C001110": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001241": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "I000056": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "retiring"
+  },
+  "L000593": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "P000608": {
+   "tier": "A",
+   "score": 70,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "J000305": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "V000130": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000197": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "lost_primary"
+  },
+  "N000191": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Rules, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001100": {
+   "tier": "A",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B000825": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "C001137": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "C001121": {
+   "tier": "C",
+   "score": 44,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "P000620": {
+   "tier": "B",
+   "score": 75,
+   "top": "Ask Rep. J. French Hill, chair of Financial Services, to mark up H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "E000300": {
+   "tier": "A",
+   "score": 72,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000557": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "lost_primary"
+  },
+  "C001069": {
+   "tier": "C",
+   "score": 52,
+   "top": "Press for a markup of H.R. 3876 (LIHEAP Staffing Support Act) in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000216": {
+   "tier": "A",
+   "score": 59,
+   "top": "Negotiate bipartisan toplines so all 12 bills can move on time.",
+   "election": "up_for_reelection"
+  },
+  "H001047": {
+   "tier": "B",
+   "score": 55,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001081": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "N000147": {
+   "tier": "B",
+   "score": 52,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "retiring"
+  },
+  "M001238": {
+   "tier": "B",
+   "score": 54,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "P000622": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000628": {
+   "tier": "A",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "retiring"
+  },
+  "C001039": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001314": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "R000609": {
+   "tier": "B",
+   "score": 56,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "F000484": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001216": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "lost_primary"
+  },
+  "H001099": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001200": {
+   "tier": "A",
+   "score": 70,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000476": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "W000806": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "retiring"
+  },
+  "B001257": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000596": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "C001066": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000597": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001260": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "retiring"
+  },
+  "S001214": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000472": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000032": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "M001199": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000462": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "M001217": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "W000808": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "retiring"
+  },
+  "W000797": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "D000600": {
+   "tier": "A",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "S000168": {
+   "tier": "A",
+   "score": 59,
+   "top": "Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "G000593": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "C001103": {
+   "tier": "B",
+   "score": 67,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "B000490": {
+   "tier": "C",
+   "score": 48,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "J000311": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Rules, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "J000288": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "W000788": {
+   "tier": "C",
+   "score": 51,
+   "top": "Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001208": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001218": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001189": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Rules, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001116": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001129": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "L000583": {
+   "tier": "C",
+   "score": 52,
+   "top": "Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.",
+   "election": "retiring"
+  },
+  "A000372": {
+   "tier": "B",
+   "score": 67,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001328": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000485": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001219": {
+   "tier": "A",
+   "score": 67,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001055": {
+   "tier": "A",
+   "score": 88,
+   "top": "Ask Rep. Jodey C. Arrington, chair of Budget, to mark up H.R. 222 (Sustainable Budget Act).",
+   "election": "up_for_reelection"
+  },
+  "T000487": {
+   "tier": "C",
+   "score": 38,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "M001215": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001091": {
+   "tier": "C",
+   "score": 45,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "seeking_other_office"
+  },
+  "N000193": {
+   "tier": "C",
+   "score": 48,
+   "top": "Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000446": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "F000469": {
+   "tier": "B",
+   "score": 65,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001148": {
+   "tier": "C",
+   "score": 45,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "J000309": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "K000385": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "R000617": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "G000586": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "retiring"
+  },
+  "Q000023": {
+   "tier": "B",
+   "score": 56,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "C001117": {
+   "tier": "C",
+   "score": 51,
+   "top": "Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000096": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "retiring"
+  },
+  "K000391": {
+   "tier": "C",
+   "score": 45,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "seeking_other_office"
+  },
+  "S001145": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "retiring"
+  },
+  "S001190": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000454": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001295": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001315": {
+   "tier": "C",
+   "score": 47,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "U000040": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "M001211": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000585": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001225": {
+   "tier": "C",
+   "score": 47,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "M001214": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "Y000067": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001188": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001307": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S000929": {
+   "tier": "C",
+   "score": 47,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "S001229": {
+   "tier": "B",
+   "score": 55,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "C001072": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001233": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001093": {
+   "tier": "B",
+   "score": 67,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M000871": {
+   "tier": "B",
+   "score": 55,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001228": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000629": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "E000298": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001108": {
+   "tier": "A",
+   "score": 62,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "G000558": {
+   "tier": "A",
+   "score": 90,
+   "top": "Schedule a markup of H.R. 3876 (LIHEAP Staffing Support Act) in Energy and Commerce.",
+   "election": "up_for_reelection"
+  },
+  "M001220": {
+   "tier": "B",
+   "score": 62,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001184": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "lost_primary"
+  },
+  "R000395": {
+   "tier": "B",
+   "score": 53,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "B001282": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "S001176": {
+   "tier": "A",
+   "score": 94,
+   "top": "Schedule a floor vote on H.R. 4642 (Fiscal Contingency Preparedness Act).",
+   "election": "up_for_reelection"
+  },
+  "C001125": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001077": {
+   "tier": "C",
+   "score": 42,
+   "top": "Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.",
+   "election": "up_for_reelection"
+  },
+  "J000299": {
+   "tier": "A",
+   "score": 94,
+   "top": "Schedule a floor vote on H.R. 4642 (Fiscal Contingency Preparedness Act).",
+   "election": "up_for_reelection"
+  },
+  "L000595": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "F000110": {
+   "tier": "B",
+   "score": 54,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "N000015": {
+   "tier": "A",
+   "score": 77,
+   "top": "Ask Rep. Jason Smith to schedule a markup of H.R. 2036, and cosponsor it.",
+   "election": "up_for_reelection"
+  },
+  "M000312": {
+   "tier": "A",
+   "score": 75,
+   "top": "Ask Rep. Virginia Foxx to schedule a markup of H.R. 3289, and cosponsor it.",
+   "election": "up_for_reelection"
+  },
+  "T000482": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "A000148": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001101": {
+   "tier": "A",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "M001196": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "P000617": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000562": {
+   "tier": "C",
+   "score": 49,
+   "top": "Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "K000375": {
+   "tier": "C",
+   "score": 45,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "H001052": {
+   "tier": "C",
+   "score": 48,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "O000176": {
+   "tier": "C",
+   "score": 42,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "E000301": {
+   "tier": "C",
+   "score": 43,
+   "top": "Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.",
+   "election": "up_for_reelection"
+  },
+  "I000058": {
+   "tier": "C",
+   "score": 47,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "H000874": {
+   "tier": "C",
+   "score": 48,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "retiring"
+  },
+  "M001232": {
+   "tier": "B",
+   "score": 54,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M000687": {
+   "tier": "C",
+   "score": 42,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "R000606": {
+   "tier": "A",
+   "score": 80,
+   "top": "Ask Rep. Jim Jordan to schedule a markup of H.R. 2979, and cosponsor it.",
+   "election": "up_for_reelection"
+  },
+  "P000597": {
+   "tier": "C",
+   "score": 46,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "G000592": {
+   "tier": "A",
+   "score": 56,
+   "top": "Press leadership to bring H.R. 4642 (Fiscal Contingency Preparedness Act) to the floor.",
+   "election": "retiring"
+  },
+  "B001301": {
+   "tier": "B",
+   "score": 59,
+   "top": "Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001194": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "S001221": {
+   "tier": "A",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001058": {
+   "tier": "B",
+   "score": 80,
+   "top": "Ask Rep. Jodey C. Arrington, chair of Budget, to mark up H.R. 3289 (Fiscal Commission Act).",
+   "election": "up_for_reelection"
+  },
+  "W000798": {
+   "tier": "A",
+   "score": 83,
+   "top": "Schedule a markup of H.R. 3876 (LIHEAP Staffing Support Act) in Education and Workforce.",
+   "election": "up_for_reelection"
+  },
+  "D000624": {
+   "tier": "A",
+   "score": 70,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001321": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001237": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001136": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "J000307": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "S001215": {
+   "tier": "A",
+   "score": 72,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "T000481": {
+   "tier": "C",
+   "score": 51,
+   "top": "Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000488": {
+   "tier": "C",
+   "score": 46,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act).",
+   "election": "lost_primary"
+  },
+  "F000475": {
+   "tier": "C",
+   "score": 42,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "C001119": {
+   "tier": "A",
+   "score": 55,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "seeking_other_office"
+  },
+  "M001234": {
+   "tier": "C",
+   "score": 44,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "M001143": {
+   "tier": "C",
+   "score": 48,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "O000173": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "E000294": {
+   "tier": "A",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000470": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001212": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001324": {
+   "tier": "C",
+   "score": 42,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "W000812": {
+   "tier": "B",
+   "score": 55,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "O000177": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "A000379": {
+   "tier": "C",
+   "score": 47,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "C001061": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "G000546": {
+   "tier": "A",
+   "score": 88,
+   "top": "Schedule a markup of H.R. 2979 (BUILD Act for police and fire facilities) in Transportation and Infrastructure.",
+   "election": "retiring"
+  },
+  "B001316": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001195": {
+   "tier": "A",
+   "score": 90,
+   "top": "Schedule a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means.",
+   "election": "up_for_reelection"
+  },
+  "K000404": {
+   "tier": "B",
+   "score": 34,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "K000388": {
+   "tier": "C",
+   "score": 36,
+   "top": "Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.",
+   "election": "up_for_reelection"
+  },
+  "T000193": {
+   "tier": "C",
+   "score": 36,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "G000591": {
+   "tier": "C",
+   "score": 45,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "E000235": {
+   "tier": "B",
+   "score": 54,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "Z000018": {
+   "tier": "B",
+   "score": 52,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "retiring"
+  },
+  "D000634": {
+   "tier": "B",
+   "score": 53,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000230": {
+   "tier": "A",
+   "score": 61,
+   "top": "Cosponsor H.R. 1464 (MODERN WIC Act).",
+   "election": "up_for_reelection"
+  },
+  "R000305": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001210": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000477": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000450": {
+   "tier": "A",
+   "score": 92,
+   "top": "Schedule a markup of H.R. 3289 (Fiscal Commission Act) in Rules.",
+   "election": "up_for_reelection"
+  },
+  "M001240": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "R000603": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001102": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001067": {
+   "tier": "B",
+   "score": 82,
+   "top": "Ask Rep. Brett Guthrie, chair of Energy and Commerce, to mark up H.R. 5269 (RESULTS Act).",
+   "election": "up_for_reelection"
+  },
+  "H001101": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "E000246": {
+   "tier": "B",
+   "score": 60,
+   "top": "Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Budget, where you sit.",
+   "election": "retiring"
+  },
+  "A000370": {
+   "tier": "C",
+   "score": 53,
+   "top": "Press for a markup of H.R. 3876 (LIHEAP Staffing Support Act) in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "K000405": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001236": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000482": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000474": {
+   "tier": "B",
+   "score": 54,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001298": {
+   "tier": "A",
+   "score": 55,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "retiring"
+  },
+  "S001172": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "P000614": {
+   "tier": "A",
+   "score": 81,
+   "top": "Ask Rep. Sam Graves, chair of Transportation and Infrastructure, to mark up H.R. 2979 (BUILD Act for police and fire facilities).",
+   "election": "seeking_other_office"
+  },
+  "G000604": {
+   "tier": "C",
+   "score": 36,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "N000188": {
+   "tier": "A",
+   "score": 83,
+   "top": "Ask Rep. Brett Guthrie, chair of Energy and Commerce, to mark up H.R. 7116 (SEPSIS Act).",
+   "election": "up_for_reelection"
+  },
+  "V000133": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001136": {
+   "tier": "C",
+   "score": 47,
+   "top": "Cosponsor H.R. 7116 (SEPSIS Act).",
+   "election": "up_for_reelection"
+  },
+  "S000522": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "G000583": {
+   "tier": "A",
+   "score": 82,
+   "top": "Ask Rep. Brett Guthrie, chair of Energy and Commerce, to mark up H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "P000034": {
+   "tier": "A",
+   "score": 77,
+   "top": "Ask Rep. Brett Guthrie to schedule a markup of H.R. 3876, and cosponsor it.",
+   "election": "up_for_reelection"
+  },
+  "K000398": {
+   "tier": "A",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001226": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "P000621": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001229": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "M001246": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "W000822": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "retiring"
+  },
+  "S001218": {
+   "tier": "C",
+   "score": 36,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "V000136": {
+   "tier": "C",
+   "score": 36,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "L000273": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Rules, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000468": {
+   "tier": "B",
+   "score": 54,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "A000369": {
+   "tier": "C",
+   "score": 48,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "retiring"
+  },
+  "L000590": {
+   "tier": "A",
+   "score": 59,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "H001066": {
+   "tier": "A",
+   "score": 60,
+   "top": "Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000598": {
+   "tier": "A",
+   "score": 62,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "G000597": {
+   "tier": "A",
+   "score": 84,
+   "top": "Ask Rep. Jason Smith, chair of Ways and Means, to mark up H.R. 2048 (Metastatic Breast Cancer Access to Care Act).",
+   "election": "up_for_reelection"
+  },
+  "S001201": {
+   "tier": "A",
+   "score": 65,
+   "top": "Get the 34 PSC members not yet on H.R. 3876 (LIHEAP Staffing Support Act) to sign on, starting with Rep. Don Bacon (R-NE-02), Rep. Robert P. Bresnahan, Jr. (R-PA-08), Rep. Juan Ciscomani (R-AZ-06), 31 more.",
+   "election": "up_for_reelection"
+  },
+  "G000602": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001137": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001188": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "V000081": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "retiring"
+  },
+  "J000294": {
+   "tier": "A",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "C001067": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "G000599": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "lost_primary"
+  },
+  "M000317": {
+   "tier": "C",
+   "score": 54,
+   "top": "Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "N000002": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "retiring"
+  },
+  "E000297": {
+   "tier": "B",
+   "score": 56,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "lost_primary"
+  },
+  "O000172": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000486": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000606": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "L000599": {
+   "tier": "A",
+   "score": 80,
+   "top": "Ask Rep. Jim Jordan, chair of Judiciary, to mark up H.R. 10379 (MAPS Act).",
+   "election": "up_for_reelection"
+  },
+  "R000579": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "R000622": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000469": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001196": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "retiring"
+  },
+  "M001231": {
+   "tier": "B",
+   "score": 60,
+   "top": "Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000600": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000478": {
+   "tier": "B",
+   "score": 65,
+   "top": "Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001206": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "K000402": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "L000601": {
+   "tier": "A",
+   "score": 70,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000490": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001281": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "J000289": {
+   "tier": "A",
+   "score": 95,
+   "top": "Schedule a markup of H.R. 2979 (BUILD Act for police and fire facilities) in Judiciary.",
+   "election": "up_for_reelection"
+  },
+  "L000566": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "R000619": {
+   "tier": "B",
+   "score": 67,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001222": {
+   "tier": "B",
+   "score": 60,
+   "top": "Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000626": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "K000009": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000463": {
+   "tier": "C",
+   "score": 47,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "B001313": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "B001306": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001223": {
+   "tier": "A",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "J000295": {
+   "tier": "A",
+   "score": 64,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "C001126": {
+   "tier": "B",
+   "score": 82,
+   "top": "Ask Rep. Jason Smith, chair of Ways and Means, to mark up H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "H001082": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "B001317": {
+   "tier": "B",
+   "score": 62,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000491": {
+   "tier": "B",
+   "score": 55,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001053": {
+   "tier": "A",
+   "score": 65,
+   "top": "Move all 12 FY2027 appropriations bills on regular order and on time.",
+   "election": "up_for_reelection"
+  },
+  "B000740": {
+   "tier": "B",
+   "score": 52,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "B001278": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B000668": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000635": {
+   "tier": "C",
+   "score": 46,
+   "top": "Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).",
+   "election": "up_for_reelection"
+  },
+  "H001094": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001326": {
+   "tier": "B",
+   "score": 54,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001226": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000466": {
+   "tier": "A",
+   "score": 89,
+   "top": "Ask Rep. Tim Walberg, chair of Education and Workforce, to mark up H.R. 1464 (MODERN WIC Act).",
+   "election": "up_for_reelection"
+  },
+  "B001296": {
+   "tier": "A",
+   "score": 74,
+   "top": "Ask Rep. Jodey C. Arrington to schedule a markup of H.R. 3289, and cosponsor it.",
+   "election": "up_for_reelection"
+  },
+  "E000296": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "retiring"
+  },
+  "D000631": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "S001205": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Rules, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001085": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).",
+   "election": "up_for_reelection"
+  },
+  "M001230": {
+   "tier": "A",
+   "score": 82,
+   "top": "Ask Rep. Jim Jordan, chair of Judiciary, to mark up H.R. 10381 (COURTS Act).",
+   "election": "up_for_reelection"
+  },
+  "B001327": {
+   "tier": "A",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001204": {
+   "tier": "A",
+   "score": 68,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "P000605": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001199": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000602": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "J000302": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "R000610": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "T000467": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "K000376": {
+   "tier": "B",
+   "score": 72,
+   "top": "Ask the Speaker and Majority Leader for floor time on H.R. 3514, or a suspension vote.",
+   "election": "up_for_reelection"
+  },
+  "D000530": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "H001103": {
+   "tier": "C",
+   "score": 22,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "A000380": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001223": {
+   "tier": "C",
+   "score": 36,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "M000194": {
+   "tier": "C",
+   "score": 42,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "seeking_other_office"
+  },
+  "W000795": {
+   "tier": "B",
+   "score": 62,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001325": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000480": {
+   "tier": "C",
+   "score": 49,
+   "top": "Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "N000190": {
+   "tier": "B",
+   "score": 67,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "C000537": {
+   "tier": "B",
+   "score": 62,
+   "top": "Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit).",
+   "election": "up_for_reelection"
+  },
+  "F000478": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "J000301": {
+   "tier": "B",
+   "score": 54,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "H001086": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001309": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000459": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000616": {
+   "tier": "C",
+   "score": 46,
+   "top": "Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).",
+   "election": "up_for_reelection"
+  },
+  "O000175": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "lost_primary"
+  },
+  "R000612": {
+   "tier": "B",
+   "score": 56,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "V000139": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "K000392": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001068": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "retiring"
+  },
+  "M001224": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001120": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "lost_primary"
+  },
+  "S001224": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000246": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "G000589": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "E000071": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "F000468": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000603": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "retiring"
+  },
+  "G000553": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "lost_primary"
+  },
+  "M001157": {
+   "tier": "C",
+   "score": 52,
+   "top": "Use your remaining weeks to press for a vote on H.R. 9340 (Ratepayer Protection Act) before January 3, 2027.",
+   "election": "retiring"
+  },
+  "P000048": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "G000601": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "J000304": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "W000814": {
+   "tier": "B",
+   "score": 67,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000594": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "E000299": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S000250": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001245": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "A000375": {
+   "tier": "A",
+   "score": 88,
+   "top": "Schedule a markup of H.R. 3289 (Fiscal Commission Act) in Budget.",
+   "election": "retiring"
+  },
+  "C001091": {
+   "tier": "C",
+   "score": 47,
+   "top": "Cosponsor H.R. 5269 (RESULTS Act).",
+   "election": "up_for_reelection"
+  },
+  "R000614": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Rules, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "N000026": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "retiring"
+  },
+  "V000134": {
+   "tier": "B",
+   "score": 61,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "W000816": {
+   "tier": "B",
+   "score": 58,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "G000603": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001115": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "C001063": {
+   "tier": "A",
+   "score": 63,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "G000587": {
+   "tier": "C",
+   "score": 52,
+   "top": "Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001130": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "C001051": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "J000310": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "lost_primary"
+  },
+  "V000131": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "retiring"
+  },
+  "G000581": {
+   "tier": "C",
+   "score": 51,
+   "top": "Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "C001131": {
+   "tier": "B",
+   "score": 63,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "B001291": {
+   "tier": "A",
+   "score": 72,
+   "top": "Schedule a markup of H.R. 2979 (BUILD Act for police and fire facilities) in Science, Space, and Technology.",
+   "election": "up_for_reelection"
+  },
+  "D000399": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "retiring"
+  },
+  "H001095": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "M001213": {
+   "tier": "A",
+   "score": 70,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001228": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "K000403": {
+   "tier": "B",
+   "score": 55,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "O000086": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "retiring"
+  },
+  "W000804": {
+   "tier": "C",
+   "score": 46,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "K000399": {
+   "tier": "A",
+   "score": 61,
+   "top": "Cosponsor H.R. 5269 (RESULTS Act).",
+   "election": "up_for_reelection"
+  },
+  "S000185": {
+   "tier": "A",
+   "score": 77,
+   "top": "Ask Rep. Tim Walberg to schedule a markup of H.R. 3876, and cosponsor it.",
+   "election": "up_for_reelection"
+  },
+  "M001227": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001239": {
+   "tier": "C",
+   "score": 47,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "C001118": {
+   "tier": "B",
+   "score": 79,
+   "top": "Ask the Speaker and Majority Leader for floor time on H.R. 4642, or a suspension vote.",
+   "election": "up_for_reelection"
+  },
+  "V000138": {
+   "tier": "C",
+   "score": 46,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "B001292": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "G000568": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001230": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "W000831": {
+   "tier": "C",
+   "score": 46,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "P000610": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "B001318": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "D000617": {
+   "tier": "C",
+   "score": 54,
+   "top": "Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "L000560": {
+   "tier": "A",
+   "score": 64,
+   "top": "Ask Rep. Sam Graves to schedule a markup of H.R. 2979, and cosponsor it.",
+   "election": "up_for_reelection"
+  },
+  "G000600": {
+   "tier": "A",
+   "score": 63,
+   "top": "Cosponsor H.R. 3694 (VALID Act).",
+   "election": "up_for_reelection"
+  },
+  "N000189": {
+   "tier": "C",
+   "score": 49,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "retiring"
+  },
+  "B001322": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "R000621": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "J000298": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001216": {
+   "tier": "B",
+   "score": 66,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S000510": {
+   "tier": "C",
+   "score": 48,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act).",
+   "election": "up_for_reelection"
+  },
+  "S001159": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "S001213": {
+   "tier": "A",
+   "score": 66,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "P000607": {
+   "tier": "C",
+   "score": 45,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "V000135": {
+   "tier": "C",
+   "score": 42,
+   "top": "Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.",
+   "election": "up_for_reelection"
+  },
+  "M001160": {
+   "tier": "B",
+   "score": 64,
+   "top": "Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "F000471": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "G000576": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "T000165": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "seeking_other_office"
+  },
+  "W000829": {
+   "tier": "B",
+   "score": 57,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001205": {
+   "tier": "C",
+   "score": 54,
+   "top": "Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.",
+   "election": "up_for_reelection"
+  },
+  "M001235": {
+   "tier": "C",
+   "score": 44,
+   "top": "Back on-time passage of all 12 appropriations bills in committee.",
+   "election": "up_for_reelection"
+  },
+  "H001096": {
+   "tier": "B",
+   "score": 68,
+   "top": "Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit.",
+   "election": "seeking_other_office"
+  }
+ }
+}
