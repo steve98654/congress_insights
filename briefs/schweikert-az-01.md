@@ -1,6 +1,6 @@
 # Rep. David Schweikert (R-AZ-01)
 
-Representative for AZ-01 · 15.8 years in the House · Leaving Congress in January (seeking other office: Running for governor of Arizona)
+Representative for AZ-01 · 15.9 years in the House · Leaving Congress in January (seeking other office: Running for governor of Arizona)
 
 **Priority tier B** · leverage score 66 (rank 106 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
@@ -11,9 +11,9 @@ Representative for AZ-01 · 15.8 years in the House · Leaving Congress in Janua
 1. **Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 2. **Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 3. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 273 sponsors and cosponsors (80 R, 189 D, 40 PSC).
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 5. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 42_  
@@ -34,12 +34,12 @@ Representative for AZ-01 · 15.8 years in the House · Leaving Congress in Janua
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 1 of your AZ colleagues is on it: Juan Ciscomani.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 3 of your AZ colleagues are on it: Juan Ciscomani, Adelita S. Grijalva, Greg Stanton.
 
 ## Position on each goal
@@ -70,4 +70,4 @@ Representative for AZ-01 · 15.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

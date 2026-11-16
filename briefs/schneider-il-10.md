@@ -1,6 +1,6 @@
 # Rep. Bradley Scott Schneider (D-IL-10)
 
-Representative for IL-10 · 13.8 years in the House
+Representative for IL-10 · 13.9 years in the House
 
 **Priority tier B** · leverage score 61 (rank 203 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
@@ -32,13 +32,13 @@ Representative for IL-10 · 13.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 3 of your IL colleagues are on it: Danny K. Davis, Raja Krishnamoorthi, Darin LaHood.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 11 of your IL colleagues are on it: Mike Bost, Nikki Budzinski, Sean Casten and others.
 - Your record: cosponsor.
 
@@ -70,4 +70,4 @@ Representative for IL-10 · 13.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

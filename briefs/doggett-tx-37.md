@@ -1,6 +1,6 @@
 # Rep. Lloyd Doggett (D-TX-37)
 
-Representative for TX-37 · 31.8 years in the House · Leaving Congress in January (retiring)
+Representative for TX-37 · 31.9 years in the House · Leaving Congress in January (retiring)
 
 **Priority tier B** · leverage score 68 (rank 87 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
@@ -15,7 +15,7 @@ Representative for TX-37 · 31.8 years in the House · Leaving Congress in Janua
 3. **Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Budget, where you sit.** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 4. **Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 5. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
@@ -69,4 +69,4 @@ Representative for TX-37 · 31.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

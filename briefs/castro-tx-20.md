@@ -1,6 +1,6 @@
 # Rep. Joaquin Castro (D-TX-20)
 
-Representative for TX-20 · 13.8 years in the House
+Representative for TX-20 · 13.9 years in the House
 
 **Priority tier C** · leverage score 47 (rank 398 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
@@ -9,7 +9,7 @@ Representative for TX-20 · 13.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   11 of your state colleagues are already cosponsoring: Rep. Brian Babin (R-TX-36), Rep. Dan Crenshaw (R-TX-02), Rep. Veronica Escobar (D-TX-16), 8 more.
+   12 of your state colleagues are already cosponsoring: Rep. Brian Babin (R-TX-36), Rep. Dan Crenshaw (R-TX-02), Rep. Veronica Escobar (D-TX-16), 9 more.
 2. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
    4 of your state colleagues are already cosponsoring: Rep. Jasmine Crockett (D-TX-30), Rep. Monica De La Cruz (R-TX-15), Rep. Lance Gooden (R-TX-05), 1 more.
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -29,8 +29,8 @@ Representative for TX-20 · 13.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 11 of your TX colleagues are on it: Brian Babin, Dan Crenshaw, Veronica Escobar and others.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
+- 12 of your TX colleagues are on it: Brian Babin, Dan Crenshaw, Veronica Escobar and others.
 
 **H.R. 3562, DEFIANCE Act: Make AI safe and protect deepfake victims**
 - Creates a civil right of action for victims of non-consensual intimate deepfakes.
@@ -39,7 +39,7 @@ Representative for TX-20 · 13.8 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 21 of your TX colleagues are on it: Jodey C. Arrington, Brian Babin, Henry Cuellar and others.
 - Your record: cosponsor.
 
@@ -71,4 +71,4 @@ Representative for TX-20 · 13.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,6 +1,6 @@
 # Rep. Josh Brecheen (R-OK-02)
 
-Representative for OK-02 · 3.8 years in the House
+Representative for OK-02 · 3.9 years in the House
 
 **Priority tier B** · leverage score 62 (rank 195 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
@@ -33,7 +33,7 @@ Representative for OK-02 · 3.8 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 3 of your OK colleagues are on it: Stephanie I. Bice, Tom Cole, Kevin Hern.
 
 ## Position on each goal
@@ -64,4 +64,4 @@ Representative for OK-02 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

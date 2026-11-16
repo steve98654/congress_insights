@@ -1,8 +1,8 @@
 # Rep. Barry Loudermilk (R-GA-11)
 
-Representative for GA-11 · 11.8 years in the House · Leaving Congress in January (retiring)
+Representative for GA-11 · 11.9 years in the House · Leaving Congress in January (retiring)
 
-**Priority tier C** · leverage score 52 (rank 324 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 52 (rank 325 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; House Administration; House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021 (Chair)
 
@@ -40,7 +40,7 @@ Representative for GA-11 · 11.8 years in the House · Leaving Congress in Janua
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 3 of your GA colleagues are on it: Rick W. Allen, Earl L. "Buddy" Carter, Richard McCormick.
 
 ## Position on each goal
@@ -63,7 +63,7 @@ Representative for GA-11 · 11.8 years in the House · Leaving Congress in Janua
 
 - [Rep. Nikema Williams (D-GA-05)](williams-ga-05.md): same state; shared committees: Financial Services
 - [Rep. Josh Gottheimer (D-NJ-05)](gottheimer-nj-05.md): shared committees: Financial Services; PSC member
-- [Rep. Thomas R. Suozzi (D-NY-03)](suozzi-ny-03.md): PSC member
+- [Rep. Everton Blair Jr. (D-GA-13)](blair-ga-13.md): same state; shared committees: Financial Services
 
 ## Sources
 
@@ -71,4 +71,4 @@ Representative for GA-11 · 11.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

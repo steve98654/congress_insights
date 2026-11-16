@@ -1,6 +1,6 @@
 # Rep. Richard E. Neal (D-MA-01)
 
-Representative for MA-01 · 37.8 years in the House
+Representative for MA-01 · 37.9 years in the House
 
 **Priority tier A** · leverage score 77 (rank 23 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
@@ -11,9 +11,9 @@ Representative for MA-01 · 37.8 years in the House
 1. **Ask Rep. Jason Smith to schedule a markup of H.R. 2036, and cosponsor it.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 80_  
    As ranking member you can offer minority votes to get it marked up. It has 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 2. **Ask Rep. Jason Smith to schedule a markup of H.R. 5269, and cosponsor it.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 80_  
-   As ranking member you can offer minority votes to get it marked up. It has 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   As ranking member you can offer minority votes to get it marked up. It has 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 3. **Ask Rep. Jason Smith to schedule a markup of H.R. 2048, and cosponsor it.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 80_  
-   As ranking member you can offer minority votes to get it marked up. It has 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
+   As ranking member you can offer minority votes to get it marked up. It has 273 sponsors and cosponsors (80 R, 189 D, 40 PSC).
 4. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 48_  
    3 of your state colleagues are already cosponsoring: Rep. William R. Keating (D-MA-09), Rep. Stephen F. Lynch (D-MA-08), Rep. Lori Trahan (D-MA-03).
 5. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
@@ -34,12 +34,12 @@ Representative for MA-01 · 37.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 2 of your MA colleagues are on it: Jake Auchincloss, Lori Trahan.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 7 of your MA colleagues are on it: Jake Auchincloss, William R. Keating, Stephen F. Lynch and others.
 
 ## Position on each goal
@@ -70,4 +70,4 @@ Representative for MA-01 · 37.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

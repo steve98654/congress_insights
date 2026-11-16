@@ -2,7 +2,7 @@
 
 Representative for WI-08 · 2 years in the House
 
-**Priority tier B** · leverage score 57 (rank 275 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 57 (rank 276 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Small Business; Transportation and Infrastructure
 
@@ -11,7 +11,7 @@ Representative for WI-08 · 2 years in the House
 1. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
-   3 of your state colleagues are already cosponsoring: Rep. Gwen Moore (D-WI-04), Rep. Mark Pocan (D-WI-02), Rep. Derrick Van Orden (R-WI-03).
+   4 of your state colleagues are already cosponsoring: Rep. Glenn Grothman (R-WI-06), Rep. Gwen Moore (D-WI-04), Rep. Mark Pocan (D-WI-02), 1 more.
 3. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Scott Fitzgerald (R-WI-05), Rep. Glenn Grothman (R-WI-06), Rep. Gwen Moore (D-WI-04), 3 more.
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 42_  
@@ -30,12 +30,12 @@ Representative for WI-08 · 2 years in the House
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 3 of your WI colleagues are on it: Gwen Moore, Mark Pocan, Derrick Van Orden.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 4 of your WI colleagues are on it: Glenn Grothman, Gwen Moore, Mark Pocan and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 6 of your WI colleagues are on it: Scott Fitzgerald, Glenn Grothman, Gwen Moore and others.
 
 ## Position on each goal
@@ -66,4 +66,4 @@ Representative for WI-08 · 2 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

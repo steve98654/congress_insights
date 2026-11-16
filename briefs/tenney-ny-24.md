@@ -1,6 +1,6 @@
 # Rep. Claudia Tenney (R-NY-24)
 
-Representative for NY-24 · 9.8 years in the House
+Representative for NY-24 · 9.9 years in the House
 
 **Priority tier B** · leverage score 65 (rank 134 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
@@ -9,7 +9,7 @@ Representative for NY-24 · 9.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 273 sponsors and cosponsors (80 R, 189 D, 40 PSC).
 2. **Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit.** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 3. **Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 55_  
@@ -29,7 +29,7 @@ Representative for NY-24 · 9.8 years in the House
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 24 of your NY colleagues are on it: Yvette D. Clarke, Adriano Espaillat, Andrew R. Garbarino and others.
 
 **H.R. 2979, BUILD Act for police and fire facilities: Rebuild roads, transit and first-responder facilities**
@@ -70,4 +70,4 @@ Representative for NY-24 · 9.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

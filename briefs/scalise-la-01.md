@@ -9,7 +9,7 @@ Representative for LA-01 · 18.5 years in the House · House Majority Leader
 1. **Schedule a floor vote on H.R. 4642 (Fiscal Contingency Preparedness Act).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 95_  
    It cleared committee (committee vote 39-1) with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 2. **Schedule a floor vote on H.R. 3514 (Improving Seniors' Timely Access to Care Act).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 95_  
-   It cleared committee (committee vote 42-0) with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+   It cleared committee (committee vote 42-0) with 312 sponsors and cosponsors (138 R, 171 D, 39 PSC).
 3. **Schedule a floor vote on H.R. 8870 (BUILD America 250 Act).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 95_  
    It cleared committee (committee vote 62-2) with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 4. **Bring S. 1837 (DEFIANCE Act), already passed by the Senate, to the House floor.** _Make AI safe and protect deepfake victims · [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) · priority 90_  
@@ -33,7 +33,7 @@ Representative for LA-01 · 18.5 years in the House · House Majority Leader
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 3 of your LA colleagues are on it: Troy A. Carter, Cleo Fields, Julia Letlow.
 
 **H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
@@ -70,4 +70,4 @@ Representative for LA-01 · 18.5 years in the House · House Majority Leader
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

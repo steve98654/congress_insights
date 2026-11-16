@@ -1,6 +1,6 @@
 # Rep. Haley M. Stevens (D-MI-11)
 
-Representative for MI-11 · 7.8 years in the House · Problem Solvers Caucus member · Leaving Congress in January (seeking other office: Ran for U.S. Senate)
+Representative for MI-11 · 7.9 years in the House · Problem Solvers Caucus member · Leaving Congress in January (seeking other office: Ran for U.S. Senate)
 
 **Priority tier A** · leverage score 72 (rank 31 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
@@ -69,4 +69,4 @@ Representative for MI-11 · 7.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

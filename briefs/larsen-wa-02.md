@@ -1,6 +1,6 @@
 # Rep. Rick Larsen (D-WA-02)
 
-Representative for WA-02 · 25.8 years in the House
+Representative for WA-02 · 25.9 years in the House
 
 **Priority tier A** · leverage score 64 (rank 168 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
@@ -69,4 +69,4 @@ Representative for WA-02 · 25.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

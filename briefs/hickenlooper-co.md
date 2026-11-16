@@ -1,6 +1,6 @@
 # Sen. John W. Hickenlooper (D-CO)
 
-Senator for CO · 5.8 years in the Senate
+Senator for CO · 5.9 years in the Senate
 
 **Priority tier B** · leverage score 72 (rank 8 of 100 in the Senate) · supports 0 of 5 caucus bills in their chamber
 
@@ -67,4 +67,4 @@ Senator for CO · 5.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

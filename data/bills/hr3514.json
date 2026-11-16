@@ -1903,6 +1903,24 @@
    "party": "R",
    "state": "SC",
    "date": "2026-10-19"
+  },
+  {
+   "bioguide": "W000788",
+   "party": "D",
+   "state": "GA",
+   "date": "2026-11-09"
+  },
+  {
+   "bioguide": "T000474",
+   "party": "D",
+   "state": "CA",
+   "date": "2026-11-09"
+  },
+  {
+   "bioguide": "M001246",
+   "party": "D",
+   "state": "NJ",
+   "date": "2026-11-09"
   }
  ],
  "cosponsors_complete": true,
@@ -1915,6 +1933,6 @@
  "policy_area": "Health",
  "status": "reported",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3514.xml",
- "fetched": "2026-11-04",
+ "fetched": "2026-11-16",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

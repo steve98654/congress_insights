@@ -1,6 +1,6 @@
 # Rep. Daniel Webster (R-FL-11)
 
-Representative for FL-11 · 15.8 years in the House · Leaving Congress in January (retiring)
+Representative for FL-11 · 15.9 years in the House · Leaving Congress in January (retiring)
 
 **Priority tier B** · leverage score 58 (rank 234 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
@@ -69,4 +69,4 @@ Representative for FL-11 · 15.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,6 +1,6 @@
 # Rep. Bonnie Watson Coleman (D-NJ-12)
 
-Representative for NJ-12 · 11.8 years in the House · Leaving Congress in January (retiring)
+Representative for NJ-12 · 11.9 years in the House · Leaving Congress in January (retiring)
 
 **Priority tier B** · leverage score 66 (rank 122 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
@@ -19,7 +19,7 @@ Representative for NJ-12 · 11.8 years in the House · Leaving Congress in Janua
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
    8 of your state colleagues are already cosponsoring: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), 5 more.
 6. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 9 of your state colleagues are on it: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), 6 more.
+   It cleared committee (committee vote 42-0). 10 of your state colleagues are on it: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), 7 more.
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Donald Norcross (D-NJ-01).
 8. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
@@ -69,4 +69,4 @@ Representative for NJ-12 · 11.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

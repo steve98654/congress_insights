@@ -1,8 +1,8 @@
 # Rep. Analilia Mejia (D-NJ-11)
 
-Representative for NJ-11 · 0.5 years in the House
+Representative for NJ-11 · 0.6 years in the House
 
-**Priority tier C** · leverage score 48 (rank 378 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 48 (rank 378 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Homeland Security; Small Business
 
@@ -16,8 +16,8 @@ Representative for NJ-11 · 0.5 years in the House
    8 of your state colleagues are already cosponsoring: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), 5 more.
 4. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
    4 of your state colleagues are already cosponsoring: Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Jefferson Van Drew (R-NJ-02), 1 more.
-5. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 9 of your state colleagues are on it: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), 6 more.
+5. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
+   You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Donald Norcross (D-NJ-01).
 7. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
@@ -39,7 +39,7 @@ Representative for NJ-11 · 0.5 years in the House
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 8 of your NJ colleagues are on it: Herbert C. Conaway, Jr., Josh Gottheimer, Thomas H. Kean, Jr. and others.
 
 ## Position on each goal
@@ -70,4 +70,4 @@ Representative for NJ-11 · 0.5 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

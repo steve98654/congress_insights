@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04",
+ "generated": "2026-11-16",
  "whip": [
   {
    "goal": "data-center-ratepayers",
@@ -9,7 +9,7 @@
    "yeas": 57,
    "needed": 60,
    "short_by": 3,
-   "result": "Cloture on the Motion to Proceed Rejected 57-43 (3/5 required) (Cloture on the motion to proceed to H.R. 9340, 2026-09-30).",
+   "result": "Cloture on the Motion to Proceed Rejected (57-43, 3/5 majority required) (On Cloture on the Motion to Proceed H.R. 9340, September ).",
    "nays": [
     {
      "slug": "king-me",
@@ -462,11 +462,11 @@
    "label": "H.R. 3514",
    "short": "Improving Seniors' Timely Access to Care Act",
    "stage": "reported",
-   "supporters": 303,
+   "supporters": 306,
    "to_majority": 0,
    "to_suspension": 0,
    "bipartisan": true,
-   "days_since_intro": 533,
+   "days_since_intro": 545,
    "discharge_ready": false,
    "complete": true
   },
@@ -476,11 +476,11 @@
    "label": "H.R. 2048",
    "short": "Metastatic Breast Cancer Access to Care Act",
    "stage": "in_committee",
-   "supporters": 264,
+   "supporters": 265,
    "to_majority": 0,
-   "to_suspension": 26,
+   "to_suspension": 25,
    "bipartisan": true,
-   "days_since_intro": 603,
+   "days_since_intro": 615,
    "discharge_ready": true,
    "complete": true
   },
@@ -494,7 +494,7 @@
    "to_majority": 75,
    "to_suspension": 147,
    "bipartisan": true,
-   "days_since_intro": 603,
+   "days_since_intro": 615,
    "discharge_ready": true,
    "complete": true
   },
@@ -504,11 +504,11 @@
    "label": "H.R. 5269",
    "short": "RESULTS Act",
    "stage": "in_committee",
-   "supporters": 128,
-   "to_majority": 90,
-   "to_suspension": 162,
+   "supporters": 130,
+   "to_majority": 88,
+   "to_suspension": 160,
    "bipartisan": true,
-   "days_since_intro": 420,
+   "days_since_intro": 432,
    "discharge_ready": true,
    "complete": true
   },
@@ -522,7 +522,7 @@
    "to_majority": 125,
    "to_suspension": 197,
    "bipartisan": true,
-   "days_since_intro": 519,
+   "days_since_intro": 531,
    "discharge_ready": true,
    "complete": true
   },
@@ -536,7 +536,7 @@
    "to_majority": 138,
    "to_suspension": 210,
    "bipartisan": true,
-   "days_since_intro": 621,
+   "days_since_intro": 633,
    "discharge_ready": true,
    "complete": true
   },
@@ -550,7 +550,7 @@
    "to_majority": 149,
    "to_suspension": 221,
    "bipartisan": true,
-   "days_since_intro": 532,
+   "days_since_intro": 544,
    "discharge_ready": true,
    "complete": true
   },
@@ -564,7 +564,7 @@
    "to_majority": 170,
    "to_suspension": 242,
    "bipartisan": true,
-   "days_since_intro": 512,
+   "days_since_intro": 524,
    "discharge_ready": true,
    "complete": true
   },
@@ -578,7 +578,7 @@
    "to_majority": 175,
    "to_suspension": 247,
    "bipartisan": true,
-   "days_since_intro": 139,
+   "days_since_intro": 151,
    "discharge_ready": false,
    "complete": true
   },
@@ -592,7 +592,7 @@
    "to_majority": 175,
    "to_suspension": 247,
    "bipartisan": true,
-   "days_since_intro": 545,
+   "days_since_intro": 557,
    "discharge_ready": true,
    "complete": true
   },
@@ -606,7 +606,7 @@
    "to_majority": 195,
    "to_suspension": 267,
    "bipartisan": true,
-   "days_since_intro": 469,
+   "days_since_intro": 481,
    "discharge_ready": false,
    "complete": true
   },
@@ -620,8 +620,8 @@
    "to_majority": 207,
    "to_suspension": 279,
    "bipartisan": true,
-   "days_since_intro": 50,
-   "discharge_ready": false,
+   "days_since_intro": 62,
+   "discharge_ready": true,
    "complete": true
   },
   {
@@ -634,8 +634,8 @@
    "to_majority": 207,
    "to_suspension": 279,
    "bipartisan": true,
-   "days_since_intro": 50,
-   "discharge_ready": false,
+   "days_since_intro": 62,
+   "discharge_ready": true,
    "complete": true
   },
   {
@@ -648,7 +648,7 @@
    "to_majority": 210,
    "to_suspension": 282,
    "bipartisan": true,
-   "days_since_intro": 666,
+   "days_since_intro": 678,
    "discharge_ready": true,
    "complete": true
   },
@@ -662,7 +662,7 @@
    "to_majority": 210,
    "to_suspension": 282,
    "bipartisan": true,
-   "days_since_intro": 562,
+   "days_since_intro": 574,
    "discharge_ready": true,
    "complete": true
   },
@@ -676,8 +676,8 @@
    "to_majority": 210,
    "to_suspension": 282,
    "bipartisan": true,
-   "days_since_intro": 50,
-   "discharge_ready": false,
+   "days_since_intro": 62,
+   "discharge_ready": true,
    "complete": true
   },
   {
@@ -690,7 +690,7 @@
    "to_majority": 211,
    "to_suspension": 283,
    "bipartisan": true,
-   "days_since_intro": 293,
+   "days_since_intro": 305,
    "discharge_ready": true,
    "complete": true
   },
@@ -704,8 +704,8 @@
    "to_majority": 212,
    "to_suspension": 284,
    "bipartisan": false,
-   "days_since_intro": 50,
-   "discharge_ready": false,
+   "days_since_intro": 62,
+   "discharge_ready": true,
    "complete": true
   },
   {
@@ -718,7 +718,7 @@
    "to_majority": 213,
    "to_suspension": 285,
    "bipartisan": true,
-   "days_since_intro": 169,
+   "days_since_intro": 181,
    "discharge_ready": false,
    "complete": true
   },
@@ -732,7 +732,7 @@
    "to_majority": 213,
    "to_suspension": 285,
    "bipartisan": true,
-   "days_since_intro": 670,
+   "days_since_intro": 682,
    "discharge_ready": true,
    "complete": true
   }
@@ -1348,31 +1348,31 @@
     "redistricting-reform": 0
    },
    "closest_bill": {
-    "bill": "hr2036",
-    "label": "H.R. 2036",
-    "short": "Credit for Caring Act",
-    "share": 0.43,
-    "on": 6,
+    "bill": "hr3514",
+    "label": "H.R. 3514",
+    "short": "Improving Seniors' Timely Access to Care Act",
+    "share": 0.5,
+    "on": 7,
     "of": 14,
     "missing": [
      {
-      "slug": "carter-ga-01",
-      "name": "Earl L. \"Buddy\" Carter",
-      "label": "R-GA-01",
+      "slug": "jack-ga-03",
+      "name": "Brian Jack",
+      "label": "R-GA-03",
       "party": "R",
       "psc": false
      },
      {
-      "slug": "williams-ga-05",
-      "name": "Nikema Williams",
-      "label": "D-GA-05",
+      "slug": "johnson-ga-04",
+      "name": "Henry C. \"Hank\" Johnson, Jr.",
+      "label": "D-GA-04",
       "party": "D",
       "psc": false
      },
      {
-      "slug": "mccormick-ga-07",
-      "name": "Richard McCormick",
-      "label": "R-GA-07",
+      "slug": "scott-ga-08",
+      "name": "Austin Scott",
+      "label": "R-GA-08",
       "party": "R",
       "psc": false
      },
@@ -1391,10 +1391,10 @@
       "psc": false
      },
      {
-      "slug": "loudermilk-ga-11",
-      "name": "Barry Loudermilk",
-      "label": "R-GA-11",
-      "party": "R",
+      "slug": "blair-ga-13",
+      "name": "Everton Blair Jr.",
+      "label": "D-GA-13",
+      "party": "D",
       "psc": false
      }
     ]
@@ -2424,21 +2424,14 @@
     "bill": "hr3514",
     "label": "H.R. 3514",
     "short": "Improving Seniors' Timely Access to Care Act",
-    "share": 0.75,
-    "on": 9,
+    "share": 0.83,
+    "on": 10,
     "of": 12,
     "missing": [
      {
       "slug": "pallone-nj-06",
       "name": "Frank Pallone, Jr.",
       "label": "D-NJ-06",
-      "party": "D",
-      "psc": false
-     },
-     {
-      "slug": "mejia-nj-11",
-      "name": "Analilia Mejia",
-      "label": "D-NJ-11",
       "party": "D",
       "psc": false
      },
@@ -3452,7 +3445,7 @@
      "label": "H.R. 3514",
      "short": "Improving Seniors' Timely Access to Care Act",
      "stage": "reported",
-     "supporters": 309,
+     "supporters": 312,
      "committee_supporters": 39,
      "committee_share": 0.87
     },
@@ -3462,7 +3455,7 @@
      "label": "H.R. 2048",
      "short": "Metastatic Breast Cancer Access to Care Act",
      "stage": "in_committee",
-     "supporters": 272,
+     "supporters": 273,
      "committee_supporters": 32,
      "committee_share": 0.71
     },
@@ -3482,13 +3475,13 @@
      "label": "H.R. 5269",
      "short": "RESULTS Act",
      "stage": "in_committee",
-     "supporters": 130,
+     "supporters": 132,
      "committee_supporters": 24,
      "committee_share": 0.53
     }
    ],
    "waiting": 3,
-   "bottleneck": 8.48
+   "bottleneck": 8.51
   },
   {
    "code": "HSJU",
@@ -3610,7 +3603,7 @@
      "label": "H.R. 3514",
      "short": "Improving Seniors' Timely Access to Care Act",
      "stage": "reported",
-     "supporters": 309,
+     "supporters": 312,
      "committee_supporters": 45,
      "committee_share": 0.83
     },
@@ -3620,7 +3613,7 @@
      "label": "H.R. 5269",
      "short": "RESULTS Act",
      "stage": "in_committee",
-     "supporters": 130,
+     "supporters": 132,
      "committee_supporters": 36,
      "committee_share": 0.67
     },
@@ -3646,7 +3639,7 @@
     }
    ],
    "waiting": 3,
-   "bottleneck": 4.87
+   "bottleneck": 4.89
   },
   {
    "code": "HSED",
@@ -3784,7 +3777,7 @@
    "code": "HSBA",
    "name": "Financial Services",
    "chamber": "house",
-   "size": 53,
+   "size": 54,
    "chair": {
     "slug": "hill-ar-02",
     "name": "J. French Hill",
@@ -3808,7 +3801,7 @@
      "stage": "in_committee",
      "supporters": 95,
      "committee_supporters": 13,
-     "committee_share": 0.25
+     "committee_share": 0.24
     }
    ],
    "waiting": 1,
@@ -4492,7 +4485,7 @@
    "label": "H.R. 3514",
    "short": "Improving Seniors' Timely Access to Care Act",
    "stage": "reported",
-   "supporters": 309,
+   "supporters": 312,
    "committees": [
     "Finance"
    ],
@@ -4562,7 +4555,7 @@
    "label": "H.R. 5269",
    "short": "RESULTS Act",
    "stage": "in_committee",
-   "supporters": 130,
+   "supporters": 132,
    "committees": [
     "Finance"
    ],
@@ -4575,7 +4568,7 @@
      "party": "R",
      "psc": false,
      "reasons": [
-      "11 House members from TX back it"
+      "12 House members from TX back it"
      ]
     },
     {
@@ -10581,7 +10574,7 @@
      "score": 11.4,
      "reasons": [
       "PSC member",
-      "11 state colleagues on it",
+      "12 state colleagues on it",
       "backs a related caucus bill",
       "backs 6 other-party caucus bills"
      ]
@@ -10948,6 +10941,19 @@
      ]
     },
     {
+     "slug": "steil-wi-01",
+     "name": "Bryan Steil",
+     "label": "R-WI-01",
+     "party": "R",
+     "psc": true,
+     "score": 8.0,
+     "reasons": [
+      "PSC member",
+      "4 state colleagues on it",
+      "backs a related caucus bill"
+     ]
+    },
+    {
      "slug": "rouzer-nc-07",
      "name": "David Rouzer",
      "label": "R-NC-07",
@@ -10958,19 +10964,6 @@
       "7 state colleagues on it",
       "backs a related caucus bill",
       "backs 1 other-party caucus bills"
-     ]
-    },
-    {
-     "slug": "steil-wi-01",
-     "name": "Bryan Steil",
-     "label": "R-WI-01",
-     "party": "R",
-     "psc": true,
-     "score": 7.5,
-     "reasons": [
-      "PSC member",
-      "3 state colleagues on it",
-      "backs a related caucus bill"
      ]
     },
     {
@@ -10987,29 +10980,29 @@
      ]
     },
     {
-     "slug": "arrington-tx-19",
-     "name": "Jodey C. Arrington",
-     "label": "R-TX-19",
-     "party": "R",
+     "slug": "foushee-nc-04",
+     "name": "Valerie P. Foushee",
+     "label": "D-NC-04",
+     "party": "D",
      "psc": false,
-     "score": 6.5,
+     "score": 7.2,
      "reasons": [
-      "on the committee",
-      "15 state colleagues on it",
-      "backs a related caucus bill"
+      "7 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 3 other-party caucus bills"
      ]
     },
     {
-     "slug": "smucker-pa-11",
-     "name": "Lloyd Smucker",
-     "label": "R-PA-11",
-     "party": "R",
+     "slug": "mejia-nj-11",
+     "name": "Analilia Mejia",
+     "label": "D-NJ-11",
+     "party": "D",
      "psc": false,
-     "score": 6.5,
+     "score": 6.8,
      "reasons": [
-      "on the committee",
-      "13 state colleagues on it",
-      "backs a related caucus bill"
+      "8 state colleagues on it",
+      "backs a related caucus bill",
+      "backs 2 other-party caucus bills"
      ]
     }
    ]
@@ -12163,7 +12156,7 @@
    "label": "H.R. 2036",
    "short": "Credit for Caring Act",
    "dated": true,
-   "recent": 60,
+   "recent": 58,
    "recent_members": [
     {
      "slug": "mcclain-delaney-md-06",
@@ -12238,7 +12231,7 @@
    "label": "H.R. 9340",
    "short": "Ratepayer Protection Act",
    "dated": true,
-   "recent": 25,
+   "recent": 23,
    "recent_members": [
     {
      "slug": "huizenga-mi-04",
@@ -12313,8 +12306,24 @@
    "label": "H.R. 5269",
    "short": "RESULTS Act",
    "dated": true,
-   "recent": 18,
+   "recent": 20,
    "recent_members": [
+    {
+     "slug": "gooden-tx-05",
+     "name": "Lance Gooden",
+     "label": "R-TX-05",
+     "party": "R",
+     "psc": false,
+     "date": "2026-11-12"
+    },
+    {
+     "slug": "foushee-nc-04",
+     "name": "Valerie P. Foushee",
+     "label": "D-NC-04",
+     "party": "D",
+     "psc": false,
+     "date": "2026-11-12"
+    },
     {
      "slug": "ruiz-ca-25",
      "name": "Raul Ruiz",
@@ -12362,25 +12371,9 @@
      "party": "D",
      "psc": false,
      "date": "2026-10-22"
-    },
-    {
-     "slug": "stevens-mi-11",
-     "name": "Haley M. Stevens",
-     "label": "D-MI-11",
-     "party": "D",
-     "psc": true,
-     "date": "2026-10-15"
-    },
-    {
-     "slug": "wilson-sc-02",
-     "name": "Joe Wilson",
-     "label": "R-SC-02",
-     "party": "R",
-     "psc": false,
-     "date": "2026-10-15"
     }
    ],
-   "last_added": "2026-11-02"
+   "last_added": "2026-11-12"
   },
   {
    "goal": "health-access",
@@ -12388,8 +12381,32 @@
    "label": "H.R. 3514",
    "short": "Improving Seniors' Timely Access to Care Act",
    "dated": true,
-   "recent": 10,
+   "recent": 13,
    "recent_members": [
+    {
+     "slug": "williams-ga-05",
+     "name": "Nikema Williams",
+     "label": "D-GA-05",
+     "party": "D",
+     "psc": false,
+     "date": "2026-11-09"
+    },
+    {
+     "slug": "torres-ca-35",
+     "name": "Norma J. Torres",
+     "label": "D-CA-35",
+     "party": "D",
+     "psc": false,
+     "date": "2026-11-09"
+    },
+    {
+     "slug": "mejia-nj-11",
+     "name": "Analilia Mejia",
+     "label": "D-NJ-11",
+     "party": "D",
+     "psc": false,
+     "date": "2026-11-09"
+    },
     {
      "slug": "moylan-gu-00",
      "name": "James C. Moylan",
@@ -12429,33 +12446,9 @@
      "party": "R",
      "psc": false,
      "date": "2026-09-16"
-    },
-    {
-     "slug": "patronis-fl-01",
-     "name": "Jimmy Patronis",
-     "label": "R-FL-01",
-     "party": "R",
-     "psc": false,
-     "date": "2026-09-14"
-    },
-    {
-     "slug": "franklin-fl-18",
-     "name": "Scott Franklin",
-     "label": "R-FL-18",
-     "party": "R",
-     "psc": false,
-     "date": "2026-08-31"
-    },
-    {
-     "slug": "mccormick-ga-07",
-     "name": "Richard McCormick",
-     "label": "R-GA-07",
-     "party": "R",
-     "psc": false,
-     "date": "2026-08-20"
     }
    ],
-   "last_added": "2026-10-19"
+   "last_added": "2026-11-09"
   },
   {
    "goal": "health-access",
@@ -12465,6 +12458,14 @@
    "dated": true,
    "recent": 10,
    "recent_members": [
+    {
+     "slug": "grothman-wi-06",
+     "name": "Glenn Grothman",
+     "label": "R-WI-06",
+     "party": "R",
+     "psc": false,
+     "date": "2026-11-09"
+    },
     {
      "slug": "davis-il-07",
      "name": "Danny K. Davis",
@@ -12520,92 +12521,9 @@
      "party": "R",
      "psc": false,
      "date": "2026-08-27"
-    },
-    {
-     "slug": "degette-co-01",
-     "name": "Diana DeGette",
-     "label": "D-CO-01",
-     "party": "D",
-     "psc": false,
-     "date": "2026-08-20"
     }
    ],
-   "last_added": "2026-09-28"
-  },
-  {
-   "goal": "online-safety-ai",
-   "bill": "hr3562",
-   "label": "H.R. 3562",
-   "short": "DEFIANCE Act",
-   "dated": true,
-   "recent": 10,
-   "recent_members": [
-    {
-     "slug": "miller-wv-01",
-     "name": "Carol D. Miller",
-     "label": "R-WV-01",
-     "party": "R",
-     "psc": false,
-     "date": "2026-10-26"
-    },
-    {
-     "slug": "subramanyam-va-10",
-     "name": "Suhas Subramanyam",
-     "label": "D-VA-10",
-     "party": "D",
-     "psc": false,
-     "date": "2026-10-26"
-    },
-    {
-     "slug": "balint-vt-00",
-     "name": "Becca Balint",
-     "label": "D-VT-00",
-     "party": "D",
-     "psc": false,
-     "date": "2026-10-22"
-    },
-    {
-     "slug": "turner-oh-10",
-     "name": "Michael R. Turner",
-     "label": "R-OH-10",
-     "party": "R",
-     "psc": false,
-     "date": "2026-10-22"
-    },
-    {
-     "slug": "joyce-oh-14",
-     "name": "David P. Joyce",
-     "label": "R-OH-14",
-     "party": "R",
-     "psc": true,
-     "date": "2026-09-01"
-    },
-    {
-     "slug": "delbene-wa-01",
-     "name": "Suzan K. DelBene",
-     "label": "D-WA-01",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-01"
-    },
-    {
-     "slug": "baird-in-04",
-     "name": "James R. Baird",
-     "label": "R-IN-04",
-     "party": "R",
-     "psc": false,
-     "date": "2026-08-27"
-    },
-    {
-     "slug": "omar-mn-05",
-     "name": "Ilhan Omar",
-     "label": "D-MN-05",
-     "party": "D",
-     "psc": false,
-     "date": "2026-08-27"
-    }
-   ],
-   "last_added": "2026-10-26"
+   "last_added": "2026-11-09"
   },
   {
    "goal": "redistricting-reform",
@@ -12758,6 +12676,81 @@
    "last_added": "2026-09-15"
   },
   {
+   "goal": "online-safety-ai",
+   "bill": "hr3562",
+   "label": "H.R. 3562",
+   "short": "DEFIANCE Act",
+   "dated": true,
+   "recent": 8,
+   "recent_members": [
+    {
+     "slug": "miller-wv-01",
+     "name": "Carol D. Miller",
+     "label": "R-WV-01",
+     "party": "R",
+     "psc": false,
+     "date": "2026-10-26"
+    },
+    {
+     "slug": "subramanyam-va-10",
+     "name": "Suhas Subramanyam",
+     "label": "D-VA-10",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-26"
+    },
+    {
+     "slug": "balint-vt-00",
+     "name": "Becca Balint",
+     "label": "D-VT-00",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-22"
+    },
+    {
+     "slug": "turner-oh-10",
+     "name": "Michael R. Turner",
+     "label": "R-OH-10",
+     "party": "R",
+     "psc": false,
+     "date": "2026-10-22"
+    },
+    {
+     "slug": "joyce-oh-14",
+     "name": "David P. Joyce",
+     "label": "R-OH-14",
+     "party": "R",
+     "psc": true,
+     "date": "2026-09-01"
+    },
+    {
+     "slug": "delbene-wa-01",
+     "name": "Suzan K. DelBene",
+     "label": "D-WA-01",
+     "party": "D",
+     "psc": false,
+     "date": "2026-09-01"
+    },
+    {
+     "slug": "baird-in-04",
+     "name": "James R. Baird",
+     "label": "R-IN-04",
+     "party": "R",
+     "psc": false,
+     "date": "2026-08-27"
+    },
+    {
+     "slug": "omar-mn-05",
+     "name": "Ilhan Omar",
+     "label": "D-MN-05",
+     "party": "D",
+     "psc": false,
+     "date": "2026-08-27"
+    }
+   ],
+   "last_added": "2026-10-26"
+  },
+  {
    "goal": "redistricting-reform",
    "bill": "hr10380",
    "label": "H.R. 10380",
@@ -12825,57 +12818,6 @@
    "last_added": "2026-09-21"
   },
   {
-   "goal": "family-costs",
-   "bill": "hr1464",
-   "label": "H.R. 1464",
-   "short": "MODERN WIC Act",
-   "dated": true,
-   "recent": 5,
-   "recent_members": [
-    {
-     "slug": "wilson-fl-24",
-     "name": "Frederica S. Wilson",
-     "label": "D-FL-24",
-     "party": "D",
-     "psc": false,
-     "date": "2026-10-15"
-    },
-    {
-     "slug": "gillen-ny-04",
-     "name": "Laura Gillen",
-     "label": "D-NY-04",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-24"
-    },
-    {
-     "slug": "bishop-ga-02",
-     "name": "Sanford D. Bishop, Jr.",
-     "label": "D-GA-02",
-     "party": "D",
-     "psc": false,
-     "date": "2026-09-04"
-    },
-    {
-     "slug": "min-ca-47",
-     "name": "Dave Min",
-     "label": "D-CA-47",
-     "party": "D",
-     "psc": false,
-     "date": "2026-08-27"
-    },
-    {
-     "slug": "bera-ca-06",
-     "name": "Ami Bera",
-     "label": "D-CA-06",
-     "party": "D",
-     "psc": false,
-     "date": "2026-08-17"
-    }
-   ],
-   "last_added": "2026-10-15"
-  },
-  {
    "goal": "redistricting-reform",
    "bill": "hr10381",
    "label": "H.R. 10381",
@@ -12925,6 +12867,49 @@
     }
    ],
    "last_added": "2026-09-15"
+  },
+  {
+   "goal": "family-costs",
+   "bill": "hr1464",
+   "label": "H.R. 1464",
+   "short": "MODERN WIC Act",
+   "dated": true,
+   "recent": 4,
+   "recent_members": [
+    {
+     "slug": "wilson-fl-24",
+     "name": "Frederica S. Wilson",
+     "label": "D-FL-24",
+     "party": "D",
+     "psc": false,
+     "date": "2026-10-15"
+    },
+    {
+     "slug": "gillen-ny-04",
+     "name": "Laura Gillen",
+     "label": "D-NY-04",
+     "party": "D",
+     "psc": false,
+     "date": "2026-09-24"
+    },
+    {
+     "slug": "bishop-ga-02",
+     "name": "Sanford D. Bishop, Jr.",
+     "label": "D-GA-02",
+     "party": "D",
+     "psc": false,
+     "date": "2026-09-04"
+    },
+    {
+     "slug": "min-ca-47",
+     "name": "Dave Min",
+     "label": "D-CA-47",
+     "party": "D",
+     "psc": false,
+     "date": "2026-08-27"
+    }
+   ],
+   "last_added": "2026-10-15"
   },
   {
    "goal": "permitting-reform",
@@ -13183,7 +13168,7 @@
     "label": "H.R. 3514",
     "short": "Improving Seniors' Timely Access to Care Act",
     "stage": "reported",
-    "supporters": 309,
+    "supporters": 312,
     "departing": 45,
     "sponsor_departing": false,
     "departing_members": [
@@ -13555,7 +13540,7 @@
     "label": "H.R. 2048",
     "short": "Metastatic Breast Cancer Access to Care Act",
     "stage": "in_committee",
-    "supporters": 272,
+    "supporters": 273,
     "departing": 42,
     "sponsor_departing": false,
     "departing_members": [
@@ -14207,7 +14192,7 @@
     "label": "H.R. 5269",
     "short": "RESULTS Act",
     "stage": "in_committee",
-    "supporters": 130,
+    "supporters": 132,
     "departing": 16,
     "sponsor_departing": false,
     "departing_members": [

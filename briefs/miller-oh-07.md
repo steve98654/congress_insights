@@ -1,6 +1,6 @@
 # Rep. Max L. Miller (R-OH-07)
 
-Representative for OH-07 · 3.8 years in the House
+Representative for OH-07 · 3.9 years in the House
 
 **Priority tier B** · leverage score 60 (rank 214 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
@@ -9,7 +9,7 @@ Representative for OH-07 · 3.8 years in the House
 ## Top actions
 
 1. **Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 2. **Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 3. **Press for a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 55_  
@@ -27,7 +27,7 @@ Representative for OH-07 · 3.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 5 of your OH colleagues are on it: Joyce Beatty, Troy Balderson, Mike Carey and others.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
@@ -38,7 +38,7 @@ Representative for OH-07 · 3.8 years in the House
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 7 of your OH colleagues are on it: Joyce Beatty, Shontel M. Brown, David P. Joyce and others.
 - Your record: cosponsor.
 
@@ -70,4 +70,4 @@ Representative for OH-07 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

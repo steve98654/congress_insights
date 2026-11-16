@@ -1,6 +1,6 @@
 # Sen. Christopher Murphy (D-CT)
 
-Senator for CT · 13.8 years in the Senate · Senate Democratic Conference Deputy Secretary
+Senator for CT · 13.9 years in the Senate · Senate Democratic Conference Deputy Secretary
 
 **Priority tier B** · leverage score 67 (rank 26 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
 
@@ -66,4 +66,4 @@ Senator for CT · 13.8 years in the Senate · Senate Democratic Conference Deput
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

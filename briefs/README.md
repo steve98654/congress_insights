@@ -57,6 +57,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Steve Daines (R-MT)](daines-mt.md) | B | 60 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Michael F. Bennet (D-CO). |
 | [Jerry Moran (R-KS)](moran-ks.md) | A | 60 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
 | [Lisa Murkowski (R-AK)](murkowski-ak.md) | B | 60 | 3/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. John W. Hickenlooper (D-CO). |
+| [Darline Graham (R-SC)](graham-nordone-sc.md) | B | 59 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
 | [John Kennedy (R-LA)](kennedy-la.md) | B | 59 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
 | [David McCormick (R-PA)](mccormick-pa.md) | B | 59 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. John Fetterman (D-PA). |
 | [Katie Boyd Britt (R-AL)](britt-al.md) | B | 58 | 1/5 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
@@ -105,7 +106,6 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Joni Ernst (R-IA)](ernst-ia.md) | C | 41 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA). |
 | [Ted Budd (R-NC)](budd-nc.md) | C | 40 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA), Sen. Michael F. Bennet (D-CO). |
 | [Cynthia M. Lummis (R-WY)](lummis-wy.md) | C | 39 | 1/5 | Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA). |
-| [Darline Graham (R-SC)](graham-nordone-sc.md) | C | 0 | 1/5 |  |
 
 ## House
 
@@ -166,9 +166,9 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Jesús G. "Chuy" García (D-IL-04)](garcia-il-04.md) | B | 68 | 2/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
 | [Brandon Gill (R-TX-26)](gill-tx-26.md) | B | 68 | 0/20 | Cosponsor H.R. 3289 (Fiscal Commission Act). It is waiting in Budget, where you sit. |
 | [Daniel S. Goldman (D-NY-10)](goldman-ny-10.md) | B | 68 | 2/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit. |
-| [Lance Gooden (R-TX-05)](gooden-tx-05.md) | B | 68 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit. |
+| [Lance Gooden (R-TX-05)](gooden-tx-05.md) | B | 68 | 4/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit. |
 | [H. Morgan Griffith (R-VA-09)](griffith-va-09.md) | B | 68 | 2/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit. |
-| [Glenn Grothman (R-WI-06)](grothman-wi-06.md) | B | 68 | 2/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit. |
+| [Glenn Grothman (R-WI-06)](grothman-wi-06.md) | B | 68 | 3/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit. |
 | [Harriet M. Hageman (R-WY-00)](hageman-wy-00.md) | B | 68 | 2/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Judiciary, where you sit. |
 | [Mark Harris (R-NC-08)](harris-nc-08.md) | B | 68 | 0/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Education and Workforce, where you sit. |
 | [J. French Hill (R-AR-02)](hill-ar-02.md) | A | 68 | 2/20 | Schedule a markup of H.R. 3694 (VALID Act) in Financial Services. |
@@ -331,6 +331,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Maria Elvira Salazar (R-FL-27)](salazar-fl-27.md) | A | 59 | 7/20 | Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit. |
 | [James R. Baird (R-IN-04)](baird-in-04.md) | B | 58 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit. |
 | [Tom Barrett (R-MI-07)](barrett-mi-07.md) | B | 58 | 2/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
+| [Everton Blair Jr. (D-GA-13)](blair-ga-13.md) | B | 58 | 0/20 | Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit. |
 | [Mike Bost (R-IL-12)](bost-il-12.md) | B | 58 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
 | [Julia Brownley (D-CA-26)](brownley-ca-26.md) | B | 58 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
 | [Mike Collins (R-GA-10)](collins-ga-10.md) | B | 58 | 0/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit. |
@@ -339,7 +340,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Byron Donalds (R-FL-19)](donalds-fl-19.md) | B | 58 | 0/20 | Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit. |
 | [Tom Emmer (R-MN-06)](emmer-mn-06.md) | A | 58 | 0/20 | Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit. |
 | [Vince Fong (R-CA-20)](fong-ca-20.md) | B | 58 | 0/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit. |
-| [Valerie P. Foushee (D-NC-04)](foushee-nc-04.md) | B | 58 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit. |
+| [Valerie P. Foushee (D-NC-04)](foushee-nc-04.md) | B | 58 | 4/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit. |
 | [Scott Franklin (R-FL-18)](franklin-fl-18.md) | B | 58 | 2/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit. |
 | [Laura Friedman (D-CA-30)](friedman-ca-30.md) | B | 58 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit. |
 | [Maxwell Frost (D-FL-10)](frost-fl-10.md) | B | 58 | 4/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
@@ -402,7 +403,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Andrea Salinas (D-OR-06)](salinas-or-06.md) | B | 56 | 4/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Science, Space, and Technology, where you sit. |
 | [Greg Stanton (D-AZ-04)](stanton-az-04.md) | B | 56 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
 | [Pete Stauber (R-MN-08)](stauber-mn-08.md) | B | 56 | 3/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
-| [Norma J. Torres (D-CA-35)](torres-ca-35.md) | B | 56 | 4/20 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
+| [Norma J. Torres (D-CA-35)](torres-ca-35.md) | B | 56 | 5/20 | Restore surface transportation funding to FY2026 levels in the FY2027 THUD bill (highways, airports, transit). |
 | [Don Bacon (R-NE-02)](bacon-ne-02.md) | A | 55 | 6/20 | Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor. |
 | [Angie Craig (D-MN-02)](craig-mn-02.md) | A | 55 | 6/20 | Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor. |
 | [Eric A. "Rick" Crawford (R-AR-01)](crawford-ar-01.md) | A | 55 | 0/20 | Cosponsor H.R. 2979 (BUILD Act for police and fire facilities). It is waiting in Transportation and Infrastructure, where you sit. |
@@ -442,7 +443,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Sean Casten (D-IL-06)](casten-il-06.md) | C | 51 | 3/20 | Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit. |
 | [Vicente Gonzalez (D-TX-34)](gonzalez-tx-34.md) | C | 51 | 5/20 | Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit. |
 | [Rashida Tlaib (D-MI-12)](tlaib-mi-12.md) | C | 51 | 5/20 | Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit. |
-| [Nikema Williams (D-GA-05)](williams-ga-05.md) | C | 51 | 2/20 | Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit. |
+| [Nikema Williams (D-GA-05)](williams-ga-05.md) | C | 51 | 3/20 | Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit. |
 | [Ken Calvert (R-CA-41)](calvert-ca-41.md) | C | 49 | 2/20 | Back on-time passage of all 12 appropriations bills in committee. |
 | [John R. Carter (R-TX-31)](carter-tx-31.md) | C | 49 | 1/20 | Back on-time passage of all 12 appropriations bills in committee. |
 | [Michael Cloud (R-TX-27)](cloud-tx-27.md) | C | 49 | 0/20 | Back on-time passage of all 12 appropriations bills in committee. |
@@ -465,7 +466,6 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Mark E. Amodei (R-NV-02)](amodei-nv-02.md) | C | 48 | 2/20 | Back on-time passage of all 12 appropriations bills in committee. |
 | [Ami Bera (D-CA-06)](bera-ca-06.md) | C | 48 | 5/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). |
 | [Sanford D. Bishop, Jr. (D-GA-02)](bishop-ga-02.md) | C | 48 | 6/20 | Back on-time passage of all 12 appropriations bills in committee. |
-| [Everton Blair Jr. (D-GA-13)](blair-ga-13.md) | C | 48 | 0/20 | Cosponsor H.R. 2036 (Credit for Caring Act). |
 | [Lauren Boebert (R-CO-04)](boebert-co-04.md) | C | 48 | 1/20 | Cosponsor H.R. 3694 (VALID Act). |
 | [Shontel M. Brown (D-OH-11)](brown-oh-11.md) | C | 48 | 2/20 | Cosponsor H.R. 2036 (Credit for Caring Act). |
 | [Gilbert Ray Cisneros, Jr. (D-CA-31)](cisneros-ca-31.md) | C | 48 | 3/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). |
@@ -489,7 +489,7 @@ One brief per member of Congress (539), with action items toward the Problem Sol
 | [Morgan Luttrell (R-TX-08)](luttrell-tx-08.md) | C | 48 | 1/20 | Cosponsor H.R. 2036 (Credit for Caring Act). |
 | [Betty McCollum (D-MN-04)](mccollum-mn-04.md) | C | 48 | 3/20 | Back on-time passage of all 12 appropriations bills in committee. |
 | [LaMonica McIver (D-NJ-10)](mciver-nj-10.md) | C | 48 | 3/20 | Cosponsor H.R. 2036 (Credit for Caring Act). |
-| [Analilia Mejia (D-NJ-11)](mejia-nj-11.md) | C | 48 | 1/20 | Cosponsor H.R. 2036 (Credit for Caring Act). |
+| [Analilia Mejia (D-NJ-11)](mejia-nj-11.md) | C | 48 | 2/20 | Cosponsor H.R. 2036 (Credit for Caring Act). |
 | [Cory Mills (R-FL-07)](mills-fl-07.md) | C | 48 | 4/20 | Cosponsor H.R. 2036 (Credit for Caring Act). |
 | [Dave Min (D-CA-47)](min-ca-47.md) | C | 48 | 2/20 | Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). |
 | [Zachary Nunn (R-IA-03)](nunn-ia-03.md) | C | 48 | 5/20 | Press for a markup of H.R. 3694 (VALID Act) in Financial Services, where you sit. |

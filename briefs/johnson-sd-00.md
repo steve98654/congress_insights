@@ -1,8 +1,8 @@
 # Rep. Dusty Johnson (R-SD-00)
 
-Representative for SD-00 · 7.8 years in the House · Leaving Congress in January (seeking other office: Running for governor of South Dakota)
+Representative for SD-00 · 7.9 years in the House · Leaving Congress in January (seeking other office: Running for governor of South Dakota)
 
-**Priority tier B** · leverage score 54 (rank 315 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 54 (rank 316 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Transportation and Infrastructure; Strategic Competition Between the United States and the Chinese Communist Party
 
@@ -25,7 +25,7 @@ Representative for SD-00 · 7.8 years in the House · Leaving Congress in Januar
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - Your record: cosponsor.
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
@@ -62,4 +62,4 @@ Representative for SD-00 · 7.8 years in the House · Leaving Congress in Januar
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

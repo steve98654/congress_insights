@@ -1,6 +1,6 @@
 # Sen. Lisa Blunt Rochester (D-DE)
 
-Senator for DE · 1.8 years in the Senate
+Senator for DE · 1.9 years in the Senate
 
 **Priority tier B** · leverage score 66 (rank 29 of 100 in the Senate) · supports 0 of 5 caucus bills in their chamber
 
@@ -69,4 +69,4 @@ Senator for DE · 1.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

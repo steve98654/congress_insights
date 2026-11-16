@@ -1,6 +1,6 @@
 # Rep. Tim Walberg (R-MI-05)
 
-Representative for MI-05 · 19.8 years in the House
+Representative for MI-05 · 19.9 years in the House
 
 **Priority tier A** · leverage score 83 (rank 12 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
@@ -70,4 +70,4 @@ Representative for MI-05 · 19.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

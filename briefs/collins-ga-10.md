@@ -1,6 +1,6 @@
 # Rep. Mike Collins (R-GA-10)
 
-Representative for GA-10 · 3.8 years in the House · Leaving Congress in January (seeking other office: Running for U.S. Senate)
+Representative for GA-10 · 3.9 years in the House · Leaving Congress in January (seeking other office: Running for U.S. Senate)
 
 **Priority tier B** · leverage score 58 (rank 238 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
@@ -17,7 +17,7 @@ Representative for GA-10 · 3.8 years in the House · Leaving Congress in Januar
 4. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
    6 of your state colleagues are already cosponsoring: Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), 3 more.
 5. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), 3 more.
+   It cleared committee (committee vote 42-0). 7 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), 4 more.
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Barry Loudermilk (R-GA-11), Rep. Nikema Williams (D-GA-05).
 7. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
@@ -38,7 +38,7 @@ Representative for GA-10 · 3.8 years in the House · Leaving Congress in Januar
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 3 of your GA colleagues are on it: Rick W. Allen, Earl L. "Buddy" Carter, Richard McCormick.
 
 ## Position on each goal
@@ -69,4 +69,4 @@ Representative for GA-10 · 3.8 years in the House · Leaving Congress in Januar
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

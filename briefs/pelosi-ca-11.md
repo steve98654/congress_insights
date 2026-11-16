@@ -1,8 +1,8 @@
 # Rep. Nancy Pelosi (D-CA-11)
 
-Representative for CA-11 · 39.8 years in the House · Leaving Congress in January (retiring)
+Representative for CA-11 · 39.9 years in the House · Leaving Congress in January (retiring)
 
-**Priority tier C** · leverage score 48 (rank 353 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 48 (rank 354 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 ## Top actions
 
@@ -21,7 +21,7 @@ Representative for CA-11 · 39.8 years in the House · Leaving Congress in Janua
 7. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
    6 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), Rep. Josh Harder (D-CA-09), 3 more.
 8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 32 of your state colleagues are on it: Rep. Pete Aguilar (D-CA-33), Rep. Julia Brownley (D-CA-26), Rep. Ami Bera (D-CA-06), 29 more.
+   It cleared committee (committee vote 42-0). 33 of your state colleagues are on it: Rep. Pete Aguilar (D-CA-33), Rep. Julia Brownley (D-CA-26), Rep. Ami Bera (D-CA-06), 30 more.
 
 ## Talking points
 
@@ -68,4 +68,4 @@ Representative for CA-11 · 39.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

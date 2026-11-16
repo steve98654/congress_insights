@@ -1,8 +1,8 @@
 # Rep. John R. Moolenaar (R-MI-02)
 
-Representative for MI-02 · 11.8 years in the House
+Representative for MI-02 · 11.9 years in the House
 
-**Priority tier C** · leverage score 49 (rank 341 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 49 (rank 342 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations; Strategic Competition Between the United States and the Chinese Communist Party (Chairman)
 
@@ -34,12 +34,12 @@ Representative for MI-02 · 11.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 4 of your MI colleagues are on it: Debbie Dingell, Bill Huizenga, Haley M. Stevens and others.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 10 of your MI colleagues are on it: Jack Bergman, Debbie Dingell, Bill Huizenga and others.
 
 ## Position on each goal
@@ -70,4 +70,4 @@ Representative for MI-02 · 11.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

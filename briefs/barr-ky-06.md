@@ -1,8 +1,8 @@
 # Rep. Andy Barr (R-KY-06)
 
-Representative for KY-06 · 13.8 years in the House · Leaving Congress in January (seeking other office: Running for U.S. Senate)
+Representative for KY-06 · 13.9 years in the House · Leaving Congress in January (seeking other office: Running for U.S. Senate)
 
-**Priority tier B** · leverage score 56 (rank 282 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 283 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; Foreign Affairs; Strategic Competition Between the United States and the Chinese Communist Party
 
@@ -32,7 +32,7 @@ Representative for KY-06 · 13.8 years in the House · Leaving Congress in Janua
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 1 of your KY colleagues is on it: Morgan McGarvey.
 - Your record: cosponsor.
 
@@ -64,4 +64,4 @@ Representative for KY-06 · 13.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

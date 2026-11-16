@@ -1,6 +1,6 @@
 # Sen. Bill Cassidy (R-LA)
 
-Senator for LA · 11.8 years in the Senate · Leaving Congress in January (lost primary: Finished third in the Louisiana primary)
+Senator for LA · 11.9 years in the Senate · Leaving Congress in January (lost primary: Finished third in the Louisiana primary)
 
 **Priority tier A** · leverage score 76 (rank 1 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
@@ -19,7 +19,7 @@ Senator for LA · 11.8 years in the Senate · Leaving Congress in January (lost 
 5. **Introduce a Senate companion to H.R. 3876 (LIHEAP Staffing Support Act) with Sen. Bernard Sanders (I-VT).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 33_  
    There is no Senate version yet, and you sit on Health, Education, Labor, and Pensions (likely committee of jurisdiction). The House bill is in committee with 49 sponsors and cosponsors (2 R, 47 D, 9 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 6. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Bernard Sanders (I-VT).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 30_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 312 sponsors and cosponsors (138 R, 171 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 7. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Bernard Sanders (I-VT).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 24_  
    There is no Senate version yet, and you sit on Veterans' Affairs (likely committee of jurisdiction). The House bill is in committee with 95 sponsors and cosponsors (37 R, 58 D, 20 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 8. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Bernard Sanders (I-VT).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 24_  
@@ -72,4 +72,4 @@ Senator for LA · 11.8 years in the Senate · Leaving Congress in January (lost 
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

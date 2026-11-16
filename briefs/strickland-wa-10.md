@@ -1,8 +1,8 @@
 # Rep. Marilyn Strickland (D-WA-10)
 
-Representative for WA-10 · 5.8 years in the House
+Representative for WA-10 · 5.9 years in the House
 
-**Priority tier B** · leverage score 57 (rank 274 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 57 (rank 275 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Transportation and Infrastructure
 
@@ -34,7 +34,7 @@ Representative for WA-10 · 5.8 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 8 of your WA colleagues are on it: Michael Baumgartner, Suzan K. DelBene, Marie Gluesenkamp Perez and others.
 - Your record: cosponsor.
 
@@ -66,4 +66,4 @@ Representative for WA-10 · 5.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

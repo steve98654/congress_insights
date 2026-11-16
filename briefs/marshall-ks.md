@@ -1,8 +1,8 @@
 # Sen. Roger Marshall (R-KS)
 
-Senator for KS · 5.8 years in the Senate
+Senator for KS · 5.9 years in the Senate
 
-**Priority tier B** · leverage score 56 (rank 63 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 64 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
 
 **Committees:** Agriculture, Nutrition, and Forestry; Finance; Health, Education, Labor, and Pensions; Budget
 
@@ -15,7 +15,7 @@ Senator for KS · 5.8 years in the Senate
 3. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Ben Ray Luján (D-NM).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Ben Ray Luján (D-NM).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 312 sponsors and cosponsors (138 R, 171 D, 39 PSC).
 5. **Press for a markup of S. 1929 in Health, Education, Labor, and Pensions.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 45_  
    You cosponsor it and sit on the committee holding it.
 6. **Introduce a Senate companion to H.R. 3876 (LIHEAP Staffing Support Act) with Sen. Bernard Sanders (I-VT).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 40_  
@@ -75,4 +75,4 @@ Senator for KS · 5.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

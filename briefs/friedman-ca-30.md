@@ -1,6 +1,6 @@
 # Rep. Laura Friedman (D-CA-30)
 
-Representative for CA-30 · 1.8 years in the House
+Representative for CA-30 · 1.9 years in the House
 
 **Priority tier B** · leverage score 58 (rank 228 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
@@ -21,7 +21,7 @@ Representative for CA-30 · 1.8 years in the House
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
    6 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), Rep. Josh Harder (D-CA-09), 3 more.
 7. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 32 of your state colleagues are on it: Rep. Pete Aguilar (D-CA-33), Rep. Julia Brownley (D-CA-26), Rep. Ami Bera (D-CA-06), 29 more.
+   It cleared committee (committee vote 42-0). 33 of your state colleagues are on it: Rep. Pete Aguilar (D-CA-33), Rep. Julia Brownley (D-CA-26), Rep. Ami Bera (D-CA-06), 30 more.
 8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues is on it: Rep. Scott H. Peters (D-CA-50).
 
@@ -70,4 +70,4 @@ Representative for CA-30 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

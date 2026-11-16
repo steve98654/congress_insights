@@ -1,6 +1,6 @@
 # Rep. Brad Knott (R-NC-13)
 
-Representative for NC-13 · 1.8 years in the House
+Representative for NC-13 · 1.9 years in the House
 
 **Priority tier B** · leverage score 68 (rank 68 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
@@ -59,7 +59,7 @@ Representative for NC-13 · 1.8 years in the House
 
 - [Rep. Deborah K. Ross (D-NC-02)](ross-nc-02.md): same state; shared committees: Judiciary, Ethics
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): same state; PSC member
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Transportation and Infrastructure; PSC member
+- [Rep. Valerie P. Foushee (D-NC-04)](foushee-nc-04.md): same state; shared committees: Transportation and Infrastructure
 
 ## Sources
 
@@ -67,4 +67,4 @@ Representative for NC-13 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

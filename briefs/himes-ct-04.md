@@ -1,8 +1,8 @@
 # Rep. James A. Himes (D-CT-04)
 
-Representative for CT-04 · 17.8 years in the House
+Representative for CT-04 · 17.9 years in the House
 
-**Priority tier B** · leverage score 55 (rank 295 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 55 (rank 296 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; Intelligence (Ranking Member)
 
@@ -28,7 +28,7 @@ Representative for CT-04 · 17.8 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 3 of your CT colleagues are on it: Joe Courtney, Jahana Hayes, John B. Larson.
 - Your record: cosponsor.
 
@@ -65,4 +65,4 @@ Representative for CT-04 · 17.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

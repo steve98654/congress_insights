@@ -1,6 +1,6 @@
 # Rep. Bryan Steil (R-WI-01)
 
-Representative for WI-01 · 7.8 years in the House · Problem Solvers Caucus member
+Representative for WI-01 · 7.9 years in the House · Problem Solvers Caucus member
 
 **Priority tier A** · leverage score 66 (rank 131 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
@@ -11,7 +11,7 @@ Representative for WI-01 · 7.8 years in the House · Problem Solvers Caucus mem
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 73_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 63_  
-   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Gwen Moore (D-WI-04), Rep. Mark Pocan (D-WI-02), Rep. Derrick Van Orden (R-WI-03).
+   It is PSC-endorsed and you are a caucus member. 4 of your state colleagues are already cosponsoring: Rep. Glenn Grothman (R-WI-06), Rep. Gwen Moore (D-WI-04), Rep. Mark Pocan (D-WI-02), 1 more.
 3. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 51_  
@@ -33,12 +33,12 @@ Representative for WI-01 · 7.8 years in the House · Problem Solvers Caucus mem
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
-- 3 of your WI colleagues are on it: Gwen Moore, Mark Pocan, Derrick Van Orden.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 4 of your WI colleagues are on it: Glenn Grothman, Gwen Moore, Mark Pocan and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 5 of your WI colleagues are on it: Scott Fitzgerald, Glenn Grothman, Gwen Moore and others.
 - Your record: cosponsor.
 
@@ -70,4 +70,4 @@ Representative for WI-01 · 7.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,8 +1,8 @@
 # Sen. James Lankford (R-OK)
 
-Senator for OK · 11.8 years in the Senate · Senate Republican Conference Vice Chair
+Senator for OK · 11.9 years in the Senate · Senate Republican Conference Vice Chair
 
-**Priority tier B** · leverage score 56 (rank 65 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 66 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Finance; Homeland Security and Governmental Affairs; Ethics (Chairman); Intelligence
 
@@ -15,13 +15,13 @@ Senator for OK · 11.8 years in the Senate · Senate Republican Conference Vice 
 3. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Margaret Wood Hassan (D-NH).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Homeland Security and Governmental Affairs (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Margaret Wood Hassan (D-NH).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 312 sponsors and cosponsors (138 R, 171 D, 39 PSC).
 5. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Margaret Wood Hassan (D-NH).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 6. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Margaret Wood Hassan (D-NH).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
    There is no Senate version yet, and you sit on Homeland Security and Governmental Affairs (likely committee of jurisdiction). The House bill is in committee with 43 sponsors and cosponsors (22 R, 21 D, 13 PSC).
 7. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Margaret Wood Hassan (D-NH).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 8. **Introduce a Senate companion to H.R. 2979 (BUILD Act for police and fire facilities) with Sen. Margaret Wood Hassan (D-NH).** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 40_  
    There is no Senate version yet, and you sit on Homeland Security and Governmental Affairs (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 
@@ -74,4 +74,4 @@ Senator for OK · 11.8 years in the Senate · Senate Republican Conference Vice 
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

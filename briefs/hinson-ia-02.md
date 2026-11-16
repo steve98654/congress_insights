@@ -1,6 +1,6 @@
 # Rep. Ashley Hinson (R-IA-02)
 
-Representative for IA-02 · 5.8 years in the House · Leaving Congress in January (seeking other office: Running for U.S. Senate)
+Representative for IA-02 · 5.9 years in the House · Leaving Congress in January (seeking other office: Running for U.S. Senate)
 
 **Priority tier C** · leverage score 45 (rank 411 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
@@ -21,7 +21,7 @@ Representative for IA-02 · 5.8 years in the House · Leaving Congress in Januar
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 3 of your IA colleagues are on it: Randy Feenstra, Mariannette Miller-Meeks, Zachary Nunn.
 - Your record: cosponsor.
 
@@ -65,4 +65,4 @@ Representative for IA-02 · 5.8 years in the House · Leaving Congress in Januar
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

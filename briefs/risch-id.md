@@ -1,8 +1,8 @@
 # Sen. James E. Risch (R-ID)
 
-Senator for ID · 17.8 years in the Senate
+Senator for ID · 17.9 years in the Senate
 
-**Priority tier B** · leverage score 48 (rank 91 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 48 (rank 92 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Energy and Natural Resources; Foreign Relations (Chairman); Small Business and Entrepreneurship; Ethics; Intelligence; United States Senate Caucus on International Narcotics Control
 
@@ -56,4 +56,4 @@ Senator for ID · 17.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

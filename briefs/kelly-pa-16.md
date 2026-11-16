@@ -1,6 +1,6 @@
 # Rep. Mike Kelly (R-PA-16)
 
-Representative for PA-16 · 15.8 years in the House
+Representative for PA-16 · 15.9 years in the House
 
 **Priority tier B** · leverage score 72 (rank 32 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
@@ -9,7 +9,7 @@ Representative for PA-16 · 15.8 years in the House
 ## Top actions
 
 1. **Ask the Speaker and Majority Leader for floor time on H.R. 3514, or a suspension vote.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 90_  
-   It cleared committee (committee vote 42-0). Suspension needs two-thirds, and it has 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+   It cleared committee (committee vote 42-0). Suspension needs two-thirds, and it has 312 sponsors and cosponsors (138 R, 171 D, 39 PSC).
 2. **Press for a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
@@ -29,7 +29,7 @@ Representative for PA-16 · 15.8 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 13 of your PA colleagues are on it: Brendan F. Boyle, Robert P. Bresnahan, Jr., Christopher R. Deluzio and others.
 - Your record: sponsor.
 
@@ -41,7 +41,7 @@ Representative for PA-16 · 15.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 7 of your PA colleagues are on it: Brendan F. Boyle, Robert P. Bresnahan, Jr., Madeleine Dean and others.
 - Your record: cosponsor.
 
@@ -73,4 +73,4 @@ Representative for PA-16 · 15.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

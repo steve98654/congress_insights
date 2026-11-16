@@ -1,6 +1,6 @@
 # Rep. Jasmine Crockett (D-TX-30)
 
-Representative for TX-30 · 3.8 years in the House · Leaving Congress in January (seeking other office: Ran for U.S. Senate)
+Representative for TX-30 · 3.9 years in the House · Leaving Congress in January (seeking other office: Ran for U.S. Senate)
 
 **Priority tier B** · leverage score 68 (rank 86 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
@@ -67,4 +67,4 @@ Representative for TX-30 · 3.8 years in the House · Leaving Congress in Januar
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

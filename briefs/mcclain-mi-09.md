@@ -1,6 +1,6 @@
 # Rep. Lisa C. McClain (R-MI-09)
 
-Representative for MI-09 · 5.8 years in the House · House Republican Conference Chair
+Representative for MI-09 · 5.9 years in the House · House Republican Conference Chair
 
 **Priority tier B** · leverage score 66 (rank 115 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
@@ -70,4 +70,4 @@ Representative for MI-09 · 5.8 years in the House · House Republican Conferenc
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

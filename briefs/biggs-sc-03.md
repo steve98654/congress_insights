@@ -1,8 +1,8 @@
 # Rep. Sheri Biggs (R-SC-03)
 
-Representative for SC-03 · 1.8 years in the House
+Representative for SC-03 · 1.9 years in the House
 
-**Priority tier B** · leverage score 56 (rank 290 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 291 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 **Committees:** Foreign Affairs; Homeland Security; Science, Space, and Technology
 
@@ -29,13 +29,13 @@ Representative for SC-03 · 1.8 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 4 of your SC colleagues are on it: Russell Fry, Nancy Mace, William R. Timmons IV and others.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 2 of your SC colleagues are on it: Ralph Norman, Joe Wilson.
 
 ## Position on each goal
@@ -66,4 +66,4 @@ Representative for SC-03 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

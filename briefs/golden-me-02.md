@@ -1,8 +1,8 @@
 # Rep. Jared F. Golden (D-ME-02)
 
-Representative for ME-02 · 7.8 years in the House · Problem Solvers Caucus member · Leaving Congress in January (retiring)
+Representative for ME-02 · 7.9 years in the House · Problem Solvers Caucus member · Leaving Congress in January (retiring)
 
-**Priority tier A** · leverage score 56 (rank 283 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 56 (rank 284 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Natural Resources
 
@@ -36,7 +36,7 @@ Representative for ME-02 · 7.8 years in the House · Problem Solvers Caucus mem
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 312 members back it: 138 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 1 of your ME colleagues is on it: Chellie Pingree.
 
 **H.R. 2036, Credit for Caring Act: Cut costs for caregivers and young families**
@@ -72,4 +72,4 @@ Representative for ME-02 · 7.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,8 +1,8 @@
 # Rep. David Rouzer (R-NC-07)
 
-Representative for NC-07 · 11.8 years in the House
+Representative for NC-07 · 11.9 years in the House
 
-**Priority tier B** · leverage score 58 (rank 247 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 248 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Science, Space, and Technology; Transportation and Infrastructure
 
@@ -38,7 +38,7 @@ Representative for NC-07 · 11.8 years in the House
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 7 of your NC colleagues are on it: Alma S. Adams, Donald G. Davis, Chuck Edwards and others.
 
 ## Position on each goal
@@ -60,8 +60,8 @@ Representative for NC-07 · 11.8 years in the House
 ## Cross-party partners
 
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): same state; shared committees: Agriculture; PSC member
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture, Transportation and Infrastructure; PSC member
 - [Rep. Valerie P. Foushee (D-NC-04)](foushee-nc-04.md): same state; shared committees: Transportation and Infrastructure, Science, Space, and Technology
+- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Agriculture, Transportation and Infrastructure; PSC member
 
 ## Sources
 
@@ -69,4 +69,4 @@ Representative for NC-07 · 11.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-16 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
