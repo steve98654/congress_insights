@@ -1,6 +1,6 @@
 # Rep. Joe Neguse (D-CO-02)
 
-Representative for CO-02 · 7.8 years in the House · Assistant House Minority Leader
+Representative for CO-02 · 7.9 years in the House · Assistant House Minority Leader
 
 **Priority tier B** · leverage score 68 (rank 52 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
@@ -67,4 +67,4 @@ Representative for CO-02 · 7.8 years in the House · Assistant House Minority L
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

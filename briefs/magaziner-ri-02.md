@@ -1,6 +1,6 @@
 # Rep. Seth Magaziner (D-RI-02)
 
-Representative for RI-02 · 3.8 years in the House
+Representative for RI-02 · 3.9 years in the House
 
 **Priority tier C** · leverage score 36 (rank 436 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
@@ -19,7 +19,7 @@ Representative for RI-02 · 3.8 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 1 of your RI colleagues is on it: Gabe Amo.
 - Your record: cosponsor.
 
@@ -63,4 +63,4 @@ Representative for RI-02 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

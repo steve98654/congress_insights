@@ -1,8 +1,8 @@
 # Sen. John Boozman (R-AR)
 
-Senator for AR · 15.8 years in the Senate
+Senator for AR · 15.9 years in the Senate
 
-**Priority tier A** · leverage score 60 (rank 48 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier A** · leverage score 60 (rank 49 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Commission on Security and Cooperation in Europe; Agriculture, Nutrition, and Forestry (Chairman); Appropriations; Environment and Public Works; Rules and Administration; Veterans' Affairs
 
@@ -66,7 +66,7 @@ Senator for AR · 15.8 years in the Senate
 
 - [Sen. Jeff Merkley (D-OR)](merkley-or.md): shared committees: Appropriations, Environment and Public Works, Rules and Administration
 - [Sen. Amy Klobuchar (D-MN)](klobuchar-mn.md): shared committees: Agriculture, Nutrition, and Forestry, Rules and Administration
-- [Sen. Peter Welch (D-VT)](welch-vt.md): shared committees: Agriculture, Nutrition, and Forestry, Rules and Administration
+- [Sen. Richard J. Durbin (D-IL)](durbin-il.md): shared committees: Agriculture, Nutrition, and Forestry, Appropriations
 
 ## Sources
 
@@ -74,4 +74,4 @@ Senator for AR · 15.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

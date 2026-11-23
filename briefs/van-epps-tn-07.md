@@ -1,8 +1,8 @@
 # Rep. Matt Van Epps (R-TN-07)
 
-Representative for TN-07 · 0.9 years in the House
+Representative for TN-07 · 1 years in the House
 
-**Priority tier B** · leverage score 57 (rank 271 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 57 (rank 273 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
 **Committees:** Homeland Security; Science, Space, and Technology
 
@@ -31,7 +31,7 @@ Representative for TN-07 · 0.9 years in the House
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 5 of your TN colleagues are on it: Tim Burchett, Steve Cohen, Charles J. "Chuck" Fleischmann and others.
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
@@ -69,4 +69,4 @@ Representative for TN-07 · 0.9 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

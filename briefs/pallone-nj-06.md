@@ -1,6 +1,6 @@
 # Rep. Frank Pallone, Jr. (D-NJ-06)
 
-Representative for NJ-06 · 39.8 years in the House
+Representative for NJ-06 · 39.9 years in the House
 
 **Priority tier A** · leverage score 77 (rank 24 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
@@ -11,7 +11,7 @@ Representative for NJ-06 · 39.8 years in the House
 1. **Ask Rep. Brett Guthrie to schedule a markup of H.R. 3876, and cosponsor it.** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 80_  
    As ranking member you can offer minority votes to get it marked up. It has 49 sponsors and cosponsors (2 R, 47 D, 9 PSC).
 2. **Ask Rep. Brett Guthrie to schedule a markup of H.R. 5269, and cosponsor it.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 80_  
-   As ranking member you can offer minority votes to get it marked up. It has 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   As ranking member you can offer minority votes to get it marked up. It has 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 3. **Ask Rep. Brett Guthrie to schedule a markup of H.R. 7116, and cosponsor it.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 80_  
    As ranking member you can offer minority votes to get it marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 4. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
@@ -21,7 +21,7 @@ Representative for NJ-06 · 39.8 years in the House
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
    4 of your state colleagues are already cosponsoring: Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Jefferson Van Drew (R-NJ-02), 1 more.
 7. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 9 of your state colleagues are on it: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), 6 more.
+   It cleared committee (committee vote 42-0). 10 of your state colleagues are on it: Rep. Herbert C. Conaway, Jr. (D-NJ-03), Rep. Josh Gottheimer (D-NJ-05), Rep. Thomas H. Kean, Jr. (R-NJ-07), 7 more.
 8. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Thomas H. Kean, Jr. (R-NJ-07), Rep. Donald Norcross (D-NJ-01).
 
@@ -34,7 +34,7 @@ Representative for NJ-06 · 39.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 7 of your NJ colleagues are on it: Herbert C. Conaway, Jr., Josh Gottheimer, Thomas H. Kean, Jr. and others.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
@@ -70,4 +70,4 @@ Representative for NJ-06 · 39.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

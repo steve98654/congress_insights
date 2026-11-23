@@ -1,21 +1,21 @@
 # Sen. John Cornyn (R-TX)
 
-Senator for TX · 23.9 years in the Senate · Leaving Congress in January (lost primary: Lost the Republican runoff to Ken Paxton)
+Senator for TX · 24 years in the Senate · Leaving Congress in January (lost primary: Lost the Republican runoff to Ken Paxton)
 
-**Priority tier B** · leverage score 51 (rank 82 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 51 (rank 83 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Committee on Taxation; Finance; Foreign Relations; Budget; Judiciary; Intelligence; United States Senate Caucus on International Narcotics Control (Chairman)
 
 ## Top actions
 
 1. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 2. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 3. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Sheldon Whitehouse (D-RI).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 30_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Sheldon Whitehouse (D-RI).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 30_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 313 sponsors and cosponsors (139 R, 171 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 5. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Sheldon Whitehouse (D-RI).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 24_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 6. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Sheldon Whitehouse (D-RI).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 24_  
@@ -23,13 +23,13 @@ Senator for TX · 23.9 years in the Senate · Leaving Congress in January (lost 
 7. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. Sheldon Whitehouse (D-RI).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 24_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 8. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Sheldon Whitehouse (D-RI).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 24_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 130 sponsors and cosponsors (65 R, 65 D, 29 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 132 sponsors and cosponsors (66 R, 66 D, 29 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 
 ## Talking points
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+- 21 members back it: 4 Republicans and 17 Democrats.
 
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
@@ -76,4 +76,4 @@ Senator for TX · 23.9 years in the Senate · Leaving Congress in January (lost 
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

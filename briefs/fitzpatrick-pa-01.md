@@ -1,6 +1,6 @@
 # Rep. Brian K. Fitzpatrick (R-PA-01)
 
-Representative for PA-01 · 9.8 years in the House · Problem Solvers Caucus Co-Chair
+Representative for PA-01 · 9.9 years in the House · Problem Solvers Caucus Co-Chair
 
 **Priority tier A** · leverage score 89 (rank 7 of 439 in the House) · supports 19 of 20 caucus bills in their chamber
 
@@ -55,7 +55,7 @@ Representative for PA-01 · 9.8 years in the House · Problem Solvers Caucus Co-
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | cosponsor | 65 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 65 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | cosponsor | 65 |
-| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 63 |
+| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | cosponsor | 62 |
 | Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | sponsor | 90 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | cosponsor, sponsor | 90 |
@@ -72,4 +72,4 @@ Representative for PA-01 · 9.8 years in the House · Problem Solvers Caucus Co-
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

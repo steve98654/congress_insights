@@ -1,6 +1,6 @@
 # Rep. Jerrold Nadler (D-NY-12)
 
-Representative for NY-12 · 34 years in the House · Leaving Congress in January (retiring)
+Representative for NY-12 · 34.1 years in the House · Leaving Congress in January (retiring)
 
 **Priority tier B** · leverage score 68 (rank 71 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
@@ -69,4 +69,4 @@ Representative for NY-12 · 34 years in the House · Leaving Congress in January
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

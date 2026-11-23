@@ -1,6 +1,6 @@
 # Rep. Mike Carey (R-OH-15)
 
-Representative for OH-15 · 5 years in the House
+Representative for OH-15 · 5.1 years in the House
 
 **Priority tier B** · leverage score 82 (rank 16 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
@@ -17,7 +17,7 @@ Representative for OH-15 · 5 years in the House
 4. **Cosponsor H.R. 222 (Sustainable Budget Act). It is waiting in Budget, where you sit.** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 273 sponsors and cosponsors (80 R, 189 D, 40 PSC).
 6. **Press for a markup of H.R. 5269 (RESULTS Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
@@ -70,4 +70,4 @@ Representative for OH-15 · 5 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

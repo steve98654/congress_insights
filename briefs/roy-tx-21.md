@@ -1,6 +1,6 @@
 # Rep. Chip Roy (R-TX-21)
 
-Representative for TX-21 · 7.8 years in the House · Leaving Congress in January (seeking other office: Running for Texas attorney general)
+Representative for TX-21 · 7.9 years in the House · Leaving Congress in January (seeking other office: Running for Texas attorney general)
 
 **Priority tier B** · leverage score 68 (rank 83 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
@@ -68,4 +68,4 @@ Representative for TX-21 · 7.8 years in the House · Leaving Congress in Januar
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

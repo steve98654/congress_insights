@@ -1,6 +1,6 @@
 # Rep. Scott H. Peters (D-CA-50)
 
-Representative for CA-50 · 13.8 years in the House · Problem Solvers Caucus member
+Representative for CA-50 · 13.9 years in the House · Problem Solvers Caucus member
 
 **Priority tier A** · leverage score 70 (rank 34 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
 
@@ -69,4 +69,4 @@ Representative for CA-50 · 13.8 years in the House · Problem Solvers Caucus me
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

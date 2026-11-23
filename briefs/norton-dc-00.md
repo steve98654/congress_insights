@@ -1,8 +1,8 @@
 # Del. Eleanor Holmes Norton (D-DC-00)
 
-Representative for DC-00 · 35.8 years in the House · Leaving Congress in January (retiring: Delegate)
+Representative for DC-00 · 35.9 years in the House · Leaving Congress in January (retiring: Delegate)
 
-**Priority tier B** · leverage score 52 (rank 323 of 439 in the House) · supports 10 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 52 (rank 324 of 439 in the House) · supports 10 of 20 caucus bills in their chamber
 
 **Committees:** Oversight and Government Reform; Transportation and Infrastructure
 
@@ -23,7 +23,7 @@ Representative for DC-00 · 35.8 years in the House · Leaving Congress in Janua
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - Your record: cosponsor.
 
 **H.R. 8870, BUILD America 250 Act: Rebuild roads, transit and first-responder facilities**
@@ -61,4 +61,4 @@ Representative for DC-00 · 35.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

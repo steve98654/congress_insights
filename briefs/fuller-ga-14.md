@@ -2,7 +2,7 @@
 
 Representative for GA-14 · 0.6 years in the House
 
-**Priority tier B** · leverage score 58 (rank 239 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 240 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Small Business; Transportation and Infrastructure
 
@@ -17,7 +17,7 @@ Representative for GA-14 · 0.6 years in the House
 4. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
    6 of your state colleagues are already cosponsoring: Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04), 3 more.
 5. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), 3 more.
+   It cleared committee (committee vote 42-0). 8 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), 5 more.
 6. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Barry Loudermilk (R-GA-11), Rep. Nikema Williams (D-GA-05).
 7. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
@@ -38,7 +38,7 @@ Representative for GA-14 · 0.6 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 3 of your GA colleagues are on it: Rick W. Allen, Earl L. "Buddy" Carter, Richard McCormick.
 
 ## Position on each goal
@@ -61,7 +61,7 @@ Representative for GA-14 · 0.6 years in the House
 
 - [Rep. Hillary J. Scholten (D-MI-03)](scholten-mi-03.md): shared committees: Transportation and Infrastructure, Small Business; PSC member
 - [Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04)](johnson-ga-04.md): same state; shared committees: Transportation and Infrastructure
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Transportation and Infrastructure; PSC member
+- [Rep. Emilia Strong Sykes (D-OH-13)](sykes-oh-13.md): shared committees: Transportation and Infrastructure; PSC member
 
 ## Sources
 
@@ -69,4 +69,4 @@ Representative for GA-14 · 0.6 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,6 +1,6 @@
 # Sen. Bill Cassidy (R-LA)
 
-Senator for LA · 11.8 years in the Senate · Leaving Congress in January (lost primary: Finished third in the Louisiana primary)
+Senator for LA · 11.9 years in the Senate · Leaving Congress in January (lost primary: Finished third in the Louisiana primary)
 
 **Priority tier A** · leverage score 76 (rank 1 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
@@ -13,13 +13,13 @@ Senator for LA · 11.8 years in the Senate · Leaving Congress in January (lost 
 2. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Michael F. Bennet (D-CO).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 65_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 3. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 4. **Cosponsor S. 5653 (Bipartisan American Affordability and Jobs Act of 2026). It is waiting in Energy and Natural Resources, where you sit.** _Speed up permits for energy and infrastructure · [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) · priority 60_  
    It has 4 sponsors and cosponsors (2 R, 2 D, 0 PSC).
 5. **Introduce a Senate companion to H.R. 3876 (LIHEAP Staffing Support Act) with Sen. Bernard Sanders (I-VT).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 33_  
    There is no Senate version yet, and you sit on Health, Education, Labor, and Pensions (likely committee of jurisdiction). The House bill is in committee with 49 sponsors and cosponsors (2 R, 47 D, 9 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 6. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Bernard Sanders (I-VT).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 30_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 313 sponsors and cosponsors (139 R, 171 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 7. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Bernard Sanders (I-VT).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 24_  
    There is no Senate version yet, and you sit on Veterans' Affairs (likely committee of jurisdiction). The House bill is in committee with 95 sponsors and cosponsors (37 R, 58 D, 20 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 8. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Bernard Sanders (I-VT).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 24_  
@@ -42,7 +42,7 @@ Senator for LA · 11.8 years in the Senate · Leaving Congress in January (lost 
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+- 21 members back it: 4 Republicans and 17 Democrats.
 
 ## Position on each goal
 
@@ -72,4 +72,4 @@ Senator for LA · 11.8 years in the Senate · Leaving Congress in January (lost 
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

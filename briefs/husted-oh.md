@@ -2,7 +2,7 @@
 
 Senator for OH · 1.8 years in the Senate
 
-**Priority tier B** · leverage score 56 (rank 64 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 65 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Appropriations; Environment and Public Works; Health, Education, Labor, and Pensions; Small Business and Entrepreneurship; Aging
 
@@ -62,7 +62,7 @@ Senator for OH · 1.8 years in the Senate
 
 - [Sen. Angela D. Alsobrooks (D-MD)](alsobrooks-md.md): shared committees: Aging, Environment and Public Works, Health, Education, Labor, and Pensions
 - [Sen. Edward J. Markey (D-MA)](markey-ma.md): shared committees: Environment and Public Works, Health, Education, Labor, and Pensions, Small Business and Entrepreneurship
-- [Sen. Christopher Murphy (D-CT)](murphy-ct.md): shared committees: Appropriations, Health, Education, Labor, and Pensions
+- [Sen. Christopher A. Coons (D-DE)](coons-de.md): shared committees: Appropriations, Small Business and Entrepreneurship
 
 ## Sources
 
@@ -70,4 +70,4 @@ Senator for OH · 1.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

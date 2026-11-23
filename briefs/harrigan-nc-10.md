@@ -1,8 +1,8 @@
 # Rep. Pat Harrigan (R-NC-10)
 
-Representative for NC-10 · 1.8 years in the House
+Representative for NC-10 · 1.9 years in the House
 
-**Priority tier B** · leverage score 58 (rank 248 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 249 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Science, Space, and Technology
 
@@ -61,7 +61,7 @@ Representative for NC-10 · 1.8 years in the House
 
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): same state; shared committees: Armed Services; PSC member
 - [Rep. Deborah K. Ross (D-NC-02)](ross-nc-02.md): same state; shared committees: Science, Space, and Technology
-- [Rep. Salud O. Carbajal (D-CA-24)](carbajal-ca-24.md): shared committees: Armed Services; PSC member
+- [Rep. Valerie P. Foushee (D-NC-04)](foushee-nc-04.md): same state; shared committees: Science, Space, and Technology
 
 ## Sources
 
@@ -69,4 +69,4 @@ Representative for NC-10 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

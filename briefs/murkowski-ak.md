@@ -1,8 +1,8 @@
 # Sen. Lisa Murkowski (R-AK)
 
-Senator for AK · 23.8 years in the Senate
+Senator for AK · 23.9 years in the Senate
 
-**Priority tier B** · leverage score 60 (rank 47 of 100 in the Senate) · supports 3 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 60 (rank 48 of 100 in the Senate) · supports 3 of 5 caucus bills in their chamber
 
 **Committees:** Appropriations; Energy and Natural Resources; Health, Education, Labor, and Pensions; Indian Affairs (Chairman)
 
@@ -58,8 +58,8 @@ Senator for AK · 23.8 years in the Senate
 ## Cross-party partners
 
 - [Sen. Christopher Murphy (D-CT)](murphy-ct.md): shared committees: Appropriations, Health, Education, Labor, and Pensions
+- [Sen. Tammy Baldwin (D-WI)](baldwin-wi.md): shared committees: Appropriations, Health, Education, Labor, and Pensions
 - [Sen. Martin Heinrich (D-NM)](heinrich-nm.md): shared committees: Appropriations, Energy and Natural Resources
-- [Sen. Brian Schatz (D-HI)](schatz-hi.md): shared committees: Indian Affairs, Appropriations
 
 ## Sources
 
@@ -67,4 +67,4 @@ Senator for AK · 23.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,8 +1,8 @@
 # Rep. Norma J. Torres (D-CA-35)
 
-Representative for CA-35 · 11.8 years in the House
+Representative for CA-35 · 11.9 years in the House
 
-**Priority tier B** · leverage score 56 (rank 278 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 280 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations; House Administration
 
@@ -18,8 +18,8 @@ Representative for CA-35 · 11.8 years in the House
    15 of your state colleagues are already cosponsoring: Rep. Julia Brownley (D-CA-26), Rep. Ami Bera (D-CA-06), Rep. Nanette Diaz Barragán (D-CA-44), 12 more.
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
    6 of your state colleagues are already cosponsoring: Rep. Jim Costa (D-CA-21), Rep. J. Luis Correa (D-CA-46), Rep. Josh Harder (D-CA-09), 3 more.
-6. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 32 of your state colleagues are on it: Rep. Pete Aguilar (D-CA-33), Rep. Julia Brownley (D-CA-26), Rep. Ami Bera (D-CA-06), 29 more.
+6. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
+   You cosponsor it and it has cleared committee (committee vote 42-0).
 7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 40_  
    It cleared committee (committee vote 39-1). 1 of your state colleagues is on it: Rep. Scott H. Peters (D-CA-50).
 8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
@@ -39,7 +39,7 @@ Representative for CA-35 · 11.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 15 of your CA colleagues are on it: Julia Brownley, Ami Bera, Nanette Diaz Barragán and others.
 
 ## Position on each goal
@@ -70,4 +70,4 @@ Representative for CA-35 · 11.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

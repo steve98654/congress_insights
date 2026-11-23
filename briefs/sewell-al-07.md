@@ -1,8 +1,8 @@
 # Rep. Terri A. Sewell (D-AL-07)
 
-Representative for AL-07 · 15.8 years in the House
+Representative for AL-07 · 15.9 years in the House
 
-**Priority tier C** · leverage score 54 (rank 305 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 54 (rank 307 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** House Administration; Ways and Means; Joint Committee on Printing
 
@@ -30,12 +30,12 @@ Representative for AL-07 · 15.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 1 of your AL colleagues is on it: Shomari Figures.
 - Your record: cosponsor.
 
@@ -67,4 +67,4 @@ Representative for AL-07 · 15.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

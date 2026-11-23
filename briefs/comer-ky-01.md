@@ -2,7 +2,7 @@
 
 Representative for KY-01 · 10 years in the House
 
-**Priority tier A** · leverage score 62 (rank 192 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 62 (rank 193 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Education and Workforce; Oversight and Government Reform (Chair)
 
@@ -31,7 +31,7 @@ Representative for KY-01 · 10 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 2 of your KY colleagues are on it: Andy Barr, Morgan McGarvey.
 
 ## Position on each goal
@@ -62,4 +62,4 @@ Representative for KY-01 · 10 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

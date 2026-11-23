@@ -1,8 +1,8 @@
 # Rep. Debbie Wasserman Schultz (D-FL-25)
 
-Representative for FL-25 · 21.8 years in the House
+Representative for FL-25 · 21.9 years in the House
 
-**Priority tier C** · leverage score 49 (rank 336 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 49 (rank 337 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations; Foreign Affairs
 
@@ -39,7 +39,7 @@ Representative for FL-25 · 21.8 years in the House
 
 **H.R. 3562, DEFIANCE Act: Make AI safe and protect deepfake victims**
 - Creates a civil right of action for victims of non-consensual intimate deepfakes.
-- 70 members back it: 34 Republicans and 36 Democrats, including 17 Problem Solvers.
+- 76 members back it: 37 Republicans and 39 Democrats, including 18 Problem Solvers.
 - 7 of your FL colleagues are on it: Vern Buchanan, Kat Cammack, Anna Paulina Luna and others.
 
 ## Position on each goal
@@ -70,4 +70,4 @@ Representative for FL-25 · 21.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

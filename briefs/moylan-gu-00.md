@@ -1,6 +1,6 @@
 # Del. James C. Moylan (R-GU-00)
 
-Representative for GU-00 · 3.8 years in the House · Problem Solvers Caucus member
+Representative for GU-00 · 3.9 years in the House · Problem Solvers Caucus member
 
 **Priority tier A** · leverage score 67 (rank 100 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
@@ -29,7 +29,7 @@ Representative for GU-00 · 3.8 years in the House · Problem Solvers Caucus mem
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - Your record: cosponsor.
 
 ## Position on each goal
@@ -60,4 +60,4 @@ Representative for GU-00 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

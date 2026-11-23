@@ -1,8 +1,8 @@
 # Sen. Rand Paul (R-KY)
 
-Senator for KY · 15.8 years in the Senate
+Senator for KY · 15.9 years in the Senate
 
-**Priority tier A** · leverage score 61 (rank 46 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier A** · leverage score 61 (rank 47 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Foreign Relations; Health, Education, Labor, and Pensions; Homeland Security and Governmental Affairs (Chairman); Small Business and Entrepreneurship
 
@@ -61,9 +61,9 @@ Senator for KY · 15.8 years in the Senate
 
 ## Cross-party partners
 
+- [Sen. Christopher A. Coons (D-DE)](coons-de.md): shared committees: Foreign Relations, Small Business and Entrepreneurship
 - [Sen. Christopher Murphy (D-CT)](murphy-ct.md): shared committees: Foreign Relations, Health, Education, Labor, and Pensions
 - [Sen. Andy Kim (D-NJ)](kim-nj.md): shared committees: Homeland Security and Governmental Affairs, Health, Education, Labor, and Pensions
-- [Sen. Christopher A. Coons (D-DE)](coons-de.md): shared committees: Foreign Relations, Small Business and Entrepreneurship
 
 ## Sources
 
@@ -71,4 +71,4 @@ Senator for KY · 15.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

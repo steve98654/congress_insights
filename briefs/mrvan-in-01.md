@@ -1,8 +1,8 @@
 # Rep. Frank J. Mrvan (D-IN-01)
 
-Representative for IN-01 · 5.8 years in the House
+Representative for IN-01 · 5.9 years in the House
 
-**Priority tier C** · leverage score 49 (rank 339 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 49 (rank 340 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations
 
@@ -34,12 +34,12 @@ Representative for IN-01 · 5.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 4 of your IN colleagues are on it: André Carson, Erin Houchin, Jefferson Shreve and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 5 of your IN colleagues are on it: James R. Baird, Erin Houchin, Mark B. Messmer and others.
 - Your record: cosponsor.
 
@@ -71,4 +71,4 @@ Representative for IN-01 · 5.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,6 +1,6 @@
 # Rep. Raja Krishnamoorthi (D-IL-08)
 
-Representative for IL-08 · 9.8 years in the House · Leaving Congress in January (seeking other office: Ran for U.S. Senate)
+Representative for IL-08 · 9.9 years in the House · Leaving Congress in January (seeking other office: Ran for U.S. Senate)
 
 **Priority tier C** · leverage score 45 (rank 413 of 439 in the House) · supports 5 of 20 caucus bills in their chamber
 
@@ -28,7 +28,7 @@ Representative for IL-08 · 9.8 years in the House · Leaving Congress in Januar
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 12 of your IL colleagues are on it: Mike Bost, Nikki Budzinski, Danny K. Davis and others.
 - Your record: cosponsor.
 
@@ -65,4 +65,4 @@ Representative for IL-08 · 9.8 years in the House · Leaving Congress in Januar
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

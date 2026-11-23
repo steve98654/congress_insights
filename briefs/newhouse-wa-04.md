@@ -1,8 +1,8 @@
 # Rep. Dan Newhouse (R-WA-04)
 
-Representative for WA-04 · 11.8 years in the House · Leaving Congress in January (retiring)
+Representative for WA-04 · 11.9 years in the House · Leaving Congress in January (retiring)
 
-**Priority tier C** · leverage score 49 (rank 351 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 49 (rank 352 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Appropriations; Strategic Competition Between the United States and the Chinese Communist Party
 
@@ -34,12 +34,12 @@ Representative for WA-04 · 11.8 years in the House · Leaving Congress in Janua
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 3 of your WA colleagues are on it: Suzan K. DelBene, Pramila Jayapal, Marilyn Strickland.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 5 of your WA colleagues are on it: Suzan K. DelBene, Marie Gluesenkamp Perez, Rick Larsen and others.
 
 ## Position on each goal
@@ -70,4 +70,4 @@ Representative for WA-04 · 11.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,6 +1,6 @@
 # Rep. Henry C. "Hank" Johnson, Jr. (D-GA-04)
 
-Representative for GA-04 · 19.8 years in the House
+Representative for GA-04 · 19.9 years in the House
 
 **Priority tier B** · leverage score 68 (rank 56 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
@@ -23,7 +23,7 @@ Representative for GA-04 · 19.8 years in the House
 7. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
    3 of your state colleagues are already cosponsoring: Rep. Rick W. Allen (R-GA-12), Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Richard McCormick (R-GA-07).
 8. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
-   It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), 3 more.
+   It cleared committee (committee vote 42-0). 8 of your state colleagues are on it: Rep. Rick W. Allen (R-GA-12), Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Earl L. "Buddy" Carter (R-GA-01), 5 more.
 
 ## Talking points
 
@@ -67,4 +67,4 @@ Representative for GA-04 · 19.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

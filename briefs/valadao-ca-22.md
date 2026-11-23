@@ -1,8 +1,8 @@
 # Rep. David G. Valadao (R-CA-22)
 
-Representative for CA-22 · 13.8 years in the House · Problem Solvers Caucus member
+Representative for CA-22 · 13.9 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 62 (rank 191 of 439 in the House) · supports 8 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 62 (rank 192 of 439 in the House) · supports 8 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Appropriations; Joint Committee of Congress on the Library
 
@@ -34,13 +34,13 @@ Representative for CA-22 · 13.8 years in the House · Problem Solvers Caucus me
 
 **H.R. 3562, DEFIANCE Act: Make AI safe and protect deepfake victims**
 - Creates a civil right of action for victims of non-consensual intimate deepfakes.
-- 70 members back it: 34 Republicans and 36 Democrats, including 17 Problem Solvers.
+- 76 members back it: 37 Republicans and 39 Democrats, including 18 Problem Solvers.
 - 6 of your CA colleagues are on it: Jim Costa, J. Luis Correa, Josh Harder and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 31 of your CA colleagues are on it: Pete Aguilar, Julia Brownley, Ami Bera and others.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
+- 32 of your CA colleagues are on it: Pete Aguilar, Julia Brownley, Ami Bera and others.
 - Your record: cosponsor.
 
 ## Position on each goal
@@ -71,4 +71,4 @@ Representative for CA-22 · 13.8 years in the House · Problem Solvers Caucus me
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

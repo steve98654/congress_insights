@@ -1,8 +1,8 @@
 # Sen. Josh Hawley (R-MO)
 
-Senator for MO · 7.8 years in the Senate
+Senator for MO · 7.9 years in the Senate
 
-**Priority tier B** · leverage score 55 (rank 70 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 55 (rank 71 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
 
 **Committees:** Health, Education, Labor, and Pensions; Homeland Security and Governmental Affairs; Small Business and Entrepreneurship; Judiciary
 
@@ -65,9 +65,9 @@ Senator for MO · 7.8 years in the Senate
 
 ## Cross-party partners
 
-- [Sen. Andy Kim (D-NJ)](kim-nj.md): shared committees: Homeland Security and Governmental Affairs, Health, Education, Labor, and Pensions
 - [Sen. Christopher A. Coons (D-DE)](coons-de.md): shared committees: Judiciary, Small Business and Entrepreneurship
 - [Sen. Adam B. Schiff (D-CA)](schiff-ca.md): shared committees: Judiciary, Small Business and Entrepreneurship
+- [Sen. Andy Kim (D-NJ)](kim-nj.md): shared committees: Homeland Security and Governmental Affairs, Health, Education, Labor, and Pensions
 
 ## Sources
 
@@ -75,4 +75,4 @@ Senator for MO · 7.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

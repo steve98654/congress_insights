@@ -1,8 +1,8 @@
 # Rep. Gregory F. Murphy (R-NC-03)
 
-Representative for NC-03 · 7.1 years in the House
+Representative for NC-03 · 7.2 years in the House
 
-**Priority tier B** · leverage score 61 (rank 207 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 61 (rank 206 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** House Administration; Veterans' Affairs; Ways and Means; Joint Committee on Printing
 
@@ -34,13 +34,13 @@ Representative for NC-03 · 7.1 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
-- 9 of your NC colleagues are on it: Donald G. Davis, Chuck Edwards, Richard Hudson and others.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
+- 10 of your NC colleagues are on it: Donald G. Davis, Chuck Edwards, Valerie P. Foushee and others.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 6 of your NC colleagues are on it: Alma S. Adams, Donald G. Davis, Chuck Edwards and others.
 - Your record: cosponsor.
 
@@ -72,4 +72,4 @@ Representative for NC-03 · 7.1 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

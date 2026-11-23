@@ -1,8 +1,8 @@
 # Rep. Danny K. Davis (D-IL-07)
 
-Representative for IL-07 · 29.8 years in the House · Leaving Congress in January (retiring)
+Representative for IL-07 · 29.9 years in the House · Leaving Congress in January (retiring)
 
-**Priority tier B** · leverage score 61 (rank 202 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 61 (rank 201 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Ways and Means
 
@@ -34,13 +34,13 @@ Representative for IL-07 · 29.8 years in the House · Leaving Congress in Janua
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 3 of your IL colleagues are on it: Raja Krishnamoorthi, Darin LaHood, Bradley Scott Schneider.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 11 of your IL colleagues are on it: Mike Bost, Nikki Budzinski, Sean Casten and others.
 - Your record: cosponsor.
 
@@ -72,4 +72,4 @@ Representative for IL-07 · 29.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

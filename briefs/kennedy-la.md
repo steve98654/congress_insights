@@ -1,8 +1,8 @@
 # Sen. John Kennedy (R-LA)
 
-Senator for LA · 9.8 years in the Senate
+Senator for LA · 9.9 years in the Senate
 
-**Priority tier B** · leverage score 59 (rank 52 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 59 (rank 53 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Appropriations; Banking, Housing, and Urban Affairs; Budget; Judiciary
 
@@ -68,7 +68,7 @@ Senator for LA · 9.8 years in the Senate
 
 - [Sen. Chris Van Hollen (D-MD)](van-hollen-md.md): shared committees: Appropriations, Banking, Housing, and Urban Affairs, Budget
 - [Sen. Christopher A. Coons (D-DE)](coons-de.md): shared committees: Appropriations, Judiciary
-- [Sen. Jeff Merkley (D-OR)](merkley-or.md): shared committees: Appropriations, Budget
+- [Sen. Richard J. Durbin (D-IL)](durbin-il.md): shared committees: Appropriations, Judiciary
 
 ## Sources
 
@@ -76,4 +76,4 @@ Senator for LA · 9.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

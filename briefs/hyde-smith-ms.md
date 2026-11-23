@@ -2,7 +2,7 @@
 
 Senator for MS · 8.6 years in the Senate
 
-**Priority tier B** · leverage score 69 (rank 19 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 69 (rank 18 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Committee of Congress on the Library; Agriculture, Nutrition, and Forestry; Appropriations; Energy and Natural Resources; Rules and Administration
 
@@ -70,4 +70,4 @@ Senator for MS · 8.6 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

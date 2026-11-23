@@ -1,8 +1,8 @@
 # Rep. Juan Ciscomani (R-AZ-06)
 
-Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus member
+Representative for AZ-06 · 3.9 years in the House · Problem Solvers Caucus member
 
-**Priority tier A** · leverage score 62 (rank 190 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 62 (rank 191 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Appropriations; Veterans' Affairs
 
@@ -29,7 +29,7 @@ Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus mem
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 3 of your AZ colleagues are on it: Adelita S. Grijalva, David Schweikert, Greg Stanton.
 - Your record: cosponsor.
 
@@ -71,4 +71,4 @@ Representative for AZ-06 · 3.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

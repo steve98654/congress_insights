@@ -1,8 +1,8 @@
 # Sen. John Hoeven (R-ND)
 
-Senator for ND · 15.8 years in the Senate
+Senator for ND · 15.9 years in the Senate
 
-**Priority tier B** · leverage score 62 (rank 44 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 62 (rank 45 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Agriculture, Nutrition, and Forestry; Appropriations; Energy and Natural Resources; Indian Affairs
 
@@ -64,4 +64,4 @@ Senator for ND · 15.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

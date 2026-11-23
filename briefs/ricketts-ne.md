@@ -2,7 +2,7 @@
 
 Senator for NE · 3.8 years in the Senate
 
-**Priority tier C** · leverage score 52 (rank 74 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier C** · leverage score 52 (rank 75 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Banking, Housing, and Urban Affairs; Environment and Public Works; Foreign Relations; Budget
 
@@ -65,7 +65,7 @@ Senator for NE · 3.8 years in the Senate
 
 - [Sen. Jeff Merkley (D-OR)](merkley-or.md): shared committees: Budget, Environment and Public Works, Foreign Relations
 - [Sen. Chris Van Hollen (D-MD)](van-hollen-md.md): shared committees: Banking, Housing, and Urban Affairs, Budget, Foreign Relations
-- [Sen. Angela D. Alsobrooks (D-MD)](alsobrooks-md.md): shared committees: Banking, Housing, and Urban Affairs, Environment and Public Works
+- [Sen. Sheldon Whitehouse (D-RI)](whitehouse-ri.md): shared committees: Budget, Environment and Public Works
 
 ## Sources
 
@@ -73,4 +73,4 @@ Senator for NE · 3.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

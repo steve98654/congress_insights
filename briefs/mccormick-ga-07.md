@@ -1,8 +1,8 @@
 # Rep. Richard McCormick (R-GA-07)
 
-Representative for GA-07 · 3.8 years in the House
+Representative for GA-07 · 3.9 years in the House
 
-**Priority tier B** · leverage score 57 (rank 265 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 57 (rank 266 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Oversight and Government Reform; Science, Space, and Technology
 
@@ -18,9 +18,11 @@ Representative for GA-07 · 3.8 years in the House
    2 of your state colleagues are already cosponsoring: Rep. Barry Loudermilk (R-GA-11), Rep. Nikema Williams (D-GA-05).
 5. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Lucy McBath (D-GA-06).
-6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
+6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
+   2 of your state colleagues are already cosponsoring: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Clay Fuller (R-GA-14).
+7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
-7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
+8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
    It cleared committee (committee vote 62-2).
 
 ## Talking points
@@ -36,8 +38,8 @@ Representative for GA-07 · 3.8 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
-- 5 of your GA colleagues are on it: Rick W. Allen, Sanford D. Bishop, Jr., Earl L. "Buddy" Carter and others.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
+- 7 of your GA colleagues are on it: Rick W. Allen, Sanford D. Bishop, Jr., Earl L. "Buddy" Carter and others.
 - Your record: cosponsor.
 
 ## Position on each goal
@@ -51,7 +53,7 @@ Representative for GA-07 · 3.8 years in the House
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 35 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 45 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 68 |
-| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 42 |
 | Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
@@ -68,4 +70,4 @@ Representative for GA-07 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

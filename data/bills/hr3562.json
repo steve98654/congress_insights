@@ -444,6 +444,42 @@
    "party": "D",
    "state": "VA",
    "date": "2026-10-26"
+  },
+  {
+   "bioguide": "S001223",
+   "party": "D",
+   "state": "OH",
+   "date": "2026-11-17"
+  },
+  {
+   "bioguide": "M001194",
+   "party": "R",
+   "state": "MI",
+   "date": "2026-11-17"
+  },
+  {
+   "bioguide": "E000301",
+   "party": "D",
+   "state": "MD",
+   "date": "2026-11-17"
+  },
+  {
+   "bioguide": "C001103",
+   "party": "R",
+   "state": "GA",
+   "date": "2026-11-18"
+  },
+  {
+   "bioguide": "W000795",
+   "party": "R",
+   "state": "SC",
+   "date": "2026-11-18"
+  },
+  {
+   "bioguide": "D000635",
+   "party": "D",
+   "state": "OR",
+   "date": "2026-11-18"
   }
  ],
  "cosponsors_complete": true,
@@ -456,6 +492,6 @@
  "policy_area": "Crime and Law Enforcement",
  "status": "in_committee",
  "source_url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3562.xml",
- "fetched": "2026-11-04",
+ "fetched": "2026-11-23",
  "fetched_via": "govinfo BILLSTATUS XML"
 }

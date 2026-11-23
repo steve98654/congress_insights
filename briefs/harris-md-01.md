@@ -1,6 +1,6 @@
 # Rep. Andy Harris (R-MD-01)
 
-Representative for MD-01 · 15.8 years in the House
+Representative for MD-01 · 15.9 years in the House
 
 **Priority tier C** · leverage score 48 (rank 373 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
@@ -18,21 +18,23 @@ Representative for MD-01 · 15.8 years in the House
    2 of your state colleagues are already cosponsoring: Rep. Kweisi Mfume (D-MD-07), Rep. April McClain Delaney (D-MD-06).
 5. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. April McClain Delaney (D-MD-06), Rep. Johnny Olszewski, Jr. (D-MD-02).
-6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
+6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
+   2 of your state colleagues are already cosponsoring: Rep. Sarah Elfreth (D-MD-03), Rep. Jamie Raskin (D-MD-08).
+7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
-7. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
+8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
    It cleared committee (committee vote 62-2).
 
 ## Talking points
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 6 of your MD colleagues are on it: Sarah Elfreth, Glenn Ivey, Kweisi Mfume and others.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 5 of your MD colleagues are on it: Glenn Ivey, Kweisi Mfume, April McClain Delaney and others.
 - Your record: cosponsor.
 
@@ -52,7 +54,7 @@ Representative for MD-01 · 15.8 years in the House
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 35 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 48 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 35 |
-| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 42 |
 | Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
@@ -69,4 +71,4 @@ Representative for MD-01 · 15.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,8 +1,8 @@
 # Sen. Dan Sullivan (R-AK)
 
-Senator for AK · 11.8 years in the Senate
+Senator for AK · 11.9 years in the Senate
 
-**Priority tier C** · leverage score 50 (rank 83 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier C** · leverage score 50 (rank 84 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Armed Services; Commerce, Science, and Transportation; Environment and Public Works; Veterans' Affairs
 
@@ -17,7 +17,7 @@ Senator for AK · 11.8 years in the Senate
 4. **Cosponsor S. 1929 (SEPSIS Act); your home-state colleague Sen. Lisa Murkowski (R-AK) already has.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 35_  
    It has 9 sponsors and cosponsors (4 R, 5 D, 0 PSC).
 5. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act); your home-state colleague Sen. Lisa Murkowski (R-AK) already has.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 35_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 
 ## Talking points
 
@@ -61,7 +61,7 @@ Senator for AK · 11.8 years in the Senate
 
 - [Sen. Tammy Duckworth (D-IL)](duckworth-il.md): shared committees: Armed Services, Commerce, Science, and Transportation, Veterans' Affairs
 - [Sen. Angus S. King, Jr. (I-ME)](king-me.md): shared committees: Armed Services, Veterans' Affairs
-- [Sen. Bernard Sanders (I-VT)](sanders-vt.md): shared committees: Environment and Public Works, Veterans' Affairs
+- [Sen. Edward J. Markey (D-MA)](markey-ma.md): shared committees: Commerce, Science, and Transportation, Environment and Public Works
 
 ## Sources
 
@@ -69,4 +69,4 @@ Senator for AK · 11.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

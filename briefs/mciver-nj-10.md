@@ -1,6 +1,6 @@
 # Rep. LaMonica McIver (D-NJ-10)
 
-Representative for NJ-10 · 2.1 years in the House
+Representative for NJ-10 · 2.2 years in the House
 
 **Priority tier C** · leverage score 48 (rank 377 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
@@ -34,7 +34,7 @@ Representative for NJ-10 · 2.1 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 7 of your NJ colleagues are on it: Herbert C. Conaway, Jr., Josh Gottheimer, Thomas H. Kean, Jr. and others.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
@@ -70,4 +70,4 @@ Representative for NJ-10 · 2.1 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

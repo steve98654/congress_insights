@@ -1,6 +1,6 @@
 # Rep. Virginia Foxx (R-NC-05)
 
-Representative for NC-05 · 21.8 years in the House
+Representative for NC-05 · 21.9 years in the House
 
 **Priority tier A** · leverage score 92 (rank 4 of 439 in the House) · supports 1 of 20 caucus bills in their chamber
 
@@ -23,7 +23,7 @@ Representative for NC-05 · 21.8 years in the House
 7. **Cosponsor H.R. 1464 (MODERN WIC Act). It is waiting in Education and Workforce, where you sit.** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 81 sponsors and cosponsors (10 R, 71 D, 16 PSC).
 8. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   10 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. Richard Hudson (R-NC-09), 7 more.
+   11 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. Valerie P. Foushee (D-NC-04), 8 more.
 
 ## Talking points
 
@@ -71,4 +71,4 @@ Representative for NC-05 · 21.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

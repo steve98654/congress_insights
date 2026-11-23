@@ -1,8 +1,8 @@
 # Rep. Joyce Beatty (D-OH-03)
 
-Representative for OH-03 · 13.8 years in the House
+Representative for OH-03 · 13.9 years in the House
 
-**Priority tier B** · leverage score 57 (rank 268 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 57 (rank 269 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services
 
@@ -11,7 +11,7 @@ Representative for OH-03 · 13.8 years in the House
 1. **Cosponsor H.R. 3694 (VALID Act). It is waiting in Financial Services, where you sit.** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 95 sponsors and cosponsors (37 R, 58 D, 20 PSC).
 2. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
-   5 of your state colleagues are already cosponsoring: Rep. Mike Carey (R-OH-15), Rep. David P. Joyce (R-OH-14), Rep. Greg Landsman (D-OH-01), 2 more.
+   6 of your state colleagues are already cosponsoring: Rep. Mike Carey (R-OH-15), Rep. David P. Joyce (R-OH-14), Rep. Greg Landsman (D-OH-01), 3 more.
 3. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Warren Davidson (R-OH-08), Rep. Greg Landsman (D-OH-01).
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -30,8 +30,8 @@ Representative for OH-03 · 13.8 years in the House
 
 **H.R. 3562, DEFIANCE Act: Make AI safe and protect deepfake victims**
 - Creates a civil right of action for victims of non-consensual intimate deepfakes.
-- 70 members back it: 34 Republicans and 36 Democrats, including 17 Problem Solvers.
-- 5 of your OH colleagues are on it: Mike Carey, David P. Joyce, Greg Landsman and others.
+- 76 members back it: 37 Republicans and 39 Democrats, including 18 Problem Solvers.
+- 6 of your OH colleagues are on it: Mike Carey, David P. Joyce, Greg Landsman and others.
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
@@ -68,4 +68,4 @@ Representative for OH-03 · 13.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

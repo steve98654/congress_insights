@@ -2,7 +2,7 @@
 
 Senator for FL · 1.8 years in the Senate
 
-**Priority tier B** · leverage score 55 (rank 69 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 55 (rank 70 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Economic Committee; Armed Services; Health, Education, Labor, and Pensions; Homeland Security and Governmental Affairs; Judiciary; Aging
 
@@ -66,8 +66,8 @@ Senator for FL · 1.8 years in the Senate
 ## Cross-party partners
 
 - [Sen. Andy Kim (D-NJ)](kim-nj.md): shared committees: Aging, Homeland Security and Governmental Affairs, Health, Education, Labor, and Pensions
+- [Sen. Richard Blumenthal (D-CT)](blumenthal-ct.md): shared committees: Armed Services, Homeland Security and Governmental Affairs, Judiciary
 - [Sen. Margaret Wood Hassan (D-NH)](hassan-nh.md): shared committees: Joint Economic Committee, Homeland Security and Governmental Affairs, Health, Education, Labor, and Pensions
-- [Sen. Mark Kelly (D-AZ)](kelly-az.md): shared committees: Joint Economic Committee, Aging, Armed Services
 
 ## Sources
 
@@ -75,4 +75,4 @@ Senator for FL · 1.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

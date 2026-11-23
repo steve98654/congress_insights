@@ -1,6 +1,6 @@
 # Sen. Tina Smith (D-MN)
 
-Senator for MN · 8.8 years in the Senate · Leaving Congress in January (retiring: Announced Feb 13, 2025)
+Senator for MN · 8.9 years in the Senate · Leaving Congress in January (retiring: Announced Feb 13, 2025)
 
 **Priority tier B** · leverage score 63 (rank 40 of 100 in the Senate) · supports 0 of 5 caucus bills in their chamber
 
@@ -11,11 +11,11 @@ Senator for MN · 8.8 years in the Senate · Leaving Congress in January (retiri
 1. **Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 80_  
    You voted no on cloture. It passed the House 417-3 and needs 3 more votes in the Senate.
 2. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 3. **Cosponsor S. 1929 (SEPSIS Act); your home-state colleague Sen. Amy Klobuchar (D-MN) already has.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 35_  
    It has 9 sponsors and cosponsors (4 R, 5 D, 0 PSC).
 4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Roger Marshall (R-KS).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 30_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 313 sponsors and cosponsors (139 R, 171 D, 39 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 5. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Mike Rounds (R-SD).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 30_  
    There is no Senate version yet, and you sit on Banking, Housing, and Urban Affairs (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC). You leave office January 3, 2027, so line up a returning colleague to carry it in 2027.
 6. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Mike Rounds (R-SD).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 24_  
@@ -39,7 +39,8 @@ Senator for MN · 8.8 years in the Senate · Leaving Congress in January (retiri
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+- 21 members back it: 4 Republicans and 17 Democrats.
+- 1 of your MN colleagues is on it: Amy Klobuchar.
 
 **S. 1929, SEPSIS Act: Protect access to care**
 - Senate companion to H.R. 7116.
@@ -74,4 +75,4 @@ Senator for MN · 8.8 years in the Senate · Leaving Congress in January (retiri
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

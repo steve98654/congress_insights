@@ -1,8 +1,8 @@
 # Sen. Mike Rounds (R-SD)
 
-Senator for SD · 11.8 years in the Senate
+Senator for SD · 11.9 years in the Senate
 
-**Priority tier C** · leverage score 52 (rank 78 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
+**Priority tier C** · leverage score 52 (rank 79 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
 
 **Committees:** Commission on Security and Cooperation in Europe; Appropriations; Armed Services; Banking, Housing, and Urban Affairs; Indian Affairs; Intelligence
 
@@ -57,8 +57,8 @@ Senator for SD · 11.8 years in the Senate
 ## Cross-party partners
 
 - [Sen. Jack Reed (D-RI)](reed-ri.md): shared committees: Intelligence, Appropriations, Armed Services, Banking, Housing, and Urban Affairs
-- [Sen. Kirsten E. Gillibrand (D-NY)](gillibrand-ny.md): shared committees: Intelligence, Appropriations, Armed Services
 - [Sen. Jeanne Shaheen (D-NH)](shaheen-nh.md): shared committees: Commission on Security and Cooperation in Europe, Appropriations, Armed Services
+- [Sen. Kirsten E. Gillibrand (D-NY)](gillibrand-ny.md): shared committees: Intelligence, Appropriations, Armed Services
 
 ## Sources
 
@@ -66,4 +66,4 @@ Senator for SD · 11.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

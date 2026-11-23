@@ -11,7 +11,7 @@ Representative for IN-02 · 4 years in the House
 1. **Cosponsor H.R. 2036 (Credit for Caring Act). It is waiting in Ways and Means, where you sit.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 2. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act). It is waiting in Ways and Means, where you sit.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 273 sponsors and cosponsors (80 R, 189 D, 40 PSC).
 3. **Press for a markup of H.R. 5269 (RESULTS Act) in Ways and Means, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
    You already cosponsor it, and your committee is where it is stuck.
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -34,12 +34,12 @@ Representative for IN-02 · 4 years in the House
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 2 of your IN colleagues are on it: André Carson, Frank J. Mrvan.
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 3 of your IN colleagues are on it: André Carson, Erin Houchin, Jefferson Shreve.
 - Your record: cosponsor.
 
@@ -71,4 +71,4 @@ Representative for IN-02 · 4 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

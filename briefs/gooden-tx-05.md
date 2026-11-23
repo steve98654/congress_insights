@@ -1,8 +1,8 @@
 # Rep. Lance Gooden (R-TX-05)
 
-Representative for TX-05 · 7.8 years in the House
+Representative for TX-05 · 7.9 years in the House
 
-**Priority tier B** · leverage score 68 (rank 82 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 68 (rank 82 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Judiciary
 
@@ -22,8 +22,8 @@ Representative for TX-05 · 7.8 years in the House
    Committee cosponsors decide whether a bill gets marked up. It has 6 sponsors and cosponsors (5 R, 1 D, 6 PSC).
 7. **Cosponsor H.R. 3694 (VALID Act).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 48_  
    6 of your state colleagues are already cosponsoring: Rep. John R. Carter (R-TX-31), Rep. Joaquin Castro (D-TX-20), Rep. Vicente Gonzalez (D-TX-34), 3 more.
-8. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   11 of your state colleagues are already cosponsoring: Rep. Brian Babin (R-TX-36), Rep. Dan Crenshaw (R-TX-02), Rep. Veronica Escobar (D-TX-16), 8 more.
+8. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
+   15 of your state colleagues are already cosponsoring: Rep. Henry Cuellar (D-TX-28), Rep. Joaquin Castro (D-TX-20), Rep. Jasmine Crockett (D-TX-30), 12 more.
 
 ## Talking points
 
@@ -57,8 +57,8 @@ Representative for TX-05 · 7.8 years in the House
 
 ## Cross-party partners
 
-- [Rep. Henry Cuellar (D-TX-28)](cuellar-tx-28.md): same state; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Armed Services; PSC member
+- [Rep. Henry Cuellar (D-TX-28)](cuellar-tx-28.md): same state; PSC member
 - [Rep. Jasmine Crockett (D-TX-30)](crockett-tx-30.md): same state; shared committees: Judiciary
 
 ## Sources
@@ -67,4 +67,4 @@ Representative for TX-05 · 7.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

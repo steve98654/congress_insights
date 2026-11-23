@@ -1,8 +1,8 @@
 # Sen. Deb Fischer (R-NE)
 
-Senator for NE · 13.8 years in the Senate
+Senator for NE · 13.9 years in the Senate
 
-**Priority tier C** · leverage score 52 (rank 73 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier C** · leverage score 52 (rank 74 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Committee of Congress on the Library; Joint Committee on Printing; Agriculture, Nutrition, and Forestry; Appropriations; Armed Services; Commerce, Science, and Transportation; Rules and Administration; Ethics
 
@@ -65,8 +65,8 @@ Senator for NE · 13.8 years in the Senate
 ## Cross-party partners
 
 - [Sen. Amy Klobuchar (D-MN)](klobuchar-mn.md): shared committees: Joint Committee of Congress on the Library, Agriculture, Nutrition, and Forestry, Commerce, Science, and Transportation, Rules and Administration
-- [Sen. Jeff Merkley (D-OR)](merkley-or.md): shared committees: Joint Committee on Printing, Appropriations, Rules and Administration
 - [Sen. Alex Padilla (D-CA)](padilla-ca.md): shared committees: Joint Committee of Congress on the Library, Joint Committee on Printing, Rules and Administration
+- [Sen. Jeanne Shaheen (D-NH)](shaheen-nh.md): shared committees: Ethics, Appropriations, Armed Services
 
 ## Sources
 
@@ -74,4 +74,4 @@ Senator for NE · 13.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

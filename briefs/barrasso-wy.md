@@ -2,7 +2,7 @@
 
 Senator for WY · 19.4 years in the Senate · Senate Majority Whip
 
-**Priority tier A** · leverage score 56 (rank 68 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier A** · leverage score 56 (rank 69 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Energy and Natural Resources; Finance; Foreign Relations
 
@@ -11,7 +11,7 @@ Senator for WY · 19.4 years in the Senate · Senate Majority Whip
 1. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Michael F. Bennet (D-CO).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 65_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 2. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 3. **Cosponsor S. 5653 (Bipartisan American Affordability and Jobs Act of 2026). It is waiting in Energy and Natural Resources, where you sit.** _Speed up permits for energy and infrastructure · [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) · priority 60_  
    It has 4 sponsors and cosponsors (2 R, 2 D, 0 PSC).
 
@@ -29,7 +29,7 @@ Senator for WY · 19.4 years in the Senate · Senate Majority Whip
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+- 21 members back it: 4 Republicans and 17 Democrats.
 
 **S. 5653, Bipartisan American Affordability and Jobs Act of 2026: Speed up permits for energy and infrastructure**
 - Speeds up federal permits for energy and infrastructure projects.
@@ -63,4 +63,4 @@ Senator for WY · 19.4 years in the Senate · Senate Majority Whip
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

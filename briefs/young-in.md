@@ -1,25 +1,25 @@
 # Sen. Todd Young (R-IN)
 
-Senator for IN · 9.8 years in the Senate
+Senator for IN · 9.9 years in the Senate
 
-**Priority tier B** · leverage score 56 (rank 62 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 63 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Commerce, Science, and Transportation; Finance; Small Business and Entrepreneurship; Intelligence
 
 ## Top actions
 
 1. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 2. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Mark Kelly (D-AZ), Sen. Adam B. Schiff (D-CA), Sen. Michael F. Bennet (D-CO).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 3. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Maria Cantwell (D-WA).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 313 sponsors and cosponsors (139 R, 171 D, 39 PSC).
 4. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Maria Cantwell (D-WA).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    There is no Senate version yet, and you sit on Commerce, Science, and Transportation (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 5. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Maria Cantwell (D-WA).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 6. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Maria Cantwell (D-WA).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 7. **Cosponsor S. 1929 (SEPSIS Act); your home-state colleague Sen. Jim Banks (R-IN) already has.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 35_  
    It has 9 sponsors and cosponsors (4 R, 5 D, 0 PSC).
 
@@ -27,7 +27,7 @@ Senator for IN · 9.8 years in the Senate
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+- 21 members back it: 4 Republicans and 17 Democrats.
 
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
@@ -40,7 +40,7 @@ Senator for IN · 9.8 years in the Senate
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 6 of your IN colleagues are on it: James R. Baird, Erin Houchin, Frank J. Mrvan and others.
 
 ## Position on each goal
@@ -62,8 +62,8 @@ Senator for IN · 9.8 years in the Senate
 ## Cross-party partners
 
 - [Sen. Maria Cantwell (D-WA)](cantwell-wa.md): shared committees: Commerce, Science, and Transportation, Finance, Small Business and Entrepreneurship
-- [Sen. Ben Ray Luján (D-NM)](lujan-nm.md): shared committees: Commerce, Science, and Transportation, Finance
 - [Sen. Edward J. Markey (D-MA)](markey-ma.md): shared committees: Commerce, Science, and Transportation, Small Business and Entrepreneurship
+- [Sen. Ben Ray Luján (D-NM)](lujan-nm.md): shared committees: Commerce, Science, and Transportation, Finance
 
 ## Sources
 
@@ -71,4 +71,4 @@ Senator for IN · 9.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

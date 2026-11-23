@@ -1,6 +1,6 @@
 # Sen. Susan M. Collins (R-ME)
 
-Senator for ME · 29.8 years in the Senate
+Senator for ME · 29.9 years in the Senate
 
 **Priority tier A** · leverage score 70 (rank 15 of 100 in the Senate) · supports 3 of 5 caucus bills in their chamber
 
@@ -55,8 +55,8 @@ Senator for ME · 29.8 years in the Senate
 
 ## Cross-party partners
 
-- [Sen. Christopher Murphy (D-CT)](murphy-ct.md): shared committees: Appropriations, Health, Education, Labor, and Pensions
 - [Sen. Angus S. King, Jr. (I-ME)](king-me.md): same state; shared committees: Intelligence
+- [Sen. Christopher Murphy (D-CT)](murphy-ct.md): shared committees: Appropriations, Health, Education, Labor, and Pensions
 - [Sen. Kirsten E. Gillibrand (D-NY)](gillibrand-ny.md): shared committees: Intelligence, Appropriations
 
 ## Sources
@@ -65,4 +65,4 @@ Senator for ME · 29.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

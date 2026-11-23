@@ -1,8 +1,8 @@
 # Rep. Don Bacon (R-NE-02)
 
-Representative for NE-02 · 9.8 years in the House · Problem Solvers Caucus National Security Working Group Co-Chair · Leaving Congress in January (retiring)
+Representative for NE-02 · 9.9 years in the House · Problem Solvers Caucus National Security Working Group Co-Chair · Leaving Congress in January (retiring)
 
-**Priority tier A** · leverage score 55 (rank 300 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
+**Priority tier A** · leverage score 55 (rank 302 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Armed Services
 
@@ -29,7 +29,7 @@ Representative for NE-02 · 9.8 years in the House · Problem Solvers Caucus Nat
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 2 of your NE colleagues are on it: Mike Flood, Adrian Smith.
 - Your record: cosponsor.
 
@@ -72,4 +72,4 @@ Representative for NE-02 · 9.8 years in the House · Problem Solvers Caucus Nat
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

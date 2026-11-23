@@ -1,8 +1,8 @@
 # Sen. Chris Van Hollen (D-MD)
 
-Senator for MD · 9.8 years in the Senate
+Senator for MD · 9.9 years in the Senate
 
-**Priority tier B** · leverage score 69 (rank 18 of 100 in the Senate) · supports 0 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 69 (rank 17 of 100 in the Senate) · supports 0 of 5 caucus bills in their chamber
 
 **Committees:** Appropriations; Banking, Housing, and Urban Affairs; Foreign Relations; Budget
 
@@ -23,7 +23,7 @@ Senator for MD · 9.8 years in the Senate
 7. **Introduce a Senate companion to H.R. 222 (Sustainable Budget Act) with Sen. John Kennedy (R-LA).** _Stabilize the national debt · [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222) · priority 40_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is in committee with 8 sponsors and cosponsors (6 R, 2 D, 5 PSC).
 8. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act); your home-state colleague Sen. Angela D. Alsobrooks (D-MD) already has.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 35_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 
 ## Talking points
 
@@ -76,4 +76,4 @@ Senator for MD · 9.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

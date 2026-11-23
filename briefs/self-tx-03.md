@@ -1,8 +1,8 @@
 # Rep. Keith Self (R-TX-03)
 
-Representative for TX-03 · 3.8 years in the House
+Representative for TX-03 · 3.9 years in the House
 
-**Priority tier B** · leverage score 58 (rank 260 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 261 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
 **Committees:** Foreign Affairs; Science, Space, and Technology; Veterans' Affairs
 
@@ -15,7 +15,7 @@ Representative for TX-03 · 3.8 years in the House
 3. **Cosponsor H.R. 2036 (Credit for Caring Act).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 48_  
    6 of your state colleagues are already cosponsoring: Rep. Henry Cuellar (D-TX-28), Rep. Joaquin Castro (D-TX-20), Rep. Monica De La Cruz (R-TX-15), 3 more.
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   11 of your state colleagues are already cosponsoring: Rep. Brian Babin (R-TX-36), Rep. Dan Crenshaw (R-TX-02), Rep. Veronica Escobar (D-TX-16), 8 more.
+   12 of your state colleagues are already cosponsoring: Rep. Brian Babin (R-TX-36), Rep. Dan Crenshaw (R-TX-02), Rep. Veronica Escobar (D-TX-16), 9 more.
 5. **Cosponsor H.R. 2048 (Metastatic Breast Cancer Access to Care Act).** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 48_  
    15 of your state colleagues are already cosponsoring: Rep. Henry Cuellar (D-TX-28), Rep. Joaquin Castro (D-TX-20), Rep. Jasmine Crockett (D-TX-30), 12 more.
 6. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
@@ -69,4 +69,4 @@ Representative for TX-03 · 3.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,8 +1,8 @@
 # Sen. Sheldon Whitehouse (D-RI)
 
-Senator for RI · 19.8 years in the Senate
+Senator for RI · 19.9 years in the Senate
 
-**Priority tier A** · leverage score 70 (rank 17 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier A** · leverage score 69 (rank 19 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
 
 **Committees:** Commission on Security and Cooperation in Europe; Environment and Public Works (Ranking Member); Finance; Budget; Judiciary; United States Senate Caucus on International Narcotics Control (Chairman)
 
@@ -10,14 +10,14 @@ Senator for RI · 19.8 years in the Senate
 
 1. **Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 80_  
    You voted no on cloture. It passed the House 417-3 and needs 3 more votes in the Senate.
-2. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. John Boozman (R-AR).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 65_  
+2. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Darline Graham (R-SC).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 65_  
    There is no Senate version yet, and you sit on Environment and Public Works (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
-3. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
-4. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Chuck Grassley (R-IA).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
+3. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Chuck Grassley (R-IA).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
-5. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Chuck Grassley (R-IA).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Chuck Grassley (R-IA).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 313 sponsors and cosponsors (139 R, 171 D, 39 PSC).
+5. **Press for a markup of S. 3442 in Finance.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 45_  
+   You cosponsor it and sit on the committee holding it.
 6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Chuck Grassley (R-IA).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 7. **Introduce a Senate companion to H.R. 3289 (Fiscal Commission Act) with Sen. Chuck Grassley (R-IA).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 40_  
@@ -42,9 +42,11 @@ Senator for RI · 19.8 years in the Senate
 - CBO published a cost estimate on 2026-09-30 (as ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026).
 - [CBO cost estimate](https://www.cbo.gov/publication/62817)
 
-**S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
-- Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+**H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
+- Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
+- 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
+- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
+- [CBO cost estimate](https://www.cbo.gov/publication/62331)
 
 ## Position on each goal
 
@@ -55,7 +57,7 @@ Senator for RI · 19.8 years in the Senate
 | Lower housing and home energy costs | [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876), [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) | - | 0 |
 | Cut costs for caregivers and young families | [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036), [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) | - | 40 |
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 50 |
-| Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | - | 60 |
+| Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 50 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 65 |
 | Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
 | Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | cosponsor | 0 |
@@ -66,7 +68,7 @@ Senator for RI · 19.8 years in the Senate
 
 - [Sen. Chuck Grassley (R-IA)](grassley-ia.md): shared committees: United States Senate Caucus on International Narcotics Control, Budget, Finance, Judiciary
 - [Sen. John Cornyn (R-TX)](cornyn-tx.md): shared committees: United States Senate Caucus on International Narcotics Control, Budget, Finance, Judiciary
-- [Sen. Thom Tillis (R-NC)](tillis-nc.md): shared committees: Commission on Security and Cooperation in Europe, Finance, Judiciary
+- [Sen. Darline Graham (R-SC)](graham-nordone-sc.md): shared committees: Budget, Environment and Public Works, Judiciary
 
 ## Sources
 
@@ -74,4 +76,4 @@ Senator for RI · 19.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

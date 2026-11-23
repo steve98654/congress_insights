@@ -1,6 +1,6 @@
 # Rep. Addison P. McDowell (R-NC-06)
 
-Representative for NC-06 · 1.8 years in the House
+Representative for NC-06 · 1.9 years in the House
 
 **Priority tier B** · leverage score 66 (rank 117 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
@@ -59,8 +59,8 @@ Representative for NC-06 · 1.8 years in the House
 ## Cross-party partners
 
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): same state; PSC member
+- [Rep. Valerie P. Foushee (D-NC-04)](foushee-nc-04.md): same state; shared committees: Transportation and Infrastructure
 - [Rep. Debbie Dingell (D-MI-06)](dingell-mi-06.md): shared committees: Natural Resources; PSC member
-- [Rep. Jimmy Panetta (D-CA-19)](panetta-ca-19.md): shared committees: Budget; PSC member
 
 ## Sources
 
@@ -68,4 +68,4 @@ Representative for NC-06 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

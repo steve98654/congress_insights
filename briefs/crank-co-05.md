@@ -1,8 +1,8 @@
 # Rep. Jeff Crank (R-CO-05)
 
-Representative for CO-05 · 1.8 years in the House
+Representative for CO-05 · 1.9 years in the House
 
-**Priority tier C** · leverage score 48 (rank 363 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 48 (rank 364 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Natural Resources
 
@@ -37,7 +37,7 @@ Representative for CO-05 · 1.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 4 of your CO colleagues are on it: Jason Crow, Gabe Evans, Joe Neguse and others.
 
 ## Position on each goal
@@ -68,4 +68,4 @@ Representative for CO-05 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

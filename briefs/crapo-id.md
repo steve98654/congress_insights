@@ -1,6 +1,6 @@
 # Sen. Mike Crapo (R-ID)
 
-Senator for ID · 27.8 years in the Senate
+Senator for ID · 27.9 years in the Senate
 
 **Priority tier A** · leverage score 75 (rank 3 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
@@ -9,15 +9,15 @@ Senator for ID · 27.8 years in the Senate
 ## Top actions
 
 1. **Mark up S. 3442 (Metastatic Breast Cancer Access to Care Act) in Finance.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 90_  
-   You chair the committee holding it. It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   You chair the committee holding it. It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 2. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Mark R. Warner (D-VA).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 65_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 313 sponsors and cosponsors (139 R, 171 D, 39 PSC).
 3. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Ruben Gallego (D-AZ), Sen. Alex Padilla (D-CA), Sen. Michael F. Bennet (D-CO).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 4. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Mark R. Warner (D-VA).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 55_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 5. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Mark R. Warner (D-VA).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 55_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 6. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Mark R. Warner (D-VA).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 7. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Mark R. Warner (D-VA).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
@@ -29,11 +29,11 @@ Senator for ID · 27.8 years in the Senate
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+- 21 members back it: 4 Republicans and 17 Democrats.
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 1 of your ID colleagues is on it: Michael K. Simpson.
 
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
@@ -73,4 +73,4 @@ Senator for ID · 27.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

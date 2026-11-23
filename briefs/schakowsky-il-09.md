@@ -1,6 +1,6 @@
 # Rep. Janice D. Schakowsky (D-IL-09)
 
-Representative for IL-09 · 27.8 years in the House · Leaving Congress in January (retiring)
+Representative for IL-09 · 27.9 years in the House · Leaving Congress in January (retiring)
 
 **Priority tier B** · leverage score 66 (rank 112 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
@@ -11,7 +11,7 @@ Representative for IL-09 · 27.8 years in the House · Leaving Congress in Janua
 1. **Cosponsor H.R. 3876 (LIHEAP Staffing Support Act). It is waiting in Energy and Commerce, where you sit.** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 49 sponsors and cosponsors (2 R, 47 D, 9 PSC).
 2. **Cosponsor H.R. 5269 (RESULTS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 68_  
-   Committee cosponsors decide whether a bill gets marked up. It has 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   Committee cosponsors decide whether a bill gets marked up. It has 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 3. **Cosponsor H.R. 7116 (SEPSIS Act). It is waiting in Energy and Commerce, where you sit.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 68_  
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 4. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -32,7 +32,7 @@ Representative for IL-09 · 27.8 years in the House · Leaving Congress in Janua
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 4 of your IL colleagues are on it: Danny K. Davis, Raja Krishnamoorthi, Darin LaHood and others.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
@@ -67,4 +67,4 @@ Representative for IL-09 · 27.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

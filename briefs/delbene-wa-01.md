@@ -2,7 +2,7 @@
 
 Representative for WA-01 · 14 years in the House
 
-**Priority tier C** · leverage score 54 (rank 316 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 54 (rank 317 of 439 in the House) · supports 7 of 20 caucus bills in their chamber
 
 **Committees:** Ways and Means
 
@@ -33,13 +33,13 @@ Representative for WA-01 · 14 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 2 of your WA colleagues are on it: Pramila Jayapal, Marilyn Strickland.
 - Your record: cosponsor.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 4 of your WA colleagues are on it: Marie Gluesenkamp Perez, Rick Larsen, Marilyn Strickland and others.
 - Your record: cosponsor.
 
@@ -71,4 +71,4 @@ Representative for WA-01 · 14 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

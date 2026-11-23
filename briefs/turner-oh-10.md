@@ -1,8 +1,8 @@
 # Rep. Michael R. Turner (R-OH-10)
 
-Representative for OH-10 · 23.8 years in the House
+Representative for OH-10 · 23.9 years in the House
 
-**Priority tier C** · leverage score 47 (rank 397 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 47 (rank 398 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Armed Services; Oversight and Government Reform
 
@@ -30,7 +30,7 @@ Representative for OH-10 · 23.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 5 of your OH colleagues are on it: Joyce Beatty, Troy Balderson, Mike Carey and others.
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
@@ -59,8 +59,8 @@ Representative for OH-10 · 23.8 years in the House
 ## Cross-party partners
 
 - [Rep. Greg Landsman (D-OH-01)](landsman-oh-01.md): same state; PSC member
+- [Rep. Emilia Strong Sykes (D-OH-13)](sykes-oh-13.md): same state; PSC member
 - [Rep. Donald G. Davis (D-NC-01)](davis-nc-01.md): shared committees: Armed Services; PSC member
-- [Rep. Ro Khanna (D-CA-17)](khanna-ca-17.md): shared committees: Armed Services, Oversight and Government Reform
 
 ## Sources
 
@@ -68,4 +68,4 @@ Representative for OH-10 · 23.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

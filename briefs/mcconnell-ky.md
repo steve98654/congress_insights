@@ -1,8 +1,8 @@
 # Sen. Mitch McConnell (R-KY)
 
-Senator for KY · 41.8 years in the Senate · Leaving Congress in January (retiring: Announced Feb 20, 2025)
+Senator for KY · 41.9 years in the Senate · Leaving Congress in January (retiring: Announced Feb 20, 2025)
 
-**Priority tier A** · leverage score 48 (rank 92 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier A** · leverage score 48 (rank 93 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Committee of Congress on the Library (Vice Chairman); Joint Committee on Printing (Chairman); Agriculture, Nutrition, and Forestry; Appropriations; Rules and Administration (Chairman)
 
@@ -59,8 +59,8 @@ Senator for KY · 41.8 years in the Senate · Leaving Congress in January (retir
 ## Cross-party partners
 
 - [Sen. Amy Klobuchar (D-MN)](klobuchar-mn.md): shared committees: Joint Committee of Congress on the Library, Agriculture, Nutrition, and Forestry, Rules and Administration
-- [Sen. Jeff Merkley (D-OR)](merkley-or.md): shared committees: Joint Committee on Printing, Appropriations, Rules and Administration
 - [Sen. Alex Padilla (D-CA)](padilla-ca.md): shared committees: Joint Committee of Congress on the Library, Joint Committee on Printing, Rules and Administration
+- [Sen. Jeff Merkley (D-OR)](merkley-or.md): shared committees: Joint Committee on Printing, Appropriations, Rules and Administration
 
 ## Sources
 
@@ -68,4 +68,4 @@ Senator for KY · 41.8 years in the Senate · Leaving Congress in January (retir
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

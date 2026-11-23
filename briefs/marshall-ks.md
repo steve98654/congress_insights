@@ -1,21 +1,21 @@
 # Sen. Roger Marshall (R-KS)
 
-Senator for KS · 5.8 years in the Senate
+Senator for KS · 5.9 years in the Senate
 
-**Priority tier B** · leverage score 56 (rank 63 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 56 (rank 64 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
 
 **Committees:** Agriculture, Nutrition, and Forestry; Finance; Health, Education, Labor, and Pensions; Budget
 
 ## Top actions
 
 1. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 2. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA), Sen. Michael F. Bennet (D-CO).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 3. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Ben Ray Luján (D-NM).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Ben Ray Luján (D-NM).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 313 sponsors and cosponsors (139 R, 171 D, 39 PSC).
 5. **Press for a markup of S. 1929 in Health, Education, Labor, and Pensions.** _Protect access to care · [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929) · priority 45_  
    You cosponsor it and sit on the committee holding it.
 6. **Introduce a Senate companion to H.R. 3876 (LIHEAP Staffing Support Act) with Sen. Bernard Sanders (I-VT).** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 40_  
@@ -29,7 +29,7 @@ Senator for KS · 5.8 years in the Senate
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+- 21 members back it: 4 Republicans and 17 Democrats.
 
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
@@ -67,7 +67,7 @@ Senator for KS · 5.8 years in the Senate
 
 - [Sen. Ben Ray Luján (D-NM)](lujan-nm.md): shared committees: Agriculture, Nutrition, and Forestry, Budget, Finance
 - [Sen. Bernard Sanders (I-VT)](sanders-vt.md): shared committees: Budget, Finance, Health, Education, Labor, and Pensions
-- [Sen. Peter Welch (D-VT)](welch-vt.md): shared committees: Agriculture, Nutrition, and Forestry, Finance
+- [Sen. Sheldon Whitehouse (D-RI)](whitehouse-ri.md): shared committees: Budget, Finance
 
 ## Sources
 
@@ -75,4 +75,4 @@ Senator for KS · 5.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

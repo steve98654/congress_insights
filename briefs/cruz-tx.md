@@ -1,8 +1,8 @@
 # Sen. Ted Cruz (R-TX)
 
-Senator for TX · 13.8 years in the Senate
+Senator for TX · 13.9 years in the Senate
 
-**Priority tier A** · leverage score 56 (rank 67 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier A** · leverage score 56 (rank 68 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Commerce, Science, and Transportation (Chairman); Foreign Relations; Rules and Administration; Judiciary
 
@@ -67,7 +67,7 @@ Senator for TX · 13.8 years in the Senate
 
 - [Sen. Amy Klobuchar (D-MN)](klobuchar-mn.md): shared committees: Commerce, Science, and Transportation, Judiciary, Rules and Administration
 - [Sen. Christopher A. Coons (D-DE)](coons-de.md): shared committees: Foreign Relations, Judiciary
-- [Sen. Jeff Merkley (D-OR)](merkley-or.md): shared committees: Foreign Relations, Rules and Administration
+- [Sen. Alex Padilla (D-CA)](padilla-ca.md): shared committees: Judiciary, Rules and Administration
 
 ## Sources
 
@@ -75,4 +75,4 @@ Senator for TX · 13.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

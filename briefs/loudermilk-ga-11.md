@@ -1,8 +1,8 @@
 # Rep. Barry Loudermilk (R-GA-11)
 
-Representative for GA-11 · 11.8 years in the House · Leaving Congress in January (retiring)
+Representative for GA-11 · 11.9 years in the House · Leaving Congress in January (retiring)
 
-**Priority tier C** · leverage score 52 (rank 324 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 52 (rank 325 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
 **Committees:** Financial Services; House Administration; House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021 (Chair)
 
@@ -20,10 +20,10 @@ Representative for GA-11 · 11.8 years in the House · Leaving Congress in Janua
    You cosponsor it and it has cleared committee (committee vote 42-0).
 6. **Cosponsor H.R. 1464 (MODERN WIC Act).** _Cut costs for caregivers and young families · [H.R. 1464](https://www.congress.gov/bill/119th-congress/house-bill/1464) · priority 42_  
    2 of your state colleagues are already cosponsoring: Rep. Sanford D. Bishop, Jr. (D-GA-02), Rep. Lucy McBath (D-GA-06).
-7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
+7. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
+   2 of your state colleagues are already cosponsoring: Rep. Earl L. "Buddy" Carter (R-GA-01), Rep. Clay Fuller (R-GA-14).
+8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
-8. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
-   It cleared committee (committee vote 62-2).
 
 ## Talking points
 
@@ -40,7 +40,7 @@ Representative for GA-11 · 11.8 years in the House · Leaving Congress in Janua
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 - 3 of your GA colleagues are on it: Rick W. Allen, Earl L. "Buddy" Carter, Richard McCormick.
 
 ## Position on each goal
@@ -54,7 +54,7 @@ Representative for GA-11 · 11.8 years in the House · Leaving Congress in Janua
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 35 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 48 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 35 |
-| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 42 |
 | Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
@@ -63,7 +63,7 @@ Representative for GA-11 · 11.8 years in the House · Leaving Congress in Janua
 
 - [Rep. Nikema Williams (D-GA-05)](williams-ga-05.md): same state; shared committees: Financial Services
 - [Rep. Josh Gottheimer (D-NJ-05)](gottheimer-nj-05.md): shared committees: Financial Services; PSC member
-- [Rep. Thomas R. Suozzi (D-NY-03)](suozzi-ny-03.md): PSC member
+- [Rep. Everton Blair Jr. (D-GA-13)](blair-ga-13.md): same state; shared committees: Financial Services
 
 ## Sources
 
@@ -71,4 +71,4 @@ Representative for GA-11 · 11.8 years in the House · Leaving Congress in Janua
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

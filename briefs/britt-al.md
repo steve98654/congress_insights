@@ -1,8 +1,8 @@
 # Sen. Katie Boyd Britt (R-AL)
 
-Senator for AL · 3.8 years in the Senate
+Senator for AL · 3.9 years in the Senate
 
-**Priority tier B** · leverage score 58 (rank 54 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier B** · leverage score 58 (rank 56 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Commission on Security and Cooperation in Europe; Appropriations; Banking, Housing, and Urban Affairs; Rules and Administration; Judiciary
 
@@ -67,7 +67,7 @@ Senator for AL · 3.8 years in the Senate
 
 - [Sen. Amy Klobuchar (D-MN)](klobuchar-mn.md): shared committees: Judiciary, Rules and Administration
 - [Sen. Christopher A. Coons (D-DE)](coons-de.md): shared committees: Appropriations, Judiciary
-- [Sen. Jeff Merkley (D-OR)](merkley-or.md): shared committees: Appropriations, Rules and Administration
+- [Sen. Richard J. Durbin (D-IL)](durbin-il.md): shared committees: Appropriations, Judiciary
 
 ## Sources
 
@@ -75,4 +75,4 @@ Senator for AL · 3.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

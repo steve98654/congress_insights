@@ -1,8 +1,8 @@
 # Rep. April McClain Delaney (D-MD-06)
 
-Representative for MD-06 · 1.8 years in the House
+Representative for MD-06 · 1.9 years in the House
 
-**Priority tier B** · leverage score 54 (rank 309 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 55 (rank 299 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Science, Space, and Technology
 
@@ -12,9 +12,11 @@ Representative for MD-06 · 1.8 years in the House
    Committee cosponsors decide whether a bill gets marked up. It has 8 sponsors and cosponsors (5 R, 3 D, 5 PSC).
 2. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    You cosponsor it and it has cleared committee (committee vote 42-0).
-3. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
+3. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 42_  
+   2 of your state colleagues are already cosponsoring: Rep. Sarah Elfreth (D-MD-03), Rep. Jamie Raskin (D-MD-08).
+4. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 35_  
    It cleared committee (committee vote 39-1).
-4. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
+5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 35_  
    It cleared committee (committee vote 62-2).
 
 ## Talking points
@@ -25,15 +27,14 @@ Representative for MD-06 · 1.8 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 5 of your MD colleagues are on it: Andy Harris, Glenn Ivey, Kweisi Mfume and others.
 - Your record: cosponsor.
 
-**H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
-- Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
-- 23 members back it: 12 Republicans and 11 Democrats, including 10 Problem Solvers.
-- CBO published a cost estimate on 2026-04-13 (as ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026).
-- [CBO cost estimate](https://www.cbo.gov/publication/62331)
+**H.R. 3562, DEFIANCE Act: Make AI safe and protect deepfake victims**
+- Creates a civil right of action for victims of non-consensual intimate deepfakes.
+- 76 members back it: 37 Republicans and 39 Democrats, including 18 Problem Solvers.
+- 2 of your MD colleagues are on it: Sarah Elfreth, Jamie Raskin.
 
 ## Position on each goal
 
@@ -46,7 +47,7 @@ Representative for MD-06 · 1.8 years in the House
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 35 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 45 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 68 |
-| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 0 |
+| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 42 |
 | Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 0 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 0 |
@@ -63,4 +64,4 @@ Representative for MD-06 · 1.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

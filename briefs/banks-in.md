@@ -1,8 +1,8 @@
 # Sen. Jim Banks (R-IN)
 
-Senator for IN · 1.8 years in the Senate
+Senator for IN · 1.9 years in the Senate
 
-**Priority tier C** · leverage score 51 (rank 80 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
+**Priority tier C** · leverage score 51 (rank 81 of 100 in the Senate) · supports 2 of 5 caucus bills in their chamber
 
 **Committees:** Armed Services; Banking, Housing, and Urban Affairs; Health, Education, Labor, and Pensions; Veterans' Affairs
 
@@ -60,8 +60,8 @@ Senator for IN · 1.8 years in the Senate
 ## Cross-party partners
 
 - [Sen. Andy Kim (D-NJ)](kim-nj.md): shared committees: Banking, Housing, and Urban Affairs, Health, Education, Labor, and Pensions
-- [Sen. Angela D. Alsobrooks (D-MD)](alsobrooks-md.md): shared committees: Banking, Housing, and Urban Affairs, Health, Education, Labor, and Pensions
 - [Sen. Angus S. King, Jr. (I-ME)](king-me.md): shared committees: Armed Services, Veterans' Affairs
+- [Sen. Angela D. Alsobrooks (D-MD)](alsobrooks-md.md): shared committees: Banking, Housing, and Urban Affairs, Health, Education, Labor, and Pensions
 
 ## Sources
 
@@ -69,4 +69,4 @@ Senator for IN · 1.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

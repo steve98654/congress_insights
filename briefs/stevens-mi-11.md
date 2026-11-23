@@ -1,6 +1,6 @@
 # Rep. Haley M. Stevens (D-MI-11)
 
-Representative for MI-11 · 7.8 years in the House · Problem Solvers Caucus member · Leaving Congress in January (seeking other office: Ran for U.S. Senate)
+Representative for MI-11 · 7.9 years in the House · Problem Solvers Caucus member · Leaving Congress in January (seeking other office: Ran for U.S. Senate)
 
 **Priority tier A** · leverage score 72 (rank 31 of 439 in the House) · supports 3 of 20 caucus bills in their chamber
 
@@ -20,10 +20,10 @@ Representative for MI-11 · 7.8 years in the House · Problem Solvers Caucus mem
    It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. Debbie Dingell (D-MI-06), Rep. Hillary J. Scholten (D-MI-03), 2 more.
 6. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 63_  
    It is PSC-endorsed and you are a caucus member. 5 of your state colleagues are already cosponsoring: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04), Rep. John R. Moolenaar (R-MI-02), 2 more.
-7. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
+7. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 63_  
+   It is PSC-endorsed and you are a caucus member. 3 of your state colleagues are already cosponsoring: Rep. Debbie Dingell (D-MI-06), Rep. John R. Moolenaar (R-MI-02), Rep. Rashida Tlaib (D-MI-12).
+8. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 60_  
    It cleared committee (committee vote 39-1). 2 of your state colleagues are on it: Rep. Jack Bergman (R-MI-01), Rep. Bill Huizenga (R-MI-04).
-8. **Press leadership to bring H.R. 3514 (Improving Seniors' Timely Access to Care Act) to the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 60_  
-   You cosponsor it and it has cleared committee (committee vote 42-0).
 
 ## Talking points
 
@@ -52,7 +52,7 @@ Representative for MI-11 · 7.8 years in the House · Problem Solvers Caucus mem
 | Stabilize the national debt | [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289), [H.R. 222](https://www.congress.gov/bill/119th-congress/house-bill/222), [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) | - | 63 |
 | Protect access to care | [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514), [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269), [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116), [S. 1929](https://www.congress.gov/bill/119th-congress/senate-bill/1929), [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048), [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) | cosponsor | 60 |
 | Rebuild roads, transit and first-responder facilities | [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870), [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) | - | 73 |
-| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 57 |
+| Make AI safe and protect deepfake victims | [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562), [S. 1837](https://www.congress.gov/bill/119th-congress/senate-bill/1837) | - | 63 |
 | Speed up permits for energy and infrastructure | [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) | - | 0 |
 | Protect the Senate filibuster | [H.J.Res. 4](https://www.congress.gov/bill/119th-congress/house-joint-resolution/4) | - | 45 |
 | End partisan gerrymandering | [H.R. 10378](https://www.congress.gov/bill/119th-congress/house-bill/10378), [H.R. 10379](https://www.congress.gov/bill/119th-congress/house-bill/10379), [H.R. 10380](https://www.congress.gov/bill/119th-congress/house-bill/10380), [H.R. 10381](https://www.congress.gov/bill/119th-congress/house-bill/10381) | - | 51 |
@@ -69,4 +69,4 @@ Representative for MI-11 · 7.8 years in the House · Problem Solvers Caucus mem
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

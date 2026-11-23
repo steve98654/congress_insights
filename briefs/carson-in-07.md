@@ -1,8 +1,8 @@
 # Rep. André Carson (D-IN-07)
 
-Representative for IN-07 · 18.6 years in the House
+Representative for IN-07 · 18.7 years in the House
 
-**Priority tier B** · leverage score 57 (rank 266 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
+**Priority tier B** · leverage score 57 (rank 267 of 439 in the House) · supports 6 of 20 caucus bills in their chamber
 
 **Committees:** Transportation and Infrastructure; Intelligence; Strategic Competition Between the United States and the Chinese Communist Party
 
@@ -34,7 +34,7 @@ Representative for IN-07 · 18.6 years in the House
 
 **H.R. 3514, Improving Seniors' Timely Access to Care Act: Protect access to care**
 - Modernizes Medicare Advantage prior authorization so seniors are not delayed.
-- 309 members back it: 138 Republicans and 168 Democrats, including 39 Problem Solvers.
+- 313 members back it: 139 Republicans and 171 Democrats, including 39 Problem Solvers.
 - 6 of your IN colleagues are on it: James R. Baird, Erin Houchin, Frank J. Mrvan and others.
 
 ## Position on each goal
@@ -65,4 +65,4 @@ Representative for IN-07 · 18.6 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

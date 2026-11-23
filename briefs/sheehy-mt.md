@@ -1,8 +1,8 @@
 # Sen. Tim Sheehy (R-MT)
 
-Senator for MT · 1.8 years in the Senate
+Senator for MT · 1.9 years in the Senate
 
-**Priority tier C** · leverage score 46 (rank 94 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier C** · leverage score 46 (rank 95 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Armed Services; Commerce, Science, and Transportation; Veterans' Affairs
 
@@ -56,7 +56,7 @@ Senator for MT · 1.8 years in the Senate
 
 - [Sen. Tammy Duckworth (D-IL)](duckworth-il.md): shared committees: Armed Services, Commerce, Science, and Transportation, Veterans' Affairs
 - [Sen. Angus S. King, Jr. (I-ME)](king-me.md): shared committees: Armed Services, Veterans' Affairs
-- [Sen. Elissa Slotkin (D-MI)](slotkin-mi.md): shared committees: Armed Services, Veterans' Affairs
+- [Sen. Richard Blumenthal (D-CT)](blumenthal-ct.md): shared committees: Armed Services, Veterans' Affairs
 
 ## Sources
 
@@ -64,4 +64,4 @@ Senator for MT · 1.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

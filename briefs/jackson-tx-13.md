@@ -1,6 +1,6 @@
 # Rep. Ronny Jackson (R-TX-13)
 
-Representative for TX-13 · 5.8 years in the House
+Representative for TX-13 · 5.9 years in the House
 
 **Priority tier C** · leverage score 48 (rank 387 of 439 in the House) · supports 2 of 20 caucus bills in their chamber
 
@@ -39,7 +39,7 @@ Representative for TX-13 · 5.8 years in the House
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 15 of your TX colleagues are on it: Henry Cuellar, Joaquin Castro, Jasmine Crockett and others.
 
 ## Position on each goal
@@ -70,4 +70,4 @@ Representative for TX-13 · 5.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

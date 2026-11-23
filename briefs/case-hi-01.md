@@ -1,6 +1,6 @@
 # Rep. Ed Case (D-HI-01)
 
-Representative for HI-01 · 23.8 years in the House · Problem Solvers Caucus member
+Representative for HI-01 · 23.9 years in the House · Problem Solvers Caucus member
 
 **Priority tier A** · leverage score 88 (rank 8 of 439 in the House) · supports 10 of 20 caucus bills in their chamber
 
@@ -72,4 +72,4 @@ Representative for HI-01 · 23.8 years in the House · Problem Solvers Caucus me
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

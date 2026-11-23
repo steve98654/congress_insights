@@ -2,7 +2,7 @@
 
 Representative for NC-12 · 12 years in the House
 
-**Priority tier C** · leverage score 53 (rank 320 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
+**Priority tier C** · leverage score 53 (rank 321 of 439 in the House) · supports 4 of 20 caucus bills in their chamber
 
 **Committees:** Agriculture; Education and Workforce
 
@@ -15,7 +15,7 @@ Representative for NC-12 · 12 years in the House
 3. **Cosponsor H.R. 3289 (Fiscal Commission Act).** _Stabilize the national debt · [H.R. 3289](https://www.congress.gov/bill/119th-congress/house-bill/3289) · priority 48_  
    3 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. David Rouzer (R-NC-07).
 4. **Cosponsor H.R. 5269 (RESULTS Act).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 48_  
-   10 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. Richard Hudson (R-NC-09), 7 more.
+   11 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. Valerie P. Foushee (D-NC-04), 8 more.
 5. **Cosponsor H.R. 3562 (DEFIANCE Act).** _Make AI safe and protect deepfake victims · [H.R. 3562](https://www.congress.gov/bill/119th-congress/house-bill/3562) · priority 48_  
    4 of your state colleagues are already cosponsoring: Rep. Donald G. Davis (D-NC-01), Rep. Chuck Edwards (R-NC-11), Rep. Valerie P. Foushee (D-NC-04), 1 more.
 6. **Cosponsor H.R. 4642 (Fiscal Contingency Preparedness Act) before it reaches the floor.** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 45_  
@@ -71,4 +71,4 @@ Representative for NC-12 · 12 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

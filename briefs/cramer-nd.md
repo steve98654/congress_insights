@@ -1,8 +1,8 @@
 # Sen. Kevin Cramer (R-ND)
 
-Senator for ND · 7.8 years in the Senate
+Senator for ND · 7.9 years in the Senate
 
-**Priority tier C** · leverage score 46 (rank 95 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier C** · leverage score 46 (rank 96 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Armed Services; Banking, Housing, and Urban Affairs; Environment and Public Works; Veterans' Affairs
 
@@ -54,9 +54,9 @@ Senator for ND · 7.8 years in the Senate
 
 ## Cross-party partners
 
-- [Sen. Angela D. Alsobrooks (D-MD)](alsobrooks-md.md): shared committees: Banking, Housing, and Urban Affairs, Environment and Public Works
 - [Sen. Angus S. King, Jr. (I-ME)](king-me.md): shared committees: Armed Services, Veterans' Affairs
-- [Sen. Bernard Sanders (I-VT)](sanders-vt.md): shared committees: Environment and Public Works, Veterans' Affairs
+- [Sen. Angela D. Alsobrooks (D-MD)](alsobrooks-md.md): shared committees: Banking, Housing, and Urban Affairs, Environment and Public Works
+- [Sen. Richard Blumenthal (D-CT)](blumenthal-ct.md): shared committees: Armed Services, Veterans' Affairs
 
 ## Sources
 
@@ -64,4 +64,4 @@ Senator for ND · 7.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

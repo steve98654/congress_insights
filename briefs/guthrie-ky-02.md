@@ -1,6 +1,6 @@
 # Rep. Brett Guthrie (R-KY-02)
 
-Representative for KY-02 · 17.8 years in the House
+Representative for KY-02 · 17.9 years in the House
 
 **Priority tier A** · leverage score 90 (rank 5 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
@@ -11,7 +11,7 @@ Representative for KY-02 · 17.8 years in the House
 1. **Schedule a markup of H.R. 3876 (LIHEAP Staffing Support Act) in Energy and Commerce.** _Lower housing and home energy costs · [H.R. 3876](https://www.congress.gov/bill/119th-congress/house-bill/3876) · priority 95_  
    As chair you control the committee calendar. The bill is PSC-endorsed with 49 sponsors and cosponsors (2 R, 47 D, 9 PSC).
 2. **Schedule a markup of H.R. 5269 (RESULTS Act) in Energy and Commerce.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 95_  
-   As chair you control the committee calendar. The bill is PSC-endorsed with 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   As chair you control the committee calendar. The bill is PSC-endorsed with 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 3. **Schedule a markup of H.R. 7116 (SEPSIS Act) in Energy and Commerce.** _Protect access to care · [H.R. 7116](https://www.congress.gov/bill/119th-congress/house-bill/7116) · priority 95_  
    As chair you control the committee calendar. The bill is PSC-endorsed with 8 sponsors and cosponsors (5 R, 3 D, 6 PSC).
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
@@ -31,7 +31,7 @@ Representative for KY-02 · 17.8 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 
 **H.R. 7116, SEPSIS Act: Protect access to care**
 - Strengthens the CDC and HHS response to sepsis and recognizes hospitals with effective programs.
@@ -65,4 +65,4 @@ Representative for KY-02 · 17.8 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

@@ -1,6 +1,6 @@
 # Sen. Ben Ray Luján (D-NM)
 
-Senator for NM · 5.8 years in the Senate
+Senator for NM · 5.9 years in the Senate
 
 **Priority tier B** · leverage score 68 (rank 22 of 100 in the Senate) · supports 0 of 5 caucus bills in their chamber
 
@@ -11,11 +11,11 @@ Senator for NM · 5.8 years in the Senate
 1. **Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 80_  
    You voted no on cloture. It passed the House 417-3 and needs 3 more votes in the Senate.
 2. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 3. **Introduce a Senate companion to H.R. 4642 (Fiscal Contingency Preparedness Act) with Sen. Chuck Grassley (R-IA).** _Stabilize the national debt · [H.R. 4642](https://www.congress.gov/bill/119th-congress/house-bill/4642) · priority 50_  
    There is no Senate version yet, and you sit on Budget (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 23 sponsors and cosponsors (12 R, 11 D, 10 PSC).
 4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Chuck Grassley (R-IA).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 313 sponsors and cosponsors (139 R, 171 D, 39 PSC).
 5. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Bernie Moreno (R-OH).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    There is no Senate version yet, and you sit on Commerce, Science, and Transportation (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 6. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Chuck Grassley (R-IA).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
@@ -38,7 +38,7 @@ Senator for NM · 5.8 years in the Senate
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+- 21 members back it: 4 Republicans and 17 Democrats.
 
 **H.R. 4642, Fiscal Contingency Preparedness Act: Stabilize the national debt**
 - Requires annual fiscal stress tests of the government's ability to handle downturns, security threats and other emergencies.
@@ -74,4 +74,4 @@ Senator for NM · 5.8 years in the Senate
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

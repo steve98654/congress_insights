@@ -1,15 +1,15 @@
 # Sen. Chuck Grassley (R-IA)
 
-Senator for IA · 45.8 years in the Senate · President Pro Tempore of the Senate
+Senator for IA · 45.9 years in the Senate · President Pro Tempore of the Senate
 
-**Priority tier A** · leverage score 58 (rank 55 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
+**Priority tier A** · leverage score 58 (rank 57 of 100 in the Senate) · supports 1 of 5 caucus bills in their chamber
 
 **Committees:** Joint Committee on Taxation; Agriculture, Nutrition, and Forestry; Finance; Budget; Judiciary (Chairman); United States Senate Caucus on International Narcotics Control
 
 ## Top actions
 
 1. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 2. **Help find the 3 votes H.R. 9340 still needs: start with Sen. Alex Padilla (D-CA), Sen. Adam B. Schiff (D-CA), Sen. Michael F. Bennet (D-CO).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 55_  
    You voted yes on cloture. These no votes are your home-state or committee colleagues.
 3. **Introduce a Senate companion to H.R. 2979 (BUILD Act for police and fire facilities) with Sen. Sheldon Whitehouse (D-RI).** _Rebuild roads, transit and first-responder facilities · [H.R. 2979](https://www.congress.gov/bill/119th-congress/house-bill/2979) · priority 55_  
@@ -29,7 +29,7 @@ Senator for IA · 45.8 years in the Senate · President Pro Tempore of the Senat
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+- 21 members back it: 4 Republicans and 17 Democrats.
 
 **H.R. 9340, Ratepayer Protection Act: Keep data center power costs off household bills**
 - Directs state regulators to consider standards making large-load customers such as data centers cover the full cost of new generation, transmission and distribution.
@@ -72,4 +72,4 @@ Senator for IA · 45.8 years in the Senate · President Pro Tempore of the Senat
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

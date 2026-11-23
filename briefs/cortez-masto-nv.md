@@ -1,6 +1,6 @@
 # Sen. Catherine Cortez Masto (D-NV)
 
-Senator for NV · 9.8 years in the Senate · Senate Democratic Outreach Vice Chair
+Senator for NV · 9.9 years in the Senate · Senate Democratic Outreach Vice Chair
 
 **Priority tier B** · leverage score 72 (rank 9 of 100 in the Senate) · supports 0 of 5 caucus bills in their chamber
 
@@ -11,11 +11,11 @@ Senator for NV · 9.8 years in the Senate · Senate Democratic Outreach Vice Cha
 1. **Name the changes that would get your vote on H.R. 9340 (Ratepayer Protection Act).** _Keep data center power costs off household bills · [H.R. 9340](https://www.congress.gov/bill/119th-congress/house-bill/9340) · priority 85_  
    You voted no on cloture. It passed the House 417-3 and needs 3 more votes in the Senate.
 2. **Cosponsor S. 3442 (Metastatic Breast Cancer Access to Care Act). It is waiting in Finance, where you sit.** _Protect access to care · [S. 3442](https://www.congress.gov/bill/119th-congress/senate-bill/3442) · priority 60_  
-   It has 8 sponsors and cosponsors (4 R, 4 D, 0 PSC).
+   It has 21 sponsors and cosponsors (4 R, 17 D, 0 PSC).
 3. **Cosponsor S. 5653 (Bipartisan American Affordability and Jobs Act of 2026). It is waiting in Energy and Natural Resources, where you sit.** _Speed up permits for energy and infrastructure · [S. 5653](https://www.congress.gov/bill/119th-congress/senate-bill/5653) · priority 60_  
    It has 4 sponsors and cosponsors (2 R, 2 D, 0 PSC).
 4. **Introduce a Senate companion to H.R. 3514 (Improving Seniors' Timely Access to Care Act) with Sen. Steve Daines (R-MT).** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 50_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 309 sponsors and cosponsors (138 R, 168 D, 39 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 313 sponsors and cosponsors (139 R, 171 D, 39 PSC).
 5. **Introduce a Senate companion to H.R. 8870 (BUILD America 250 Act) with Sen. Mike Rounds (R-SD).** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 50_  
    There is no Senate version yet, and you sit on Banking, Housing, and Urban Affairs (likely committee of jurisdiction). The House bill is reported by committee, waiting for a floor vote with 6 sponsors and cosponsors (4 R, 2 D, 0 PSC).
 6. **Introduce a Senate companion to H.R. 3694 (VALID Act) with Sen. Mike Rounds (R-SD).** _Lower housing and home energy costs · [H.R. 3694](https://www.congress.gov/bill/119th-congress/house-bill/3694) · priority 40_  
@@ -23,7 +23,7 @@ Senator for NV · 9.8 years in the Senate · Senate Democratic Outreach Vice Cha
 7. **Introduce a Senate companion to H.R. 2036 (Credit for Caring Act) with Sen. Steve Daines (R-MT).** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 40_  
    There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 8. **Introduce a Senate companion to H.R. 5269 (RESULTS Act) with Sen. Steve Daines (R-MT).** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 40_  
-   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   There is no Senate version yet, and you sit on Finance (likely committee of jurisdiction). The House bill is in committee with 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 
 ## Talking points
 
@@ -38,7 +38,7 @@ Senator for NV · 9.8 years in the Senate · Senate Democratic Outreach Vice Cha
 
 **S. 3442, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Senate companion to H.R. 2048.
-- 8 members back it: 4 Republicans and 4 Democrats.
+- 21 members back it: 4 Republicans and 17 Democrats.
 
 **S. 5653, Bipartisan American Affordability and Jobs Act of 2026: Speed up permits for energy and infrastructure**
 - Speeds up federal permits for energy and infrastructure projects.
@@ -72,4 +72,4 @@ Senator for NV · 9.8 years in the Senate · Senate Democratic Outreach Vice Cha
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._

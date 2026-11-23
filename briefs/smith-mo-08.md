@@ -1,6 +1,6 @@
 # Rep. Jason Smith (R-MO-08)
 
-Representative for MO-08 · 13.4 years in the House
+Representative for MO-08 · 13.5 years in the House
 
 **Priority tier A** · leverage score 90 (rank 6 of 439 in the House) · supports 0 of 20 caucus bills in their chamber
 
@@ -11,9 +11,9 @@ Representative for MO-08 · 13.4 years in the House
 1. **Schedule a markup of H.R. 2036 (Credit for Caring Act) in Ways and Means.** _Cut costs for caregivers and young families · [H.R. 2036](https://www.congress.gov/bill/119th-congress/house-bill/2036) · priority 95_  
    As chair you control the committee calendar. The bill is PSC-endorsed with 146 sponsors and cosponsors (46 R, 98 D, 23 PSC).
 2. **Schedule a markup of H.R. 5269 (RESULTS Act) in Ways and Means.** _Protect access to care · [H.R. 5269](https://www.congress.gov/bill/119th-congress/house-bill/5269) · priority 95_  
-   As chair you control the committee calendar. The bill is PSC-endorsed with 130 sponsors and cosponsors (65 R, 65 D, 29 PSC).
+   As chair you control the committee calendar. The bill is PSC-endorsed with 132 sponsors and cosponsors (66 R, 66 D, 29 PSC).
 3. **Schedule a markup of H.R. 2048 (Metastatic Breast Cancer Access to Care Act) in Ways and Means.** _Protect access to care · [H.R. 2048](https://www.congress.gov/bill/119th-congress/house-bill/2048) · priority 95_  
-   As chair you control the committee calendar. The bill is PSC-endorsed with 272 sponsors and cosponsors (79 R, 189 D, 40 PSC).
+   As chair you control the committee calendar. The bill is PSC-endorsed with 273 sponsors and cosponsors (80 R, 189 D, 40 PSC).
 4. **Cosponsor H.R. 3514 (Improving Seniors' Timely Access to Care Act) before it reaches the floor.** _Protect access to care · [H.R. 3514](https://www.congress.gov/bill/119th-congress/house-bill/3514) · priority 45_  
    It cleared committee (committee vote 42-0). 6 of your state colleagues are on it: Rep. Mark Alford (R-MO-04), Rep. Wesley Bell (D-MO-01), Rep. Emanuel Cleaver (D-MO-05), 3 more.
 5. **Cosponsor H.R. 8870 (BUILD America 250 Act) before it reaches the floor.** _Rebuild roads, transit and first-responder facilities · [H.R. 8870](https://www.congress.gov/bill/119th-congress/house-bill/8870) · priority 40_  
@@ -30,11 +30,11 @@ Representative for MO-08 · 13.4 years in the House
 
 **H.R. 5269, RESULTS Act: Protect access to care**
 - Updates Medicare's clinical lab fee schedule and heads off cuts to hundreds of routine tests starting in 2027.
-- 130 members back it: 65 Republicans and 65 Democrats, including 29 Problem Solvers.
+- 132 members back it: 66 Republicans and 66 Democrats, including 29 Problem Solvers.
 
 **H.R. 2048, Metastatic Breast Cancer Access to Care Act: Protect access to care**
 - Ends the waiting periods for Social Security disability benefits and Medicare for people with metastatic breast cancer.
-- 272 members back it: 79 Republicans and 189 Democrats, including 40 Problem Solvers.
+- 273 members back it: 80 Republicans and 189 Democrats, including 40 Problem Solvers.
 - 1 of your MO colleagues is on it: Emanuel Cleaver.
 
 ## Position on each goal
@@ -65,4 +65,4 @@ Representative for MO-08 · 13.4 years in the House
 - Bill sponsors, cosponsors and status: govinfo BILLSTATUS (links on each bill above)
 - Caucus goals and roster: [problemsolverscaucus.house.gov](https://problemsolverscaucus.house.gov/)
 
-_Generated 2026-11-04 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
+_Generated 2026-11-23 by `scripts/build_insights.py`. Priorities rank the options; they are not predictions._
