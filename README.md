@@ -25,7 +25,7 @@ state delegation. It writes concrete next steps such as "Schedule a markup of H.
 | `data/insights.json` | Everything the site reads: actions, scores, tiers, partners |
 | `data/analysis.json` | The cross-member insights below |
 | `scripts/` | `refresh_data.py` (fetch), `build_members.py`, `plays.py` (rules), `analysis.py`, `build_insights.py`, `digest.py` |
-| `site/` | Astro site: overview, member pages with talking points, goal pages, insights, what changed, outreach, CSV call sheets |
+| `site/` | Astro site for purple.nexus: public home and sign-in pages, plus the caucus workspace under `/caucus/` (overview, member pages with talking points, goal pages, insights, what changed, outreach, CSV call sheets). Sign-in: [docs/auth.md](docs/auth.md) |
 | `docs/` | [Hosting and refresh](docs/hosting.md), [weekly caucus research task](docs/weekly-research.md) |
 
 ## Insights

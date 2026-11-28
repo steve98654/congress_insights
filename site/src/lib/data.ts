@@ -182,8 +182,10 @@ for (const m of members) for (const c of [...m.committees, ...m.subcommittees]) 
 export const committeeByCode = (code: string) => codeNames.get(code) ?? code;
 
 export const url = (path = '') => `${import.meta.env.BASE_URL.replace(/\/$/, '')}/${path}`;
-export const memberUrl = (slug: string) => url(`members/${slug}/`);
-export const goalUrl = (id: string) => url(`goals/${id}/`);
+// The caucus workspace lives under /caucus/ so one sign-in rule can protect all of it (docs/auth.md).
+export const app = (path = '') => url(`caucus/${path}`);
+export const memberUrl = (slug: string) => app(`members/${slug}/`);
+export const goalUrl = (id: string) => app(`goals/${id}/`);
 
 export const partyName = (p: string) => ({ R: 'Republican', D: 'Democrat', I: 'Independent' })[p] ?? p;
 

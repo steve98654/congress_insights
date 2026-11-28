@@ -1,0 +1,68 @@
+---
+// Layout for the public purple.nexus pages. The caucus workspace under /caucus/ uses Base.astro.
+import '@fontsource-variable/inter';
+import '../styles/public.css';
+import { url } from '../lib/data';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const {
+  title,
+  description = 'purple.nexus helps the Problem Solvers Caucus solve the most pressing problems facing the United States with minimal, bipartisan legislation that moves from subcommittee to the President’s desk.',
+} = Astro.props;
+
+const NAV = [
+  ['#mission', 'Mission'],
+  ['#path', 'The path'],
+  ['#members', 'For members'],
+];
+const social = new URL(url('social.png'), Astro.site ?? 'https://purple.nexus').href;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#000000" />
+    <title>{title}</title>
+    <link rel="icon" href={url('favicon.ico')} sizes="48x48" />
+    <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
+    <link rel="apple-touch-icon" href={url('apple-touch-icon.png')} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={social} />
+    <meta name="twitter:card" content="summary_large_image" />
+  </head>
+  <body class="pn">
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="pn-header">
+      <div class="pn-wrap pn-header-inner">
+        <a class="pn-brand" href={url()} aria-label="purple.nexus home">
+          <img src={url('logo-mark.svg')} alt="" width="28" height="28" />
+          <span>purple<span class="dot">.</span>nexus</span>
+        </a>
+        <nav class="pn-nav" aria-label="Sections">
+          {NAV.map(([href, label]) => <a href={url(href)}>{label}</a>)}
+          <a class="pn-btn pn-btn-sm" href={url('sign-in/')}>Sign in</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="pn-footer">
+      <div class="pn-wrap pn-footer-inner">
+        <a class="pn-brand pn-brand-sm" href={url()}>
+          <img src={url('logo-mark.svg')} alt="" width="22" height="22" />
+          <span>purple<span class="dot">.</span>nexus</span>
+        </a>
+        <p>An independent project supporting the Problem Solvers Caucus. Not an official site of the caucus or of the U.S. Congress.</p>
+      </div>
+    </footer>
+  </body>
+</html>

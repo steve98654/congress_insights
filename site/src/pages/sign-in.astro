@@ -1,0 +1,23 @@
+---
+import Public from '../layouts/Public.astro';
+import { app, url } from '../lib/data';
+---
+
+<Public title="Sign in · purple.nexus" description="Sign in to your purple.nexus member page.">
+  <section class="signin">
+    <div class="pn-wrap">
+      <div class="signin-card">
+        <img src={url('logo-mark.svg')} alt="" width="48" height="48" />
+        <h1>Member sign in</h1>
+        <p class="pn-lede">Your page shows where you can do the most good on the caucus agenda right now.</p>
+        <a class="pn-btn" href={app('me/')}>Continue with your email <span class="arrow" aria-hidden="true">→</span></a>
+        <ol>
+          <li>Enter the email address the caucus has on file for you.</li>
+          <li>We send a one-time code to that address. No password to remember.</li>
+          <li>You land on your own page.</li>
+        </ol>
+        <p class="fine">Access is limited to caucus members and the staff they name.</p>
+      </div>
+    </div>
+  </section>
+</Public>

@@ -1,0 +1,17 @@
+---
+// Fallback for /caucus/me/. Once sign-in is on, functions/caucus/me/index.ts redirects members to their own
+// page before this is served; anyone it cannot match sees this page instead.
+import Base from '../../layouts/Base.astro';
+import { app } from '../../lib/data';
+---
+
+<Base title="Your page · purple.nexus">
+  <section class="hero">
+    <h1>Your page</h1>
+    <p class="lede">
+      We could not match your sign-in to a caucus member yet. If you have just been added, try again in a few
+      minutes. Otherwise, ask the purple.nexus team to add your address.
+    </p>
+    <p><a href={app('members/')}>Browse all members</a> · <a href={app()}>Workspace overview</a></p>
+  </section>
+</Base>
