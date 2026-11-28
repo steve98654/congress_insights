@@ -19,25 +19,24 @@ user tables in this repo.
   and gets a one-time code by email. Access can later add Google or Microsoft sign-in, or a hardware key
   requirement, without code changes.
 - **Free for up to 50 users**, which covers the caucus. Beyond that it is a per-user fee.
-- **Per-member pages.** Access attaches a signed token (`Cf-Access-Jwt-Assertion`) to every request. The Pages
-  Function in `site/functions/caucus/me/index.ts` verifies it against the team's public keys, looks the email
+- **Per-member pages.** Access attaches a signed token (`Cf-Access-Jwt-Assertion`) to every request. The Worker in
+  `site/worker/index.ts` verifies it against the team's public keys, looks the email
   up in the `MEMBER_ACCOUNTS` secret and redirects to `/caucus/members/<slug>/`. The **Sign in** button on the
   public site points at `/caucus/me/`, so signing in lands each member on their own page.
 - **No member data in the repo.** The email to member mapping is a Cloudflare secret, not a committed file.
 
 ### Setup (one time, about 20 minutes)
 
-1. Follow docs/hosting.md, Option B, to deploy to Cloudflare Pages, and attach the `purple.nexus` domain
-   (Pages project > Custom domains).
+1. Follow docs/hosting.md to deploy the `purple-nexus` Worker and attach the `purple.nexus` domain.
 2. Zero Trust > Settings: pick a team name (for example `purple-nexus`). The team domain is
    `https://purple-nexus.cloudflareaccess.com`.
 3. Zero Trust > Access > Applications > Add > Self-hosted:
-   - Domains: `purple.nexus/caucus` and `<project>.pages.dev/caucus` (protect the pages.dev address too, or it
-     becomes a back door).
+   - Domains: `purple.nexus/caucus` and `purple-nexus.<account>.workers.dev/caucus` (protect the workers.dev
+     address too, or set `workers_dev: false` in `site/wrangler.jsonc`, or it becomes a back door).
    - Identity provider: One-time PIN.
    - Policy "Caucus": Allow, Include > Emails > the member and staff addresses.
    - Copy the **Application Audience (AUD) tag**.
-4. Pages project > Settings > Variables and secrets, for Production:
+4. Workers & Pages > purple-nexus > Settings > Variables and secrets:
    - `ACCESS_TEAM_DOMAIN` = the team domain from step 2
    - `ACCESS_AUD` = the AUD tag from step 3
    - `MEMBER_ACCOUNTS` (secret) = `{"jane@mail.house.gov": "jane-doe-ny", "staffer@mail.house.gov": "jane-doe-ny"}`
@@ -53,7 +52,7 @@ record data (committees, bills, votes, election results). Before it holds anythi
 as notes on their background, expertise and connections, those insights should move out of the static build:
 
 - store each member's private insights in Cloudflare KV or D1, keyed by member slug;
-- serve them from a Pages Function (for example `/caucus/api/me`) that reads the verified email, as `me/` does,
+- serve them from the Worker (for example `/caucus/api/me`, added to `run_worker_first`) that reads the verified email, as `me/` does,
   and returns only that member's record;
 - render them on the member page with a small client-side fetch.
 

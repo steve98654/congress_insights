@@ -1,11 +1,9 @@
 name: Deploy site
 
-# Publishes the site on every push to main. Set the repository variable DEPLOY_TARGET to choose the host:
-#   cloudflare    Cloudflare Pages (put Cloudflare Access in front of it for a login). Needs the secrets
-#                 CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID; CF_PAGES_PROJECT names the project.
-#   github-pages  GitHub Pages at /congress_insights/. No login: anyone with the link can read every page,
-#                 including the caucus workspace under /caucus/.
-# With DEPLOY_TARGET unset nothing is published. Setup steps are in docs/hosting.md.
+# Publishes the site to GitHub Pages on every push to main when the repository variable DEPLOY_TARGET is
+# github-pages. No login: anyone with the link can read every page, including the caucus workspace under /caucus/.
+# The recommended host is Cloudflare Workers, which builds and deploys from the repo itself (Workers Builds) and
+# needs nothing here. Setup steps are in docs/hosting.md.
 on:
   push:
     branches: [main]
@@ -18,13 +16,13 @@ concurrency:
 
 jobs:
   build:
-    if: vars.DEPLOY_TARGET == 'cloudflare' || vars.DEPLOY_TARGET == 'github-pages'
+    if: vars.DEPLOY_TARGET == 'github-pages'
     runs-on: ubuntu-latest
     defaults:
       run:
         working-directory: site
     env:
-      SITE_BASE: ${{ vars.DEPLOY_TARGET == 'github-pages' && '/congress_insights' || '/' }}
+      SITE_BASE: /congress_insights
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -34,37 +32,9 @@ jobs:
           cache-dependency-path: site/package-lock.json
       - run: npm ci
       - run: npm run build
-      # The public pages may be indexed; the caucus workspace may not.
-      - run: "printf 'User-agent: *\\nDisallow: /caucus/\\n' > dist/robots.txt"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site/dist
-
-  cloudflare:
-    needs: build
-    if: vars.DEPLOY_TARGET == 'cloudflare'
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: site
-    steps:
-      # Pages Functions (site/functions/) are deployed from the source tree next to the built dist/.
-      - uses: actions/checkout@v4
-        with:
-          sparse-checkout: site/functions
-      - uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: site
-      - run: mkdir dist && tar -xf artifact.tar -C dist
-      - name: Deploy to Cloudflare Pages
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          PROJECT: ${{ vars.CF_PAGES_PROJECT || 'congress-insights' }}
-        run: |
-          npx --yes wrangler@4.20.0 pages project create "$PROJECT" --production-branch=main 2>/dev/null || true
-          npx --yes wrangler@4.20.0 pages deploy dist --project-name="$PROJECT" --branch=main --commit-dirty=true
 
   github-pages:
     needs: build

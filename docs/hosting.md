@@ -2,31 +2,36 @@
 
 ## Hosting the site
 
-`.github/workflows/deploy.yml` builds `site/` and publishes it on every push to `main`. It does nothing
-until the repository variable `DEPLOY_TARGET` is set (Settings > Secrets and variables > Actions > Variables).
+### Recommended: Cloudflare Workers with an email login
 
-### Option A: GitHub Pages (simplest)
+The public pages stay open; the caucus workspace under `/caucus/` needs a sign-in. `site/wrangler.jsonc` serves
+the Astro build (`dist/`) as static assets, and `site/worker/index.ts` runs only for `/caucus/me` (it sends a
+signed-in member to their own page). Cloudflare builds and deploys on every push to `main` (Workers Builds).
+
+1. Cloudflare dashboard > Workers & Pages > Create > Import a repository > `steve98654/congress_insights`.
+2. Fill in:
+
+   | Field | Value |
+   |---|---|
+   | Project name | `purple-nexus` (must match `name` in `wrangler.jsonc`) |
+   | Build command | `npm ci && npm run build` |
+   | Deploy command | `npx wrangler deploy` |
+   | Non-production branch deploy command | leave the default |
+   | Path (root directory) | `/site` |
+
+   The build reads `../data/`, so the whole repo is needed, not just `site/`. Node 22 comes from `site/.node-version`.
+3. Deploy. The site appears at `https://purple-nexus.<account>.workers.dev`.
+4. Settings > Domains & Routes > add the custom domain `purple.nexus`.
+5. Put Cloudflare Access in front of `/caucus/` and set the sign-in variables: [auth.md](auth.md).
+
+`site/public/robots.txt` keeps search engines out of `/caucus/`, and `site/public/_headers` marks it noindex.
+
+### Alternative: GitHub Pages (no login)
 
 1. Settings > Pages > Build and deployment > Source: **GitHub Actions**.
-2. Set the variable `DEPLOY_TARGET` = `github-pages` and run the **Deploy site** workflow.
-3. The site is at `https://steve98654.github.io/congress_insights/`, readable by anyone with the link.
-   On a private repo, Pages needs a paid GitHub plan.
-
-### Option B: Cloudflare Pages with an email login (recommended)
-
-The public pages stay open; the caucus workspace under `/caucus/` needs a sign-in. Free for up to 50 users; people
-sign in with a one-time code sent to an allowed email address. Full details in [auth.md](auth.md).
-
-1. Create a Cloudflare account and copy the **Account ID**.
-2. Create an API token with *Account > Cloudflare Pages > Edit*.
-3. Add the secrets `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID`, then the variable
-   `DEPLOY_TARGET` = `cloudflare`. Optionally set `CF_PAGES_PROJECT` (default `congress-insights`).
-4. Run **Deploy site**. The site appears at `https://congress-insights.pages.dev`.
-5. Put Cloudflare Access in front of `/caucus/` and set the sign-in variables: steps 2 to 5 of
-   [auth.md](auth.md).
-
-Both options add a `robots.txt` that keeps search engines out of `/caucus/`. On GitHub Pages the workspace is
-readable by anyone with the link.
+2. Set the repository variable `DEPLOY_TARGET` = `github-pages` and run the **Deploy site** workflow.
+3. The site is at `https://steve98654.github.io/congress_insights/`, readable by anyone with the link,
+   including `/caucus/`. On a private repo, Pages needs a paid GitHub plan.
 
 ## Weekly data refresh
 

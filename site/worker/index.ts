@@ -1,25 +1,21 @@
-// Cloudflare Pages Function for /caucus/me: sends a signed-in caucus member to their own page.
+// Cloudflare Worker for purple.nexus. Static assets (the Astro build in dist/) are served directly by
+// Cloudflare; only /caucus/me reaches this code (see run_worker_first in wrangler.jsonc).
 //
 // Cloudflare Access sits in front of /caucus/* and signs people in with a one-time code sent to their email
-// (docs/auth.md). Access then adds a signed JWT to every request. This function checks that JWT, looks the
-// email up in MEMBER_ACCOUNTS and redirects to that member's page. Anything it cannot resolve falls through to
-// the static /caucus/me/ page, which explains what to do. Nothing here is needed for local dev or other hosts.
+// (docs/auth.md). Access then adds a signed JWT to every request. /caucus/me checks that JWT, looks the email
+// up in MEMBER_ACCOUNTS and redirects to that member's page. Anything it cannot resolve gets the static
+// /caucus/me/ page, which explains what to do.
 //
-// Settings (Cloudflare Pages > Settings > Variables and secrets), none of them committed to the repo:
+// Settings (Workers > purple-nexus > Settings > Variables and secrets), none of them committed to the repo:
 //   ACCESS_TEAM_DOMAIN  e.g. https://purple-nexus.cloudflareaccess.com
 //   ACCESS_AUD          the Application Audience (AUD) tag of the Access application for /caucus
 //   MEMBER_ACCOUNTS     secret, JSON mapping lower-case email to member slug, e.g. {"name@mail.house.gov": "jane-doe-ny"}
 
 interface Env {
+  ASSETS: { fetch: (request: Request) => Promise<Response> };
   ACCESS_TEAM_DOMAIN?: string;
   ACCESS_AUD?: string;
   MEMBER_ACCOUNTS?: string;
-}
-
-interface Context {
-  request: Request;
-  env: Env;
-  next: () => Promise<Response>;
 }
 
 interface Jwk extends JsonWebKey {
@@ -73,17 +69,29 @@ export async function verifyAccessJwt(token: string, team: string, aud: string, 
   return claims;
 }
 
-export async function onRequestGet({ request, env, next }: Context): Promise<Response> {
+/** /caucus/me: redirect a signed-in member to their own page, or show the static explainer. */
+export async function memberRedirect(request: Request, env: Env): Promise<Response> {
+  const fallback = () => env.ASSETS.fetch(new Request(new URL('/caucus/me/', request.url), request));
   const team = env.ACCESS_TEAM_DOMAIN?.replace(/\/$/, '');
   const token = request.headers.get('Cf-Access-Jwt-Assertion');
-  if (!team || !env.ACCESS_AUD || !env.MEMBER_ACCOUNTS || !token) return next();
+  if (!team || !env.ACCESS_AUD || !env.MEMBER_ACCOUNTS || !token) return fallback();
 
   const claims = await verifyAccessJwt(token, team, env.ACCESS_AUD).catch(() => null);
-  if (!claims?.email) return next();
+  if (!claims?.email) return fallback();
 
   const accounts = JSON.parse(env.MEMBER_ACCOUNTS) as Record<string, string>;
   const slug = accounts[claims.email.toLowerCase()];
-  if (!slug || !/^[a-z0-9-]+$/.test(slug)) return next();
+  if (!slug || !/^[a-z0-9-]+$/.test(slug)) return fallback();
 
   return Response.redirect(new URL(`/caucus/members/${slug}/`, request.url).toString(), 302);
 }
+
+export default {
+  async fetch(request: Request, env: Env): Promise<Response> {
+    const { pathname } = new URL(request.url);
+    if (request.method === 'GET' && (pathname === '/caucus/me' || pathname === '/caucus/me/')) {
+      return memberRedirect(request, env);
+    }
+    return env.ASSETS.fetch(request);
+  },
+};
