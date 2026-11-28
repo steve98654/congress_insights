@@ -28,13 +28,15 @@ const current = (path: string) => (path ? here.startsWith(`/${path}`) : here ===
     <meta name="description" content={description} />
     <meta name="robots" content="noindex" />
     <title>{title}</title>
+    <link rel="icon" href={url('favicon.ico')} sizes="48x48" />
     <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
+    <link rel="apple-touch-icon" href={url('apple-touch-icon.png')} />
   </head>
   <body>
     <header class="site-header">
       <div class="wrap header-inner">
         <a class="wordmark" href={url()}>
-          <span class="mark" aria-hidden="true"></span>
+          <img class="mark" src={url('logo-mark.svg')} alt="" width="24" height="24" />
           Congress Insights
         </a>
         <nav class="nav" aria-label="Sections">
