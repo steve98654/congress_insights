@@ -15,7 +15,8 @@
   "devDependencies": {
     "@astrojs/check": "0.9.10",
     "@types/node": "22.18.0",
-    "typescript": "5.9.3"
+    "typescript": "5.9.3",
+    "wrangler": "4.169.0"
   },
   "engines": {
     "node": ">=22.12.0"

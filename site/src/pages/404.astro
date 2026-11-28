@@ -1,0 +1,17 @@
+---
+import Public from '../layouts/Public.astro';
+import { url } from '../lib/data';
+---
+
+<Public title="Page not found · purple.nexus">
+  <section class="signin">
+    <div class="pn-wrap">
+      <div class="signin-card">
+        <img src={url('logo-mark.svg')} alt="" width="48" height="48" />
+        <h1>Page not found</h1>
+        <p class="pn-lede">That page does not exist, or it has moved.</p>
+        <a class="pn-btn" href={url()}>Go to the home page</a>
+      </div>
+    </div>
+  </section>
+</Public>
