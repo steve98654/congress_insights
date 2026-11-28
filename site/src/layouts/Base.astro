@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { generated, formatDate, url } from '../lib/data';
+import { app, generated, formatDate, url } from '../lib/data';
 
 interface Props {
   title: string;
@@ -17,7 +17,7 @@ const NAV = [
   ['outreach/', 'Outreach'],
 ];
 const here = Astro.url.pathname.replace(import.meta.env.BASE_URL.replace(/\/$/, ''), '') || '/';
-const current = (path: string) => (path ? here.startsWith(`/${path}`) : here === '/');
+const current = (path: string) => (path ? here.startsWith(`/caucus/${path}`) : /^\/caucus\/?$/.test(here));
 ---
 
 <!doctype html>
@@ -37,12 +37,13 @@ const current = (path: string) => (path ? here.startsWith(`/${path}`) : here ===
       <div class="wrap header-inner">
         <a class="wordmark" href={url()}>
           <img class="mark" src={url('logo-mark.svg')} alt="" width="24" height="24" />
-          Congress Insights
+          purple.nexus
+          <span class="wordmark-sub">Caucus workspace</span>
         </a>
         <nav class="nav" aria-label="Sections">
           {
             NAV.map(([path, label]) => (
-              <a href={url(path)} aria-current={current(path) ? 'page' : undefined}>
+              <a href={app(path)} aria-current={current(path) ? 'page' : undefined}>
                 {label}
               </a>
             ))

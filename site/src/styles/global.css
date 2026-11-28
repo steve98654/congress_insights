@@ -81,6 +81,7 @@ p { margin: 0 0 0.75rem; }
 .wordmark { font-weight: 700; color: var(--text); display: flex; align-items: center; gap: 8px; }
 .wordmark:hover { text-decoration: none; }
 .mark { width: 24px; height: 24px; display: block; }
+.wordmark-sub { font-weight: 500; color: var(--muted); font-size: 0.85em; padding-left: 8px; border-left: 1px solid var(--border-strong); white-space: nowrap; }
 .nav { display: flex; gap: 4px; overflow-x: auto; }
 .nav a { color: var(--muted); padding: 6px 10px; border-radius: 6px; white-space: nowrap; }
 .nav a[aria-current='page'] { color: var(--text); background: var(--surface-2); }

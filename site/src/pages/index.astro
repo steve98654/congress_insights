@@ -1,66 +1,158 @@
 ---
-import Base from '../layouts/Base.astro';
-import ActionList from '../components/ActionList.astro';
-import { STAGES, STAGE_ORDER, goalUrl, goals, insights, members, type Action } from '../lib/data';
+import Public from '../layouts/Public.astro';
+import { url } from '../lib/data';
 
-const psc = members.filter((m) => m.psc).length;
-const tierA = insights.filter((i) => i.tier === 'A').length;
-const bills = goals.flatMap((g) => g.bills);
+// Five-point star centred in the overlap of the two circles.
+const star = (cx: number, cy: number, r: number) =>
+  Array.from({ length: 10 }, (_, i) => {
+    const a = -Math.PI / 2 + (i * Math.PI) / 5;
+    const d = i % 2 ? r * 0.4 : r;
+    return `${(cx + d * Math.cos(a)).toFixed(2)},${(cy + d * Math.sin(a)).toFixed(2)}`;
+  }).join(' ');
 
-// The strongest single move for each member, then the best of those across Congress.
-const best = insights
-  .filter((i) => i.actions.length)
-  .map((i) => ({ slug: i.slug, action: i.actions[0] }))
-  .sort((a, b) => b.action.priority - a.action.priority || a.slug.localeCompare(b.slug))
-  .slice(0, 15);
-const topActions: Action[] = best.map((b) => b.action);
-const who = Object.fromEntries(best.map((b, i) => [i, b.slug]));
+const PRINCIPLES = [
+  ['One problem, one bill', 'A bill that fixes one thing is easier to read, score, defend and pass. We look for the fewest pages that solve the problem.'],
+  ['Both parties from the first draft', 'Republican and Democratic co-leads sign on before introduction, so the bill arrives with a coalition instead of hoping to build one.'],
+  ['Written for both chambers', 'A Senate companion and a path to 60 votes are part of the plan from day one, not an afterthought once the House acts.'],
+  ['Sourced and scored', 'Every claim links to its source: bill text, CRS summaries, CBO estimates and recorded votes.'],
+];
 
-const stageCount = (stage: string) => bills.filter((b) => b.stage === stage).length;
+const PATH = [
+  ['Subcommittee', 'Hearing and markup. Win the chair and the ranking member, and the bill gets a vote.'],
+  ['Full committee', 'Reported with votes from both sides of the dais, ready to schedule.'],
+  ['House floor', '218 votes, or two thirds under suspension of the rules for a narrow, noncontroversial bill.'],
+  ['Senate', 'A companion bill or the House text, passed by unanimous consent or with 60 votes to end debate.'],
+  ['President', 'Presented for signature and enacted into law.'],
+];
 ---
 
-<Base title="Congress Insights">
+<Public title="purple.nexus · Solving problems, together">
   <section class="hero">
-    <h1>What each member of Congress can do next</h1>
-    <p class="lede">
-      Every senator and representative gets action items toward the Problem Solvers Caucus agenda. The ranking
-      weighs where each bill is stuck against the member's leverage at that stage: sponsorship, the chair or
-      ranking seat on the committee holding it, other committee seats, floor leadership, their recorded votes
-      and their state delegation.
-    </p>
-    <div class="facts">
-      <span><b>{members.length}</b> members</span>
-      <span><b>{psc}</b> listed PSC members</span>
-      <span><b>{tierA}</b> in the pilot tier</span>
-      <span><b>{goals.length}</b> goals</span>
-      <span><b>{bills.length}</b> bills tracked</span>
-      <span>{['reported', 'passed_house', 'passed_senate'].map((s) => `${stageCount(s)} ${STAGES[s].toLowerCase()}`).join(' · ')}</span>
+    <div class="pn-wrap hero-grid">
+      <div>
+        <p class="eyebrow">For the Problem Solvers Caucus</p>
+        <h1>Red and blue<br />make <span class="purple">purple.</span></h1>
+        <p class="pn-lede">
+          purple.nexus helps the Problem Solvers Caucus take on the country’s most pressing problems with the
+          smallest bill that can pass, and carry it from subcommittee to the President’s desk.
+        </p>
+        <div class="hero-cta">
+          <a class="pn-btn" href="#path">See the path <span class="arrow" aria-hidden="true">→</span></a>
+          <a class="pn-btn pn-btn-ghost" href={url('sign-in/')}>Member sign in</a>
+        </div>
+      </div>
+      <svg class="venn" viewBox="0 0 600 420" role="img" aria-labelledby="venn-title">
+        <title id="venn-title">A blue circle and a red circle overlap; the overlap is purple, with a star at its centre.</title>
+        <defs>
+          <clipPath id="venn-blue"><circle cx="210" cy="210" r="170"></circle></clipPath>
+        </defs>
+        <circle class="c c-blue" cx="210" cy="210" r="170" fill="#373597"></circle>
+        <circle class="c c-red" cx="390" cy="210" r="170" fill="#B22234"></circle>
+        <g class="c-mid" clip-path="url(#venn-blue)">
+          <circle cx="390" cy="210" r="170" fill="#8B5CF6"></circle>
+        </g>
+        <polygon class="star" points={star(300, 210, 38)} fill="#C4B5FD"></polygon>
+      </svg>
     </div>
   </section>
 
-  <div class="two">
-    <section>
-      <h2>Highest-leverage moves right now</h2>
-      <p class="muted small">The top action for each member, ranked across both chambers.</p>
-      <ActionList actions={topActions} who={who} />
-    </section>
-    <aside>
-      <h2>Goals</h2>
-      <ul class="plain">
+  <section class="pn-section" id="mission">
+    <div class="pn-wrap">
+      <div class="pn-section-head">
+        <p class="eyebrow">Mission</p>
+        <h2 class="pn-h2">Solve the problem. Write less law.</h2>
+        <p class="pn-lede">
+          Big bills stall. Narrow ones, written by both parties from the first draft, can move in weeks. We find the
+          problems where Republicans and Democrats already agree on the fix, then help caucus members draft the
+          minimum text it takes and line up the votes at every stage.
+        </p>
+      </div>
+      <div class="principles">
         {
-          goals.map((g) => {
-            const furthest = g.bills.map((b) => b.stage).sort((a, b) => STAGE_ORDER.indexOf(b) - STAGE_ORDER.indexOf(a))[0];
-            return (
-              <li>
-                <a href={goalUrl(g.id)}>{g.title}</a>
-                <div class="small muted">
-                  {g.area} · {g.bills.length ? `${g.bills.length} ${g.bills.length === 1 ? 'bill' : 'bills'}, furthest: ${STAGES[furthest].toLowerCase()}` : 'committee work'}
-                </div>
-              </li>
-            );
-          })
+          PRINCIPLES.map(([title, body], i) => (
+            <div class="principle">
+              <span class="n">0{i + 1}</span>
+              <h3>{title}</h3>
+              <p>{body}</p>
+            </div>
+          ))
         }
-      </ul>
-    </aside>
-  </div>
-</Base>
+      </div>
+    </div>
+  </section>
+
+  <section class="pn-section" id="path">
+    <div class="pn-wrap">
+      <div class="pn-section-head">
+        <p class="eyebrow">The path</p>
+        <h2 class="pn-h2">From subcommittee to signature.</h2>
+        <p class="pn-lede">Every bill we work on is planned against the full route, with the votes it needs at each stop.</p>
+      </div>
+      <ol class="path">
+        {
+          PATH.map(([title, body], i) => (
+            <li class="stop">
+              <span class="k">Step {i + 1}</span>
+              <h3>{title}</h3>
+              <p>{body}</p>
+            </li>
+          ))
+        }
+      </ol>
+    </div>
+  </section>
+
+  <section class="pn-section" id="members">
+    <div class="pn-wrap">
+      <div class="pn-section-head">
+        <p class="eyebrow">For caucus members</p>
+        <h2 class="pn-h2">Where you can do the most good.</h2>
+        <p class="pn-lede">
+          Each member of the caucus gets a private page with the moves that suit them best, drawn from their committee
+          seats, their background and expertise, and the colleagues they already work with.
+        </p>
+      </div>
+      <div class="members-grid">
+        <div class="card">
+          <svg class="icon" viewBox="0 0 56 56" aria-hidden="true">
+            <path d="M12 6h22l10 10v30a4 4 0 0 1-4 4H12a4 4 0 0 1-4-4V10a4 4 0 0 1 4-4z" fill="#373597"></path>
+            <rect x="15" y="20" width="18" height="3" rx="1.5" fill="#C4B5FD"></rect>
+            <rect x="15" y="27" width="22" height="3" rx="1.5" fill="#C4B5FD"></rect>
+            <rect x="15" y="34" width="14" height="3" rx="1.5" fill="#C4B5FD"></rect>
+            <circle cx="42" cy="42" r="11" fill="#8B5CF6"></circle>
+            <path d="M37 42.5l3.5 3.5 6.5-7" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+          </svg>
+          <h3>Your leverage</h3>
+          <p>Where each bill is stuck, and which of your seats, votes and sponsorships can move it to the next stop.</p>
+        </div>
+        <div class="card">
+          <svg class="icon" viewBox="0 0 56 56" aria-hidden="true">
+            <path d="M28 5a17 17 0 0 0-10 30.8V40h20v-4.2A17 17 0 0 0 28 5z" fill="#8B5CF6"></path>
+            <rect x="18" y="43" width="10" height="5" fill="#373597"></rect>
+            <rect x="28" y="43" width="10" height="5" fill="#B22234"></rect>
+            <rect x="21" y="50" width="7" height="3" rx="1" fill="#373597"></rect>
+            <rect x="28" y="50" width="7" height="3" rx="1" fill="#B22234"></rect>
+            <path d="M28 14l2.2 5.4 5.8.4-4.5 3.7 1.4 5.6-4.9-3.1-4.9 3.1 1.4-5.6-4.5-3.7 5.8-.4z" fill="#C4B5FD"></path>
+          </svg>
+          <h3>Your expertise</h3>
+          <p>Problems matched to what you know: your career before Congress, your committee work and your district.</p>
+        </div>
+        <div class="card">
+          <svg class="icon" viewBox="0 0 56 56" aria-hidden="true">
+            <path d="M12 14L28 28M44 14L28 28M28 28v16" stroke="#36363E" stroke-width="3" stroke-linecap="round"></path>
+            <circle cx="12" cy="14" r="8" fill="#373597"></circle>
+            <circle cx="44" cy="14" r="8" fill="#B22234"></circle>
+            <circle cx="28" cy="44" r="7" fill="#C4B5FD"></circle>
+            <circle cx="28" cy="28" r="9" fill="#8B5CF6"></circle>
+          </svg>
+          <h3>Your connections</h3>
+          <p>The colleagues who can help: your state delegation, cosponsors across the aisle and Senate partners.</p>
+        </div>
+      </div>
+      <div class="members-cta">
+        <a class="pn-btn" href={url('sign-in/')}>Sign in <span class="arrow" aria-hidden="true">→</span></a>
+        <p>Member pages are private to caucus members and their staff.</p>
+      </div>
+    </div>
+  </section>
+</Public>

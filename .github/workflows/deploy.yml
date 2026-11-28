@@ -3,7 +3,8 @@ name: Deploy site
 # Publishes the site on every push to main. Set the repository variable DEPLOY_TARGET to choose the host:
 #   cloudflare    Cloudflare Pages (put Cloudflare Access in front of it for a login). Needs the secrets
 #                 CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID; CF_PAGES_PROJECT names the project.
-#   github-pages  GitHub Pages at /congress_insights/. No login: anyone with the link can read it.
+#   github-pages  GitHub Pages at /congress_insights/. No login: anyone with the link can read every page,
+#                 including the caucus workspace under /caucus/.
 # With DEPLOY_TARGET unset nothing is published. Setup steps are in docs/hosting.md.
 on:
   push:
@@ -33,8 +34,8 @@ jobs:
           cache-dependency-path: site/package-lock.json
       - run: npm ci
       - run: npm run build
-      # Keep crawlers out whichever host is used.
-      - run: "printf 'User-agent: *\\nDisallow: /\\n' > dist/robots.txt"
+      # The public pages may be indexed; the caucus workspace may not.
+      - run: "printf 'User-agent: *\\nDisallow: /caucus/\\n' > dist/robots.txt"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site/dist
@@ -43,10 +44,18 @@ jobs:
     needs: build
     if: vars.DEPLOY_TARGET == 'cloudflare'
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: site
     steps:
+      # Pages Functions (site/functions/) are deployed from the source tree next to the built dist/.
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: site/functions
       - uses: actions/download-artifact@v4
         with:
           name: github-pages
+          path: site
       - run: mkdir dist && tar -xf artifact.tar -C dist
       - name: Deploy to Cloudflare Pages
         env:

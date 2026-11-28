@@ -12,19 +12,21 @@ until the repository variable `DEPLOY_TARGET` is set (Settings > Secrets and var
 3. The site is at `https://steve98654.github.io/congress_insights/`, readable by anyone with the link.
    On a private repo, Pages needs a paid GitHub plan.
 
-### Option B: Cloudflare Pages with an email login
+### Option B: Cloudflare Pages with an email login (recommended)
 
-Free for up to 50 users; people sign in with a one-time code sent to an allowed email address.
+The public pages stay open; the caucus workspace under `/caucus/` needs a sign-in. Free for up to 50 users; people
+sign in with a one-time code sent to an allowed email address. Full details in [auth.md](auth.md).
 
 1. Create a Cloudflare account and copy the **Account ID**.
 2. Create an API token with *Account > Cloudflare Pages > Edit*.
 3. Add the secrets `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID`, then the variable
    `DEPLOY_TARGET` = `cloudflare`. Optionally set `CF_PAGES_PROJECT` (default `congress-insights`).
 4. Run **Deploy site**. The site appears at `https://congress-insights.pages.dev`.
-5. Cloudflare dashboard > Workers & Pages > congress-insights > Settings > **Enable access policy**, and
-   list the emails allowed in.
+5. Put Cloudflare Access in front of `/caucus/` and set the sign-in variables: steps 2 to 5 of
+   [auth.md](auth.md).
 
-Both options add a `robots.txt` asking search engines not to index the site.
+Both options add a `robots.txt` that keeps search engines out of `/caucus/`. On GitHub Pages the workspace is
+readable by anyone with the link.
 
 ## Weekly data refresh
 
